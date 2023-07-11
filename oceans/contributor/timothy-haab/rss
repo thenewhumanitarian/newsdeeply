@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Timothy Haab</title>
+    <description>Tim Haab’s research focuses on the valuation of environmental and natural resources. Recent research has looked at the lost economic value to visitors to Northwest Florida due to the Deepwater Horizon oil spill, the economic benefits of reductions of marine debris on Southern California beaches, the health and environmental values of alternative fuels and the role of environmental valuation in marine planning.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/timothy-haab/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/timothy-haab/rss"/>
+    <item>
+      <title>What’s a Clean Beach Worth to You?</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Fri, 27 Jul 2018 08:00:00 +0000</pubDate>
+      <author>Timothy Haab</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/07/27/whats-a-clean-beach-worth-to-you</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/07/27/whats-a-clean-beach-worth-to-you</guid>
+      <description>Timothy Haab, a professor at Ohio State University, explains how and why putting a price tag on a beach’s value encourages policymakers to value natural capital.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180727080136/775170134SG015_Europe_Strug1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

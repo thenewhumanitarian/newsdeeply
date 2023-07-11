@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Adeline Sire</title>
+    <description>Adeline Sire is a regular contributor to The World and PRI.org. She is currently based in France where she is reporting on terrorism, the migrants’ crisis, French strikes and Brexit. When in the US, Adeline reports in the Boston area.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/adeline-sire/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/adeline-sire/rss"/>
+    <item>
+      <title>The Afghan in Britain Helping to Integrate New Arrivals From Calais</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Thu, 27 Oct 2016 09:19:41 +0000</pubDate>
+      <author>Adeline Sire</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/27/the-afghan-in-britain-helping-to-integrate-new-arrivals-from-calais</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/27/the-afghan-in-britain-helping-to-integrate-new-arrivals-from-calais</guid>
+      <description>For many migrants fleeing persecution in their homelands, the U.K. is the promised land. And hiding in the back of a truck is virtually the only way to get there.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161027090902/SabirCropped.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

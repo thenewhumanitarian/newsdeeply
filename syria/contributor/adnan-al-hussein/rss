@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Adnan Al Hussein</title>
+    <description>Adnan Al Hussein is a contributor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/adnan-al-hussein/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/adnan-al-hussein/rss"/>
+    <item>
+      <title>Desperate Syrians Revive Old-Style Kerosene Stoves</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      <author>Adnan Al Hussein</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/06/09/desperate-syrians-revive-old-style-kerosene-stoves</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/06/09/desperate-syrians-revive-old-style-kerosene-stoves</guid>
+      <description>Syrian families use primus stoves as an alternative source of power.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114620/primus-stove-5576c092cf23a.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

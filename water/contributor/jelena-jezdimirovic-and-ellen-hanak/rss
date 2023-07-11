@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Jelena Jezdimirovic and Ellen Hanak</title>
+    <description>Jelena Jezdimirovic is a research associate at the PPIC Water Policy Center. She works on data collection, analysis and visualization. During her undergraduate studies she served as a research intern at the National Priorities Project and spent summers working for the Federal Reserve Bank of Chicago.
+
+Ellen Hanak is director of the PPIC Water Policy Center and a senior fellow at the Public Policy Institute of California. Under her leadership, the center has become a critical source of information and guidance for natural resource management in California. She has authored dozens of reports, articles and books on water policy, including “Managing California’s Water.”
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/jelena-jezdimirovic-and-ellen-hanak/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/jelena-jezdimirovic-and-ellen-hanak/rss"/>
+    <item>
+      <title>How Is California Spending the Water Bond?</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 24 Jun 2016 06:09:45 +0000</pubDate>
+      <author>Jelena Jezdimirovic and Ellen Hanak</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/06/24/how-is-california-spending-the-water-bond</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/06/24/how-is-california-spending-the-water-bond</guid>
+      <description>In 2014, California voters passed a $7.5 billion water bond – nearly 80 percent of which has now been appropriated. Here’s a look at where that money is going, and which key areas are yet to have funds awarded.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160624060506/California-Water-Ballot-Measure.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Asha Siad and Roda Siad</title>
+    <description>Asha Siad is a multimedia journalist and documentary filmmaker who specializes in human rights reporting on both local and international levels.
+Roda Siad is a documentary filmmaker and community developer based in Calgary, Alberta. She has a strong interest in using media as a tool for advocacy, especially in the field of migration.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/asha-siad-and-roda-siad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/asha-siad-and-roda-siad/rss"/>
+    <item>
+      <title>An Intimate Look at the Global Refugee Crisis</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 20 Jun 2016 10:39:54 +0000</pubDate>
+      <author>Asha Siad and Roda Siad</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/06/20/an-intimate-look-at-the-global-refugee-crisis</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/06/20/an-intimate-look-at-the-global-refugee-crisis</guid>
+      <description>Somali-Canadian filmmakers Asha Siad and Roda Siad, whose short documentary “19 Days” follows several refugee families during their first few weeks in Canada, look at migrants’ experiences in a Calgary resettlement center.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160620103724/04_19DAYS.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

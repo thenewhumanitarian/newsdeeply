@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Yazan al-Homsi</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/yazan-al-homsi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/yazan-al-homsi/rss"/>
+    <item>
+      <title>After a Cease-fire, Homs Residents Face Hard Times</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <author>Yazan al-Homsi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/09/15/after-a-cease-fire-homs-residents-face-hard-times</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/09/15/after-a-cease-fire-homs-residents-face-hard-times</guid>
+      <description>“To get to your house you need a lot of luck, as well as written permission allowing you to pass checkpoints surrounding our neighborhoods.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115030/dscf7447-5416f0cc49d93.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Besieged Homs, Residents Fear Disastrous Third Winter</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+      <author>Yazan al-Homsi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/11/15/in-besieged-homs-residents-fear-disastrous-third-winter</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/11/15/in-besieged-homs-residents-fear-disastrous-third-winter</guid>
+      <description>HOMS — A third winter is coming to besieged neighborhoods of Homs, which already suffer from daily bombardments and malnutrition.</description>
+    </item>
+  </channel>
+</rss>

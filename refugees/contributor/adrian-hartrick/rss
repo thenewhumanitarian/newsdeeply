@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Adrian Hartrick</title>
+    <description>Adrian Hartrick is a freelance video, photo, and print journalist based in Beirut, Lebanon.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/adrian-hartrick/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/adrian-hartrick/rss"/>
+    <item>
+      <title>Beirut’s ‘Little Armenia,’ a Haven of Diversity</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Tue, 26 Apr 2016 12:05:56 +0000</pubDate>
+      <author>Adrian Hartrick</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/04/26/beiruts-little-armenia-a-haven-of-diversity</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/04/26/beiruts-little-armenia-a-haven-of-diversity</guid>
+      <description>As Armenians across the world commemorated the 101st anniversary of the 1915 Genocide, we visited Bourj Hammoud in Beirut, where Armenians fleeing the horrors in Anatolia built new lives. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160426113336/BH-DEEPLY-15-copy.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

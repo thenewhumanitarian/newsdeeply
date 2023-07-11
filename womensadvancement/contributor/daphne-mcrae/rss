@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Daphne McRae</title>
+    <description>Daphne McRae is a postdoctoral research fellow in Population and Public Health at the University of British Columbia.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/daphne-mcrae/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/daphne-mcrae/rss"/>
+    <item>
+      <title>Poor Women Who Use Midwives Have Healthier Babies</title>
+      <pubDate>Mon, 08 Oct 2018 11:00:00 +0000</pubDate>
+      <author>Nazeem Muhajarine, Daphne McRae</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/10/08/poor-women-who-use-midwives-have-healthier-babies</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/10/08/poor-women-who-use-midwives-have-healthier-babies</guid>
+      <description>A new study of women in lower socioeconomic circumstances in British Columbia found midwifery care to be an effective model of prenatal care, significantly lowering the likelihood of preterm births, and small and low birth-weight babies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181008102734/file-20181003-52666-n9kuap1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Mark Muir</title>
+    <description>San Diego County Water Authority Board Chair Mark Muir is a San Diego native with more than three decades in public service. He lives in Encinitas, California, where he serves on the city council.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/mark-muir/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/mark-muir/rss"/>
+    <item>
+      <title>Water Conservation Is Alive and Well in San Diego</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 25 Aug 2017 03:00:08 +0000</pubDate>
+      <author>Mark Muir</author>
+      <link>https://www.newsdeeply.com/water/community/2017/08/25/water-conservation-is-alive-and-well-in-san-diego</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/08/25/water-conservation-is-alive-and-well-in-san-diego</guid>
+      <description>San Diego County has embraced water conservation and been a statewide leader on the issue, says the board chair of the San Diego County Water Authority. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170823111441/DBK_Olivenhain_Dam-647.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Desalination Plant Anniversary Bodes Well for California</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 14 Dec 2016 05:02:57 +0000</pubDate>
+      <author>Mark Muir</author>
+      <link>https://www.newsdeeply.com/water/community/2016/12/14/desalination-plant-anniversary-bodes-well-for-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/12/14/desalination-plant-anniversary-bodes-well-for-california</guid>
+      <description>The one-year anniversary of Carlsbad desalination plant provides an opportunity to look at its positive impact in the region, writes Mark Muir of the San Diego County Water Authority.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161213160611/Product-Water-Pumps.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

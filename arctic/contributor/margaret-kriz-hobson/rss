@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Margaret Kriz Hobson</title>
+    <description>Margaret Kriz Hobson
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/margaret-kriz-hobson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/margaret-kriz-hobson/rss"/>
+    <item>
+      <title>Isolated Alaska Villages Deal With Energy Problems</title>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Margaret Kriz Hobson</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/02/29/isolated-alaska-villages-deal-with-energy-problems</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/02/29/isolated-alaska-villages-deal-with-energy-problems</guid>
+      <description>ENERGYWIRE – Alaska Senator Lisa Murkowski invited Energy Secretary Ernest Moniz and other high-profile politicians to Alaska’s Yukon-Kuskokwim region to see at close quarters the infrastructure and energy difficulties that trouble rural villages in the state – and possible fixes to the problems.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092822/d83a6f61-013c-49e8-8913-c77fe4-56d0560dcf641.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

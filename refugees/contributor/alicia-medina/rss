@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Alicia Medina</title>
+    <description>Alicia Medina is a Spanish freelance reporter. She has contributed to eldiario.es, El Confidencial, Revista 5W and A Punt Media. She directed a documentary (“La Porta Blava,” 2015) about migrant detention centers in Spain that was screened at six cinema festivals and broadcast on Catalan television station TV3. She is currently working toward an M.A. in war and conflict information.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/alicia-medina/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/alicia-medina/rss"/>
+    <item>
+      <title>Surviving Denmark’s Open Prisons for ‘Undeportables’</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 01 Oct 2018 07:20:00 +0000</pubDate>
+      <author>Alicia Medina</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/10/01/surviving-denmarks-open-prisons-for-undeportables</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/10/01/surviving-denmarks-open-prisons-for-undeportables</guid>
+      <description>Married to a Dane, with a Danish son, Khoshnaw Nameq has been refused asylum in Denmark but cannot be deported to Iraq because Iraq will accept only voluntary returns. Now in Italy, he refuses to give up on a legal future in Europe.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181001072054/klug-notitle160801_npxSM.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Michael Byers</title>
+    <description>Michael Byers holds the Canada Research Chair in Global Politics and International Law at the University of British Columbia. He is the author of International Law and the Arctic (Cambridge University Press, 2013), which won the 2013 Donner Prize.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/michael-byers/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/michael-byers/rss"/>
+    <item>
+      <title>North of 60: Negotiate the Northwest Passage, Before It’s Too Late</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Wed, 19 Oct 2016 11:02:22 +0000</pubDate>
+      <author>Michael Byers</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/19/north-of-60-negotiate-the-northwest-passage-before-its-too-late</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/19/north-of-60-negotiate-the-northwest-passage-before-its-too-late</guid>
+      <description>Canada and the U.S. should update the 1988 agreement they reached on the Northwest Passage to recognize both countries’ interests in security and transit. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161019105208/Northwest-Passage.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: George K. Mayyale</title>
+    <description>George K. Mayyale
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/george-k-mayyale/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/george-k-mayyale/rss"/>
+    <item>
+      <title>Battle Fatigue Leads Many Rebels to Drop Arms</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <author>George K. Mayyale</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/09/01/battle-fatigue-leads-many-rebels-to-drop-arms</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/09/01/battle-fatigue-leads-many-rebels-to-drop-arms</guid>
+      <description>Suwar Magazine met with fighters who defected from opposition groups after becoming concerned about Syria’s future. Though many of them hold their anti-Assad convictions, they put down their arms and left the fight.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114452/rocket-opposition-suwar-maga-55e5a5ec94cd2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

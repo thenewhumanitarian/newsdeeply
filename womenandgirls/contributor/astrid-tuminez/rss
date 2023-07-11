@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Astrid Tuminez</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/astrid-tuminez/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/astrid-tuminez/rss"/>
+    <item>
+      <title>Education Carves Path From Manila to Microsoft</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Mon, 23 May 2016 03:50:07 +0000</pubDate>
+      <author>Astrid Tuminez</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/05/23/education-carves-path-from-manila-to-microsoft</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/05/23/education-carves-path-from-manila-to-microsoft</guid>
+      <description>At 51, Astrid Tuminez runs marathons and holds a senior government relations job at Microsoft in Singapore – but she grew up in a slum in the Philippines. Education transformed her life, but it was only through luck that she gained access to school. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406075137/Philippines-Daily-Life.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

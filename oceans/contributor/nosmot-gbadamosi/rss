@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Nosmot Gbadamosi</title>
+    <description>Nosmot Gbadamosi is a freelance journalist reporting from West Africa. She can be reached on Twitter at @nosmotg.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/nosmot-gbadamosi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/nosmot-gbadamosi/rss"/>
+    <item>
+      <title>Gambians Fight Chinese Fishmeal Factory as Fish Prices Soar, Stocks Fall</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Thu, 12 Jul 2018 03:00:09 +0000</pubDate>
+      <author>Nosmot Gbadamosi</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/07/12/gambians-fight-chinese-fishmeal-factory-as-fish-prices-soar-stocks-fall</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/07/12/gambians-fight-chinese-fishmeal-factory-as-fish-prices-soar-stocks-fall</guid>
+      <description>As foreign-owned fishmeal factories proliferate in West Africa to supply feed for overseas aquaculture operations, prices for a key staple of the local diet are skyrocketing and Gambian fishers find it increasingly hard to compete against industrialized trawlers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180711100514/gambia_feature_photo1.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

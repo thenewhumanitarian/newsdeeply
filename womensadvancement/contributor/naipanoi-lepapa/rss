@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Naipanoi Lepapa</title>
+    <description>Naipanoi Lepapa is a freelance solutions and development journalist, poet and blogger based in Nairobi, and the communications and public relations manager for the Internet Society Kenya Chapter. She writes on internet governance and policy, gender and development, food and security, and health and environment. Follow her work here.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/naipanoi-lepapa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/naipanoi-lepapa/rss"/>
+    <item>
+      <title>Kenyan Women Farmers Protest Losing Their Land in the Name of Progress</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Wed, 29 Aug 2018 09:00:00 +0000</pubDate>
+      <author>Naipanoi Lepapa</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/08/29/kenyan-women-farmers-protest-losing-their-land-in-the-name-of-progress</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/08/29/kenyan-women-farmers-protest-losing-their-land-in-the-name-of-progress</guid>
+      <description>When the government bought their land to make way for a new railway line, the residents of Kangawa village were promised compensation. Two years on, the women of the village are staging a sit-in protest, demanding fair pay for the loss of their land and livelihoods.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180829094414/Photo-4-Wairimu-Njoroge-standing-ne1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

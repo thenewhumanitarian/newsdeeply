@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Eleanor Wragg</title>
+    <description>Eleanor Wragg is a British freelance journalist based in Spain. Drawing on her diverse experience living and working in Tanzania, Sri Lanka and Puerto Rico, she currently writes on international development, trade and economics, and has had work published in global media outlets including the Guardian, Global Trade Review and the Economic Observer. You can reach her on Twitter at @EleanorWragg
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/eleanor-wragg/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/eleanor-wragg/rss"/>
+    <item>
+      <title>Breast Cancer: A Looming Epidemic in the Developing World</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Mon, 29 Aug 2016 10:43:12 +0000</pubDate>
+      <author>Eleanor Wragg</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/08/29/breast-cancer-a-looming-epidemic-in-the-developing-world</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/08/29/breast-cancer-a-looming-epidemic-in-the-developing-world</guid>
+      <description>Almost 70 percent of all breast cancer deaths now occur in low-income countries. In the first part of our series “The Shifting Burden,” we look at how community is key to tackling the disease in countries that are ill-prepared and underfunded.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073209/India-Breast-Cancer-Awareness.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fistula: Poverty’s Entirely Preventable Plight</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Fri, 20 May 2016 03:10:20 +0000</pubDate>
+      <author>Eleanor Wragg</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/05/20/fistula-povertys-entirely-preventable-plight</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/05/20/fistula-povertys-entirely-preventable-plight</guid>
+      <description>Unable to work, socialize or bear children, more than two million women in Sub-Saharan Africa and Asia suffer severe disabilities from childbirth-caused fistula – an entirely preventable injury. How can we eradicate this condition?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406075142/PLAYWRIGHT-SEXUAL-ATROCITIES.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Safety and Sanitation: Reinventing the Toilet</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Fri, 20 May 2016 03:05:33 +0000</pubDate>
+      <author>Eleanor Wragg</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/05/20/safety-and-sanitation-reinventing-the-toilet</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/05/20/safety-and-sanitation-reinventing-the-toilet</guid>
+      <description>Without access to safe toilets, finding places to go at night puts women and girls at risk in regards to their health and personal safety. But building lavatories is expensive and unfeasible in areas without water or sewage systems. Is there a sustainable alternative?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406075143/APTOPIX-India-World-Toilet-Day.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

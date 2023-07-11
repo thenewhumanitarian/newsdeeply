@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Garth Stapley, Modesto Bee</title>
+    <description>Garth Stapley is a reporter at Modesto Bee.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/garth-stapley-modesto-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/garth-stapley-modesto-bee/rss"/>
+    <item>
+      <title>Farm Water Agencies Balk at Aquifer Studies</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Garth Stapley, Modesto Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/01/08/farm-water-agencies-balk-at-aquifer-studies</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/01/08/farm-water-agencies-balk-at-aquifer-studies</guid>
+      <description>MODESTO BEE: Despite milestones achieved by Stanislaus County’s Water Advisory Committee, three irrigation districts don’t want to participate in new studies to assess the condition of area groundwater. The county hopes to win over those still dragging their feet.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102329/92b7622d-3833-4e39-a723-f8a14f-568f9a5cd525f.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stanislaus County Has a New Groundwater Database, but Does It Matter?</title>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Garth Stapley, Modesto Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/08/06/stanislaus-county-has-a-new-groundwater-database-but-does-it-matter</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/08/06/stanislaus-county-has-a-new-groundwater-database-but-does-it-matter</guid>
+      <description>Modesto Bee: The new system is a framework for future regulation, but well owners remain suspicious – and tightfisted with data.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102551/modbeepumping-55c328e0e8819.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

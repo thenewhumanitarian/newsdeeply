@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Louise Hunt</title>
+    <description>Louise Hunt is a freelance journalist reporting on social affairs and international development, with a special interest in migration and human rights in The Gambia.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/louise-hunt/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/louise-hunt/rss"/>
+    <item>
+      <title>Gambia’s Migration Paradox: The Horror and Promise of the Back Way</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 26 Mar 2018 08:00:00 +0000</pubDate>
+      <author>Sanna Camara, Louise Hunt</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/03/26/gambias-migration-paradox-the-horror-and-promise-of-the-back-way</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/03/26/gambias-migration-paradox-the-horror-and-promise-of-the-back-way</guid>
+      <description>Since democracy returned to The Gambia last year, many Gambians are coming home, including from Libya with E.U. aid. Some returnees are warning others against the journey, but many are frustrated that returns and deterrence took precedence over reintegration and jobs.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180326080437/IRomanoMigrantsLanding0630171.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

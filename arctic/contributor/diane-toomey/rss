@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Diane Toomey</title>
+    <description>Diane Toomey is an award-winning public radio journalist who has worked at Marketplace, the World Vision Report and Living on Earth, where she was the science editor. She is a regular contributor to Yale Environment 360 and is currently an associate researcher at the PBS science show NOVA.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/diane-toomey/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/diane-toomey/rss"/>
+    <item>
+      <title>Alaskan Villages Stuck in Limbo</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 13 Jul 2016 07:36:29 +0000</pubDate>
+      <author>Diane Toomey</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/07/13/alaskan-villages-stuck-in-limbo</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/07/13/alaskan-villages-stuck-in-limbo</guid>
+      <description>YALE ENVIRONMENT 360: Alaska Native communities advocate Robin Bronen points to a bureaucratic Catch-22 – villages can’t get government support to relocate in the face of climate-induced threats, but they no longer receive funds to repair their crumbling infrastructure.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160713072750/Alaska-Erosion.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

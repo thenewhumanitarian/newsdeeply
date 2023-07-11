@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Tonny Onyulo</title>
+    <description>Tonny Onyulo is a freelance print and broadcast journalist based in Nairobi, Kenya. He has worked for both local and international media, including Voice of America (VOA), USA Today, Washington Times and Global Post. He reports across Africa for various outlets in Europe. 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/tonny-onyulo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/tonny-onyulo/rss"/>
+    <item>
+      <title>School Started by Refugees Becomes One of Uganda’s Best</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Thu, 16 Aug 2018 08:00:00 +0000</pubDate>
+      <author>Tonny Onyulo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/08/16/school-started-by-refugees-becomes-one-of-ugandas-best</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/08/16/school-started-by-refugees-becomes-one-of-ugandas-best</guid>
+      <description>An education project started by Congolese refugees in Uganda has been hailed a success. This expanding school is now sending students to universities all over the world.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180816080007/UGA180422PB001.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Somalis Who Returned Home Flee to Kenya a Second Time</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Wed, 10 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Tonny Onyulo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/01/10/somalis-who-returned-home-flee-to-kenya-a-second-time</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/01/10/somalis-who-returned-home-flee-to-kenya-a-second-time</guid>
+      <description>While Kenya’s massive Dadaab refugee camp is shrinking due to a U.N. program repatriating refugees to Somalia, drought and insecurity are pushing some of the returnees to come back to Kenya.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180109114958/Refugees21.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Refugees Don’t Believe Burundi’s Leader That It’s Safe to Go Home</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 09 Oct 2017 08:46:44 +0000</pubDate>
+      <author>Tonny Onyulo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/10/09/refugees-dont-believe-burundis-leader-that-its-safe-to-go-home</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/10/09/refugees-dont-believe-burundis-leader-that-its-safe-to-go-home</guid>
+      <description>Burundi is pushing for refugees to return, yet most are wary of doing so amid continued repression and possible crimes against humanity in the country. Even so, in neighboring Tanzania, some refugees feel they may have no other choice.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171009084210/Burundi-photo.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘We Escaped in Different Directions’: Children Flee South Sudan Alone</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 25 May 2017 10:48:46 +0000</pubDate>
+      <author>Tonny Onyulo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/25/we-escaped-in-different-directions-children-flee-south-sudan-alone</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/25/we-escaped-in-different-directions-children-flee-south-sudan-alone</guid>
+      <description>South Sudan’s children are bearing the cost of a gruesome civil war that has left tens of thousands dead and more than 3 million displaced. A growing number of child refugees are arriving in Uganda on their own, some still wearing their school uniforms. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170525104735/UGANDA-SSUDAN-REFUGEES.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

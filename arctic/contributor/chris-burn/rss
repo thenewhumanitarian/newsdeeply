@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Chris Burn</title>
+    <description>Chris Burn held the Natural Sciences and Engineering Research Council of Canada Northern Research Chair in Permafrost in the Yukon and Northwest Territories at the Department of Geography and Environmental Studies, Carleton University, 2002–12. A distinctive aspect of his research program is the extent of its collaboration with northern agencies. At present the emphasis is on the departments of transportation in Yukon and the Northwest Territories.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/chris-burn/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/chris-burn/rss"/>
+    <item>
+      <title>Environmental Challenges for Governments in the North</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Thu, 06 Oct 2016 05:00:01 +0000</pubDate>
+      <author>Chris Burn</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/06/environmental-challenges-for-governments-in-the-north</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/06/environmental-challenges-for-governments-in-the-north</guid>
+      <description>Canadian governments will face three distinct dimensions of climate change in the North in the immediate future: the impacts of thawing permafrost on infrastructure, co-management of environmental effects and increased tourism, writes Chris Burn.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161003085731/Canada-yukon-ivvavik-np-spe_3021.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

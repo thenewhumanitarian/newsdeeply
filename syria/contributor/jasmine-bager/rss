@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jasmine Bager</title>
+    <description>Jasmine Bager is a multi-media journalist and one of the very first Saudi females to ever graduate from Columbia Journalism School.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jasmine-bager/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jasmine-bager/rss"/>
+    <item>
+      <title>Syria’s Artisans Make their Intricate Woodwork, Through the Fog of War</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
+      <author>Jasmine Bager</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/11/25/syrias-artisans-make-their-intricate-woodwork-through-the-fog-of-war</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/11/25/syrias-artisans-make-their-intricate-woodwork-through-the-fog-of-war</guid>
+      <description>Two artists spoke to Syria Deeply about how they have fought to keep creating work that is representative of Syria and its people.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114858/inlay-6-jpg-5474f8bddaf8f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

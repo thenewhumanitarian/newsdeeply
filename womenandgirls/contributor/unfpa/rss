@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: UNFPA</title>
+    <description>UNFPA, the United Nations Population Fund, is an international development agency that promotes the right of every woman, man and child to enjoy a life of health and equal opportunity. UNFPA works with governments, other agencies and local communities in its mission to reduce poverty and to ensure that every pregnancy is wanted, every birth is safe, every young person is free of HIV, and every girl and woman is treated with dignity and respect.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/unfpa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/unfpa/rss"/>
+    <item>
+      <title>Photo Essay: The Kids Trying to End Child Marriage</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Wed, 06 Jul 2016 09:32:02 +0000</pubDate>
+      <author>UNFPA</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/07/06/photo-essay-the-kids-trying-to-end-child-marriage</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/07/06/photo-essay-the-kids-trying-to-end-child-marriage</guid>
+      <description>Almost 23 percent of adolescent girls registered as Syrian refugees in Lebanon were married before they turned 18. With the help of UNFPA and aid organization INTERSOS, some young Syrian refugees are spreading the word about the dangers of marrying too young.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074232/FPARaneemLeb062016_07.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

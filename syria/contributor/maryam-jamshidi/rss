@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Maryam Jamshidi</title>
+    <description>Maryam Jamshidi is the founder of Muftah, a digital magazine on the Middle East and North Africa, and the author of "The Future of the Arab Spring: Civic Entrepreneurship in Politics, Art, and Technology Startups."
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/maryam-jamshidi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/maryam-jamshidi/rss"/>
+    <item>
+      <title>Syria’s Cultural Revolution</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Maryam Jamshidi</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/09/25/syrias-cultural-revolution</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/09/25/syrias-cultural-revolution</guid>
+      <description>Syria is witnessing an improbable social, cultural and political renaissance driven by individuals and organizations operating at the grassroots level through various innovative political, artistic and tech platforms.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Francesca Fionda</title>
+    <description>Francesca Fionda is an investigative journalist and data reporter at The Discourse.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/francesca-fionda/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/francesca-fionda/rss"/>
+    <item>
+      <title>How the Media Can Better Listen to Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Wed, 20 Jun 2018 11:50:00 +0000</pubDate>
+      <author>Alia Dharssi, Francesca Fionda</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/06/20/how-the-media-can-better-listen-to-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/06/20/how-the-media-can-better-listen-to-refugees</guid>
+      <description>Refugees in Canada talked to journalism company The Discourse about how to improve media coverage of refugee issues. They share the top takeaways for refugees preparing to speak to the media and for journalists seeking to provide better coverage of displacement.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180620115542/2018-06-07-Julia-Simone-RutgersIMG_16141.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

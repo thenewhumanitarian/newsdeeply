@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Véronique Morin</title>
+    <description>Véronique Morin is an award winning science journalist and documentarian. She is currently working on a multi-platform documentary project on Indigenous Peoples and science. She was president of the Canadian Science Writers’ Association from 2001–2005 and the first president of the World Federation of Science Journalists from 2002–2004.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/veronique-morin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/veronique-morin/rss"/>
+    <item>
+      <title>Report: Empowered Arctic Communities Are More Resilient to Change</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 01 Dec 2016 14:51:17 +0000</pubDate>
+      <author>Véronique Morin</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/12/01/report-empowered-arctic-communities-are-more-resilient-to-change</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/12/01/report-empowered-arctic-communities-are-more-resilient-to-change</guid>
+      <description>A new report released by the Arctic Council finds that the pace at which changes in the Arctic are occurring make adaptation more difficult. If policymakers don’t listen, it could lead to a dramatic loss of land and life.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161201144755/sea-ice-boy.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Carbon Dioxide Link Provides New Estimates of Ice-Free Summer</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Fri, 04 Nov 2016 10:32:28 +0000</pubDate>
+      <author>Véronique Morin</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/04/carbon-dioxide-link-provides-new-estimates-of-ice-free-summer</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/04/carbon-dioxide-link-provides-new-estimates-of-ice-free-summer</guid>
+      <description>New research published this week shows a direct correlation between each metric ton of carbon dioxide emitted into the atmosphere and the amount of sea ice lost in the Arctic. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161104100953/1e316408-e0f6-4fc6-91b8-a2ffc66a9769.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Respiratory Tract Infections Affect Half of Inuit Infants in Nunavik</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 27 Oct 2016 05:00:44 +0000</pubDate>
+      <author>Véronique Morin</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/27/respiratory-tract-infections-affect-half-of-inuit-infants-in-nunavik</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/27/respiratory-tract-infections-affect-half-of-inuit-infants-in-nunavik</guid>
+      <description>The staggering rate of infection by respiratory syncytial virus remains unaddressed, but lives and money could be saved by preemptive vaccination, says University of Toronto infectious disease researcher Anna Banerji. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161026142247/11627138363_cc33dc1665_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ongoing Arctic Research in a Post-Brexit World</title>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Thu, 11 Aug 2016 06:31:44 +0000</pubDate>
+      <author>Véronique Morin</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/08/11/ongoing-arctic-research-in-a-post-brexit-world</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/08/11/ongoing-arctic-research-in-a-post-brexit-world</guid>
+      <description>Some scientists fear that the U.K.’s decision to leave the European Union may lead to the erosion of British expertise and international collaboration in the Arctic. Others smell an opportunity to take the lead.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160811062929/10178417953_5cdcd42347_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Rise of Inuit Activism in a Changing Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 16 Jun 2016 12:08:15 +0000</pubDate>
+      <author>Véronique Morin</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/16/the-rise-of-inuit-activism-in-a-changing-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/16/the-rise-of-inuit-activism-in-a-changing-arctic</guid>
+      <description>Sheila Watt-Cloutier is one of the toughest, most influential Inuit activists in Canada. Her perspective on the effects of toxic chemicals and climate change on the Arctic have transformed the issues of science, politics and economics into those of human rights.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160616120719/S-Watt-Cloutier-Photo-High-Res-Feb-2013-002.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

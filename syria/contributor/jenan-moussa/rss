@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jenan Moussa</title>
+    <description>Reporter for Arabic Al Aan TV from Dubai.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jenan-moussa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jenan-moussa/rss"/>
+    <item>
+      <title>Syria’s Untold Story</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
+      <author>Jenan Moussa</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/05/20/syrias-untold-story</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/05/20/syrias-untold-story</guid>
+      <description>The following is the edited text of Jenan Moussa’s speech, with a new angle on Syria’s women, delivered at the 2013 Oslo Freedom Forum. Moussa is a correspondent for Al Aan, a pan-Arab satellite television channel based in Dubai. She makes frequent trips into Syria.</description>
+    </item>
+  </channel>
+</rss>

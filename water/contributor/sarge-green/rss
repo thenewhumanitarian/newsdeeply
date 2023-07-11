@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Sarge Green</title>
+    <description>Sarge Green is a water management specialist with the California Water Institute at California State University, Fresno. He facilitates a collaborative effort to manage water resources in the San Joaquin Valley through integrated regional water management planning.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/sarge-green/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/sarge-green/rss"/>
+    <item>
+      <title>Filling California’s Biggest Groundwater Gap</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Thu, 26 Apr 2018 03:00:00 +0000</pubDate>
+      <author>Ellen Hanak, Sarge Green</author>
+      <link>https://www.newsdeeply.com/water/community/2018/04/26/filling-californias-biggest-groundwater-gap</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/04/26/filling-californias-biggest-groundwater-gap</guid>
+      <description>California needs to get to the next level in using groundwater recharge to help bring over-drafted San Joaquin Valley aquifers into sustainability, write Ellen Hanak of the PPIC Water Policy Center and Sarge Green of the California Water Institute.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180424075724/KMG_central_valley_236431.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

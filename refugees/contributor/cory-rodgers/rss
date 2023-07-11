@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Cory Rodgers</title>
+    <description>Cory Rodgers is a DPhil student in Anthropology at the University of Oxford and has conducted research at Oxford’s Refugee Studies Centre.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/cory-rodgers/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/cory-rodgers/rss"/>
+    <item>
+      <title>Recognizing the Economic Winners and Losers of Hosting Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <pubDate>Wed, 27 Dec 2017 03:00:00 +0000</pubDate>
+      <author>Cory Rodgers</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/12/27/recognizing-the-economic-winners-and-losers-of-hosting-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/12/27/recognizing-the-economic-winners-and-losers-of-hosting-refugees</guid>
+      <description>In response to a recent study on the positive economic impact of Kenya’s Kakuma camp, Cory Rodgers argues that the term ‘host population’ obscures divergent and conflicting economic interests among locals and may mask trends of marginalization and growing inequality.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180102050234/IMG_5841.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How the ‘Safe Country’ Concept Is Putting Refugees Out in the Cold</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 07 Feb 2017 13:14:03 +0000</pubDate>
+      <author>Cory Rodgers</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/02/07/how-the-safe-country-concept-is-putting-refugees-out-in-the-cold</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/02/07/how-the-safe-country-concept-is-putting-refugees-out-in-the-cold</guid>
+      <description>Following Trump’s executive order, Canadians stepped up calls to revoke an agreement designating the U.S. a safe country for asylum seekers. Oxford University’s Cory Rodgers examines how such ‘safe country’ agreements can put asylum seekers at risk.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170207131054/SERBIA-EU-MIGRANTS-HEALTH-WEATHER.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

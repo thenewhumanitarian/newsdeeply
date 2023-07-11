@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Helen Roxburgh</title>
+    <description>Helen Roxburgh is a China-based journalist and writer. She tweets @HelenRoxburgh.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/helen-roxburgh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/helen-roxburgh/rss"/>
+    <item>
+      <title>Helping Rural Chinese Girls Clear the Hurdles to University</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Tue, 28 Mar 2017 07:02:28 +0000</pubDate>
+      <author>Helen Roxburgh</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/28/helping-rural-chinese-girls-clear-hurdles-university</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/28/helping-rural-chinese-girls-clear-hurdles-university</guid>
+      <description>In rural China, many girls drop out of school to save on fees and help out around the house. But via financial aid and mentorship, one NGO is getting girls through high school and on to university.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070903/d266ffe5-2c40-40e7-97a1-8d61db5451d5.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>More Work Needed on China’s First Domestic Violence Law, Say Activists</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 05 Jan 2017 08:16:01 +0000</pubDate>
+      <author>Helen Roxburgh</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/01/05/work-needed-chinas-first-domestic-violence-law-say-activists</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/01/05/work-needed-chinas-first-domestic-violence-law-say-activists</guid>
+      <description>In December 2015, the Chinese government passed the country’s landmark first bill against domestic violence. But one year on, campaigners warn that not enough people know about it, and victims remain uncompensated.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072115/CHINA-DOMESTIC-VIOLENCE.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Battle to Take Rape off Thailand’s TV Screens</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Tue, 08 Nov 2016 12:36:49 +0000</pubDate>
+      <author>Helen Roxburgh</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/11/08/battle-take-rape-off-thailands-tv-screens</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/11/08/battle-take-rape-off-thailands-tv-screens</guid>
+      <description>In Thai soap operas, rape is often shown as a vehicle for revenge or a path to true love. Now activists are calling on producers to stop romanticizing the crime and feeding into the country’s culture of gender inequality.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072300/Thailand-Rape-and-Romance.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Brittany Patterson</title>
+    <description>Brittany Patterson is a reporter for E&amp;amp;E Publishing. She covers forests, the Forest Service and the Interior Department for ClimateWire. Previously, Brittany wrote for San Francisco’s NPR affiliate KQED and the Kitsap Sun newspaper in Washington state. Her work also has appeared in The Atlantic, Mother Jones and Earth Island Journal.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/brittany-patterson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/brittany-patterson/rss"/>
+    <item>
+      <title>Size of Siberian Wildfires Remain in Question</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Mon, 08 Aug 2016 05:00:58 +0000</pubDate>
+      <author>Brittany Patterson</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/08/08/size-of-siberian-wildfires-remain-in-question</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/08/08/size-of-siberian-wildfires-remain-in-question</guid>
+      <description>CLIMATEWIRE – Large wildfires are a natural process in some of Siberia’s forest ecosystems, but warmer temperatures and drier conditions may be leading to larger and more ferocious burns that could threaten the forests’ ability to regenerate.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160804070956/irkutsk_amo_2016181_lrg.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

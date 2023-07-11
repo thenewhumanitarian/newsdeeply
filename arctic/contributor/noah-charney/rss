@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Noah Charney</title>
+    <description>Noah Charney is a postdoctoral research associate in ecology and evolutionary biology at the University of Arizona.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/noah-charney/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/noah-charney/rss"/>
+    <item>
+      <title>More CO2 Won’t Help Northern Forests</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 01 Aug 2016 12:38:04 +0000</pubDate>
+      <author>Noah Charney</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/08/01/more-co2-wont-help-northern-forests</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/08/01/more-co2-wont-help-northern-forests</guid>
+      <description>The buildup of greenhouse gases in the atmosphere is driving up temperatures and altering precipitation patterns. But will the changes boost tree growth in northern North America and slow the pace of climate change, or will the shift be too great for trees to adjust?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160801123601/Denali-alpine-lakes-forest-Highsmith.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

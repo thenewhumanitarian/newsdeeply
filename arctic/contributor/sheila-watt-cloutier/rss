@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Sheila Watt-Cloutier</title>
+    <description>Sheila Watt-Cloutier is a Canadian Inuit activist. She is the author of The Right to Be Cold: One Woman’s Story of Protecting Her Culture, the Arctic and the Whole Planet.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/sheila-watt-cloutier/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/sheila-watt-cloutier/rss"/>
+    <item>
+      <title>Fighting for the Right to Be Cold</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Sheila Watt-Cloutier</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/19/fighting-for-the-right-to-be-cold</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/19/fighting-for-the-right-to-be-cold</guid>
+      <description>Arctic Deeply’s partner site OpenCanada is featuring excerpts from the finalists in the Shaughnessy Cohen Prize for Political Writing. Here is Sheila Watt-Cloutier’s The Right to Be Cold: One Woman’s Story of Protecting Her Culture, the Arctic and the Whole Planet.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092719/village_de_salluit_-que-bec-571626ad2e085.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Tero Vauraste</title>
+    <description>Tero Vauraste is the president and CEO of Arctia Shipping Ltd., a Finnish Polar Maritime Services company, providing icebreaking, ice management, oil spill response and other polar maritime services. He is also the vice chair of the Arctic Economic Council, and a member of the boards of the Finnish Arctic Society and Finnish Maritime Society.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/tero-vauraste/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/tero-vauraste/rss"/>
+    <item>
+      <title>A Better Way to Build Icebreakers: Collaboration</title>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Tero Vauraste</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/02/11/a-better-way-to-build-icebreakers-collaboration</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/02/11/a-better-way-to-build-icebreakers-collaboration</guid>
+      <description>Why pay more than $1 billion for a new icebreaker when it costs $150 million to make one in Finland – and where they are used for only part of the year? Canada, the U.S. and Finland could share these vessels, a joint venture that would increase the number of much-needed ice-ready ships in the changing Arctic.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094452/80925281-a903-4253-a26a-c574a7-56bb3e584a99c.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

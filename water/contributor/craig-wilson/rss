@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Craig Wilson</title>
+    <description>Craig Wilson is a water attorney who served as the first Delta Watermaster from 2010 to 2014; he also served as the State Water Resources Control Board’s chief counsel from 2000 until 2005.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/craig-wilson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/craig-wilson/rss"/>
+    <item>
+      <title>Inside the Mind of a Wise Water Ruler</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Craig Wilson</author>
+      <link>https://www.newsdeeply.com/water/community/2015/12/11/inside-the-mind-of-a-wise-water-ruler</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/12/11/inside-the-mind-of-a-wise-water-ruler</guid>
+      <description>A smart leader would see there are many solutions to California’s water challenges. A benevolent leader would embrace them all, in moderation. A wise leader would also make the most of long-standing legal tools to create an environment that is fair to all.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104701/0042-566b030899500.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>California Neglects its ‘Super Water Right’ to Manage Drought</title>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Craig Wilson</author>
+      <link>https://www.newsdeeply.com/water/community/2015/07/30/california-neglects-its-super-water-right-to-manage-drought</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/07/30/california-neglects-its-super-water-right-to-manage-drought</guid>
+      <description>Managing scarcity based on water rights is not working. Instead, we should ensure all water use is ‘reasonable’ during drought.</description>
+    </item>
+  </channel>
+</rss>

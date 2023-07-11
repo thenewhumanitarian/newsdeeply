@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Aviva Shwayder</title>
+    <description>Aviva Shwayder is a communications specialist at Refugees International. She traveled with a research team to Trinidad and Tobago to look at the Venezuelan displacement crisis on the island in November 2018.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/aviva-shwayder/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/aviva-shwayder/rss"/>
+    <item>
+      <title>False Paradise: Caribbean Island-Nations Must Respect Venezuelans’ Rights</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 10 Jan 2019 10:00:00 +0000</pubDate>
+      <author>Aviva Shwayder</author>
+      <link>https://www.newsdeeply.com/refugees/community/2019/01/10/false-paradise-caribbean-island-nations-must-respect-venezuelans-rights</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2019/01/10/false-paradise-caribbean-island-nations-must-respect-venezuelans-rights</guid>
+      <description>With the number of displaced Venezuelans on track to reach 3.6 million this year, small island-nations such as Trinidad and Tobago can’t ignore their responsibility to help, writes Aviva Shwayder of Refugees International.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190109093448/VENEZUELA-ECONOMY-CRISIS-BORDER1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

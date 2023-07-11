@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Ruud Elmendorp</title>
+    <description>Ruud Elmendorp is a Dutch video journalist traveling the African continent for features and documentaries on conflict and development. His work is aired on a variety of channels, both on television and the internet. Ruud was last seen in Mogadishu reporting on the local humanitarian situation. Follow and reach him on Instagram: ruudelmendorp.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/ruud-elmendorp/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/ruud-elmendorp/rss"/>
+    <item>
+      <title>The Millionaire Farmer in Kenya Who Has No Land of Her Own</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Thu, 05 Jul 2018 12:10:00 +0000</pubDate>
+      <author>Ruud Elmendorp</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/05/the-millionaire-farmer-in-kenya-who-has-no-land-of-her-own</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/05/the-millionaire-farmer-in-kenya-who-has-no-land-of-her-own</guid>
+      <description>The cultural norms in western Kenya told Martha Otieno that, as a woman, she couldn’t own land. So, she leased it instead, built a successful farming business, and is now on her way to becoming the first woman landowner in the region.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180705121142/martha.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kenya’s Condom Queen Is on a Mission to Educate Women and Girls</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Thu, 19 Oct 2017 10:33:00 +0000</pubDate>
+      <author>Ruud Elmendorp</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/10/19/kenyas-condom-queen-is-on-a-mission-to-educate-women-and-girls</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/10/19/kenyas-condom-queen-is-on-a-mission-to-educate-women-and-girls</guid>
+      <description>Brenda Alwanyi is Kenya’s new Condom Queen. Crowned in September, she can be found in Nairobi’s slums most weekends, handing out male and female condoms and educating women on sexual health and their rights.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171019100912/condom-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Video: The Maasai Women Using Cricket to Beat FGM in Kenya</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Mon, 29 May 2017 08:00:13 +0000</pubDate>
+      <author>Ruud Elmendorp</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/29/video-the-maasai-women-using-cricket-to-beat-fgm-in-kenya</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/29/video-the-maasai-women-using-cricket-to-beat-fgm-in-kenya</guid>
+      <description>Female Genital Mutilation (FGM) is common in Maasai lands, but by encouraging girls to play cricket and providing education on the practice during breaks, one group of young people is changing attitudes. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170529075803/maasai-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

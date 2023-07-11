@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lora Moftah</title>
+    <description>Lora Moftah is a New York-based journalist covering religion and politics. Follow her on Twitter @LoraMoftah.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lora-moftah/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lora-moftah/rss"/>
+    <item>
+      <title>Syrian Refugees Save to Make Hajj Pilgrimage</title>
+      <category domain="https://www.newsdeeply.com/syria/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 14 Sep 2016 07:31:47 +0000</pubDate>
+      <author>Lora Moftah</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/14/syrian-refugees-save-to-make-hajj-pilgrimage-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/14/syrian-refugees-save-to-make-hajj-pilgrimage-2</guid>
+      <description>Thanks to growing employment opportunities, more Syrian refugee families in Jordan have been able to save enough money to make the hajj pilgrimage to Mecca this year.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160914062325/SyrianHajj1.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Syrian Refugees Save to Make Hajj Pilgrimage</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Wed, 14 Sep 2016 06:24:00 +0000</pubDate>
+      <author>Lora Moftah</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/09/14/syrian-refugees-save-to-make-hajj-pilgrimage</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/09/14/syrian-refugees-save-to-make-hajj-pilgrimage</guid>
+      <description>Thanks to growing employment opportunities, more Syrian refugee families in Jordan have been able to save enough money to make the hajj pilgrimage to Mecca this year.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160914062325/SyrianHajj1.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Andrew V. Pestano</title>
+    <description>Andrew V. Pestano is a U.S. and World News journalist for United Press International.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/104878/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/104878/rss"/>
+    <item>
+      <title>Syrian Opposition Reveals Political Transition Plan</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 08 Sep 2016 11:52:15 +0000</pubDate>
+      <author>Andrew V. Pestano</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/09/08/syrian-opposition-reveals-political-transition-plan</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/09/08/syrian-opposition-reveals-political-transition-plan</guid>
+      <description>The Syrian opposition unveiled its three-phase peace plan for Syria that would see the removal of President Bashar al-Assad and the establishment of an interim transitional government. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160908120406/Mideast-Syria-Surviving-In-Aleppo2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

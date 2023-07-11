@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Alia Dharssi</title>
+    <description>Alia Dharssi is a researcher and journalist based in Vancouver, British Columbia.
+ 
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/alia-dharssi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/alia-dharssi/rss"/>
+    <item>
+      <title>The Girl-Shaped Hole in Global Health Data</title>
+      <category domain="https://www.newsdeeply.com/refugees/maternal-and-child-health/">Maternal and Child Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <pubDate>Tue, 10 Jul 2018 14:14:00 +0000</pubDate>
+      <author>Alia Dharssi</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/07/10/the-girl-shaped-hole-in-global-health-data</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/07/10/the-girl-shaped-hole-in-global-health-data</guid>
+      <description>In India, over half of adolescent girls are anemic. Many are never treated, though, because health systems ignore them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180710141050/rajasthan586.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Canada, Refugees Leapfrog Career Barriers With Help of Volunteers</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 28 Jul 2017 12:55:41 +0000</pubDate>
+      <author>Alia Dharssi</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/07/28/in-canada-refugees-leapfrog-career-barriers-with-help-of-volunteers</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/07/28/in-canada-refugees-leapfrog-career-barriers-with-help-of-volunteers</guid>
+      <description>Despite Canada’s recent welcome to Syrians and other refugees, many still face significant hurdles getting jobs that match their professional level. Alia Dharssi reports on the volunteers and businesses helping refugees navigate the Canadian labor market.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170728125116/CANADA-REFUGEES-TORONTO-RALLY.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Housen Akoush</title>
+    <description>Housen Akoush is a Syrian journalist.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/housen-akoush/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/housen-akoush/rss"/>
+    <item>
+      <title>Analysis: The Battlefield in Syria’s Southernmost City, Daraa</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Fri, 23 Jun 2017 10:56:01 +0000</pubDate>
+      <author>Nawar Oliver, Housen Akoush</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/06/23/analysis-the-battlefield-in-syrias-southernmost-city-daraa</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/06/23/analysis-the-battlefield-in-syrias-southernmost-city-daraa</guid>
+      <description>In recent weeks Daraa has witnessed the most intense clashes and aerial bombardments it has seen for years. Despite the plan for “de-escalation zones,” civilians in the city are likely to be caught in the newest battlefield for foreign power proxies and the warring Syrian sides. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170623105741/SYRIA-CONFLICT29.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

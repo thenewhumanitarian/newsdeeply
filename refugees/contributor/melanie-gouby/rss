@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Melanie Gouby</title>
+    <description>Melanie Gouby is an award-winning investigative journalist, writer and documentary filmmaker, working primarily in East and Central Africa.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/melanie-gouby/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/melanie-gouby/rss"/>
+    <item>
+      <title>What Uganda’s Struggling Policy Means for Future of Refugee Response</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Wed, 22 Nov 2017 12:29:38 +0000</pubDate>
+      <author>Melanie Gouby</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/11/22/what-ugandas-struggling-policy-means-for-future-of-refugee-response</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/11/22/what-ugandas-struggling-policy-means-for-future-of-refugee-response</guid>
+      <description>Uganda’s open refugee policies inspired a major U.N. reform initiative, but international funds have not kept pace with its refugee crisis. In this analysis, Melanie Gouby examines what happens when model integration policies are not backed with adequate resources.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171122122641/BM_SUDANESE_REFUGEES_02788651.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

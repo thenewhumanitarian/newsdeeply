@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Sara C Nelson</title>
+    <description>Sara C Nelson is the Senior Editor for The Huffington Post UK.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/sara-c-nelson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/sara-c-nelson/rss"/>
+    <item>
+      <title>Syrian Children’s Tragic Pokémon Go Rescue Bid</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 22 Jul 2016 10:57:16 +0000</pubDate>
+      <author>Sara C Nelson</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/07/22/syrian-childrens-tragic-pokemon-go-rescue-bid</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/07/22/syrian-childrens-tragic-pokemon-go-rescue-bid</guid>
+      <description>As Pokemon Go fever sweeps the globe, children in Syria are hoping that players of the augmented reality game will “come and catch them” in their war-torn hometowns.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160722105651/Screen-Shot-2016-07-22-at-9.06.03-AM1.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

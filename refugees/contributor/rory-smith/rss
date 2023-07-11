@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Rory Smith</title>
+    <description>Rory Smith is an Independent journalist based in Gothenburg.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/rory-smith/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/rory-smith/rss"/>
+    <item>
+      <title>When Refugees Lead: The Youth Leader Fighting Deportations in Sweden</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 11 Jun 2018 12:50:00 +0000</pubDate>
+      <author>Rory Smith</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/06/11/when-refugees-lead-the-youth-leader-fighting-deportations-in-sweden</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/06/11/when-refugees-lead-the-youth-leader-fighting-deportations-in-sweden</guid>
+      <description>As part of our series, “When Refugees Lead,” we speak with Fatemeh Khavari, the 18-year-old Afghan founder and spokesperson of Young in Sweden (Ung I Sverige), which campaigns against the deportation of unaccompanied refugee minors.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180611124757/PerssonSwedenStopDeportations6172017-71.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Afghan Refugees Feel a Sudden Chill in Sweden</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 11 Jul 2016 14:58:16 +0000</pubDate>
+      <author>Rory Smith</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/07/11/afghan-refugees-feel-a-sudden-chill-in-sweden</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/07/11/afghan-refugees-feel-a-sudden-chill-in-sweden</guid>
+      <description>Sweden has a reputation for championing refugee protection. But recent changes to its asylum policies – especially the repatriation of Afghans to an increasingly chaotic homeland – are undermining its good name.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160711144937/Europe-Afghan-Boys.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

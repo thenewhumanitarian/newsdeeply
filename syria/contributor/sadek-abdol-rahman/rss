@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Sadek Abdol Rahman</title>
+    <description>Sadek Abdol Rahman is a Syrian contributor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/sadek-abdol-rahman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/sadek-abdol-rahman/rss"/>
+    <item>
+      <title>Sparking Resentment, a Shopping Mall Rises in Tartous</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 +0000</pubDate>
+      <author>Sadek Abdol Rahman</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/11/21/sparking-resentment-a-shopping-mall-rises-in-tartous</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/11/21/sparking-resentment-a-shopping-mall-rises-in-tartous</guid>
+      <description>‘The authorities have been trying for three years to reassure people that life can be normal in Tartous, but the truth is that conditions are declining’.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114903/tartous-546f379a1e78c.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

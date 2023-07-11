@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Sreya Banerjee and Olivier Le Hellard</title>
+    <description>Sreya Banerjee is a freelance journalist based in New Delhi, India. She has 10 years of experience covering news and current affairs for Reuters Television, the BBC, Agence France-Presse and France 24.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/sreya-banerjee-and-olivier-le-hellard/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/sreya-banerjee-and-olivier-le-hellard/rss"/>
+    <item>
+      <title>Video: Inside One of India’s Mass Sterilization Camps</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Fri, 09 Dec 2016 13:59:06 +0000</pubDate>
+      <author>Sreya Banerjee and Olivier Le Hellard</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/09/video-inside-one-indias-mass-sterilization-camps</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/09/video-inside-one-indias-mass-sterilization-camps</guid>
+      <description>In the final video in our series “Choice and Change,” we follow a young Indian mother as she undergoes sterilization surgery in a state-sponsored clinic. The procedure is free so, for many women in the country, it’s the only contraception they can afford.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072204/India-sterilization-camp.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

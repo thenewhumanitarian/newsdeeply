@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Julien Pitinome</title>
+    <description>Julien Pitinome is a photojournalist based in France working on social issues and co-founder of the collective OEIL. You can see more of his work at www.julien-pitinome.com.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/julien-pitinome/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/julien-pitinome/rss"/>
+    <item>
+      <title>The Jungle Goes Underground</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 14 Aug 2017 10:58:16 +0000</pubDate>
+      <author>Julien Pitinome</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/14/the-jungle-goes-underground</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/14/the-jungle-goes-underground</guid>
+      <description>As people trickle back to Calais after the demolition of the Jungle camp, authorities are doing all they can to prevent another camp from forming. In this photo essay, Julien Pitinome meets some of the refugees hiding out in forests and running from authorities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170814105650/5_Qeraso-by-Julien-Pitinome_-Calais_-Juillet-2017.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

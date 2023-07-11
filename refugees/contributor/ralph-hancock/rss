@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Ralph Hancock</title>
+    <description>Ralph Hancock is a Sheffield pensioner and chairman of the Sheffield Conversation Club, now a registered charity. He has been a volunteer with the organization since 2004.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ralph-hancock/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ralph-hancock/rss"/>
+    <item>
+      <title>A Conversation That Bridges Divides</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Wed, 20 Jul 2016 13:49:06 +0000</pubDate>
+      <author>Ralph Hancock</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/20/a-conversation-that-bridges-divides</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/20/a-conversation-that-bridges-divides</guid>
+      <description>In the last of our Brexit Aftermath series, Ralph Hancock explains how he and a team of volunteers turned an English-language conversation club into a living link between refugees and the local community.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160720134819/sheffield.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

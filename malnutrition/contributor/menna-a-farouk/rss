@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Menna A. Farouk</title>
+    <description>Menna A. Farouk is a Cairo-based journalist. She is an editor at the Egyptian Gazette and a contributor to several international news organizations. Follow her @MennaFarouk91
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/menna-a-farouk/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/menna-a-farouk/rss"/>
+    <item>
+      <title>In Egypt, a New Policy Triggers a Debate Over Exclusive Breastfeeding</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/maternal-and-child-health/">Maternal and Child Health</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Wed, 28 Feb 2018 12:00:00 +0000</pubDate>
+      <author>Youssra el-Sharkawy, Menna A. Farouk</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/02/28/in-egypt-a-new-policy-triggers-a-debate-over-exclusive-breastfeeding</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/02/28/in-egypt-a-new-policy-triggers-a-debate-over-exclusive-breastfeeding</guid>
+      <description>To encourage exclusive breastfeeding, Egyptian officials are limiting access to subsidized formula. But some mothers say the government has gone too far in restricting their choice.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180228120412/925_04_MW021947.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Modern Amazons: The Egyptian Village Run by Women</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Tue, 03 Oct 2017 10:57:43 +0000</pubDate>
+      <author>Youssra el-Sharkawy, Menna A. Farouk</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/10/03/modern-amazons-the-egyptian-village-run-by-women</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/10/03/modern-amazons-the-egyptian-village-run-by-women</guid>
+      <description>Founded as a place where women can rebuild their lives after losing a husband or getting divorced, el-Samaha village offers women and girls a chance to escape patriarchal prejudices and discover their independence.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171003104543/Women-only-agriculture.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

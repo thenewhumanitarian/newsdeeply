@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Mieke Coppes</title>
+    <description>Mieke Coppes is a High North News correspondent and a research associate at the Arctic Institute. She is also a member of the Arctic This Week team. Mieke received her MSc in International Relations from the London School of Economics and Political Science (LSE), and is currently based in Toronto, Canada.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/mieke-coppes/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/mieke-coppes/rss"/>
+    <item>
+      <title>Nunavut Sivuniksavut: Inuit Education in Canada’s Capital</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Tue, 27 Sep 2016 05:09:55 +0000</pubDate>
+      <author>Mieke Coppes</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/09/27/nunavut-sivuniksavut-inuit-education-in-canadas-capital</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/09/27/nunavut-sivuniksavut-inuit-education-in-canadas-capital</guid>
+      <description>High North News: The Canadian Arctic does not have a university. That can mean tough choices for many Inuit students looking to further their education. Nunavut Sivuniksavut helps these students bridge the gap between high school and their futures.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160926130707/Student-at-NS-800x475.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Analysis: Questioning the Relevance of Canada’s Operation Nanook</title>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <pubDate>Mon, 05 Sep 2016 06:50:25 +0000</pubDate>
+      <author>Mieke Coppes</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/09/05/analysis-questioning-the-relevance-of-canadas-operation-nanook</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/09/05/analysis-questioning-the-relevance-of-canadas-operation-nanook</guid>
+      <description>HIGH NORTH NEWS – With Prime Minister Trudeau heading south, instead of north, and a cruise ship crossing the Northwest Passage, is Operation Nanook more or less relevant than before?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160905064454/Operation-NANOOK.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

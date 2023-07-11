@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Victoria Herrmann</title>
+    <description>Victoria Herrmann
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/victoria-herrmann/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/victoria-herrmann/rss"/>
+    <item>
+      <title>Alaska: Layoffs, Deficit and an Uncertain Future</title>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Victoria Herrmann</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/03/25/alaska-layoffs-deficit-and-an-uncertain-future</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/03/25/alaska-layoffs-deficit-and-an-uncertain-future</guid>
+      <description>HIGH NORTH NEWS: Depressed petroleum markets are not just lowering prices at the pump, they are redefining the fabric of Alaska’s once stable economy. A new study predicts the current $3.8 billion deficit could mean up to 30,000 direct and indirect job losses across the state.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092752/alaska-budget-legislature-56f2c0e5749a0.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

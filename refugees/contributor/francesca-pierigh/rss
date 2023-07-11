@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Francesca Pierigh</title>
+    <description>Francesca Pierigh is the media and communications assistant at the European Council on Refugees and Exiles (ECRE). Prior to that, she worked with Kiron Open Higher Education, Front Line Defenders and UNHCR. Francesca holds a LL.M. in International Human Rights Law. She’s on Twitter at @frpierigh.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/francesca-pierigh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/francesca-pierigh/rss"/>
+    <item>
+      <title>A Different Olympic Story</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 22 Aug 2016 13:14:00 +0000</pubDate>
+      <author>Francesca Pierigh</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/08/22/a-different-olympic-story</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/08/22/a-different-olympic-story</guid>
+      <description>Several thousand migrants and refugees are living in disused Olympic facilities in Athens. Representatives from ECRE and AIRE Centre visited in June and found strangely arbitrary differences in how parts of the camp are treated.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160822130119/DSCN7079.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Long Wait at Piraeus Port</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Fri, 12 Aug 2016 05:28:00 +0000</pubDate>
+      <author>Francesca Pierigh</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/08/12/the-long-wait-at-piraeus-port</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/08/12/the-long-wait-at-piraeus-port</guid>
+      <description>A joint delegation of representatives from the ECRE and AIRE Centre went on a fact-finding mission to Greece in June 2016, visiting the port in Piraeus, which had become an unlikely temporary home for several thousand migrants and refugees. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160809123250/IMG_6890.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

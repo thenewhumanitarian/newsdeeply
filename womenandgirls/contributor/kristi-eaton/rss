@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Kristi Eaton</title>
+    <description>Kristi Eaton is an independent journalist who has reported from Mexico, Cambodia, Myanmar, India, Thailand and the U.S. Her freelance work has been published by the AP, the Los Angeles Times, Marie Claire magazine, NBC News, The Guardian and other outlets. Her work focuses on women’s rights, indigenous peoples and breaking news. You can follow her on Twitter @KristiEaton or visit her website, KristiEaton.com.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/kristi-eaton/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/kristi-eaton/rss"/>
+    <item>
+      <title>The Men Trying to Change the Stigma Around Menstruation in India</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Fri, 07 Apr 2017 11:56:41 +0000</pubDate>
+      <author>Kristi Eaton</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/04/07/the-men-trying-to-change-the-stigma-around-menstruation-in-india</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/04/07/the-men-trying-to-change-the-stigma-around-menstruation-in-india</guid>
+      <description>For many women in India, myths about periods can lead to everything from social isolation to serious reproductive health problems. But one way to get people talking about the facts of menstruation, say experts, is to bring men into the conversation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407115519/INDIA-WEATHER-MONSOON.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

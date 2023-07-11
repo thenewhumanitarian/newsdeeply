@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Doreen Ajiambo</title>
+    <description>Doreen Ajiambo is a multi-media journalist based in Nairobi, Kenya. She covers stories from East Africa and beyond for various outlets in Europe.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/doreen-ajiambo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/doreen-ajiambo/rss"/>
+    <item>
+      <title>Searching for South Sudan’s New Lost Boys</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 26 Oct 2017 12:56:09 +0000</pubDate>
+      <author>Doreen Ajiambo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/10/26/searching-for-south-sudans-new-lost-boys</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/10/26/searching-for-south-sudans-new-lost-boys</guid>
+      <description>More than 1 million children, many of whom were separated from their families in the chaos of civil war, have fled South Sudan. Their parents are now scouring the refugee camps of Uganda to find them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171026125352/26.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Amid Crippling Drought, Ugandans Pose as Refugees to Eat</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 07 Sep 2017 11:22:44 +0000</pubDate>
+      <author>Tonny Onyulo, Doreen Ajiambo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/09/07/amid-crippling-drought-ugandans-pose-as-refugees-to-eat</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/09/07/amid-crippling-drought-ugandans-pose-as-refugees-to-eat</guid>
+      <description>With 11 million Ugandans going hungry due to the historic drought in East Africa, some are registering as South Sudanese refugees so they can get some food aid. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170907111935/UGANDA-SSUDAN-UNREST-REFUGEES.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

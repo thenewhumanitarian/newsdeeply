@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Stephen Nicol</title>
+    <description>Stephen Nicol has spent his scientific career working with krill in the Antarctic as well as in Canada and South Africa. He has published extensively on many aspects of krill biology, on the management of the krill fishery, on the Southern Ocean ecosystem as well as on more esoteric aspects of human interactions with krill. He worked for the Australian Government’s Antarctic Division for 24 years as a research scientist and program leader. During that time, he also served on Australia’s delegation to the international commission that manages Antarctica’s fisheries.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/stephen-nicol/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/stephen-nicol/rss"/>
+    <item>
+      <title>The Race to Decode Secrets of Antarctica’s Most Important Ocean Animal</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Mon, 25 Jun 2018 03:00:00 +0000</pubDate>
+      <author>Stephen Nicol</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/06/25/the-race-to-decode-secrets-of-antarcticas-most-important-ocean-animal</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/06/25/the-race-to-decode-secrets-of-antarcticas-most-important-ocean-animal</guid>
+      <description>The future of krill – and all the marine wildlife that feed on them – is uncertain in the changing Southern Ocean. Krill biologist Stephen Nicol says they may be adaptable to climate change, but new technologies need to be deployed to study their enigmatic behavior.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180625114625/960_36_ARP10A02_1591.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

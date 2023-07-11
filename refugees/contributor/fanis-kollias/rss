@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Fanis Kollias</title>
+    <description>Fanis Kollias is the founder of Solomon magazine, based in Athens, Greece.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/fanis-kollias/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/fanis-kollias/rss"/>
+    <item>
+      <title>The Elephant in the Room for Refugee Initiatives: ‘Are We Relevant?’</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 01 Nov 2016 08:24:46 +0000</pubDate>
+      <author>Fanis Kollias</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/11/01/the-elephant-in-the-room-for-refugee-initiatives-are-we-relevant</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/11/01/the-elephant-in-the-room-for-refugee-initiatives-are-we-relevant</guid>
+      <description>Fanis Kollias questions the sustainability of recent civil society initiatives to help refugees. Founder of a magazine run by migrant and local journalists in Greece, he says some soul-searching is needed for small-scale initiatives like his, and outlines a way forward.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161101080838/Greece-Migrants18.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Karam al-Masri</title>
+    <description>Karam al-Masri is a reporter, photographer and videojournalist in rebel-held Aleppo for AFP.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/karam-al-masri/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/karam-al-masri/rss"/>
+    <item>
+      <title>Aleppo Residents Turn to Creativity to Defy Siege</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 10 Nov 2016 11:56:23 +0000</pubDate>
+      <author>Karam al-Masri</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/11/10/aleppo-residents-turn-to-creativity-to-defy-siege</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/11/10/aleppo-residents-turn-to-creativity-to-defy-siege</guid>
+      <description>After nearly five months of total siege, residents in opposition-held Eastern Aleppo are relying on their own creative inventions, such as batteries powered by bicycles, to carry on with their daily lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161110114740/SYRIA-CONFLICT-ALEPPO3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

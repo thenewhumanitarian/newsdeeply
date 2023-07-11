@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Jennifer West</title>
+    <description>Jennifer West is managing director of WateReuse California. She can be reached at jwest@watereuse.org.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/jennifer-west/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/jennifer-west/rss"/>
+    <item>
+      <title>California Is Poised for Big Gains in Recycled Water Use</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Tue, 18 Jul 2017 03:00:15 +0000</pubDate>
+      <author>Bobbi Larson, Jennifer West</author>
+      <link>https://www.newsdeeply.com/water/community/2017/07/18/california-is-poised-for-big-gains-in-recycled-water-use</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/07/18/california-is-poised-for-big-gains-in-recycled-water-use</guid>
+      <description>A state survey shows that California made modest gains in recycled water use during the drought, but that number is likely to grow, thanks to a number of factors, say water experts Jennifer West and Bobbi Larson.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170717073625/California-Drought37.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

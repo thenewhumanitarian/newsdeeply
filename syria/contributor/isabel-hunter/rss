@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Isabel Hunter</title>
+    <description>Freelance journalist based between Istanbul and Gaziantep
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/isabel-hunter/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/isabel-hunter/rss"/>
+    <item>
+      <title>In Raqqa, A Lawyer Collecting Evidence Against Assad — and ISIS</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Isabel Hunter</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/10/16/in-raqqa-a-lawyer-collecting-evidence-against-assad-and-isis</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/10/16/in-raqqa-a-lawyer-collecting-evidence-against-assad-and-isis</guid>
+      <description>In the northern city of Raqqa, the condemned - some civilians, some soldiers, shabiha or alleged Assad collaborators - are brought blindfolded and handcuffed to the city square to be shot in the head in public.</description>
+    </item>
+  </channel>
+</rss>

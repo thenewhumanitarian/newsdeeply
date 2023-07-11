@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Malte Humpert</title>
+    <description>Malte Humpert is the strategic director and founder of the Arctic Institute.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/malte-humpert/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/malte-humpert/rss"/>
+    <item>
+      <title>Impact of Unusual Temperatures in the Arctic Remains Uncertain</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 01 Dec 2016 11:35:06 +0000</pubDate>
+      <author>Malte Humpert</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/12/01/impact-of-unusual-temperatures-in-the-arctic-remains-uncertain</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/12/01/impact-of-unusual-temperatures-in-the-arctic-remains-uncertain</guid>
+      <description>For much of the past two weeks, large areas of the Arctic have experienced unusually high temperatures. The weather follows record-low ice extent in October and November. Is this unusual, and how will it impact Arctic sea ice extent?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161201113235/6309981497_9b3da7b4f6_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Analysis: Arctic Air Traffic Emissions Are Likely to Grow</title>
+      <category domain="https://www.newsdeeply.com/arctic/energy-natural-resources/">Energy &amp; Natural Resources</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Mon, 28 Nov 2016 07:39:16 +0000</pubDate>
+      <author>Malte Humpert</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/28/analysis-arctic-air-traffic-emissions-are-likely-to-grow</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/28/analysis-arctic-air-traffic-emissions-are-likely-to-grow</guid>
+      <description>Despite recent efforts by the International Civil Aviation Organization to curb greenhouse gases from air travel, the High North will likely continue to see increasing emissions. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161128073846/Geikie_Plateau_Glacier.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Is Northern Sea Route Shipping in a Deep Freeze?</title>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Mon, 06 Jun 2016 08:18:58 +0000</pubDate>
+      <author>Malte Humpert</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/06/is-northern-sea-route-shipping-in-a-deep-freeze</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/06/is-northern-sea-route-shipping-in-a-deep-freeze</guid>
+      <description>HIGH NORTH NEWS: As the cost of shipping fuel has dropped, operators have been less interested in taking Arctic shortcuts. Shipping traffic along Russia’s Northern Sea Route is in decline. Will it bounce back?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160606081041/Nuclearicebreakeryamal.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Broad Finnish-Japanese Cooperation in the Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Malte Humpert</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/03/22/broad-finnish-japanese-cooperation-in-the-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/03/22/broad-finnish-japanese-cooperation-in-the-arctic</guid>
+      <description>HIGH NORTH NEWS: Economic development across the Barents region is a top priority for the President of Finland and the Prime Minister of Japan. During a three-day visit to Japan, the two leaders discussed the shared cooperation of shipping along the Northern Sea Route.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092756/japan-finland-56f196b1d814c.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

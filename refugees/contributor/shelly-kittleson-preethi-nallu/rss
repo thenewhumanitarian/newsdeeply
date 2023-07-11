@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Shelly Kittleson &amp;#038; Preethi Nallu</title>
+    <description>Shelly Kittleson and Preethi Nallu
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/shelly-kittleson-preethi-nallu/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/shelly-kittleson-preethi-nallu/rss"/>
+    <item>
+      <title>Childhood Under Attack: Faces Behind the Numbers</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Shelly Kittleson &amp; Preethi Nallu</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/03/15/childhood-under-attack-faces-behind-the-numbers</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/03/15/childhood-under-attack-faces-behind-the-numbers</guid>
+      <description>With the Syrian conflict entering a sixth year, at least 250,000 children are struggling for access to food, electricity and life-saving medicine due to sieges by the warring sides. Those who manage to flee lack adequate protection despite being the most vulnerable among refugees. This story introduces our series “Lost Childhoods”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422062453/boy-from-above-56e7022baa2b3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

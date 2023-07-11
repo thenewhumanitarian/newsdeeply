@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Alessandria Masi and Lindsey Snell</title>
+    <description>Alessandria is the managing editor of Syria Deeply. She is a native of Montreal, Canada and lives in Beirut.
+Lindsey Snell is an independent video journalist based in Istanbul covering the Middle East and North Africa, particularly Syria, Iraq, and Tunisia.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/alessandria-masi-and-lindsey-snell/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/alessandria-masi-and-lindsey-snell/rss"/>
+    <item>
+      <title>Inside a Makeshift School in Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 21 Jun 2016 11:17:57 +0000</pubDate>
+      <author>Alessandria Masi and Lindsey Snell</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/06/21/inside-a-makeshift-school-in-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/06/21/inside-a-makeshift-school-in-aleppo</guid>
+      <description>Over the past two years, bombs and shelling have made it too dangerous for students to attend official schools in Aleppo city, so a group of volunteer teachers decided to open their own. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160621111402/Mideast-Syria-Aleppo-Fear-of-Siege1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

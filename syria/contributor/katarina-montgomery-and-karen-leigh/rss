@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Katarina Montgomery and Karen Leigh.</title>
+    <description>Karen Leigh is the managing editor of News Deeply. Katarina Montgomery is Syria Deeply’s Digital Producer
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/katarina-montgomery-and-karen-leigh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/katarina-montgomery-and-karen-leigh/rss"/>
+    <item>
+      <title>Underfunded Aid Organizations Battle Donor Fatigue, Revise Delivery Plans</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Katarina Montgomery and Karen Leigh.</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/06/10/underfunded-aid-organizations-battle-donor-fatigue-revise-delivery-plans</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/06/10/underfunded-aid-organizations-battle-donor-fatigue-revise-delivery-plans</guid>
+      <description>The U.N. says it’s received just 28 percent of the $6.5 billion they need for 2014. But international donors say they’re maxed out. With funds limited, how are global aid organizations restructuring their Syria programs?</description>
+    </item>
+    <item>
+      <title>Syria Is Now the World’s Biggest IDP Crisis</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      <author>Katarina Montgomery and Karen Leigh.</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/05/19/syria-is-now-the-worlds-biggest-idp-crisis</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/05/19/syria-is-now-the-worlds-biggest-idp-crisis</guid>
+      <description>Experts say Syria’s internally-displaced refugee crisis is worsening due to a lack of cross-border aid access and the spread of violence.</description>
+    </item>
+    <item>
+      <title>At a Startup Refugee Camp, Supermarkets and Water Conservation Take Priority</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      <author>Katarina Montgomery and Karen Leigh.</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/05/06/at-a-startup-refugee-camp-supermarkets-and-water-conservation-take-priority</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/05/06/at-a-startup-refugee-camp-supermarkets-and-water-conservation-take-priority</guid>
+      <description>Afraq, in the Jordanian desert, will alleviate the flood of Syrians into Zaatari. Officials in the country say it’s about time — but that the camp’s far-out location could stymie the growth of its economy.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115259/05-5369127c75aa7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

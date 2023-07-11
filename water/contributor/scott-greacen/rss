@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Scott Greacen</title>
+    <description>Scott Greacen is conservation director at Friends of the Eel River, a nonprofit based in Eureka, California.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/scott-greacen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/scott-greacen/rss"/>
+    <item>
+      <title>Will a Landslide on the Eel River Cause California’s Next Dam Disaster?</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/energy/">Energy</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Wed, 03 Oct 2018 08:00:00 +0000</pubDate>
+      <author>Scott Greacen</author>
+      <link>https://www.newsdeeply.com/water/community/2018/10/03/will-a-landslide-on-the-eel-river-cause-californias-next-dam-disaster</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/10/03/will-a-landslide-on-the-eel-river-cause-californias-next-dam-disaster</guid>
+      <description>An historic landslide looms above Scott Dam, owned by Pacific Gas &amp; Electric Co. The utility is trying to sell off the dam without acknowledging the danger posed by this geologic threat and a nearby earthquake fault.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181001065856/Scott-dam.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

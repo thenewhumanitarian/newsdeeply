@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Jillian Capewell</title>
+    <description>Jillian Capewell is Entertainment News Editor at The Huffington Post.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/jillian-capewell/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/jillian-capewell/rss"/>
+    <item>
+      <title>Graphic Novel Paints Intimate Portrait of Refugees in the Middle East</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Fri, 07 Oct 2016 06:34:45 +0000</pubDate>
+      <author>Jillian Capewell</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/07/graphic-novel-paints-intimate-portrait-of-refugees-in-the-middle-east</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/07/graphic-novel-paints-intimate-portrait-of-refugees-in-the-middle-east</guid>
+      <description>American cartoonist Sarah Glidden details the personal stories of refugees and the many challenges of reporting on them in her comics journalism book “Rolling Blackouts.”</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161007062521/57eea27c170000e00aac87e2.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

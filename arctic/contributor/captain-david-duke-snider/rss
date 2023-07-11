@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Captain David (Duke) Snider</title>
+    <description>Captain David (Duke) Snider is a master mariner and active ice navigator with over 33 years at sea, many of those in Arctic and ice-covered waters. He is CEO and principal consultant in Martech Polar Consulting Ltd, based in Victoria, British Columbia. He is presently the senior vice president of the Nautical Institute.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/captain-david-duke-snider/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/captain-david-duke-snider/rss"/>
+    <item>
+      <title>The Arctic Shipping Internet Game</title>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Fri, 29 Apr 2016 11:18:08 +0000</pubDate>
+      <author>Captain David (Duke) Snider</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/04/29/the-arctic-shipping-internet-game</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/04/29/the-arctic-shipping-internet-game</guid>
+      <description>“The Arctic is ripe for the spread of disinformation. Few people have been there, and they have no source but the internet to gain knowledge.”</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160429111533/Duke-1026-2295.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

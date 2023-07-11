@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Martin Ruhs</title>
+    <description>Martin Ruhs is professor of migration studies and deputy director of the Migration Policy Centre at the European University Institute in Florence. His research focuses on the economics and politics of international migration, with a strong international comparative dimension. His latest book, coedited with Kristof Tamas and Joakim Palme, is “Bridging the Gaps: Linking Research to Public Debates and Policy-making on Migration and Integration” (Oxford University Press, 2019). 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/martin-ruhs/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/martin-ruhs/rss"/>
+    <item>
+      <title>Can Labor Immigration Work for Refugees?</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Mon, 01 Apr 2019 11:30:00 +0000</pubDate>
+      <author>Martin Ruhs</author>
+      <link>https://www.newsdeeply.com/refugees/community/2019/04/01/can-labor-immigration-work-for-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2019/04/01/can-labor-immigration-work-for-refugees</guid>
+      <description>The Global Compact on Refugees recommends that high-income countries take in some refugees as labor migrants. Researcher Martin Ruhs explores how that might work.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190401101846/775127817SG005_Berlin_Holds1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

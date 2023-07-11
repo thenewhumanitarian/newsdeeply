@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Irene Caselli</title>
+    <description>Irene Caselli is a multimedia freelance journalist with a decade of experience in Latin America. She regularly reports for international media, such as BBC News, The Washington Post, The New York Times, The Guardian and Monocle
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/irene-caselli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/irene-caselli/rss"/>
+    <item>
+      <title>Babies Behind Bars: Children Serve Time with Mothers in Mexico’s Prisons</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Tue, 02 Jan 2018 09:30:00 +0000</pubDate>
+      <author>Melissa Lyttle, Irene Caselli</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2018/01/02/babies-behind-bars</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2018/01/02/babies-behind-bars</guid>
+      <description>In the northern Mexican state of Chihuahua, mothers serving prison sentences are allowed to keep children under 4 with them as they serve their sentence. They say having the kids there helps, but some worry it’s sending the wrong message.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180102091433/20170510_Mexico_WomensPrison2401.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

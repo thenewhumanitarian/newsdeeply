@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Alice Rowsome</title>
+    <description>Alice Rowsome is a freelance photojournalist and filmmaker. She has an M.A. in Arabic and International Relations from the University of St. Andrews. Her recent work includes a field report on the lack of access to energy in refugee camps in France, an investigative piece on the role of water in the Syrian conflict and a film on the human stories behind climate change. See more of her work at www.alicerowsome.com.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/alice-rowsome/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/alice-rowsome/rss"/>
+    <item>
+      <title>Welcome to London’s Refugee Coding School</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Wed, 19 Oct 2016 08:02:48 +0000</pubDate>
+      <author>Alice Rowsome</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school</guid>
+      <description>On the first day of a new six-month intensive coding program for refugees in the British capital, photojournalist Alice Rowsome meets the ambitious students who want to make a difference using technology.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161019074341/Refugees_Technology_11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Dr. Swee Chai Ang</title>
+    <description>Dr. Swee Chai Ang is a consultant orthopedic surgeon at St. Bartholomew’s and the Royal London hospitals and co-founder of Medical Aid for Palestinians. Born in Malaysia and raised in Singapore, she came to the U.K. as a refugee. She is the author of,“From Beirut to Jerusalem: A Woman Surgeon With the Palestinians” published by The Other Press.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/dr-swee-chai-ang/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/dr-swee-chai-ang/rss"/>
+    <item>
+      <title>The Forgotten Refugees: Survivors of the Sabra and Shatila Massacre</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Fri, 15 Sep 2017 16:29:27 +0000</pubDate>
+      <author>Dr. Swee Chai Ang</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/09/15/the-forgotten-refugees-survivors-of-the-sabra-and-shatila-massacre</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/09/15/the-forgotten-refugees-survivors-of-the-sabra-and-shatila-massacre</guid>
+      <description>When Palestinian refugees were massacred in Beirut in 1982, Dr. Swee Chai Ang, a refugee living in the U.K., was working as a young volunteer medic in the camp. On the 35th anniversary, Ang describes her memories and unanswered questions. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170915162531/LEBANON-PALESTINIAN-MASSACRE-ANNIVERSAY.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

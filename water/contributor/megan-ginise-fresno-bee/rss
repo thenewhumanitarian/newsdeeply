@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Megan Ginise, Fresno Bee</title>
+    <description>Megan Ginise, Fresno Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/megan-ginise-fresno-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/megan-ginise-fresno-bee/rss"/>
+    <item>
+      <title>Dry Weather Problematic for Drought-Hit Valley</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Megan Ginise, Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/02/08/dry-weather-problematic-for-drought-hit-valley</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/02/08/dry-weather-problematic-for-drought-hit-valley</guid>
+      <description>FRESNO BEE: The gains from a wet January would be erased in the Central Valley if dry and warm weather continues for much of February. Of particular concern is a high pressure system over Central California that would prevent rain and snow from hitting the area.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102257/b8872135-4886-4960-9fff-e9ab2f-56b8ebb18be87.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

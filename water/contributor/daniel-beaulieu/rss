@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Daniel Beaulieu</title>
+    <description>Dan is responsible for content strategy and operations on all News Deeply platforms. He previously led the World Economic Forum’s Knowledge Lab, the incubation arm of the Global Agenda Councils Network. He was a founding editor of the award-winning national newspaper of the United Arab Emirates, the National, and an editor at both the Middle East and Asia headquarters of Agence France-Presse. As a regional correspondent, he took on multiple assignments in Iraq, the Gaza Strip, the West Bank, Jerusalem, Thailand and Hong Kong. Dan also worked as a journalist for Reuters in Tokyo and the South China Morning Post in Hong Kong. He holds a master’s in public administration from the Harvard Kennedy School of Government.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/daniel-beaulieu/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/daniel-beaulieu/rss"/>
+    <item>
+      <title>Almond Farms Keep Growing, and Keep Moving on Water Conservation</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Tue, 16 Oct 2018 08:00:00 +0000</pubDate>
+      <author>Daniel Beaulieu</author>
+      <link>https://www.newsdeeply.com/water/community/2018/10/16/almond-farms-keep-growing-and-keep-moving-on-water-conservation</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/10/16/almond-farms-keep-growing-and-keep-moving-on-water-conservation</guid>
+      <description>California grows 80 percent of the world’s almonds, generating $11 billion annually for the state’s economy. Richard Waycott of the Almond Board of California explains what the industry is doing to use less water and stretch every drop.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181012081123/1_20160119_PK_ALMOND_0320.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

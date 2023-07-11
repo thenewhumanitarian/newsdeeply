@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rachel Thompson</title>
+    <description>Rachel Thompson is a Research Associate at the Centre on Global Health Security at Chatham House. She has a background in humanitarian work, international development and public health research. Rachel has previously worked with the Red Cross Movement and several NGOs, including time spent in East Africa (Somalia, Kenya, Tanzania), Thailand and India. In Somaliland, she worked on health system strengthening, while also undertaking independent research on reproductive health issues in this post-conflict setting. As a research fellow for Population Services International, Rachel managed field research projects across East Africa, as well as writing numerous reports and papers on public health challenges in the region. At Chatham House her focus is on issues around healthcare in conflict, leading the development of the Centre’s new Healthcare Anatomy of Conflict project.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rachel-thompson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rachel-thompson/rss"/>
+    <item>
+      <title>Healthcare Should Not Become a Casualty of War</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Tue, 25 Apr 2017 13:17:03 +0000</pubDate>
+      <author>Rachel Thompson</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/04/25/healthcare-should-not-become-a-casualty-of-war</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/04/25/healthcare-should-not-become-a-casualty-of-war</guid>
+      <description>Chatham House research associate Rachel Thompson explores the challenges facing the international community when it comes to holding those responsible for the “weaponization of health” in Syria responsible for their actions. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170425143141/Situation-in-Deir-ez-Zor-Syria.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

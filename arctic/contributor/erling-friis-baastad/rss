@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Erling Friis-Baastad</title>
+    <description>Erling Friis-Baastad is a poet and journalist who has spent most of his adult life in the Yukon. His latest collection of poetry, “Fossil Light,” is published by Ekstasis Editions.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/erling-friis-baastad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/erling-friis-baastad/rss"/>
+    <item>
+      <title>Climate Change Drives Up the Cost of Canada’s Northernmost Highway</title>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <pubDate>Tue, 02 May 2017 08:18:49 +0000</pubDate>
+      <author>Erling Friis-Baastad</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/05/02/climate-change-drives-up-the-cost-of-canadas-northernmost-highway</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/05/02/climate-change-drives-up-the-cost-of-canadas-northernmost-highway</guid>
+      <description>Chris Burn at Carleton University is tracking the growing cost of maintaining Yukon’s Dempster Highway as warmer weather brings more landslides, washouts and other challenges.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170502081828/21197.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Art Gallery Aims to Amplify Inuit Voices</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Wed, 22 Feb 2017 09:44:52 +0000</pubDate>
+      <author>Erling Friis-Baastad</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/02/22/art-gallery-aims-to-amplify-inuit-voices</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/02/22/art-gallery-aims-to-amplify-inuit-voices</guid>
+      <description>Canada’s Winnipeg Art Gallery is already home to the world’s biggest collection of Inuit art. This spring, work gets started on providing this collection with a fitting home at the new Inuit Art Centre.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170222094217/4.-1206_150120_Vault-Observation1_Jan2015.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Joelle Bassoul</title>
+    <description>Joelle Bassoul is a spokesperson for Oxfam’s Syria crisis response.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/joelle-bassoul/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/joelle-bassoul/rss"/>
+    <item>
+      <title>Syrians Want End to War, Not Patchwork Solutions</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Joelle Bassoul</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/02/05/syrians-want-end-to-war-not-patchwork-solutions</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/02/05/syrians-want-end-to-war-not-patchwork-solutions</guid>
+      <description>World leaders came together in London on Thursday to pledge nearly $11 billion aid to victims of the Syria crisis. But, as Joelle Bassoul of Oxfam writes, while the amount of help promised in London is certainly a positive development what Syrian refugees desperately need, above all else, is peace.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112939/3c91df84-3cd2-425c-ba75-167d98-56b4c0a107124.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

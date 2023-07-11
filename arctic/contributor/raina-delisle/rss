@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Raina Delisle</title>
+    <description>Raina Delisle is a writer, editor, and digital journalist who has been published in The Globe and Mail, The Huffington Post and Today’s Parent, among others. A former broadcast news producer and newspaper reporter and editor, she has covered a wide range of topics and today focuses her work on coastal culture, environmental issues and the arts. She lives in Victoria, British Columbia, and enjoys hiking, camping, and building sandcastles with her family.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/raina-delisle/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/raina-delisle/rss"/>
+    <item>
+      <title>Racism and the Race to the North Pole</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Wed, 20 Jul 2016 15:08:14 +0000</pubDate>
+      <author>Raina Delisle</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/07/20/racism-and-the-race-to-the-north-pole</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/07/20/racism-and-the-race-to-the-north-pole</guid>
+      <description>HAKAI MAGAZINE: Once overlooked by white Americans, African American Arctic explorer Matthew Henson made an unforgettable impression on the Greenlandic Inuit. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160720150445/Stamp_composite.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: James Nestor</title>
+    <description>James Nestor is a San Francisco-based journalist and author of Deep: Freediving, Renegade Science, and What the Ocean Tells Us about Ourselves. He also directs the sperm whale communication project CETI (Cetacean Echolocation Translation Initiative). Over the course of his career as a journalist, Nestor has written for The New York Times, Outside Magazine, Men’s Journal, Scientific American, The San Francisco Chronicle, National Public Radio, and more.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/james-nestor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/james-nestor/rss"/>
+    <item>
+      <title>Looking for Eden at the Bottom of the Ocean</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <pubDate>Mon, 25 Dec 2017 03:04:00 +0000</pubDate>
+      <author>Solvin Zankl, Novus Select, James Nestor</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/12/25/looking-for-eden-at-the-bottom-of-the-ocean</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/12/25/looking-for-eden-at-the-bottom-of-the-ocean</guid>
+      <description>In a deep, dark and unexplored corner of the ocean, researchers are searching for the answer to how all life on Earth began. Take a journey with them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171221165634/20170702_234257_sized1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

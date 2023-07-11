@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Ashley Hamer</title>
+    <description>Ashley Hamer is a journalist and photographer reporting on East Africa.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/ashley-hamer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/ashley-hamer/rss"/>
+    <item>
+      <title>Beyond Help: Taking Shelter From Boko Haram in Chad’s Remote Swampland</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Tue, 27 Dec 2016 11:18:45 +0000</pubDate>
+      <author>Ashley Hamer</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/27/beyond-help-taking-shelter-boko-haram-chads-remote-swampland</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/27/beyond-help-taking-shelter-boko-haram-chads-remote-swampland</guid>
+      <description>Hundreds of thousands of families fleeing Boko Haram are now stranded in a remote and harsh border region, beyond the reach of humanitarian aid. Photojournalist Ashley Hamer documents the challenges facing the displaced who have found themselves in the Lake Chad Basin.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072130/IMG_7289.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beyond Help: Taking Shelter From Boko Haram in Chad’s Remote Swampland</title>
+      <pubDate>Thu, 15 Dec 2016 08:44:40 +0000</pubDate>
+      <author>Ashley Hamer</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/12/15/beyond-help-taking-shelter-from-boko-haram-in-chads-remote-swampland</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/12/15/beyond-help-taking-shelter-from-boko-haram-in-chads-remote-swampland</guid>
+      <description>Hundreds of thousands of families fleeing Boko Haram are now stranded in a remote and harsh border region, beyond the reach of humanitarian aid. Photojournalist Ashley Hamer documents the challenges facing the displaced who have found themselves in the Lake Chad Basin.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161215083404/IMG_7289.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Somali Refugees Decry Empty Promises on Return From Dadaab</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 11 Oct 2016 07:26:05 +0000</pubDate>
+      <author>Ashley Hamer</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/11/somali-refugees-decry-empty-promises-on-return-from-dabaab</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/11/somali-refugees-decry-empty-promises-on-return-from-dabaab</guid>
+      <description>Somali refugees who lived for decades in Kenya’s Dadaab camp are returning to Somalia via a repatriation program, only to find a fragile peace and shortage of supplies. New arrivals in Kismayo tell Ashley Hamer they feel let down and afraid.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161011063028/IMG_3932.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

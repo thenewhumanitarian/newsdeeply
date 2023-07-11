@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Isabel Hunter</title>
+    <description>Freelance journalist based between Istanbul and Gaziantep.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/isabel-hunter-2/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/isabel-hunter-2/rss"/>
+    <item>
+      <title>In Focus: For a Syrian Family, Illegal Border Crossing Proves Deadly</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Isabel Hunter</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/12/16/in-focus-for-a-syrian-family-illegal-border-crossing-proves-deadly</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/12/16/in-focus-for-a-syrian-family-illegal-border-crossing-proves-deadly</guid>
+      <description>As soon as they got the green light from their smuggler, the family from Tal Rifaat, a town near the Turkey-Syria border, knew it was time to go.</description>
+    </item>
+    <item>
+      <title>On the Ground, Aid Workers Face Kidnapping and Stolen Food Baskets</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Isabel Hunter</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/09/18/on-the-ground-aid-workers-face-kidnapping-and-stolen-food-baskets</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/09/18/on-the-ground-aid-workers-face-kidnapping-and-stolen-food-baskets</guid>
+      <description>Dusty and sweaty, three Assistance Coordination Unit (ACU) workers emerge from the Turkish-Syrian border at Cilvegözü, near Reyhanli.</description>
+    </item>
+  </channel>
+</rss>

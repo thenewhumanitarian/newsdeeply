@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Deepak Adhikari</title>
+    <description>Deepak Adhikari is an independent journalist based in Kathmandu. His journalism has appeared in his native Nepal and in international outlets.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/deepak-adhikari/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/deepak-adhikari/rss"/>
+    <item>
+      <title>How Nepal Managed to Curb Its Stunting Problem</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <pubDate>Mon, 08 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Deepak Adhikari</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/01/08/how-nepal-managed-to-curb-its-stunting-problem</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/01/08/how-nepal-managed-to-curb-its-stunting-problem</guid>
+      <description>Nepal once had the highest rate of stunting in the world. To bring those numbers down, officials first recognized that stunting is not a problem to be solved on its own.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180104091233/Hkg67638081.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

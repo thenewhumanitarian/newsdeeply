@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Jennifer Rigby</title>
+    <description>Jennifer Rigby is a freelance journalist who was recently based in Yangon, Myanmar. She has worked on stories for the Telegraph, the Independent, Mashable, Monocle and the BBC, and written on topics from paper pants to politics and human rights to heavy metal.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/jennifer-rigby/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/jennifer-rigby/rss"/>
+    <item>
+      <title>One Day, Three Women: A WhatsApp Story About Work and Equality</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/unpaid-domestic-and-care-work/">Unpaid Domestic and Care Work</category>
+      <pubDate>Thu, 08 Mar 2018 04:30:00 +0000</pubDate>
+      <author>Jennifer Rigby</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/03/08/one-day-three-women-a-whatsapp-story-about-work-and-equality</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/03/08/one-day-three-women-a-whatsapp-story-about-work-and-equality</guid>
+      <description>In our WhatsApp story for International Women’s Day, we used real-time updates to understand the challenges three women face during the course of a typical work day. Here we replicate the story with further insight into the obstacles that keep so many women from gaining stable and equal work.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180308043554/Untitled-1-Copy.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Women Stonemasons Help Rebuild Nepal After Earthquake Devastation</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <pubDate>Mon, 24 Apr 2017 07:43:47 +0000</pubDate>
+      <author>Jennifer Rigby</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/04/24/women-stonemasons-help-rebuild-nepal-after-earthquake-devastation</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/04/24/women-stonemasons-help-rebuild-nepal-after-earthquake-devastation</guid>
+      <description>More than 1 million homes were damaged or destroyed during the earthquake that hit Nepal on April 25, 2015. With many Nepali men working overseas, women are learning new skills to help rebuild the country from the rubble.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170424074126/Stone-masons.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

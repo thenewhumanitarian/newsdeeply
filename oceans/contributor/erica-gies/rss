@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Erica Gies</title>
+    <description>Erica Gies covers water, energy, critters and more on the science and environment beat. She holds a master’s degree in literature, with a focus in eco-criticism. Her work has appeared in The New York Times, Scientific American, Nature, The Economist and others.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/erica-gies/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/erica-gies/rss"/>
+    <item>
+      <title>Does Size Matter? Debating the Role of Marine Protected Areas</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/marine-protected-areas/">Marine Protected Areas</category>
+      <pubDate>Fri, 27 Apr 2018 03:00:00 +0000</pubDate>
+      <author>Erica Gies</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/04/27/does-size-matter-debating-the-role-of-marine-protected-areas</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/04/27/does-size-matter-debating-the-role-of-marine-protected-areas</guid>
+      <description>As the world’s marine ecosystems face increasing threats, scientists disagree on whether the trend toward huge, remote reserves is a promising new development or a worrisome distraction.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180424081954/RalphPace_MPA-131.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Why California’s Nitrate Problem Will Take Decades to Fix</title>
+      <category domain="https://www.newsdeeply.com/oceans/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/oceans/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/oceans/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/oceans/toxic-taps/">Toxic Taps</category>
+      <pubDate>Thu, 31 Aug 2017 03:00:22 +0000</pubDate>
+      <author>Erica Gies</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/08/31/why-californias-nitrate-problem-will-take-decades-to-fix</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/08/31/why-californias-nitrate-problem-will-take-decades-to-fix</guid>
+      <description>The state has a long-term plan to clean up nitrate-contaminated groundwater, but farmers say more research is still needed and environmental groups think the proposal isn’t strong enough.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170829055238/Dairy-lagoon.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>California Towns Tackle Nitrate Pollution With Local Solutions</title>
+      <category domain="https://www.newsdeeply.com/oceans/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/oceans/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/toxic-taps/">Toxic Taps</category>
+      <pubDate>Thu, 24 Aug 2017 03:00:09 +0000</pubDate>
+      <author>Tara Lohan, Erica Gies</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/08/24/california-towns-tackle-nitrate-pollution-with-local-solutions</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/08/24/california-towns-tackle-nitrate-pollution-with-local-solutions</guid>
+      <description>It will take decades to slow nitrate contamination in groundwater from industrial agriculture in parts of the state of California, so communities are taking matters into their own hands to get clean drinking water.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170823101923/US-ENVIRONMENT-POLLUTION-WATER-NITRATES-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

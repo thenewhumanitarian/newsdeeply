@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Salil Shetty</title>
+    <description>Salil Shetty is secretary-general of Amnesty International.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/salil-shetty/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/salil-shetty/rss"/>
+    <item>
+      <title>Amnesty: ‘Time for Change’ on Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 28 Jul 2016 07:03:41 +0000</pubDate>
+      <author>Salil Shetty</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/28/amnesty-time-for-change-on-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/28/amnesty-time-for-change-on-refugees</guid>
+      <description>On the 65th anniversary of the United Nations refugee convention, Amnesty International’s Salil Shetty warns against further delays in meeting the needs of the 65 million displaced – and calls for a global deal ahead of the U.N. refugee summit in September.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160728070225/Mideast-Lebanon-Syrian-Refugees1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

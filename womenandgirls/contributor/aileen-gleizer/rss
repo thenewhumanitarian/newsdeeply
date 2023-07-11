@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Aileen Gleizer</title>
+    <description>Aileen Gleizer is policy manager at Marie Stopes International, one of the largest family planning and reproductive health organizations worldwide. She is responsible for leading strategic partnerships with U.S. policymakers (Congress, State Department), bilateral/multilateral and institutional partners (World Bank, FP2020, UN bodies) and civil society organizations.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/aileen-gleizer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/aileen-gleizer/rss"/>
+    <item>
+      <title>Family Planning Provides Backbone for Healthcare Delivery in a Crisis</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Mon, 28 Nov 2016 13:48:33 +0000</pubDate>
+      <author>Aileen Gleizer</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/11/28/family-planning-provides-backbone-healthcare-delivery-crisis</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/11/28/family-planning-provides-backbone-healthcare-delivery-crisis</guid>
+      <description>During a crisis, such as the aftermath of the Nepal earthquake, access to family planning services is a priority, writes Aileen Gleizer, policy manager for Marie Stopes International. Providing it quickly and efficiently requires funding and cooperation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072232/MSI-Nepal.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

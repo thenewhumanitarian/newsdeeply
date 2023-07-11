@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Andrew Braugh</title>
+    <description>Andrew “Drew” Braugh is Mt. Shasta/Klamath director for the nonprofit fish and watershed conservation advocacy organization California Trout. This article originally appeared in the Redding Record-Searchlight newspaper.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/andrew-braugh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/andrew-braugh/rss"/>
+    <item>
+      <title>A California Water Mystery: the Vital Spring-fed Streams of the Shasta Region</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Andrew Braugh</author>
+      <link>https://www.newsdeeply.com/water/community/2015/08/17/a-california-water-mystery-the-vital-spring-fed-streams-of-the-shasta-region</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/08/17/a-california-water-mystery-the-vital-spring-fed-streams-of-the-shasta-region</guid>
+      <description>One of California’s most important watersheds still flows with clear, cold water, even deep into this drought. But we know little about how it works.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104714/wd-hero-55d2276996491.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kat Lonsdorf, Sarah Appel, Arthur Kropanev and Philipp Meuser</title>
+    <description>Kat Lonsdorf attended Occidental College in Los Angeles and spent her junior year living in Amman, Jordan. At Medill, she focuses on video and national security reporting.
+Sarah Appel is a student in Information, Media &amp;amp; Library at HAW Hamburg.
+Arthur Kropanev is a PhD student at St. Petersburg State University. He also works as an assistant at the international department of the School of Journalism and Mass Communications, SPbU.
+Philipp Meuser is a photographer born in Hamburg. His work has featured in several national exhibitions and some international magazines.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kat-lonsdorf/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kat-lonsdorf/rss"/>
+    <item>
+      <title>Flight for Life Series: Living in Transit</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 01 Sep 2016 07:46:03 +0000</pubDate>
+      <author>Kat Lonsdorf, Sarah Appel, Arthur Kropanev and Philipp Meuser</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/01/flight-for-life-series-living-in-transit</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/01/flight-for-life-series-living-in-transit</guid>
+      <description>As Germany struggles to house more than 1 million refugees, some unusual temporary solutions are being found. Meet the residents of Transit, a three-story barge full of transported lives moored near Hamburg.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160901073714/Transit-21.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

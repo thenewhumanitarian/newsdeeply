@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Kirstine Biltoft-Knudsen</title>
+    <description>Kirstine Biltoft-Knudsen is a Danish journalist based in New York. She works at Al Jazeera English’s United Nations Bureau and covers U.S. politics for Danish media. She holds a Bachelor’s degree in Journalism from the Danish School of Media and Journalism and The American University of Beirut as well as a Master’s degree from Columbia University.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/kirstine-biltoft-knudsen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/kirstine-biltoft-knudsen/rss"/>
+    <item>
+      <title>Capturing Arctic Change Through Photography</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Tue, 15 Nov 2016 06:27:11 +0000</pubDate>
+      <author>Kirstine Biltoft-Knudsen</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/15/capturing-arctic-change-through-photography</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/15/capturing-arctic-change-through-photography</guid>
+      <description>An epicenter for climate change, Greenland has caught the world’s attention. For decades, Danish photographer Carsten Egevang has photographed Greenlanders and their way of life as it is threatened by the changing climate.   </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161115073418/CEEG6116.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

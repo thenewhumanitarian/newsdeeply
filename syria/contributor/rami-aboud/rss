@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rami Aboud</title>
+    <description>Rami Aboud is a Syrian researcher and Journalist. His research focuses on the role of narratives in armed conflicts, divided urban spaces and post-conflict violence. He holds a masters degree in Politics and International Relations of the Middle East from the University of Exeter.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rami-aboud/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rami-aboud/rss"/>
+    <item>
+      <title>Aleppo’s Healthcare in Critical Condition</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Thu, 04 Aug 2016 11:59:34 +0000</pubDate>
+      <author>Rami Aboud</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/08/04/aleppos-healthcare-in-critical-condition</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/08/04/aleppos-healthcare-in-critical-condition</guid>
+      <description>Amid the blame game of warring parties in Aleppo, the healthcare system in Syria’s largest city is dying a slow and excruciating death.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160804115359/Mideast-Doctors-Under-Attack.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

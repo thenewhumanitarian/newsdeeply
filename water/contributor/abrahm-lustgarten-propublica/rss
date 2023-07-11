@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Abrahm Lustgarten, ProPublica</title>
+    <description>Abrahm Lustgarten covers energy, water, climate change and anything else having to do with the environment for ProPublica.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/abrahm-lustgarten-propublica/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/abrahm-lustgarten-propublica/rss"/>
+    <item>
+      <title>A Chief Source of Water for California Dries Up</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 03 Jun 2016 10:23:10 +0000</pubDate>
+      <author>Abrahm Lustgarten, ProPublica</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/06/03/a-chief-source-of-water-for-california-dries-up</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/06/03/a-chief-source-of-water-for-california-dries-up</guid>
+      <description>Lake Mead, which stores Colorado River water used by California and other states, hit a record low last month. Here’s what this means for people who depend on the reservoir.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160603102012/Lake-Mead-Water-Level1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

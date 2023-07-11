@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: MSF Staff</title>
+    <description>Doctors Without Borders/Médecins Sans Frontières (MSF) is an international medical humanitarian organization created by doctors and journalists in France in 1971.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/msf-staff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/msf-staff/rss"/>
+    <item>
+      <title>Mental Health Care for Syrian Refugees in Iraq</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
+      <author>MSF Staff</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/11/mental-health-care-for-syrian-refugees-in-iraq</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/11/mental-health-care-for-syrian-refugees-in-iraq</guid>
+      <description>As part of its medical response to the Syrian refugee crisis, Doctors Without Borders/Médecins Sans Frontières (MSF) has been running a mental health program providing psychological assistance to Syrians seeking sanctuary in northern Iraq’s Domeez refugee camp.</description>
+    </item>
+    <item>
+      <title>Syrian Refugees Flee to Northern Iraq</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate>
+      <author>MSF Staff</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/10/03/syrian-refugees-flee-to-northern-iraq</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/10/03/syrian-refugees-flee-to-northern-iraq</guid>
+      <description>Since mid August, more than 60,000 Syrians have fled to Iraqi Kurdistan. Many have faced a long walk through sweltering heat from Damascus or Aleppo, with growing numbers coming from Al Hassaka governorate, in northeastern Syria, following increased fighting in the area.</description>
+    </item>
+    <item>
+      <title>MSF Dispatch: Thousands in Damascus Suffer Neurotoxic Symptoms</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Sat, 24 Aug 2013 00:00:00 +0000</pubDate>
+      <author>MSF Staff</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/08/24/msf-dispatch-thousands-in-damascus-suffer-neurotoxic-symptoms</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/08/24/msf-dispatch-thousands-in-damascus-suffer-neurotoxic-symptoms</guid>
+      <description>The following post is courtesy of Doctors Without Borders (MSF).</description>
+    </item>
+  </channel>
+</rss>

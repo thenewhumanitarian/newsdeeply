@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Zoe Tabary</title>
+    <description>Zoe Tabary is a Thomson Reuters Foundation journalist covering climate and humanitarian issues.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/zoe-tabary/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/zoe-tabary/rss"/>
+    <item>
+      <title>In Mauritania, Force Feeding Leaves Young Girls With Long-Term Problems</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/">Noncommunicable Diseases</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Thu, 12 Apr 2018 10:30:00 +0000</pubDate>
+      <author>Zoe Tabary</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/04/12/in-mauritania-force-feeding-leaves-young-girls-with-long-term-problems</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/04/12/in-mauritania-force-feeding-leaves-young-girls-with-long-term-problems</guid>
+      <description>Heavier girls are deemed more beautiful and likelier to find a good husband in the West African country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180412103454/7417798888.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Jim W. Harper</title>
+    <description>Jim W. Harper has worked in marine communications for NOAA, the state of Florida and various universities. He has published more than 300 articles as a freelance journalist in National Geographic, Scientific American, Swimmer and other magazines and newspapers. Jim has worked in the Middle East and Europe and with international fellows from across the globe. He holds dual master’s degrees in environmental studies and mass communications.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/jim-w-harper/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/jim-w-harper/rss"/>
+    <item>
+      <title>Scientists Brace for Next Round of Global Coral Bleaching</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <pubDate>Fri, 11 Aug 2017 09:53:28 +0000</pubDate>
+      <author>Jim W. Harper</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/08/11/scientists-braced-for-next-round-of-global-coral-bleaching</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/08/11/scientists-braced-for-next-round-of-global-coral-bleaching</guid>
+      <description>The coral bleaching event that devastated reefs worldwide during the past three years is over for now, but as ocean temperatures continue to rise, bleaching is likely to continue on a regional level. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170811094939/Coral-bleaching-New-Caledonia.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

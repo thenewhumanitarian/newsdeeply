@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Kristin Solberg</title>
+    <description>Kristin Solberg is a correspondent for Christian Science Monitor.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/kristin-solberg/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/kristin-solberg/rss"/>
+    <item>
+      <title>Cease-Fires Bring Patchy Peace to Damascus Neighborhoods</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 25 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Kristin Solberg</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/25/cease-fires-bring-patchy-peace-to-damascus-neighborhoods</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/25/cease-fires-bring-patchy-peace-to-damascus-neighborhoods</guid>
+      <description>Syrian opposition sources says rebels are only agreeing to regime-led local cease-fires because the alternative is starvation.</description>
+    </item>
+    <item>
+      <title>Assad Offers Syrian Voters a First: Another Name on the Ballot</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Kristin Solberg</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/16/assad-offers-syrian-voters-a-first-another-name-on-the-ballot</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/16/assad-offers-syrian-voters-a-first-another-name-on-the-ballot</guid>
+      <description>An Assad has not faced a challenger for the presidency since 1970, when Hafez al-Assad seized power. Now, that could change.</description>
+    </item>
+  </channel>
+</rss>

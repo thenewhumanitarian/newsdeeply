@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Paul C. Sokoloff</title>
+    <description>Paul C. Sokoloff is a senior research assistant with the Canadian Museum of Nature.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/paul-c-sokoloff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/paul-c-sokoloff/rss"/>
+    <item>
+      <title>What’s in a Name: Hunting the Lichens of the Canadian High Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Tue, 29 Aug 2017 05:15:45 +0000</pubDate>
+      <author>Paul C. Sokoloff</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/08/29/whats-in-a-name-hunting-the-lichens-of-the-canadian-high-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/08/29/whats-in-a-name-hunting-the-lichens-of-the-canadian-high-arctic</guid>
+      <description>A recent research expedition should help scientists better understand the botanical diversity of Canada’s rapidly warming Arctic, writes the Canadian Museum of Nature’s Paul Sokoloff.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170829041018/Xanthoria-elegans-DSC_0230-PSokoloff-2017.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

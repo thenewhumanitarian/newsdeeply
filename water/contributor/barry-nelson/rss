@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Barry Nelson</title>
+    <description>Barry Nelson is an independent water policy consultant who has been active on Bay-Delta and water issues for more than 30 years. He wrote an analysis of new California water storage strategies in the most recent issue of San Francisco Estuary and Watershed Science.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/barry-nelson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/barry-nelson/rss"/>
+    <item>
+      <title>New Water Storage Strategies Serve California’s 21st Century Needs</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 25 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Barry Nelson</author>
+      <link>https://www.newsdeeply.com/water/community/2018/01/25/new-water-storage-strategies-serve-californias-21st-century-needs</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/01/25/new-water-storage-strategies-serve-californias-21st-century-needs</guid>
+      <description>While California hasn’t added any large dams in the last 40 years, water managers have become creative about developing other kinds of water storage projects with fewer environmental impacts, writes policy expert Barry Nelson.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180123125734/9045743515_d2e3c5eab7_k1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

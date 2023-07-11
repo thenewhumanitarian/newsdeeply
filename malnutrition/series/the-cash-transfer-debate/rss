@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Cash Transfer Debate</title>
+    <description>Read features, analysis and in-depth articles from Malnutrition Deeply correspondents, including stories about stunting, maternal health, obesity, international aid, innovation and policy issues.</description>
+    <link>https://www.newsdeeply.com/malnutrition/series/the-cash-transfer-debate/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/series/the-cash-transfer-debate/rss"/>
+    <item>
+      <title>Not a Silver Bullet, but Cash Transfers Can Help Improve Nutrition: Expert</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Thu, 17 May 2018 11:20:00 +0000</pubDate>
+      <author>Andrew Green</author>
+      <link>https://www.newsdeeply.com/malnutrition/community/2018/05/17/not-a-silver-bullet-but-cash-transfers-can-help-improve-nutrition-expert</link>
+      <guid>https://www.newsdeeply.com/malnutrition/community/2018/05/17/not-a-silver-bullet-but-cash-transfers-can-help-improve-nutrition-expert</guid>
+      <description>While cash transfers have not delivered on their early promise when it comes to malnutrition, that does not mean they have no role to play, according to Stephen Devereux, the codirector of the Centre for Social Protection.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180517112642/AFP_9W852.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>India Is Confronting a Cash Transfer Failure</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/maternal-and-child-health/">Maternal and Child Health</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <pubDate>Thu, 10 May 2018 11:20:00 +0000</pubDate>
+      <author>Amruta Byatnal</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/10/india-is-confronting-a-cash-transfer-failure</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/10/india-is-confronting-a-cash-transfer-failure</guid>
+      <description>In the second part of our series on cash transfers, we explore how opposition to an experiment made the Indian government confront the drawbacks and look for lessons for future interventions.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180510111949/Del6243560.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>New Research Shows Cash Transfers Have Limited Impact on Malnutrition</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Wed, 02 May 2018 12:10:00 +0000</pubDate>
+      <author>Andrew Green</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/02/new-research-shows-cash-transfers-have-limited-impact-on-malnutrition</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/02/new-research-shows-cash-transfers-have-limited-impact-on-malnutrition</guid>
+      <description>It is clear that cash transfers alone will not end acute or chronic malnutrition, leaving researchers to examine how they can be effectively integrated as part of a larger response.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180502121303/mwi-salima-1203-184-v1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

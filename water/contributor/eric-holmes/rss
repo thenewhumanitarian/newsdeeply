@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Eric Holmes</title>
+    <description>Eric Holmes is a researcher at the Center for Watershed Sciences. His work focuses on salmonid restoration and research projects in California’s complex ecosystems.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/eric-holmes/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/eric-holmes/rss"/>
+    <item>
+      <title>Flooding Rice Fields Provide Hope for Salmon</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Eric Holmes</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/04/01/flooding-rice-fields-provide-hope-for-salmon</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/04/01/flooding-rice-fields-provide-hope-for-salmon</guid>
+      <description>We’ve engineered away most of the natural floodplain that used to exist in the Central Valley, and that’s bad news for juvenile salmon, which once relied on it for habitat. The Knaggs Nigiri Project is attempting to bring some of this back by flooding the fields of rice farmers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102219/25620679382_a0eceb8334_k-56fe3eb6bb579.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Jefferson Keith Moore</title>
+    <description>Jefferson Keith Moore is a professor of earth system science at the University of California, Irvine.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/jefferson-keith-moore/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/jefferson-keith-moore/rss"/>
+    <item>
+      <title>Global Fish Catch Could Plummet as Climate Change Takes Hold</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Thu, 17 May 2018 03:00:00 +0000</pubDate>
+      <author>Jefferson Keith Moore</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/05/17/global-fish-catch-could-plummet-as-climate-change-takes-hold</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/05/17/global-fish-catch-could-plummet-as-climate-change-takes-hold</guid>
+      <description>Over the next two centuries, warming oceans could trap nutrients at the poles and starve out many of the world’s fisheries, according to a recent study.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180509090325/file-20180413-127631-x3zcer1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

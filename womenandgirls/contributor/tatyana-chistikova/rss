@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Tatyana Chistikova</title>
+    <description>Tatyana Chistikova is a documentary filmmaker, VJ and visual storyteller from Russia. 2014 NYU News and Documentary grad, she’s currently based in Moscow, Russia. Her main beats are social issues, human stories and extreme activities. Her video work has been featured on AJ+, Fusion, Chinese Pear Video and other media.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/tatyana-chistikova/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/tatyana-chistikova/rss"/>
+    <item>
+      <title>Video: Survivors Heal Through Art as Russia Turns its Back on Domestic Abuse</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Fri, 28 Apr 2017 12:44:09 +0000</pubDate>
+      <author>Taisiya Koroleva, Irina Sedunova, Tatyana Chistikova</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/04/28/video-survivors-heal-through-art-as-russia-turns-its-back-on-domestic-abuse</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/04/28/video-survivors-heal-through-art-as-russia-turns-its-back-on-domestic-abuse</guid>
+      <description>Abused first by her father, and then by her husband, Nina tells News Deeply how she found solace in art therapy, as part of our in-depth series on domestic violence worldwide.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170428124308/Russia-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

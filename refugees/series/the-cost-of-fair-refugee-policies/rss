@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Cost of Fair Refugee Policies</title>
+    <description>Reporting on refugee issues around the world, including the political, economic  and environmental causes of displacement and the people and ideas addressing forced migration.</description>
+    <link>https://www.newsdeeply.com/refugees/series/the-cost-of-fair-refugee-policies/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/series/the-cost-of-fair-refugee-policies/rss"/>
+    <item>
+      <title>Protecting Refugees in Nations Struggling With Poverty and Instability</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 04 Aug 2017 03:00:28 +0000</pubDate>
+      <author>﻿Behzad Yaghmaian</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/08/04/protecting-refugees-in-nations-struggling-with-poverty-and-instability</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/08/04/protecting-refugees-in-nations-struggling-with-poverty-and-instability</guid>
+      <description>Rich countries have a terrible record of policy intervention in the global South, exacerbating the vulnerability of the majority of the world’s refugees, says political economy professor Behzad Yaghmaian. He argues for a radical new approach to refugee protection.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170801091246/LEBANON-SYRIA-CONFLICT-REFUGEES-FIRE.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>To Protect Refugees, We Must Confront Anxiety Over Muslims in Europe</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 21 Jul 2017 06:42:17 +0000</pubDate>
+      <author>﻿Behzad Yaghmaian</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/07/21/to-protect-refugees-we-must-confront-anxiety-over-muslims-in-europe</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/07/21/to-protect-refugees-we-must-confront-anxiety-over-muslims-in-europe</guid>
+      <description>European policy-makers must address cultural and political anxieties about Islam and refugees head on, rather than ceding the public debate to the far right and their self-defeating policies, argues political economy professor Behzad Yaghmaian.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170721064057/BELGIUM-EU-ISLAM-TERROR-ATTACKS-TOUR.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Need Universal Basic Income to End Economic Anxiety Over Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <pubDate>Tue, 27 Jun 2017 08:14:41 +0000</pubDate>
+      <author>﻿Behzad Yaghmaian</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/06/27/we-need-universal-basic-income-to-end-economic-anxiety-over-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/06/27/we-need-universal-basic-income-to-end-economic-anxiety-over-refugees</guid>
+      <description>Refugees, migrants and the struggling middle classes in Europe have all been harmed by neoliberal globalization, writes Behzad Yaghmaian. He makes the case for an alternative “solidarity-based globalism,” including universal basic income and an end to austerity.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170627081408/Greece-Migrants23.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Why Migration Will Not Destroy the Welfare State</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <pubDate>Fri, 02 Jun 2017 08:19:50 +0000</pubDate>
+      <author>﻿Behzad Yaghmaian</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/06/02/why-migration-will-not-destroy-the-welfare-state</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/06/02/why-migration-will-not-destroy-the-welfare-state</guid>
+      <description>As part of the series ‘The Cost of Fair Refugee Policies,’ Behzad Yaghmaian argues that economists’ warnings that migration will undermine European welfare states are based on the same mistaken assumptions common to the anti-immigrant movements roiling the continent. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170602081842/election-campaign-posters-with-Marine-Le-Pen.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

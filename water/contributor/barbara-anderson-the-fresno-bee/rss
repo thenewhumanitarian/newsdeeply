@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Barbara Anderson, The Fresno Bee</title>
+    <description>Barbara Anderson, The Fresno Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/barbara-anderson-the-fresno-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/barbara-anderson-the-fresno-bee/rss"/>
+    <item>
+      <title>Homeless Camp Outside Mendota Grows in Drought</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Barbara Anderson, The Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/11/02/homeless-camp-outside-mendota-grows-in-drought</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/11/02/homeless-camp-outside-mendota-grows-in-drought</guid>
+      <description>FRESNO BEE: Westlands Water District has been told to get rid of a camp that has mushroomed on its land. Officials say a “direct correlation” is likely between drought and the explosion in size of the camp, which is composed mostly of homeless farmworkers who struggle to find work in drought times.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102422/f02b07ad-f352-465e-93df-315f93-5637bbd6b5c67.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

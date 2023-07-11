@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: ﻿﻿Nadia Sussman</title>
+    <description>Nadia Sussman is a visual journalist who has been based in Rio de Janeiro since 2013. Her work from throughout Latin America has been featured by the New York Times, the BBC, Bloomberg, the Washington Post and numerous other media outlets.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/%ef%bb%bf%ef%bb%bfnadia-sussman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/%ef%bb%bf%ef%bb%bfnadia-sussman/rss"/>
+    <item>
+      <title>Video: Women in Brazil Face Barriers to Birth Control, in Spite of Zika</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Thu, 27 Oct 2016 10:45:22 +0000</pubDate>
+      <author>﻿﻿Nadia Sussman</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/10/27/women-brazil-face-barriers-birth-control-spite-zika</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/10/27/women-brazil-face-barriers-birth-control-spite-zika</guid>
+      <description>As Brazil copes with an ongoing outbreak of the Zika virus, women still face barriers to accessing their preferred method of birth control. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072954/Brazil-Video-Screenshot2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rahaf Haboub</title>
+    <description>Rahaf Haboub is a Syrian Journalist.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rahaf-haboub/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rahaf-haboub/rss"/>
+    <item>
+      <title>Haunting Memories: An Escape from Daraya</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Rahaf Haboub</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/04/21/haunting-memories-an-escape-from-daraya</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/04/21/haunting-memories-an-escape-from-daraya</guid>
+      <description>Journalist Rahaf Haboub grew up in Daraya, a Damascus suburb besieged by pro-government forces for more than three years. She and her family fled in fall 2012 after the government targeted the area with airstrikes and barrel bombs – these are her recollections of those harrowing times.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114102/daraya-5718da1941b44.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

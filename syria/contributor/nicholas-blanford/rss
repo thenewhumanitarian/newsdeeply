@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Nicholas Blanford</title>
+    <description>Nicholas Blanford has been a correspondent for the Christian Science Monitor, writing on Lebanon and other areas of the Middle East, since 2002. He has covered Lebanon’s complex and turbulent politics, including the 2005 assassination of former prime minister Rafik Hariri, the 2006 Hezbollah-Israel war and the uprising in Syria. He has also reported for the Monitor from Iraq, Syria, Qatar and Kuwait. He is author of “Killing Mr Lebanon: The Assassination of Rafik Hariri and its Impact on the Middle East” (I.B. Tauris, 2006) and “Warriors of God: Inside Hezbollah’s Thirty-Year Struggle Against Israel” (Random House, 2011).
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/nicholas-blanford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/nicholas-blanford/rss"/>
+    <item>
+      <title>Analysis: With Aleppo Poised to Fall, Syria’s Assad Is Set to Rise</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 07 Dec 2016 10:08:04 +0000</pubDate>
+      <author>Nicholas Blanford</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/12/07/analysis-with-aleppo-poised-to-fall-syrias-assad-is-set-to-rise</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/12/07/analysis-with-aleppo-poised-to-fall-syrias-assad-is-set-to-rise</guid>
+      <description>A victory in Aleppo would put the Syrian regime in a potentially advantageous position to recapture the “essential Syria” – the western half of the country, writes journalist Nicholas Blanford. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161207100653/Syrian-civil-war.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Has Russian Intervention Made Situation More Clear?</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      <author>Nicholas Blanford</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/10/30/has-russian-intervention-made-situation-more-clear</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/10/30/has-russian-intervention-made-situation-more-clear</guid>
+      <description>Amid a renewed diplomatic push in Vienna that includes the United States, Iran, and European and Middle East powers, deep divisions remain over Syrian President Assad’s future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114353/a7df79ac-2222-4909-be9b-1c3302-5633cd0051246.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

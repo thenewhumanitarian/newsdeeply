@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Kate Wheeling</title>
+    <description>Kate Wheeling is a staff writer at Pacific Standard, where she specializes in criminal justice and the environment. She was previously an associate editor and editorial fellow at Pacific Standard. She joined Pacific Standard after internships at the American Geophysical Union and Yale Medicine, where she wrote about all things science from heliophysics to human cells. Wheeling has a bachelor’s degree in behavioral neuroscience and a master’s in science journalism. She has also written for Outside, Science, and Discover magazine.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/kate-wheeling/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/kate-wheeling/rss"/>
+    <item>
+      <title>A Big Catch: California Whales Are Getting Tangled in Fishing Gear</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Mon, 04 Sep 2017 03:00:20 +0000</pubDate>
+      <author>Kate Wheeling</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/09/04/a-big-catch-california-whales-are-getting-tangled-in-fishing-gear</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/09/04/a-big-catch-california-whales-are-getting-tangled-in-fishing-gear</guid>
+      <description>California has seen a record-breaking number of whale entanglements over the past three years. Now the Center for Biological Diversity is suing the state for failing to protect the imperiled marine mammals.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170831151243/whale-entangled-lyman-hws-1200x600.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

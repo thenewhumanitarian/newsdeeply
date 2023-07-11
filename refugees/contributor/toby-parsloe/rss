@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Toby Parsloe</title>
+    <description>Toby Parsloe is a PhD candidate at the Centre for Urban Conflicts Research, Department of Architecture, University of Cambridge.
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/toby-parsloe/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/toby-parsloe/rss"/>
+    <item>
+      <title>Berlin’s Tempelhof: The Camp Too Controversial to Customize</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Thu, 22 Jun 2017 12:24:29 +0000</pubDate>
+      <author>Toby Parsloe</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/22/berlins-tempelhof-the-camp-too-controversial-to-customize</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/22/berlins-tempelhof-the-camp-too-controversial-to-customize</guid>
+      <description>The complex history of Berlin’s closed airport made it challenging as a refugee shelter, writes Toby Parsloe for Forced Migration Review. He explains how a graffiti ban and concerns over its future show the constraints of co-opting public buildings for refugee housing.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170622122318/Emergency-shelter-for-refugees-in-Tempelhof.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

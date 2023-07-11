@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Lewis Griswold, Fresno Bee</title>
+    <description>Lewis Griswold is a reporter at the Fresno Bee.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/lewis-griswold-fresno-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/lewis-griswold-fresno-bee/rss"/>
+    <item>
+      <title>Water Bank in San Joaquin Valley Nearing Approval</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 04 May 2016 11:37:00 +0000</pubDate>
+      <author>Lewis Griswold, Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/05/04/water-bank-in-san-joaquin-valley-nearing-approval</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/05/04/water-bank-in-san-joaquin-valley-nearing-approval</guid>
+      <description>FRESNO BEE: Two irrigation districts could get the green light soon to build a new water bank project in the southern San Joaquin Valley. Water would be piped from the Friant-Kern Canal and percolate into a 560-acre recharge basin.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160515114236/PORTRAIT-OF-A-RIVER-PART-II.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Water Managers Urge Rewrite of Groundwater Rules</title>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Lewis Griswold, Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/03/30/water-managers-urge-rewrite-of-groundwater-rules</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/03/30/water-managers-urge-rewrite-of-groundwater-rules</guid>
+      <description>FRESNO BEE: Farmers and water district managers in the San Joaquin Valley expressed concern at a public meeting about implementing the 2014 groundwater law. Of particular concern was the fact that multiple agencies would need to be involved in managing basins, which may make things difficult.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102221/irrigation-56fba8ba50f30.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

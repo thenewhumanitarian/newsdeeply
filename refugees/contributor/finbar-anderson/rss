@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Finbar Anderson</title>
+    <description>Finbar Anderson is a freelance journalist based in Beirut. He specialises in law, refugee, and migration issues.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/finbar-anderson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/finbar-anderson/rss"/>
+    <item>
+      <title>How the U.K. Government Ignored Offers to Take in More Lone Children</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 19 Jul 2017 11:52:48 +0000</pubDate>
+      <author>Finbar Anderson</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/07/19/how-the-u-k-government-ignored-offers-to-take-in-more-lone-children</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/07/19/how-the-u-k-government-ignored-offers-to-take-in-more-lone-children</guid>
+      <description>British charity Help Refugees is taking the U.K. government to court over its failure to take in more unaccompanied children. Finbar Anderson, who previously worked on the case, explains evidence that local authorities’ offers to take in more children were suppressed.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170719115151/Protest-in-London.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

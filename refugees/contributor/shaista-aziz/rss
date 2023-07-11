@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Shaista Aziz</title>
+    <description>Shaista Aziz is a freelance journalist specializing on race, gender and humanitarian emergencies. She tweets @shaistaAziz.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/shaista-aziz/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/shaista-aziz/rss"/>
+    <item>
+      <title>Hungry and Isolated, Women Who Survived Boko Haram Face New Nightmare</title>
+      <category domain="https://www.newsdeeply.com/refugees/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Wed, 19 Oct 2016 10:35:34 +0000</pubDate>
+      <author>Shaista Aziz</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/10/19/hungry-isolated-women-survived-boko-haram-face-new-nightmare</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/10/19/hungry-isolated-women-survived-boko-haram-face-new-nightmare</guid>
+      <description>Hunger and insecurity stalks the displacement camps of Nigeria’s northeastern Borno state, where people who fled Boko Haram face the risk of famine. Shaista Aziz meets displaced women concerned about destitution and abuse, and the female activists trying to help them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073029/Nigeria-Boko-Haram-Going-Home.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hungry and Isolated, Women Who Survived Boko Haram Face New Nightmare</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 18 Oct 2016 07:31:02 +0000</pubDate>
+      <author>Shaista Aziz</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/18/hungry-and-isolated-women-who-survived-boko-haram-face-new-nightmare</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/18/hungry-and-isolated-women-who-survived-boko-haram-face-new-nightmare</guid>
+      <description>Hunger and insecurity stalks the displacement camps of Nigeria’s northeastern Borno state, where people who fled Boko Haram face the risk of famine. Shaista Aziz meets displaced women concerned about destitution and abuse, and the female activists trying to help them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161018070137/Nigeria-Boko-Haram-Going-Home.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

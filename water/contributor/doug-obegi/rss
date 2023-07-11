@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Doug Obegi</title>
+    <description>Doug Obegi is a senior attorney at the Natural Resources Defense Council. Since coming to NRDC in 2008, Obegi has worked on a variety of projects related to water-resource management in California, including the proposed Bay-Delta Conservation Plan/California WaterFix. Obegi has also represented the organization in federal court during litigation regarding protection for endangered species in the Bay-Delta estuary.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/doug-obegi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/doug-obegi/rss"/>
+    <item>
+      <title>Why California Water Fix Is a Path to Extinction for Native Fisheries</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 23 Aug 2016 07:35:05 +0000</pubDate>
+      <author>Doug Obegi</author>
+      <link>https://www.newsdeeply.com/water/community/2016/08/23/why-california-water-fix-is-a-path-to-extinction-for-native-fisheries</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/08/23/why-california-water-fix-is-a-path-to-extinction-for-native-fisheries</guid>
+      <description>A biological assessment for the twin tunnels plan for new conveyance of California water shows that several native fisheries could be pushed even further toward extinction, says Doug Obegi, a senior attorney at the Natural Resources Defense Council.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160823073245/California-Drought-Salmon.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

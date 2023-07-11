@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Orban Wallace</title>
+    <description>Orban Wallace is a documentary filmmaker based in London, United Kingdom.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/orban-wallace/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/orban-wallace/rss"/>
+    <item>
+      <title>Video: ‘Migration is The Biggest News Story of Our Times’</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 21 Sep 2016 06:01:40 +0000</pubDate>
+      <author>Orban Wallace</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/09/21/video-migration-is-the-biggest-news-story-of-our-times</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/09/21/video-migration-is-the-biggest-news-story-of-our-times</guid>
+      <description>When filmmaker Orban Wallace arrived at the Hungarian border in September 2015, he wanted to witness the refugee crisis that was unfolding. But what grasped his attention was what happened off-camera in the media’s coverage of the world-changing events. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160921080413/United-Nations-Refugees1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

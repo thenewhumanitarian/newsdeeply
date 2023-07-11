@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Danielle Beurteaux</title>
+    <description>Danielle Beurteaux is a New York-based freelance journalist who writes about science, technology and food.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/danielle-beurteaux/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/danielle-beurteaux/rss"/>
+    <item>
+      <title>Seabirds Aren’t Keeping Pace With Climate Change, Scientists Warn</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <pubDate>Tue, 17 Apr 2018 07:40:00 +0000</pubDate>
+      <author>Danielle Beurteaux</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/04/17/seabirds-arent-keeping-pace-with-climate-change-scientists-warn</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/04/17/seabirds-arent-keeping-pace-with-climate-change-scientists-warn</guid>
+      <description>An international team of researchers finds that seabirds aren’t shifting their breeding times as ocean temperatures rise, which risks putting them out of sync with the availability of prey to find for their young.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180417074118/500139751.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Heavy Metal: The New Toxic Danger Posed by Ocean Plastic Trash</title>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Tue, 03 Apr 2018 03:00:00 +0000</pubDate>
+      <author>Danielle Beurteaux</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/04/03/heavy-metal-the-new-toxic-danger-posed-by-ocean-plastic-trash</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/04/03/heavy-metal-the-new-toxic-danger-posed-by-ocean-plastic-trash</guid>
+      <description>Plastics entering coastal waters both absorb and release cadmium, lead and other toxic metals. Scientists are now trying to determine the impact of metal-contaminated plastic on marine life and ocean ecosystems.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180402072318/BM_055017431.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

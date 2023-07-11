@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Doris Friedrich</title>
+    <description>Doris Friedrich studies human-environment relations and ethnic diversity in the Arctic and is a writer for The Arctic Institute.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/doris-friedrich/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/doris-friedrich/rss"/>
+    <item>
+      <title>Renewable Energy Seen as an Opportunity for the European Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/energy-natural-resources/">Energy &amp; Natural Resources</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Mon, 21 Nov 2016 05:00:40 +0000</pubDate>
+      <author>Doris Friedrich</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/21/renewable-energy-seen-as-an-opportunity-for-the-european-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/21/renewable-energy-seen-as-an-opportunity-for-the-european-arctic</guid>
+      <description>With geothermal energy in Iceland, hydropower in Norway and wind energy in the Faroe Islands, Europe is well on its way to decarbonizing its energy systems.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161117142909/2333879736_2431b27421_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Kareem Chehayeb</title>
+    <description>Kareem Chehayeb is a Lebanese journalist, analyst and musician currently based in Beirut. Follow him on Twitter @chehayebk. www.kareemchehayeb.com
+ 
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/kareem-chehayeb/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/kareem-chehayeb/rss"/>
+    <item>
+      <title>Analysis: What a Battle on the Lebanese Border Could Mean For Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 21 Jul 2017 11:56:09 +0000</pubDate>
+      <author>Kareem Chehayeb</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/07/21/analysis-what-a-battle-on-the-lebanese-border-could-mean-for-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/07/21/analysis-what-a-battle-on-the-lebanese-border-could-mean-for-syria</guid>
+      <description>A battle on the outskirts of a Lebanese border town will have significant implications on the Syrian refugee population in Lebanon and may boost Hezbollah’s capabilities in Syria as it moves to secure a section of the Lebanese frontier, writes Kareem Chehayeb. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170721114857/LEBANON-UNREST-SYRIA-CONFLICT-ARSAL.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Analysis: Lebanon’s New Presidency May Enact Anti-Refugee Agenda</title>
+      <category domain="https://www.newsdeeply.com/syria/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 10 Nov 2016 07:03:16 +0000</pubDate>
+      <author>Kareem Chehayeb</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/11/10/analysis-lebanons-new-presidency-may-enact-anti-refugee-agenda</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/11/10/analysis-lebanons-new-presidency-may-enact-anti-refugee-agenda</guid>
+      <description>Lebanese analyst Kareem Chehayeb examines what the election of a new president after two and a half years of political stalemate will mean for the million Syrian refugees in the country. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161110085900/Mideast-Lebanon1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

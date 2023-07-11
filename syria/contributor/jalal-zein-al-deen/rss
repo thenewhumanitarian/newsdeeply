@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jalal Zein al-Deen</title>
+    <description>Jalal Zein al-Deen is an independent Syrian journalist with a focus on the area of al-Raqqa.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jalal-zein-al-deen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jalal-zein-al-deen/rss"/>
+    <item>
+      <title>Analysis: How Syrian Men Changed Under Militant Rule</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 11 Aug 2016 12:24:51 +0000</pubDate>
+      <author>Jalal Zein al-Deen</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/08/11/analysis-how-syrian-men-changed-under-militant-rule</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/08/11/analysis-how-syrian-men-changed-under-militant-rule</guid>
+      <description>ISIS has been increasing its influence on the local population, creating changes in the fabric of society that could outlive the militant group’s existence, Syrian journalist Jalal Zein al-Deen explains.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160811122254/Screen-Shot-2015-07-10-at-8.10.44-AM1.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

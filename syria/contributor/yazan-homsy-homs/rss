@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Yazan Homsy / Homs</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/yazan-homsy-homs/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/yazan-homsy-homs/rss"/>
+    <item>
+      <title>Syrian Slice of Life: A Citizen Journalist in Homs</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Yazan Homsy / Homs</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/09/06/syrian-slice-of-life-a-citizen-journalist-in-homs</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/09/06/syrian-slice-of-life-a-citizen-journalist-in-homs</guid>
+      <description>The citizen journalist starts his day at dawn, waiting at one of Homs’ taller buildings (or what’s left of it) for the first explosion of the day. Once it happens he heads to the site, ignoring the dangers that surround him.</description>
+    </item>
+  </channel>
+</rss>

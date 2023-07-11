@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Imran Mohammad</title>
+    <description>Imran Mohammad is a Rohingya refugee who has been held in Australia’s offshore detention center on Papua New Guinea’s Manus Island since 2013. He learned English in detention and now writes for the Australian student newspaper Honi Soit.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/imran-mohammad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/imran-mohammad/rss"/>
+    <item>
+      <title>What I Learned About Love and Writing in Refugee Detention</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 12 Jun 2017 11:59:25 +0000</pubDate>
+      <author>Imran Mohammad</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/12/what-i-learned-about-love-and-writing-in-refugee-detention</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/12/what-i-learned-about-love-and-writing-in-refugee-detention</guid>
+      <description>As Australia’s offshore detention center on Manus nears closure, 22-year-old Imran Mohammad describes his four years there, where he learned English and fell in love with writing, while confronting a future without his first love – his childhood sweetheart in Myanmar. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170609134507/Australia-US-Reugees.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

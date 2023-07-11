@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Lenio Capsaskis</title>
+    <description>Lenio Capsaskis is the Academy Stavros Niarchos Foundation Senior Fellow, Centre on Global Health Security at Chatham House. She previously worked with PRAKSIS, a Greek NGO, as the field coordinator of a refugee crisis response team on the Greek islands, and then as the health programs coordinator in Athens.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/lenio-capsaskis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/lenio-capsaskis/rss"/>
+    <item>
+      <title>Integrating Refugees Can Strengthen Greece’s Health System</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Wed, 05 Jul 2017 10:29:08 +0000</pubDate>
+      <author>Lenio Capsaskis</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/07/05/integrating-refugees-can-strengthen-greeces-health-system</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/07/05/integrating-refugees-can-strengthen-greeces-health-system</guid>
+      <description>Health focus and funding in Greece needs to shift from an emergency response centered on NGOs, toward building a more comprehensive and inclusive national health system, argues Chatham House’s Lenio Capsaskis.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170705102555/GREECE-EU-MIGRANTS-HEALTH.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Danielle Villasana</title>
+    <description>Danielle Villasana is an independent photojournalist whose documentary work focuses on women, identity, human rights and health. She is currently based in Istanbul, Turkey. Instagram/Twitter: @davillasana.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/danielle-villasana/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/danielle-villasana/rss"/>
+    <item>
+      <title>Photo Essay: Children Who Escaped Boko Haram Live in Shadow of Famine</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 20 Mar 2017 14:25:49 +0000</pubDate>
+      <author>Danielle Villasana</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/20/photo-essay-children-who-escaped-boko-haram-live-in-shadow-of-famine</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/20/photo-essay-children-who-escaped-boko-haram-live-in-shadow-of-famine</guid>
+      <description>As severe hunger takes hold in northeast Nigeria, the U.N. estimates that nearly a half-million children under five will suffer from acute malnutrition this year, and 90,000 may die. Photojournalist Danielle Villasana tells the stories behind the devastating numbers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170320141234/MALNUTRITION_NIGERIA_D.VILLASANA_10.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Photo Essay: Afghan Asylum Seekers Stranded at Hungary-Serbia Border</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 05 Oct 2016 15:30:46 +0000</pubDate>
+      <author>Danielle Villasana</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/05/photo-essay-afghan-asylum-seekers-stranded-at-hungary-serbia-border</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/05/photo-essay-afghan-asylum-seekers-stranded-at-hungary-serbia-border</guid>
+      <description>As leaders met for the Brussels Conference on Afghanistan, asylum seekers in Serbia – many of them Afghans – marched toward the border with Hungary. Photographer Danielle Villasana visited one of the makeshift settlements on the Serbian border where hundreds are stranded.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161005151348/REFUGEE_HEALTH_SERBIA_D.VILLASANA_011.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

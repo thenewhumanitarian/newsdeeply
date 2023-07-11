@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Adrian Gall</title>
+    <description>Dr. Adrian Gall is a marine ecologist fascinated by critters that can swim, dive and fly. She provides rigorous science to clients in the public and private sectors as a senior scientist and coordinator of the Aquatic Ecology program at ABR, Inc.  –  Environmental Research &amp;amp; Services. Her home base in Fairbanks, Alaska, is conveniently equidistant from most of Alaska’s coastline.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/adrian-gall/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/adrian-gall/rss"/>
+    <item>
+      <title>Hanna Shoal: An Icy Haven for Arctic Sea Animals That Staves off Summer</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Tue, 30 Aug 2016 12:00:02 +0000</pubDate>
+      <author>Adrian Gall</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/08/30/hanna-shoal-an-icy-haven-for-arctic-sea-animals-that-staves-off-summer</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/08/30/hanna-shoal-an-icy-haven-for-arctic-sea-animals-that-staves-off-summer</guid>
+      <description>In the Hanna Shoal region, warm water diverts around a 10m (30ft) hill on the seafloor, allowing the sea ice here to persist into September and attract the walruses, polar bears, seals and birds that rely on the ice environment, says marine ecologist Adrian Gall.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160830084816/Hanna_Walrus.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

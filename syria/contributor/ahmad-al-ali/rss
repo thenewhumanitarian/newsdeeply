@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ahmad al-Ali</title>
+    <description>Syria Contributor
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/ahmad-al-ali/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ahmad-al-ali/rss"/>
+    <item>
+      <title>Syrian Soldiers Desert Their Military Posts</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Ahmad al-Ali</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/08/27/syrian-soldiers-desert-their-military-posts</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/08/27/syrian-soldiers-desert-their-military-posts</guid>
+      <description>Suwar Magazine spoke to former soldiers who defected from the Syrian army.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114459/syrian-army-fighters-3-suwar-55df1fe70dc22.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

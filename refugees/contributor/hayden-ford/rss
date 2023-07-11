@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Hayden Ford</title>
+    <description>Hayden Ford is a student at the New School’s Graduate Program in International Affairs in New York City. His academic focuses include the history of the nation state, nationalism, and borders.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/hayden-ford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/hayden-ford/rss"/>
+    <item>
+      <title>The Real Migrant Crime Wave: Mafia Exploitation of Migrants in Sicily</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Tue, 01 Aug 2017 10:55:19 +0000</pubDate>
+      <author>Hayden Ford</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/08/01/the-real-migrant-crime-wave-mafia-exploitation-of-migrants-in-sicily</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/08/01/the-real-migrant-crime-wave-mafia-exploitation-of-migrants-in-sicily</guid>
+      <description>The Cosa Nostra has not only found ways to benefit monetarily from migrants, but has also integrated migrants into mafia-related criminal enterprises in Sicily, writes Hayden Ford of the New School’s Graduate Program in International Affairs. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170801105120/ITALY-LIBYA-EUROPE-MIGRANTS.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

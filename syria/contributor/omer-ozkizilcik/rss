@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ömer Özkizilcik</title>
+    <description>Ömer Özkizilcik is an analyst working with the Middle East Foundation think tank in Ankara. He is also an editor for the Suriye Gündemi news website.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/omer-ozkizilcik/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/omer-ozkizilcik/rss"/>
+    <item>
+      <title>Analysis: Why Turkey Wants a ‘Secure Zone’ in Afrin</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 23 Jan 2018 11:30:00 +0000</pubDate>
+      <author>Ömer Özkizilcik</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/01/23/analysis-why-turkey-wants-a-secure-zone-in-afrin</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/01/23/analysis-why-turkey-wants-a-secure-zone-in-afrin</guid>
+      <description>Turkey’s operation on the Kurdish enclave of Afrin in Syria aims to halt YPG expansion near Turkey’s border, facilitate refugee returns and empower Ankara-backed FSA forces, writes analyst Ömer Özkizilcik.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180123114622/FtpTrial-AA_23012018_6798121.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

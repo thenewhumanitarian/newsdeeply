@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Karen Leigh and Nathaniel Rosenblatt</title>
+    <description>Karen Leigh is Managing Editor of News Deeply. Nathaniel Rosenblatt leads Caerus’s research and analysis initiatives focusing on the Middle East and Northern Africa.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/karen-leigh-and-nathaniel-rosenblatt/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/karen-leigh-and-nathaniel-rosenblatt/rss"/>
+    <item>
+      <title>ISIS, Extremists And Syria’s Internally Displaced</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Karen Leigh and Nathaniel Rosenblatt</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/06/23/isis-extremists-and-syrias-internally-displaced</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/06/23/isis-extremists-and-syrias-internally-displaced</guid>
+      <description>At War on the Rocks, Karen Leigh and Nathaniel Rosenblatt look at how Syria’s growing IDP crisis could lead to a proliferation of extremism.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115155/9312291491_d269dec1d8_k-470x26-53a81c49835cc.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

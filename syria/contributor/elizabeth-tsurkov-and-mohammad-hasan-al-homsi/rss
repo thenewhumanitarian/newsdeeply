@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Elizabeth Tsurkov and Mohammad Hasan al-Homsi</title>
+    <description>Elizabeth Tsurkov is a research fellow focusing on Syria at the Forum for Regional Thinking, an Israeli think-tank.
+Mohammad Hasan al-Homsi is an activist and journalist from Palmyra.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/elizabeth-tsurkov-and-mohammad-hasan-al-homsi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/elizabeth-tsurkov-and-mohammad-hasan-al-homsi/rss"/>
+    <item>
+      <title>After ISIS Leaves Palmyra, Residents Still Cannot Return</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Fri, 14 Oct 2016 08:07:48 +0000</pubDate>
+      <author>Elizabeth Tsurkov and Mohammad Hasan al-Homsi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/10/14/elizabeth-tsurkov-and-mohammad-hasan-al-homsi</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/10/14/elizabeth-tsurkov-and-mohammad-hasan-al-homsi</guid>
+      <description>It has been seven months since the Syrian regime and its allies “liberated” the ancient city of Palmyra from ISIS control, but residents without ties to the Syrian government have still not been allowed to go back home. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161014080637/Mideast-Syria18.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

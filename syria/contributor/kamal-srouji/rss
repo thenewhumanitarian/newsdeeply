@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Kamal Srouji</title>
+    <description>Kamal Srouji is a Syria Deeply contributor.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/kamal-srouji/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/kamal-srouji/rss"/>
+    <item>
+      <title>Marriage in Syria: Difficulties, Bribes, and Lack of Recognition</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Kamal Srouji</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/08/04/marriage-in-syria-difficulties-bribes-and-lack-of-recognition</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/08/04/marriage-in-syria-difficulties-bribes-and-lack-of-recognition</guid>
+      <description>Obtaining internationally recognized marriage documents has become a difficulty for Syrians living in opposition-controlled areas.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114521/kamal_article2-55c0972c6a63b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

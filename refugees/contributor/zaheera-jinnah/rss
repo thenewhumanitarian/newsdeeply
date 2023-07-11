@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Zaheera Jinnah</title>
+    <description>Zaheera Jinnah is an anthropologist and researcher at the University of the Witwatersrand’s African Centre for Migration and Society.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/zaheera-jinnah/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/zaheera-jinnah/rss"/>
+    <item>
+      <title>The Case for Migrants in South Africa</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 08 Sep 2016 11:18:19 +0000</pubDate>
+      <author>Zaheera Jinnah</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/09/08/the-case-for-migrants-in-south-africa</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/09/08/the-case-for-migrants-in-south-africa</guid>
+      <description>Amid a spate of xenophobic attacks against migrants in South Africa, anthropologist Zaheera Jinnah defends their presence, arguing that they contribute to the labor market with their mixed skills and informal employment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160908111730/South-Africa-Immigrant-Attacks.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

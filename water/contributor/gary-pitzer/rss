@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Gary Pitzer</title>
+    <description>Gary Pitzer writes for Western Water, a publication of the Sacramento-based Water Education Foundation since 1977. This story was first published by Western Water. Sign up for Western Water’s newsletters here.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/gary-pitzer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/gary-pitzer/rss"/>
+    <item>
+      <title>In Water-Stressed West, an Old Water Efficiency Metric Needs a Reboot</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Fri, 26 Oct 2018 08:00:00 +0000</pubDate>
+      <author>Gary Pitzer</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/10/26/in-water-stressed-west-an-old-water-efficiency-metric-needs-a-reboot</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/10/26/in-water-stressed-west-an-old-water-efficiency-metric-needs-a-reboot</guid>
+      <description>The acre-foot yardstick has been a reliable standby for water agency officials to explain water use to the public. But it may be time to recalibrate our thinking on that as communities plan new development.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181022120841/dwr-kmg_ccc_corona_14800.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Drought Puts California Water Rights in Crosshairs for Reform</title>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Gary Pitzer</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/01/drought-puts-california-water-rights-in-crosshairs-for-reform</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/01/drought-puts-california-water-rights-in-crosshairs-for-reform</guid>
+      <description>Some experts believe California’s antiquated regulation of water rights is ripe for reform; farmers worry it would come at their expense.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102526/california-drought-2-55e5d0d26675e.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

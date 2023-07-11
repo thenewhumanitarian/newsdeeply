@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Bassam al-Ahmad</title>
+    <description>Bassam al-Ahmad is a human rights activists and the director of Syrians for Truth and Justice.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/bassam-al-ahmad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/bassam-al-ahmad/rss"/>
+    <item>
+      <title>As ISIS Withdraws, Land Mines Lurk In Northern Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Fri, 02 Sep 2016 11:40:45 +0000</pubDate>
+      <author>Bassam al-Ahmad</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/09/02/as-isis-withdraws-land-mines-lurk-in-northern-syria</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/09/02/as-isis-withdraws-land-mines-lurk-in-northern-syria</guid>
+      <description>As ISIS retreat from several areas of northern Syria, they are leaving behind thousands of improvised explosive devices. The international community must address this danger for civilians, writes human rights activist Bassam al-Ahmad. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160902113923/Screen-Shot-2016-09-01-at-9.05.28-AM.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

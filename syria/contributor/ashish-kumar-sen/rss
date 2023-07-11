@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ashish Kumar Sen</title>
+    <description>Ashish Kumar Sen is deputy director of communications at the Atlantic Council. Follow him on Twitter @AshishSen.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/ashish-kumar-sen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ashish-kumar-sen/rss"/>
+    <item>
+      <title>After the Battle for Raqqa, Now Comes the Hard Part</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Wed, 18 Oct 2017 14:59:37 +0000</pubDate>
+      <author>Ashish Kumar Sen</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/10/18/after-the-battle-for-raqqa-now-comes-the-hard-part</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/10/18/after-the-battle-for-raqqa-now-comes-the-hard-part</guid>
+      <description>After U.S.-backed SDF forces announced the end of the battle against ISIS in Raqqa on Tuesday, the Atlantic Council’s experts weigh in on how this will impact ISIS and the remaining challenges.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171018145348/AFP_TI3Z4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

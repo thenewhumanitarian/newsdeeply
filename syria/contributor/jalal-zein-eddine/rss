@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jalal Zein Eddine</title>
+    <description>Jalal Zein Eddine is a Syrian contributor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jalal-zein-eddine/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jalal-zein-eddine/rss"/>
+    <item>
+      <title>Poverty Sparks Enrollment in ISIS</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <author>Jalal Zein Eddine</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/01/29/poverty-sparks-enrollment-in-isis</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/01/29/poverty-sparks-enrollment-in-isis</guid>
+      <description>“Our dignity is lost in other countries, and my mother’s sickness kept me from doing anything. It basically ruled out all my choices.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114800/ap75383388827-549855f17f50e-54c9c44b35c54.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Magazine Brings Hope to Syria’s Children</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 05 Dec 2014 00:00:00 +0000</pubDate>
+      <author>Jalal Zein Eddine</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/12/05/a-magazine-brings-hope-to-syrias-children</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/12/05/a-magazine-brings-hope-to-syrias-children</guid>
+      <description>Zaytoun and Zaytouna uses such content as games, stories and illustrations to bring light relief and fun to children in a war zone.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114844/zaitoun-and-zaitouna-5481ee91a1730.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

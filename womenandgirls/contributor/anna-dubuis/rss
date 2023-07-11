@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Anna Dubuis</title>
+    <description>Anna Dubuis is a freelance journalist based between Nairobi and London, who focuses on development, human rights and social justice, as well as other stories across Africa.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/anna-dubuis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/anna-dubuis/rss"/>
+    <item>
+      <title>Surviving the Sexual Violence Crisis in South Sudan</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 23 Mar 2017 13:51:23 +0000</pubDate>
+      <author>Anna Dubuis</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/23/surviving-the-sexual-violence-crisis-in-south-sudan</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/23/surviving-the-sexual-violence-crisis-in-south-sudan</guid>
+      <description>In Uganda’s massive Bidibidi camp, which is home to more than 272,000 South Sudanese refugees, aid workers are trying to identify and help sexual violence survivors – despite a dearth of resources.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170323134643/Uganda-mental-health.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Surviving the Sexual Violence Crisis in South Sudan</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Thu, 23 Mar 2017 13:33:06 +0000</pubDate>
+      <author>Anna Dubuis</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/23/surviving-sexual-violence-crisis-south-sudan</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/23/surviving-sexual-violence-crisis-south-sudan</guid>
+      <description>In Uganda’s massive Bidibidi camp, which is home to more than 272,000 South Sudanese refugees, aid workers are trying to identify and help sexual violence survivors – despite a dearth of resources.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070908/Uganda-mental-health.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trying to Slow Kenya’s HIV Rates, Locals Tackle Sex-for-Fish Trade</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Mon, 30 Jan 2017 12:59:01 +0000</pubDate>
+      <author>Anna Dubuis</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/01/30/trying-slow-kenyas-hiv-rates-locals-tackle-sex-fish-trade</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/01/30/trying-slow-kenyas-hiv-rates-locals-tackle-sex-fish-trade</guid>
+      <description>In parts of Kenya, female fishmongers are forced to have sex with fishermen before they can buy fish to take to market. As the practice of “jaboya” contributes to the region’s high HIV rates, locals are working to convince communities to find other ways to make money.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071150/Sex-for-fish2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Money is the Motivator as Kenyan Clan Elders Continue to Push for FGM</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Wed, 07 Dec 2016 14:03:02 +0000</pubDate>
+      <author>Anna Dubuis</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/07/money-motivator-kenyan-clan-elders-continue-push-fgm</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/07/money-motivator-kenyan-clan-elders-continue-push-fgm</guid>
+      <description>Kenya’s clan elders profit from the practice of female genital mutilation, complicating activist efforts to eradicate the practice in the west of the country, where “cutting” season has just begun.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072213/Kenya-FGM-group.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

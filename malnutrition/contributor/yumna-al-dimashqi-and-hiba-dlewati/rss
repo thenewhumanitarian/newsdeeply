@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Yumna al-Dimashqi and Hiba Dlewati</title>
+    <description>Youmna al-Dimashqi is a Syria Deeply contributor.
+Hiba Dlewati is the Deputy Managing Editor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/yumna-al-dimashqi-and-hiba-dlewati/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/yumna-al-dimashqi-and-hiba-dlewati/rss"/>
+    <item>
+      <title>Aid Delivery Delays to Madaya Worsen Infectious Diseases, Malnutrition</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <pubDate>Fri, 15 Dec 2017 03:06:28 +0000</pubDate>
+      <author>Yumna al-Dimashqi and Hiba Dlewati</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2017/12/15/aid-delivery-delays-to-madaya-worsen-infectious-diseases-malnutrition-2</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2017/12/15/aid-delivery-delays-to-madaya-worsen-infectious-diseases-malnutrition-2</guid>
+      <description>Cases of meningitis and malnutrition-related growth deficiencies are increasing in the besieged town of Madaya, where humanitarian aid deliveries are sporadic and insufficient. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161014135348/Mideast-Lebanon-Syria2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Aid Delivery Delays to Madaya Worsen Infectious Diseases, Malnutrition</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/war-economy/">War Economy</category>
+      <pubDate>Fri, 14 Oct 2016 13:54:49 +0000</pubDate>
+      <author>Yumna al-Dimashqi and Hiba Dlewati</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/10/14/aid-delivery-delays-to-madaya-worsen-infectious-diseases-malnutrition</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/10/14/aid-delivery-delays-to-madaya-worsen-infectious-diseases-malnutrition</guid>
+      <description>Cases of meningitis and malnutrition-related growth deficiencies are increasing in the besieged town of Madaya, where humanitarian aid deliveries are sporadic and insufficient. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161014135348/Mideast-Lebanon-Syria2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

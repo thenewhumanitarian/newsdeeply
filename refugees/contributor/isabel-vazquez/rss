@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Isabel Vázquez</title>
+    <description>Isabel Vázquez is a bicultural Puerto-Rican/American producer, storyteller and curious listener from central Illinois. Isabel moved to Chicago after living in Indonesia, where she taught English and got in only two motorbike crashes. She currently is the Assistant Producer of Re:sound, the radio show/podcast of the Third Coast International Audio Festival, and runs the ethnic and community media project at Public Narrative. Previously, she worked as the StoryBooth Intern at StoryCorps in Chicago.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/isabel-vazquez/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/isabel-vazquez/rss"/>
+    <item>
+      <title>Refugees Searching for a Home Struggle With Rising Rents in U.S.</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Tue, 16 May 2017 14:40:03 +0000</pubDate>
+      <author>Isabel Vázquez</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/16/refugees-searching-for-a-home-struggle-with-rising-rents-in-u-s</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/16/refugees-searching-for-a-home-struggle-with-rising-rents-in-u-s</guid>
+      <description>Refugees arriving in Seattle have found themselves in the middle of a regional housing crisis. A network for Congolese refugees, the top nationality for refugee resettlement in the U.S. last year, is trying to help them find shelter in the booming tech city.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170516143913/Isabel_01.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

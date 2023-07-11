@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Kathryn Adamson</title>
+    <description>Kathryn Adamson is a senior lecturer in physical geography at Manchester Metropolitan University.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/kathryn-adamson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/kathryn-adamson/rss"/>
+    <item>
+      <title>How Rapid Climate Change on Greenland Will Affect Us All</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 28 Aug 2017 03:54:51 +0000</pubDate>
+      <author>Kathryn Adamson</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/08/28/how-rapid-climate-change-on-greenland-will-affect-us-all</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/08/28/how-rapid-climate-change-on-greenland-will-affect-us-all</guid>
+      <description>Greenland is an important cog in the global climate system. It’s also especially vulnerable to climate change, writes Kathryn Adamson, a senior lecturer in physical geography at Manchester Metropolitan University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170828033352/33287611943_d714f76a9e_k.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

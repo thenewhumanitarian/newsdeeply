@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Martin Breum</title>
+    <description>Martin Breum is a journalist who has written extensively about the Arctic. He is the author of “The Greenland Dilemma.”
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/martin-breum/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/martin-breum/rss"/>
+    <item>
+      <title>Analysis: What a Trump Presidency Means for Denmark and Greenland</title>
+      <pubDate>Tue, 22 Nov 2016 08:31:18 +0000</pubDate>
+      <author>Martin Breum</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/22/analysis-what-a-trump-presidency-means-for-denmark-and-greenland</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/22/analysis-what-a-trump-presidency-means-for-denmark-and-greenland</guid>
+      <description>There are few clues about President-elect Donald Trump’s views on the Arctic, yet he will have a strong influence on the future relationship between the U.S. and Greenland. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161122081956/8609997641_6af282f0e6_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

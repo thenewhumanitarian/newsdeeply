@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Terrence Edwards</title>
+    <description>Terrence Edwards is a journalist and reporter based in Ulaanbaatar, Mongolia, where he focuses on the thriving growth in Central Asia.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/terrence-edwards/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/terrence-edwards/rss"/>
+    <item>
+      <title>How Mongolia Is Tackling Violence in the Home, After Years of Neglect</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Thu, 04 May 2017 12:51:26 +0000</pubDate>
+      <author>Terrence Edwards</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/04/how-mongolia-is-tackling-violence-in-the-home-after-years-of-neglect</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/04/how-mongolia-is-tackling-violence-in-the-home-after-years-of-neglect</guid>
+      <description>One in five women in Mongolia is subject to domestic abuse. Now a new law gives the police more power and responsibility to combat the problem, and bring perpetrators to justice.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170504124816/MONGOLIA-TRADITION-LIFESTYLE.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teenage Girls Run Households During Mongolia’s Winter Crisis</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Fri, 24 Feb 2017 13:31:04 +0000</pubDate>
+      <author>Terrence Edwards</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/02/24/teenage-girls-run-households-mongolias-winter-crisis</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/02/24/teenage-girls-run-households-mongolias-winter-crisis</guid>
+      <description>With Mongolia in the grip of a winter so severe it has already killed tens of thousands of livestock, many herders choose to stay in the countryside to tend to their animals, sending their children to towns to go to school and live in homes run by teenage girls.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071048/enkhzayaa-khishigsuren2-e1487957274279.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Bodil Bluhm</title>
+    <description>Bodil Bluhm is a marine biologist and oceanographer focused on the ecology of Arctic seafloor and sea ice biological communities. She is interested in studying their biodiversity, food web and how the environment influences their distribution and ecology. Bodil works for The Arctic University of Norway (UiT) and is also affiliated with the University of Alaska Fairbanks.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/bodil-bluhm/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/bodil-bluhm/rss"/>
+    <item>
+      <title>Riches Lie Beneath the Chukchi Sea</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 25 Jul 2016 05:00:33 +0000</pubDate>
+      <author>Bodil Bluhm</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/07/25/riches-lie-beneath-the-chukchi-sea</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/07/25/riches-lie-beneath-the-chukchi-sea</guid>
+      <description>The abundance of life on the seafloor and persistent late-season sea ice make the shallow Herald Shoal a hotspot for biodiversity, from bivalves to sea stars – and the walrus, bearded seals and gray whales that feed on them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160722075216/VitalOceans_Harold_01.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mais Istanbelli and Katarina Montgomery</title>
+    <description>Mais Istanbuli and Katarina Montgomery work for Syria Deeply
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mais-istanbelli-and-katarina-montgomery/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mais-istanbelli-and-katarina-montgomery/rss"/>
+    <item>
+      <title>With Street Music and Pop-Up Concerts, A Pianist Plays in Yarmouk</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      <author>Mais Istanbelli and Katarina Montgomery</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/02/19/with-street-music-and-pop-up-concerts-a-pianist-plays-in-yarmouk</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/02/19/with-street-music-and-pop-up-concerts-a-pianist-plays-in-yarmouk</guid>
+      <description>The songs we sang in the street were about immigration, the siege, and lack of water, so they actually mimic the reality these children are living.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114745/338351_img650x420_img650x420_c-54e5fb07bb378.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

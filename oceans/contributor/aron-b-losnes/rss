@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Aron B. Løsnes</title>
+    <description>Aron B. Løsnes is a freelance journalist and photographer from Norway who specializes in the Arctic. In 2013 he graduated from the University in Tromso with a degree in Northern Studies. He frequently explores the nature in northern Norway, accompanied by his camera.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/aron-b-losnes/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/aron-b-losnes/rss"/>
+    <item>
+      <title>Fishing Trawlers Follow Cod Stocks North</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Fri, 12 May 2017 03:24:29 +0000</pubDate>
+      <author>Aron B. Løsnes</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/05/12/fishing-trawlers-follow-cod-stocks-north-2</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/05/12/fishing-trawlers-follow-cod-stocks-north-2</guid>
+      <description>As Arctic sea ice retreats, fisheries in the Barents Sea are pushing northward to Svalbard to find their next catch. But knowledge about these waters is limited, leaving some worried that the extra fishing activity could have harmful effects on the environment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170512032318/4502259804_b7cf675deb_o-56e6ef793f5491.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Saami Reindeer Herders Fight Wind Farm Project</title>
+      <category domain="https://www.newsdeeply.com/oceans/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Aron B. Løsnes</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/20/saami-reindeer-herders-fight-wind-farm-project</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/20/saami-reindeer-herders-fight-wind-farm-project</guid>
+      <description>Europe’s largest onshore wind farm is being built in central Norway. But the project, which will more than double Norway’s wind capacity, lies in the middle of an important reindeer grazing area, leaving Saami herders worried about the impact it might have on their livelihood and traditions.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092716/4077417828_658ac65c3a_o-5717b2b1032fb.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fishing Trawlers Follow Cod Stocks North</title>
+      <category domain="https://www.newsdeeply.com/oceans/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Aron B. Løsnes</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/03/14/fishing-trawlers-follow-cod-stocks-north</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/03/14/fishing-trawlers-follow-cod-stocks-north</guid>
+      <description>As Arctic sea ice retreats, fisheries in the Barents Sea are pushing northward to Svalbard to find their next catch. But knowledge about these waters is limited, leaving some worried that the extra fishing activity could have harmful effects on the environment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092810/4502259804_b7cf675deb_o-56e6ef793f549.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

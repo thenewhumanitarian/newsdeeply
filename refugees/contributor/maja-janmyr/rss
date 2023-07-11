@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Maja Janmyr</title>
+    <description>Maja Janmyr is professor of international migration law at the University of Oslo. She is on Twitter @MYRMEK.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/maja-janmyr/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/maja-janmyr/rss"/>
+    <item>
+      <title>Why Lebanon Objects to Calls for Voluntary Return of Syrians</title>
+      <category domain="https://www.newsdeeply.com/refugees/displacement/">Displacement</category>
+      <pubDate>Fri, 04 May 2018 11:35:02 +0000</pubDate>
+      <author>Maja Janmyr</author>
+      <link>https://www.newsdeeply.com/syria/community/2018/05/04/why-lebanon-objects-to-calls-for-voluntary-return-of-syrians-2</link>
+      <guid>https://www.newsdeeply.com/syria/community/2018/05/04/why-lebanon-objects-to-calls-for-voluntary-return-of-syrians-2</guid>
+      <description>As Lebanon holds elections, key politicians have stepped up tough talk on returning Syrian refugees. Maja Janmyr unpacks the political and legal basis of Lebanese opposition to refugee integration and to the international demand that returns must be voluntary.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180504113314/AFP_14503U11.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Why Lebanon Objects to Calls for Voluntary Return of Syrians</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 04 May 2018 09:30:00 +0000</pubDate>
+      <author>Maja Janmyr</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/05/04/why-lebanon-objects-to-calls-for-voluntary-return-of-syrians</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/05/04/why-lebanon-objects-to-calls-for-voluntary-return-of-syrians</guid>
+      <description>As Lebanon holds elections, key politicians have stepped up tough talk on returning Syrian refugees. Maja Janmyr unpacks the political and legal basis of Lebanese opposition to refugee integration and to the international demand that returns must be voluntary.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180504093859/AFP_14503U1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

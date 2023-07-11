@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Sarah Salem</title>
+    <description>Sarah is a journalist based in Syria. Like all our contributors in country she writes under a pen name for security reasons.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/sarah-salem/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/sarah-salem/rss"/>
+    <item>
+      <title>Alternative Energy Alleviates Power Outages in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Sarah Salem</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/03/14/alternative-energy-alleviates-power-outages-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/03/14/alternative-energy-alleviates-power-outages-in-syria</guid>
+      <description>With power outages occurring in cities across Syria, some civilians are finding new ways to heat and power their homes, by using the natural resources around them – and even bomb craters. We report from East Ghouta.</description>
+    </item>
+    <item>
+      <title>On Damascus Shop Doors, Syrian Flag Becomes Necessary Adornment</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Sarah Salem</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/03/03/on-damascus-shop-doors-syrian-flag-becomes-necessary-adornment</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/03/03/on-damascus-shop-doors-syrian-flag-becomes-necessary-adornment</guid>
+      <description>DAMASCUS – The Syrian flag isn’t just waving over the neighborhoods of Damascus: now it’s also painted on their storefronts. In the Syrian capital, shopkeepers say that government officials are compelling them to paint the Syrian flag on all shop doors in the city of Damascus.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115419/flag-damascus-5316071fa2370.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

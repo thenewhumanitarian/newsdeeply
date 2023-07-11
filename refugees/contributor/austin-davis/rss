@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Austin Davis</title>
+    <description>Austin Davis is a Berlin-based freelance journalist.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/austin-davis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/austin-davis/rss"/>
+    <item>
+      <title>Berlin’s Education Experiment: Welcome Classes for Refugee Children</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Fri, 20 Oct 2017 11:27:36 +0000</pubDate>
+      <author>Austin Davis</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/10/20/berlins-education-experiment-welcome-classes-for-refugee-children</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/10/20/berlins-education-experiment-welcome-classes-for-refugee-children</guid>
+      <description>Germany is facing the task of integrating 400,000 school-age refugees. Berlin, with its history of diversity, has ramped up an education program providing special classes to newcomers that is now being replicated elsewhere.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171020112341/88712463.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Learning from the Past: Refugees Give Museum Tours in Berlin</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Tue, 11 Jul 2017 12:21:19 +0000</pubDate>
+      <author>Austin Davis</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/07/11/learning-from-the-past-refugees-give-museum-tours-in-berlin</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/07/11/learning-from-the-past-refugees-give-museum-tours-in-berlin</guid>
+      <description>An initiative to train refugees and migrants from the Arab world to give Arabic-language museum tours in Berlin is facilitating integration between refugees and Germans, reports Al-Fanar Media.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170711092429/DEU170614003.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Refugee Apprentice: Germany Offers Skills Training to Newcomers</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Wed, 22 Feb 2017 08:55:25 +0000</pubDate>
+      <author>Austin Davis</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/02/22/refugee-apprentice-germany-offers-skills-training-to-newcomers</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/02/22/refugee-apprentice-germany-offers-skills-training-to-newcomers</guid>
+      <description>The German government hopes the influx of migrants will solve the country’s labor shortage. It has created a program to prepare refugees for the country’s apprenticeship system. But getting refugees trained and hired is proving difficult.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170222084743/DEU17111AD005_0.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

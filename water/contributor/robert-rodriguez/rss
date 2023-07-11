@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Robert Rodriguez</title>
+    <description>Robert Rodriguez, The Fresno Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/robert-rodriguez/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/robert-rodriguez/rss"/>
+    <item>
+      <title>For Farmers, Drought Means ‘Real Fear’ in Future</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Robert Rodriguez</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/12/08/for-farmers-drought-means-real-fear-in-future</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/12/08/for-farmers-drought-means-real-fear-in-future</guid>
+      <description>FRESNO BEE: In California’s arid San Joaquin Valley, “We are doing everything we can think of to keep going,” says one farmer. That includes looking for ways to recharge groundwater aquifers after decades of overexploitation. Young farmers say struggles imposed by the drought are teaching them valuable lessons.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102351/f568d316-0ce1-463d-8fb6-26952e-5666fed232734.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

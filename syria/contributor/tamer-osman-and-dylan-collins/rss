@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Tamer Osman and Dylan Collins</title>
+    <description>Tamer Osman and Dylan Collins
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/tamer-osman-and-dylan-collins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/tamer-osman-and-dylan-collins/rss"/>
+    <item>
+      <title>Aleppo’s Displaced Left to Fend for Themselves</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Tamer Osman and Dylan Collins</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/11/13/aleppos-displaced-left-to-fend-for-themselves</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/11/13/aleppos-displaced-left-to-fend-for-themselves</guid>
+      <description>More than 100,000 Syrians have left their homes in Aleppo Province over the last month, but they haven’t joined the masses heading to Europe. Most have found shelter in tents and unfinished buildings nearby, but as the nights grow colder and international aid organizations struggle to meet the displaced’s needs, they’re trying to organize themselves.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114339/99b569e3-887e-486d-aadc-90b831-56460e6823eb9.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

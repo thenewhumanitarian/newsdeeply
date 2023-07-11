@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Cynthia Christman</title>
+    <description>Cynthia Christman has worked on marine mammal ecology projects for the past 16 years, primarily as a biologist for NOAA Fisheries science centers. Since 2009, her projects have focused on marine mammal studies in the Alaska Arctic.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/cynthia-christman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/cynthia-christman/rss"/>
+    <item>
+      <title>Aerial Perspective on Beaufort Sea Shelf Break</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <pubDate>Fri, 12 May 2017 04:03:57 +0000</pubDate>
+      <author>Cynthia Christman</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/05/12/aerial-perspective-on-beaufort-sea-shelf-break-2</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/05/12/aerial-perspective-on-beaufort-sea-shelf-break-2</guid>
+      <description>Seen from above, beluga whales, polar bears and musk oxen offer a glimpse of the beauty – and value – offered by the Beaufort Sea and its shelf break, the line where the continental shelf ends and the deep ocean begins, writes biologist Cynthia Christman.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170512040219/Beaufort_beluga1.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Aerial Perspective on Beaufort Sea Shelf Break</title>
+      <category domain="https://www.newsdeeply.com/oceans/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/oceans/research/">Research</category>
+      <pubDate>Tue, 12 Jul 2016 06:08:11 +0000</pubDate>
+      <author>Cynthia Christman</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/07/12/aerial-perspective-on-beaufort-sea-shelf-break</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/07/12/aerial-perspective-on-beaufort-sea-shelf-break</guid>
+      <description>Seen from above, beluga whales, polar bears and musk oxen offer a glimpse of the beauty – and value – offered by the Beaufort Sea and its shelf break, the line where the continental shelf ends and the deep ocean begins, writes biologist Cynthia Christman.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160712055715/Beaufort_beluga.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: David Njagi</title>
+    <description>David Njagi is a journalist in Kenya. He has published with the Star and the Nation Media Group publications, as well as Reuters, AlertNet, allAfrica.com, Inter Press Services (IPS), Science and Development Network (SciDev.Net) Onislam and Africa Science News Service (ASNS).
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/david-njagi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/david-njagi/rss"/>
+    <item>
+      <title>In Kenya, Piped Water Shields Women and Girls From Wild Animal Attacks</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Fri, 29 Dec 2017 03:00:00 +0000</pubDate>
+      <author>David Njagi</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/12/29/in-kenya-piped-water-shields-women-and-girls-from-wild-animal-attacks</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/12/29/in-kenya-piped-water-shields-women-and-girls-from-wild-animal-attacks</guid>
+      <description>In northern Kenya, climate change forces pastoralist women and girls to compete with baboons, leopards and elephants for water. By installing pipes and tanks to bring water to villages, communities can keep girls in school and women out of the path of danger.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171227102658/WATER-HARVESTING-5.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Safouh T. / Illinois Tech</title>
+    <description>Safouh T. is a Syrian student at Illinois Tech.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/safouh-t-illinois-tech/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/safouh-t-illinois-tech/rss"/>
+    <item>
+      <title>Our Berlin Wall in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      <author>Safouh T. / Illinois Tech</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/01/08/our-berlin-wall-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/01/08/our-berlin-wall-in-syria</guid>
+      <description>Twenty-five years ago people from both Eastern and Western Germany gathered and hugged each other after the fall of Berlin Wall.</description>
+    </item>
+  </channel>
+</rss>

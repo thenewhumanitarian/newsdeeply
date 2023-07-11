@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Metin Kodalak</title>
+    <description>A sociologist by training, Kodalak has worked with asylum seekers in Moria for more than 18 months.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/metin-kodalak/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/metin-kodalak/rss"/>
+    <item>
+      <title>The Vulnerability Contest</title>
+      <pubDate>Wed, 17 Oct 2018 05:51:50 +0000</pubDate>
+      <author>Daniel Howden, Metin Kodalak</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/10/17/the-vulnerability-contest</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/10/17/the-vulnerability-contest</guid>
+      <description>Traumatized Afghan child soldiers who were forced to fight in Syria struggle to find protection in Europe’s asylum lottery.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181015055737/Afghan-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

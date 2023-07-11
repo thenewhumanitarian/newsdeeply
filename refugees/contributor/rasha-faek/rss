@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Rasha Faek</title>
+    <description>Rasha Faek is a managing editor at Al-Fanar Media. She is an experienced journalist who has covered a diverse range of issues, ranging from business and youth to citizenship and culture.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/rasha-faek/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/rasha-faek/rss"/>
+    <item>
+      <title>More Scholarships for Syrians, But Many Fail to Meet Refugees’ Needs</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Wed, 07 Jun 2017 05:00:52 +0000</pubDate>
+      <author>Rasha Faek</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/06/07/more-scholarships-for-syrians-but-many-fail-to-meet-refugees-needs</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/06/07/more-scholarships-for-syrians-but-many-fail-to-meet-refugees-needs</guid>
+      <description>Though the number of higher-education scholarships for Syrian students is growing, the expansion cannot meet demand and many do not offer appropriate fields of study, location or support for refugees in Lebanon, Jordan and Turkey, Rasha Faek reports for Al-Fanar Media.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170602091847/LEBANON-SYRIA-REFUGEES-SCHOOL.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>More Scholarships for Syrians, But Many Fail to Meet Refugees’ Needs</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Wed, 07 Jun 2017 05:00:02 +0000</pubDate>
+      <author>Rasha Faek</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/07/more-scholarships-for-syrians-but-many-fail-to-meet-refugees-needs-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/07/more-scholarships-for-syrians-but-many-fail-to-meet-refugees-needs-2</guid>
+      <description>Though the number of higher-education scholarships for Syrian students is growing, the expansion cannot meet demand and many do not offer appropriate fields of study, location or support for refugees in Lebanon, Jordan and Turkey, Rasha Faek reports for Al-Fanar Media.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170602091847/LEBANON-SYRIA-REFUGEES-SCHOOL.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

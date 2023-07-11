@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Madeline Ostrander</title>
+    <description>Madeline Ostrander is freelance science journalist based in Seattle. Her work has also appeared in theNew Yorker, Audubon and the Nation. Reporting for this story was supported by a grant from the Fund for Investigative Journalism.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/madeline-ostrander/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/madeline-ostrander/rss"/>
+    <item>
+      <title>Researchers Race to Understand Black Carbon’s Impact on Thawing Tundra</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 22 May 2017 08:57:42 +0000</pubDate>
+      <author>Madeline Ostrander</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/05/22/researchers-race-to-understand-black-carbons-impact-on-thawing-tundra</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/05/22/researchers-race-to-understand-black-carbons-impact-on-thawing-tundra</guid>
+      <description>ENSIA: The wood and fossil fuels we burn affect extreme warming in the Arctic, and solutions begin with understanding how and how much.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170522084959/arctic-139393_1920.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yup’ik: Evicted by Climate Change</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 15 Jun 2016 07:03:34 +0000</pubDate>
+      <author>Madeline Ostrander</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/15/yupik-evicted-by-climate-change</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/15/yupik-evicted-by-climate-change</guid>
+      <description>HAKAI MAGAZINE: Government regulations forced the Yup’ik to give up their seminomadic existence. Now, as the land around them vanishes, they’re puzzling through the problem of moving.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160615064135/village-newtok.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

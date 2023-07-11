@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Human Rights Watch</title>
+    <description>Human Rights Watch is a nonprofit, nongovernmental human rights organization whose staff consists of human rights professionals including country experts, lawyers, journalists and academics of diverse backgrounds and nationalities.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/human-rights-watch/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/human-rights-watch/rss"/>
+    <item>
+      <title>Improvised Mines Kill, Injure Hundreds in Manbij, Northern Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Wed, 26 Oct 2016 09:08:39 +0000</pubDate>
+      <author>Human Rights Watch</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/10/26/improvised-mines-kill-injure-hundreds-in-manbij-northern-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/10/26/improvised-mines-kill-injure-hundreds-in-manbij-northern-syria</guid>
+      <description>In the city of Manbij, Human Rights Watch has documented the deaths of 69 civilians, including 19 children, killed by victim-activated, homemade explosives, which are banned under international law. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161026092138/Screen-Shot-2016-10-26-at-6.51.45-AM1.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Turkish Border Guards Kill and Injure Asylum Seekers</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 10 May 2016 13:35:34 +0000</pubDate>
+      <author>Human Rights Watch</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/10/turkish-border-guards-kill-and-injure-asylum-seekers</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/10/turkish-border-guards-kill-and-injure-asylum-seekers</guid>
+      <description>Victims, witnesses and locals interviewed by Human Rights Watch say that in spring 2016, Turkish border guards used violence against Syrian asylum seekers and smugglers, killing five people, including a child, and seriously injuring 14 others. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160510133506/Turkey-Syria1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Aid to Besieged Areas Being Blocked</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Human Rights Watch</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/12/03/aid-to-besieged-areas-being-blocked</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/12/03/aid-to-besieged-areas-being-blocked</guid>
+      <description> Syrian government and some opposition forces are preventing the delivery of humanitarian assistance to hundreds of thousands of civilians in areas under siege in Syria, Human Rights Watch said today.</description>
+    </item>
+  </channel>
+</rss>

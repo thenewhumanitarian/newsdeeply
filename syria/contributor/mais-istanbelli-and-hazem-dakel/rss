@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mais Istanbelli and Hazem Dakel</title>
+    <description>Mais Istanbelli and Hazem Dakel are contributors for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mais-istanbelli-and-hazem-dakel/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mais-istanbelli-and-hazem-dakel/rss"/>
+    <item>
+      <title>Conversations: A Doctor in Sermin Describes the Fallout of a Chemical Attack</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      <author>Mais Istanbelli and Hazem Dakel</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/03/24/conversations-a-doctor-in-sermin-describes-the-fallout-of-a-chemical-attack</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/03/24/conversations-a-doctor-in-sermin-describes-the-fallout-of-a-chemical-attack</guid>
+      <description>“All cases were treated and documented, and we’ve sent evidence to many organizations and committees that can prove the use of toxic gases against civilians in Sarmin and Qminas.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114713/dscf0265-53304eb41f947-53f5d9d-5511ed4e3a289.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

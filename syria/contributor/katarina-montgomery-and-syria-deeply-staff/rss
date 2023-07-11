@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Katarina Montgomery and Syria Deeply Staff</title>
+    <description>Katarina Montgomery is the Digital Producer of Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/katarina-montgomery-and-syria-deeply-staff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/katarina-montgomery-and-syria-deeply-staff/rss"/>
+    <item>
+      <title>U.S. Strikes on ISIS Create ‘Shock,’ Face the Fallout</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      <author>Katarina Montgomery and Syria Deeply Staff</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/09/23/u-s-strikes-on-isis-create-shock-face-the-fallout</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/09/23/u-s-strikes-on-isis-create-shock-face-the-fallout</guid>
+      <description>Analysts assess the fallout of last night’s airstrikes by the U.S. and five Arab countries.</description>
+    </item>
+  </channel>
+</rss>

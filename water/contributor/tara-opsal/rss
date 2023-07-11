@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Tara Opsal</title>
+    <description>Tara Opsal is an associate professor of sociology at Colorado State University.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/tara-opsal/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/tara-opsal/rss"/>
+    <item>
+      <title>Colorado Voters Face Competing Measures to Restrict Fracking Wells</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/energy/">Energy</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/toxic-taps/">Toxic Taps</category>
+      <pubDate>Mon, 01 Oct 2018 08:00:00 +0000</pubDate>
+      <author>Stephanie Malin, Tara Opsal</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/10/01/colorado-voters-face-competing-measures-to-restrict-fracking-wells</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/10/01/colorado-voters-face-competing-measures-to-restrict-fracking-wells</guid>
+      <description>Amid concern about groundwater contamination, a ballot measure would force new fracking wells to keep their distance from homes. Another, sponsored by the oil industry, would force local government to compensate property owners for any lost value that results.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180928081646/Gas-oil-drilling-and-fracking-coming-nearer-to-housing-_2HR62721.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

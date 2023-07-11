@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Stephanie Gee</title>
+    <description>Stephanie Gee is the Robert L. Bernstein refugee rights fellow at Human Rights Watch.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/stephanie-gee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/stephanie-gee/rss"/>
+    <item>
+      <title>When Refugees Work, Children More Likely to Attend School: HRW</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Mon, 08 Aug 2016 11:59:15 +0000</pubDate>
+      <author>Stephanie Gee</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/08/08/when-refugees-work-children-more-likely-to-attend-school-hrw</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/08/08/when-refugees-work-children-more-likely-to-attend-school-hrw</guid>
+      <description>With 1.5 million school-age children missing school despite host countries’ best efforts, Stephanie Gee, refugee rights fellow at Human Rights Watch, explores how kids’ access to education depends on their parents’ right to work.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160808115755/Mideast-Lebanon-Syrian-Refugees4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

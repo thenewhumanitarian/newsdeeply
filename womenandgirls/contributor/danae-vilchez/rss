@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Dánae Vilchez</title>
+    <description>Dánae Vílchez is a multimedia journalist in Nicaragua. She works on the television program Esta Semana and the digital newspaper Confidencial.ni. She has covered human rights issues, women’s rights, social movements, politics and culture.
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/danae-vilchez/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/danae-vilchez/rss"/>
+    <item>
+      <title>Raped Children Forced to Give Birth: Life Under Nicaragua’s Abortion Ban</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Fri, 25 Aug 2017 10:55:32 +0000</pubDate>
+      <author>Dánae Vilchez</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/25/raped-children-forced-to-give-birth-life-under-nicaraguas-abortion-ban</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/25/raped-children-forced-to-give-birth-life-under-nicaraguas-abortion-ban</guid>
+      <description>Nicaragua’s total ban on abortion puts women and girls’ lives in danger, and forces raped children to have babies of their own. Yet the Central American country recently ranked 10th in the world for gender equality. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170825104833/NICARAGUA-ABORTION-PROTEST.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

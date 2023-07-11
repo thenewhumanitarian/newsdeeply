@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Charu Bahri</title>
+    <description>Charu Bahri is a freelance writer and editor based in Mount Abu, Rajasthan.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/charu-bahri/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/charu-bahri/rss"/>
+    <item>
+      <title>India’s Millet Makeover: Addressing Nutritional Shortfalls</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <pubDate>Fri, 15 Dec 2017 03:20:56 +0000</pubDate>
+      <author>Charu Bahri</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2017/12/15/indias-millet-makeover-addressing-nutritional-shortfalls</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2017/12/15/indias-millet-makeover-addressing-nutritional-shortfalls</guid>
+      <description>India has recently introduced millet into the midday meal program in schools. The move looks set to have a positive impact on the nutritional status of children, reports IndiaSpend.com.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171215090735/89003365.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

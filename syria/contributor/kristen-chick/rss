@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Kristen Chick</title>
+    <description>Kristen Chick is based in Pristina, Kosovo, after four years based in Cairo covering Egypt and the region. She covered the 2011 uprisings in Egypt and Tunisia, and has reported on the revolution in Libya, protests in Bahrain, and the war in Syria. She has also reported for the Monitor from Gaza and Western Sahara.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/kristen-chick/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/kristen-chick/rss"/>
+    <item>
+      <title>How to Combat Domestic Violence Among Syrian Refugees? Talk to Men</title>
+      <category domain="https://www.newsdeeply.com/syria/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Wed, 03 May 2017 15:19:15 +0000</pubDate>
+      <author>Kristen Chick</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/03/how-to-combat-domestic-violence-among-syrian-refugees-talk-to-men-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/03/how-to-combat-domestic-violence-among-syrian-refugees-talk-to-men-2</guid>
+      <description>Domestic violence is reported to have risen sharply among Syrians forced to flee their homeland. While many aid programs target women, some groups in Lebanon are putting new focus on men, hoping to address the problem at the source.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170503151649/29458873.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How to Combat Domestic Violence Among Syrian Refugees? Talk to Men</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Wed, 03 May 2017 15:19:11 +0000</pubDate>
+      <author>Kristen Chick</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/05/03/how-to-combat-domestic-violence-among-syrian-refugees-talk-to-men</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/05/03/how-to-combat-domestic-violence-among-syrian-refugees-talk-to-men</guid>
+      <description>Domestic violence is reported to have risen sharply among Syrians forced to flee their homeland. While many aid programs target women, some groups in Lebanon are putting new focus on men, hoping to address the problem at the source.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170503151649/29458873.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

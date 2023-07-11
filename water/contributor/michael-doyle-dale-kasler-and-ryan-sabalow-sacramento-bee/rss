@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Michael Doyle, Dale Kasler and Ryan Sabalow, Sacramento Bee</title>
+    <description>Michael Doyle is a reporter in the Washington, D.C., bureau of McClatchy newspapers.
+Dale Kasler and Ryan Sabalow are reporters with the Sacramento Bee.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/michael-doyle-dale-kasler-and-ryan-sabalow-sacramento-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/michael-doyle-dale-kasler-and-ryan-sabalow-sacramento-bee/rss"/>
+    <item>
+      <title>What the New Federal Water Bill Means for the Delta</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 20 Dec 2016 05:37:19 +0000</pubDate>
+      <author>Michael Doyle, Dale Kasler and Ryan Sabalow, Sacramento Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/12/20/what-the-new-federal-water-bill-means-for-the-delta</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/12/20/what-the-new-federal-water-bill-means-for-the-delta</guid>
+      <description>SACRAMENTO BEE – President Obama signed a new national water infrastructure bill that has provisions affecting California, which some fear could harm the Sacramento-San Joaquin Delta.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161220053426/dos-amigos-6227-48.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

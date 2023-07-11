@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Joy al-Nemri</title>
+    <description>Joy Al-Nemri is currently pursuing a degree in Anthropology with a concentration in Middle Eastern Studies at Bard College in New York. She has worked as a volunteer and translator with refugee charities in Athens, Greece and the Hotspot refugee camp in Samos, Greece.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/joy-al-nemri/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/joy-al-nemri/rss"/>
+    <item>
+      <title>Migrant Women Help New Generation of Female Refugee Leaders in Athens</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Tue, 22 Aug 2017 12:05:54 +0000</pubDate>
+      <author>Joy al-Nemri</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/08/22/migrant-women-help-new-generation-of-female-refugee-leaders-in-athens</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/08/22/migrant-women-help-new-generation-of-female-refugee-leaders-in-athens</guid>
+      <description>The Melissa Network in Athens brings together leaders of the established migrant community in Greece with new arrivals to collaborate on integration. Melissa co-founder Deborah Carlos-Valencia explains the network’s philosophy and success.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170822115933/GREECE-MIGRANTS-REFUGEES2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

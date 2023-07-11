@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Giacomo Zandonini</title>
+    <description>Giacomo Zandonini is an Italian freelance journalist. He has contributed to La Repubblica, International, Left, Vanity Fair, Women Under Siege, Radio Vaticana and other newspapers. He deals with migration, human trafficking, politics and society in the Sahel. In 2016 he worked for the documentary Wallah – Je Te Jure, produced by IOM Niger, for Ai Weiwei Film Studio and Open Society Foundations.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/giacomo-zandonini/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/giacomo-zandonini/rss"/>
+    <item>
+      <title>Niger: Europe’s Migration Laboratory</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Tue, 22 May 2018 08:00:44 +0000</pubDate>
+      <author>Daniel Howden, Giacomo Zandonini</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/05/22/niger-europes-migration-laboratory</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/05/22/niger-europes-migration-laboratory</guid>
+      <description>How the EU’s migration obsession turned world’s 2nd poorest country into a laboratory for short-term policies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180518064917/7_niger_lf.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Niger, Europe’s Empty Promises Hinder Efforts to Move Beyond Smuggling</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Wed, 03 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Giacomo Zandonini</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/01/03/europes-empty-promises-hinder-efforts-to-move-beyond-smuggling</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/01/03/europes-empty-promises-hinder-efforts-to-move-beyond-smuggling</guid>
+      <description>The story of one former desert driver and his struggle to escape the migration trade reveals the limits of an E.U. scheme to offer alternatives to the Sahara smugglers. Giacomo Zandonini reports from Agadez.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171228111958/Issa-Tahir-left-Kore-Yesko-right-and-a_.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

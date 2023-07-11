@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: David Leveille</title>
+    <description>David Leveille is a producer at PRI’s “The World.”
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/david-leveille/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/david-leveille/rss"/>
+    <item>
+      <title>‘Europa’: A Refugees’ Illustrated Guide to Europe</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 05 Jan 2017 07:34:00 +0000</pubDate>
+      <author>David Leveille</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/05/europa-a-refugees-illustrated-guide-to-europe</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/05/europa-a-refugees-illustrated-guide-to-europe</guid>
+      <description>A group of journalists and photographers have created a guidebook to Europe for migrants and refugees. It provides practical information in four languages on European politics, geography and culture, and notes the continent’s own history of conflict and migration.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170105073302/europa2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

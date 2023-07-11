@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Richard Martin</title>
+    <description>Richard Martin is senior editor for energy at S&amp;amp;P Global Market Intelligence. He is the author of “Coal Wars: The Future of Energy and the Fate of the Planet,” and “SuperFuel: Thorium, the Green Energy Source for the Future.” His work has appeared in Wired, TIME, Fortune, the MIT Technology Review, the Atlantic and many other publications.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/richard-martin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/richard-martin/rss"/>
+    <item>
+      <title>The Long Journey of Genetically Engineered Salmon to Your Dinner Plate</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Mon, 19 Feb 2018 03:00:00 +0000</pubDate>
+      <author>Richard Martin</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/02/19/the-long-journey-of-genetically-engineered-salmon-to-your-dinner-plate</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/02/19/the-long-journey-of-genetically-engineered-salmon-to-your-dinner-plate</guid>
+      <description>Thirty years of controversy has followed the transgenic technology that produces fast-growing fish but now it has finally arrived in Canada and could soon come to the United States. Will it live up to its claims of making seafood more sustainable?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180216091547/AAS-SingleFish-AquaBountyTechnologies1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

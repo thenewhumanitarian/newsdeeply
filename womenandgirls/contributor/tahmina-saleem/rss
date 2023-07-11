@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Tahmina Saleem</title>
+    <description>Tahmina Saleem is a freelance photographer in Kabul, Afghanistan. In her work, she focuses on successful Afghan women, showing another side to her country’s women – and not only those who have suffered. She is a member of the country’s first all-Afghan photo agency.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/tahmina-saleem/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/tahmina-saleem/rss"/>
+    <item>
+      <title>Photo Essay: The Afghan Mother Singing Her Way Back to School</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/culture/">Culture</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Wed, 02 Aug 2017 11:48:53 +0000</pubDate>
+      <author>Tahmina Saleem</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/02/photo-essay-the-afghan-mother-singing-her-way-back-to-school</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/02/photo-essay-the-afghan-mother-singing-her-way-back-to-school</guid>
+      <description>Humaira Sabawoon was already breaking the rules of Afghan society when she decided to enrol at university as a mature student. But by studying music, Humaira Sabawoon also took on a taboo left behind by the Taliban. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170802114824/tahmina-001-8.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

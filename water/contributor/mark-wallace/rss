@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Mark Wallace</title>
+    <description>Mark Wallace is a freelance journalist in San Francisco. His work has appeared in the New York Times Magazine, Fast Company, Wired, Salon and other publications.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/mark-wallace/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/mark-wallace/rss"/>
+    <item>
+      <title>After Signing of Blackfeet Nation Water Compact, Funding Still Needed</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Thu, 22 Feb 2018 03:15:00 +0000</pubDate>
+      <author>Mark Wallace</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/02/22/after-signing-of-blackfeet-nation-water-compact-funding-still-needed</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/02/22/after-signing-of-blackfeet-nation-water-compact-funding-still-needed</guid>
+      <description>After decades of work, a water compact with Montana’s Blackfeet Nation was finally settled last year. But the federal government still needs to come up with more than $400 million to fund water improvement projects.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180221131601/62143701.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>New Technology That Could Help Avert Toxicity Crisis at Salton Sea</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Thu, 04 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Mark Wallace</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/01/04/new-technology-that-could-help-avert-toxicity-crisis-at-salton-sea</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/01/04/new-technology-that-could-help-avert-toxicity-crisis-at-salton-sea</guid>
+      <description>California is embarking on a new plan to head off environmental disaster at the Salton Sea but it depends, in part, on the results of a promising technique to remove toxic selenium from water.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180103110933/DROUGHT-SALTONSEA1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

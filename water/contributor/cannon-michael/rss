@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Cannon Michael</title>
+    <description>Cannon Michael is a sixth-generation California farmer and president of his family’s farm, Bowles Farming Company. The farm uses organic and conventional practices to grow tomatoes and other food and fiber crops primarily on drip irrigation powered by solar energy. Cannon lives on the farm with his wife and three sons. He is active in local and state water leadership and education. He serves on the board of the Water Education Foundation.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/cannon-michael/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/cannon-michael/rss"/>
+    <item>
+      <title>How California Accounts for its Water Resources</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 15 Sep 2016 06:27:23 +0000</pubDate>
+      <author>Cannon Michael</author>
+      <link>https://www.newsdeeply.com/water/community/2016/09/15/how-california-accounts-for-its-water-resources</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/09/15/how-california-accounts-for-its-water-resources</guid>
+      <description>Media reports that California doesn’t understand how much water it has are not true, says farmer Cannon Michael. While there are gaps in understanding, detailed information about reservoirs and river flows can be easily accessed online.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160915062632/California-Drought19.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The “Regulatory” Drought: It’s Easy to Feel on California Farms</title>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Cannon Michael</author>
+      <link>https://www.newsdeeply.com/water/community/2015/09/25/the-regulatory-drought-its-easy-to-feel-on-california-farms</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/09/25/the-regulatory-drought-its-easy-to-feel-on-california-farms</guid>
+      <description>Water set aside for environmental purposes has grown. So why haven’t the benefits grown, too?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104710/california-drought-obama-56055c7e4b72f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

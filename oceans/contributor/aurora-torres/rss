@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Aurora Torres</title>
+    <description>Aurora Torres: Originally from Madrid, Dr. Aurora Torres is a research fellow at the German Center for Integrative Biodiversity Research and Martin Luther University Halle-Wittenberg. Since July 2015 she has led and coordinated a pioneer working group with scientists from Michigan State University, Boise State University and Georgia University that aims to provide an integrative perspective on global sand use and the long-distance environmental and socioeconomic interactions between sand extraction and consumption.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/aurora-torres/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/aurora-torres/rss"/>
+    <item>
+      <title>The High Cost Sand Mining Extracts From Coastal Ecosystems</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Tue, 19 Sep 2017 07:31:25 +0000</pubDate>
+      <author>Kristen Lear, Jodi Brandt, Jianguo “Jack” Liu, Aurora Torres</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/09/19/the-high-cost-sand-mining-extracts-from-coastal-ecosystems</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/09/19/the-high-cost-sand-mining-extracts-from-coastal-ecosystems</guid>
+      <description>Researchers say the world faces a sand crisis as skyrocketing demand for the building material leads to the destruction of coastal environments and marine life.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170919072617/Sand_mining_with_suction_pumps.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

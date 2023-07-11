@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Louise Donovan</title>
+    <description>Louise Donovan is the deputy editor of ElleUK.com, covering women’s rights, gender issues and world news. She is the recipient of an award from the European Journalism Centre (EJC), and her work has been published in VICE, Grazia and ShortList magazine. Follow her on Twitter and Instagram  @louisedonovan_.
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/louise-donovan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/louise-donovan/rss"/>
+    <item>
+      <title>Syrian Refugee Fathers Fight Child Marriage in Lebanon</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Tue, 23 Jan 2018 05:11:50 +0000</pubDate>
+      <author>Hannah O’Neill, Louise Donovan</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/01/23/my-daughter-demands-more-the-men-fighting-child-marriage-in-lebanon-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/01/23/my-daughter-demands-more-the-men-fighting-child-marriage-in-lebanon-2</guid>
+      <description>Around Lebanon, men working as peer leaders are educating other men on the damage that child marriage does to girls and young women, in the hopes of convincing fathers to stop marrying off their daughters.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180123051127/Child-marriage-training-session11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

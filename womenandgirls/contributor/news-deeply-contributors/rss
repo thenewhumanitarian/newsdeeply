@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: News Deeply Contributors</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/news-deeply-contributors/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/news-deeply-contributors/rss"/>
+    <item>
+      <title>Striking Photos From a Year of Women &amp; Girls</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Tue, 16 May 2017 05:00:26 +0000</pubDate>
+      <author>News Deeply Contributors</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/16/striking-photos-from-a-year-of-women-girls</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/16/striking-photos-from-a-year-of-women-girls</guid>
+      <description>In its first year, Women &amp; Girls published dozens of photographs taken by our talented contributors all over the world. Here’s a look back at some of the most memorable images.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170514122750/62.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>From Botswana to Brazil, 7 Young Women Share Their Dreams and Fears</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Wed, 08 Mar 2017 12:41:31 +0000</pubDate>
+      <author>News Deeply Contributors</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/08/botswana-brazil-7-young-women-share-dreams-fears</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/08/botswana-brazil-7-young-women-share-dreams-fears</guid>
+      <description>To mark International Women’s Day, girls and young women from around the developing world tell us about the challenges they face every day and their hopes for the future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071011/SOMALIA-DAILY-LIFE.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

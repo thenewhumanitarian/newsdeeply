@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Campbell MacDiarmid</title>
+    <description>Campbell MacDiarmid is a New Zealand freelance journalist covering conflict, international law &amp;amp; war against ISIS. Follow him on @CampbellMacD
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/campbell-macdiarmid/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/campbell-macdiarmid/rss"/>
+    <item>
+      <title>Iraqis Sheltering In Mosul Create Fresh Hurdles for Aid Agencies</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 29 Nov 2016 11:24:22 +0000</pubDate>
+      <author>Campbell MacDiarmid</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/11/29/iraqis-defying-mosul-exodus-throw-up-fresh-hurdles-for-aid-agencies</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/11/29/iraqis-defying-mosul-exodus-throw-up-fresh-hurdles-for-aid-agencies</guid>
+      <description>Aid agencies had planned for a massive exodus of residents from Mosul, but many residents decided to remain in their homes. Agencies now face a major challenge delivering aid to civilians inside a city in the midst of war.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161129112342/Mideast-Iraq-Mosul1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Battle for Mosul Overwhelms Efforts to  Shelter Fleeing Civilians</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Wed, 19 Oct 2016 13:27:03 +0000</pubDate>
+      <author>Campbell MacDiarmid</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/19/battle-for-mosul-overwhelms-efforts-to-shelter-fleeing-civilians</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/19/battle-for-mosul-overwhelms-efforts-to-shelter-fleeing-civilians</guid>
+      <description>The military efforts under way in Mosul are dwarfing the humanitarian response. Campbell MacDiarmid reports from near the front line, where aid agencies are rushing to build camps for fleeing civilians, while displaced Iraqis explain how difficult it is to escape.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161019131643/Mideast-Iraq-Mosul.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

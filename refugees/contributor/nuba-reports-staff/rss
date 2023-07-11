@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Nuba Reports Staff</title>
+    <description>Nuba Reports produces news and films from Sudan’s Frontline.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/nuba-reports-staff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/nuba-reports-staff/rss"/>
+    <item>
+      <title>Yida Refugees Wary of U.N. Relocation</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 17 May 2016 07:03:05 +0000</pubDate>
+      <author>Nuba Reports Staff</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/05/17/yida-refugees-wary-of-u-n-relocation</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/05/17/yida-refugees-wary-of-u-n-relocation</guid>
+      <description>Over the past five years, 70,000 refugees have fled the civil war between Sudan and South Kordofan rebels and eked out a new life in Yida camp in South Sudan. But is the camp’s relocation being driven by safety concerns – or by political jockeying and oil exploitation?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160517065651/South-Sudan.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

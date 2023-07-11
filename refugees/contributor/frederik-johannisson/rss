@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Frederik Johannisson</title>
+    <description>Frederik Johannisson is an independent journalist and researcher based in Copenhagen. He writes about human rights, migration and corporate accountability.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/frederik-johannisson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/frederik-johannisson/rss"/>
+    <item>
+      <title>Refugees Relocated by E.U. Struggle to Get by in Romania</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 01 Dec 2016 11:00:04 +0000</pubDate>
+      <author>Frederik Johannisson</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/12/01/refugees-relocated-by-e-u-struggle-to-get-by-in-romania</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/12/01/refugees-relocated-by-e-u-struggle-to-get-by-in-romania</guid>
+      <description>Refugees sent to Romania under an E.U. relocation scheme are considering leaving due to a lack of jobs and poor language classes. Their situation demonstrates that European relocation efforts must be backed by resources in order for integration to be successful.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161201121554/Rami-Salama-outside-Bucharest-asylum-centre-3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

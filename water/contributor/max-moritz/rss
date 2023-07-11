@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Max Moritz</title>
+    <description>Max Moritz is Cooperative Extension Specialist, Wildland Fire, at the University of California, Berkeley.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/max-moritz/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/max-moritz/rss"/>
+    <item>
+      <title>California Needs to Rethink Urban Fire Risk After Wine Country Tragedy</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Thu, 09 Nov 2017 03:00:21 +0000</pubDate>
+      <author>Max Moritz</author>
+      <link>https://www.newsdeeply.com/water/community/2017/11/09/california-needs-to-rethink-urban-fire-risk-after-wine-country-tragedy</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/11/09/california-needs-to-rethink-urban-fire-risk-after-wine-country-tragedy</guid>
+      <description>Policy and planning shortfalls in how we assess fire risk need to be addressed because we’re likely to see more wildfires tearing through urban neighborhoods, says fire expert Max Moritz of the University of California, Berkeley.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171106094804/98122729.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

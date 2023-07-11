@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: María Laura Chang</title>
+    <description>María Laura Chang is a Venezuelan freelance journalist covering human rights, politics, culture and society.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/maria-laura/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/maria-laura/rss"/>
+    <item>
+      <title>No Solution in Sight for Venezuela’s Growing Nutrition Crisis</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Tue, 20 Mar 2018 13:00:00 +0000</pubDate>
+      <author>María Laura Chang</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/03/20/no-solution-in-sight-for-venezuelas-growing-nutrition-crisis</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/03/20/no-solution-in-sight-for-venezuelas-growing-nutrition-crisis</guid>
+      <description>As the Venezuelan government blocks international aid, one agency estimates 280,000 child deaths this year could be linked to malnutrition.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180320130156/AFP_WC144.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

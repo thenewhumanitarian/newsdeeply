@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Peter Yeung</title>
+    <description>Peter Yeung is a roving freelance journalist who has reported from across Europe, Asia and Africa, for the Guardian and the BBC among others. He has covered the refugee crisis from the Calais ‘jungle’ to Kenya’s Dadaab camp and immigration centers in Wales, also writing about displaced people in Myanmar and conditions in Greece’s Idomeni camp. He uses digital journalism as both a storytelling and investigative tool, with a particular interest in multimedia and new technologies.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/peter-yeung/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/peter-yeung/rss"/>
+    <item>
+      <title>Land Confiscation Is Latest Barrier to Return for Myanmar’s Displaced</title>
+      <pubDate>Fri, 15 Mar 2019 05:00:00 +0000</pubDate>
+      <author>Peter Yeung</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2019/03/15/land-confiscation-is-latest-barrier-to-return-for-myanmars-displaced</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2019/03/15/land-confiscation-is-latest-barrier-to-return-for-myanmars-displaced</guid>
+      <description>An amendment to Myanmar’s land-ownership laws will make it nearly impossible for Rohingya refugees and Myanmar’s internally displaced to return to land they’ve tilled for generations, Peter Yeung reports.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190315043337/Traders-selling-produce-in-Yangon-Myanmar-Credit-Peter-Yeung.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

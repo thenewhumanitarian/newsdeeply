@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Claas Schneiderheinze</title>
+    <description>Claas Schneiderheinze is a researcher at the Kiel Institute for the World Economy. He completed a bachelor of economics in Kiel and a master of development economics in Göttingen. In September of 2016 he joined the Kiel Institute’s department of poverty reduction, equity and development as a research fellow and PhD candidate. He is funded by the MEDAM project and mainly works on the country of origin perspective.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/claas-schneiderheinze/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/claas-schneiderheinze/rss"/>
+    <item>
+      <title>Border Walls Don’t Stop Immigration, but They Do Undermine Integration</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 13 Jun 2017 14:59:58 +0000</pubDate>
+      <author>Tobias Stöhr, Claas Schneiderheinze</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/06/13/border-walls-dont-stop-immigration-but-they-do-undermine-integration</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/06/13/border-walls-dont-stop-immigration-but-they-do-undermine-integration</guid>
+      <description>Border walls are gaining popularity in Europe and the U.S. In this excerpt from the Mercator Dialogue on Asylum and Migration’s 2017 assessment report, researchers explain how walls don’t stop immigration but shift migration patterns and harm integration.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170613125516/EUROPE-MIGRANTS-BULGARIA-HUNGARY-TURKEY.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

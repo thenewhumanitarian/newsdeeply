@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Disha Shetty</title>
+    <description>Disha Shetty is a Mumbai based independent science journalist. A graduate from Columbia Journalism School’s Science, Environment and Medicine Journalism master’s program, she writes mainly on public health and the intersection between health and environment. Disha tweets @dishashetty20.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/disha-shetty/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/disha-shetty/rss"/>
+    <item>
+      <title>In India, Experts Look to Climate Trends to Tackle Malnutrition</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Wed, 20 Jun 2018 13:40:00 +0000</pubDate>
+      <author>Disha Shetty</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/06/20/in-india-experts-look-to-climate-trends-to-tackle-malnutrition</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/06/20/in-india-experts-look-to-climate-trends-to-tackle-malnutrition</guid>
+      <description>Officials are increasingly looking to climate data to predict droughts, famines and heat waves and to help plan for – and prevent – the rising rates of moderate and severe malnutrition that have been shown to follow.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180620134049/kachroo-notitle180524_np9yC.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

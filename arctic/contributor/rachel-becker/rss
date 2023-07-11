@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Rachel Becker</title>
+    <description>Rachel Becker
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/rachel-becker/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/rachel-becker/rss"/>
+    <item>
+      <title>Toxins Slip into the Alaska Food Chain</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Rachel Becker</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/03/10/toxins-slip-into-the-alaska-food-chain</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/03/10/toxins-slip-into-the-alaska-food-chain</guid>
+      <description>An algal toxin usually associated with warmer water has been detected for the first time in Alaska’s marine mammals. The health risk from eating the marine mammals is probably low, but what does the unexpected finding mean for food security in the North?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092813/diatoms-56e2eb272ecd7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

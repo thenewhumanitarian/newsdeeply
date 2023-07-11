@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: David Kenner</title>
+    <description>David Kenner is Middle East editor at Foreign Policy.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/david-kenner/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/david-kenner/rss"/>
+    <item>
+      <title>How One Syrian Radio Station Took on Al Qaeda</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 22 Oct 2013 00:00:00 +0000</pubDate>
+      <author>David Kenner</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/10/22/how-one-syrian-radio-station-took-on-al-qaeda</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/10/22/how-one-syrian-radio-station-took-on-al-qaeda</guid>
+      <description>In a supposedly “liberated” area of Syria, a group of opposition journalists is still being forced to operate in secret.</description>
+    </item>
+  </channel>
+</rss>

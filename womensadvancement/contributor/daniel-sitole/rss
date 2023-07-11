@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Daniel Sitole</title>
+    <description>Daniel Sitole is a Kenyan freelance journalist and photographer. His stories have appeared in newspapers and magazines around the world, including the US, Canada and the UK. He writes business, economy, development and human interest stories.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/daniel-sitole/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/daniel-sitole/rss"/>
+    <item>
+      <title>Beyond Borders: Kenyan Women On the Rise in International Trade</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <pubDate>Thu, 09 Aug 2018 09:00:00 +0000</pubDate>
+      <author>Daniel Sitole</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/08/09/beyond-borders-kenyan-women-on-the-rise-in-international-trade</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/08/09/beyond-borders-kenyan-women-on-the-rise-in-international-trade</guid>
+      <description>Often doubted by friends and rejected for bank loans, women entrepreneurs in Kenya are challenging stereotypes and finding success in the male-dominated business of import/export.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180809090402/International-trade1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>On Land Where Almost Nothing Grows, Maasai Women Find Autonomy in Aloe</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 13 Mar 2018 14:20:00 +0000</pubDate>
+      <author>Daniel Sitole</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/03/13/on-land-where-almost-nothing-grows-maasai-women-find-autonomy-in-aloe</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/03/13/on-land-where-almost-nothing-grows-maasai-women-find-autonomy-in-aloe</guid>
+      <description>Tired of relying on their husbands, who are often away for months, a group of Maasai women began making and selling beauty products made from aloe. With the profits, they now contribute to their household incomes and help support community members in need.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180313142836/Aloe-beauty-products-12.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kenyan Conservation Group Led by Women Thrives Where Men Have Failed</title>
+      <pubDate>Fri, 22 Dec 2017 12:36:34 +0000</pubDate>
+      <author>Daniel Sitole</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/12/22/kenyan-conservation-group-led-by-women-thrives-where-men-have-failed</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/12/22/kenyan-conservation-group-led-by-women-thrives-where-men-have-failed</guid>
+      <description>By using an indigenous wild basil to make a medicinal ointment, the Muliru self-help group of Isecheno Village has found a way to benefit the local community while preserving the threatened resources of Kakamega Forest.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171222123832/Muliru-self-help-group-farm1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

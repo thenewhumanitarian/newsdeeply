@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Kathy Kuletz</title>
+    <description>Kathy Kuletz has studied seabird ecology since 1978, primarily as a biologist with the U.S. Fish and Wildlife Service, based in Anchorage, Alaska. As an expert on Arctic seabirds, she has been a senior scientist on many publications and long-term monitoring studies in the Arctic Ocean and Bering Sea.
+ 
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/kathy-kuletz/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/kathy-kuletz/rss"/>
+    <item>
+      <title>A Season of Abundance in the Chukchi Corridor</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 20 Jun 2016 03:15:28 +0000</pubDate>
+      <author>Kathy Kuletz</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/06/20/a-season-of-abundance-in-the-chukchi-corridor</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/06/20/a-season-of-abundance-in-the-chukchi-corridor</guid>
+      <description>Almost every form of Arctic resident can be spotted along this heavily travelled strip of water off the northwestern Alaskan coast that flows northward to the Barrow Canyon, writes seabird ecologist Kathy Kuletz.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160617151854/7348953402_8fa352b112_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

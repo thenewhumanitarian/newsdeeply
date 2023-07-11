@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Wissam Zarqa</title>
+    <description>Wissam Zarqa is a Syrian activist and teacher at the University of Aleppo.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/wissam-zarqa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/wissam-zarqa/rss"/>
+    <item>
+      <title>Looking for Democracy in Idlib: Diary Entry</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 07 Sep 2017 07:38:26 +0000</pubDate>
+      <author>Wissam Zarqa</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/09/07/looking-for-democracy-in-idlib-diary-entry</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/09/07/looking-for-democracy-in-idlib-diary-entry</guid>
+      <description>After being forced to flee eastern Aleppo in December, Wissam Zarqa moved to Idlib. Although the insurgent-held province is not known as a bastion of democracy, Zarqa will always remember it as the place where he voted in his first democratic election.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170907073732/SYRIA-CONFLICT-VOTE.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Besieged in Eastern Aleppo but Happy to Be Here: Diary Entry</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 05 Oct 2016 07:12:54 +0000</pubDate>
+      <author>Wissam Zarqa</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/10/05/besieged-in-eastern-aleppo-but-happy-to-be-here-diary-entry</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/10/05/besieged-in-eastern-aleppo-but-happy-to-be-here-diary-entry</guid>
+      <description>Wissam lives with his wife in rebel-held eastern Aleppo, which has been under government siege since July. Violence is escalating in his neighborhood, but the teacher and activist wouldn’t want to be anywhere else. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161005070556/SYRIA-CONFLICT-ALEPPO1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

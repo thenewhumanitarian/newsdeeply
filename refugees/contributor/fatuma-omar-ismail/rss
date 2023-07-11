@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Fatuma Omar Ismail</title>
+    <description>Fatuma Omar Ismail studies chemical engineering at the University of Toronto in Canada on a scholarship. She spent most of her childhood in Dadaab, a complex of refugee camps in northern Kenya, near the border with Somalia, where much of her family still resides. She came to international prominence after her outstanding exam results saw her given a rare place at one of Kenya’s best girls schools. Living between Dadaab and Nairobi, she built on the opportunity given to her to earn the right to study abroad.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/fatuma-omar-ismail/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/fatuma-omar-ismail/rss"/>
+    <item>
+      <title>Dadaab Refugee Camp Through The Eyes of a Child</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Tue, 04 Apr 2017 12:25:46 +0000</pubDate>
+      <author>Fatuma Omar Ismail</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/04/04/dadaab-refugee-camp-through-the-eyes-of-a-child</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/04/04/dadaab-refugee-camp-through-the-eyes-of-a-child</guid>
+      <description>Fatuma Omar Ismail worked her way out of the Dadaab refugee camp by excelling at school. Now a scholarship student in Canada, the Somali girl describes the daily challenges she faced as a 12-year-old determined to change her future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406042037/SIPA.005815170000961.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

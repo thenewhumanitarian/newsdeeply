@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Sasha Abramsky</title>
+    <description>Sasha Abramsky is a widely published freelance journalist and book author. His 2013 book The American Way of Poverty was listed by the New York Times as amongst the 100 notable books of the year. In September, Nation Books will publish his latest volume, Jumping at Shadow: the Triumph of Fear and the End of the American Dream.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/sasha-abramsky/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/sasha-abramsky/rss"/>
+    <item>
+      <title>T is for Toxic: Danger Lurking in California School Drinking Fountains</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/water/toxic-taps/">Toxic Taps</category>
+      <pubDate>Wed, 05 Jul 2017 03:15:53 +0000</pubDate>
+      <author>Sasha Abramsky</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/07/05/t-is-for-toxic-danger-lurking-in-california-school-drinking-fountains</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/07/05/t-is-for-toxic-danger-lurking-in-california-school-drinking-fountains</guid>
+      <description>It’s too risky for tens of thousands of children in the San Joaquin Valley to drink water at their schools due to chronic contamination by chemicals, pesticides and other toxins. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170702101758/HERO-park.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

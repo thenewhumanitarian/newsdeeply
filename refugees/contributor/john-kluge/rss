@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: John Kluge</title>
+    <description>John Kluge is the co-founder and managing partner of the Alight Fund.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/john-kluge/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/john-kluge/rss"/>
+    <item>
+      <title>Crowdfunding a Stable Financial Future for Refugees and Hosts</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Tue, 20 Jun 2017 16:33:30 +0000</pubDate>
+      <author>Lev Plaves, John Kluge</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/06/20/crowdfunding-a-stable-financial-future-for-refugees-and-hosts-2</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/06/20/crowdfunding-a-stable-financial-future-for-refugees-and-hosts-2</guid>
+      <description>On World Refugee Day, the Alight Fund’s John Kluge and Lev Plaves of the microfinance NGO Kiva explain the limitations facing Syrian refugees regaining their financial footing, and the launch of World Refugee Fund, an initiative crowdfunding loans for refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170620141253/Mohammed-Azaqeer-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Crowdfunding a Stable Financial Future for Refugees and Hosts</title>
+      <category domain="https://www.newsdeeply.com/refugees/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/refugees/displacement/">Displacement</category>
+      <pubDate>Tue, 20 Jun 2017 14:19:08 +0000</pubDate>
+      <author>Lev Plaves, John Kluge</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/06/20/crowdfunding-a-stable-financial-future-for-refugees-and-hosts</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/06/20/crowdfunding-a-stable-financial-future-for-refugees-and-hosts</guid>
+      <description>On World Refugee Day, the Alight Fund’s John Kluge and Lev Plaves of the microfinance NGO Kiva explain the limitations facing Syrian refugees regaining their financial footing, and the launch of World Refugee Fund, an initiative crowdfunding loans for refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170620141253/Mohammed-Azaqeer-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: ARDD-Legal Aid</title>
+    <description>ARDD-Legal Aid is the first Arab rights-based organization dedicated to fighting injustice through promoting human rights, democracy, and development.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/ardd-legal-aid/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ardd-legal-aid/rss"/>
+    <item>
+      <title>With Syria, 3 Years In</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      <author>ARDD-Legal Aid</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/03/28/with-syria-3-years-in</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/03/28/with-syria-3-years-in</guid>
+      <description>More than three years into Syria’s war, over 2 million Syrians have fled their country. Nearly 600,000 of them are seeking refuge in Jordan. As the world deliberates about Syria’s humanitarian crisis, what are Syrians in Jordan thinking and feeling?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115350/f_s-1-533589d56b486.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

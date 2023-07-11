@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Paul St. John Frisoli</title>
+    <description>Paul St. John Frisoli, Ed.D., is senior education technical adviser, Middle East region for the International Rescue Committee.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/paul-st-john-frisoli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/paul-st-john-frisoli/rss"/>
+    <item>
+      <title>In Mosul, Schools Can Save Children’s Lives</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Fri, 10 Mar 2017 05:00:54 +0000</pubDate>
+      <author>Paul St. John Frisoli</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/03/10/in-mosul-schools-can-save-childrens-lives</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/03/10/in-mosul-schools-can-save-childrens-lives</guid>
+      <description>Over 100,000 children have been displaced by the battle for Mosul. Paul Frisoli, the International Rescue Committee’s education adviser for the Middle East, explains how education can be life saving in such emergencies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170309095721/IRAQ-CONFLICT-MOSUL.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

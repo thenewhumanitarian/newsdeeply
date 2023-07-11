@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Emma Prestwich</title>
+    <description>Emma Prestwich is the editor of AOL.ca and a writer for The Huffington Post Canada. She covers viral stories in news, lifestyle and entertainment and is always in search of the best nanaimo bar.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/emma-prestwich/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/emma-prestwich/rss"/>
+    <item>
+      <title>A Lettuce (and More) Grows in Arviat, Nunavut</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 27 May 2016 03:00:00 +0000</pubDate>
+      <author>Emma Prestwich</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/05/27/a-lettuce-and-more-grows-in-arviat-nunavut</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/05/27/a-lettuce-and-more-grows-in-arviat-nunavut</guid>
+      <description>THE HUFFINGTON POST: In northern communities, fresh vegetables are expensive due to the high cost of shipping. Young adults are learning how to grow their own produce in greenhouses as a way to promote healthy – and affordable – eating.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160524131114/o-ARVIAT-GREENHOUSE-570-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

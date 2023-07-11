@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Yermi Brenner</title>
+    <description>Yermi Brenner is a Berlin-based journalist covering migration issues and minorities. His feature articles, personal essays and video reports have been published by Al Jazeera, HuffPost and other international media. Follow his work on Twitter: @yermibrenner.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/yermi-brenner/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/yermi-brenner/rss"/>
+    <item>
+      <title>When Refugees Lead: Conversation with German Politician Omid Nouripour</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Wed, 02 May 2018 08:10:00 +0000</pubDate>
+      <author>Yermi Brenner</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/05/02/when-refugees-lead-conversation-with-german-politician-omid-nouripour</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/05/02/when-refugees-lead-conversation-with-german-politician-omid-nouripour</guid>
+      <description>As part of our series ‘When Refugees Lead,’ we speak with Omid Nouripour, a German politician from the Green Party whose family fled Iran in the 1980s.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180502081527/Omid-Nouripour-MdB-Buendnis-90_Die-Gruenen-Bundestagsfraktion-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Muslim Holiday Debate: Germany Mulls Meaning of Religious Freedom</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 22 Dec 2017 11:49:52 +0000</pubDate>
+      <author>Yermi Brenner</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/12/22/the-muslim-holiday-debate-germany-mulls-meaning-of-religious-freedom</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/12/22/the-muslim-holiday-debate-germany-mulls-meaning-of-religious-freedom</guid>
+      <description>A recent controversy in Germany over whether Muslim holidays should be recognized by the state highlights a complex debate across Europe over cultural and religious integration. Yermi Brenner reports on the reactions of Muslims and local authorities in Germany.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171222115627/contini-notitle171003_npO8i1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘Neighborhood Mothers’ Share Integration Wisdom with Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Wed, 26 Jul 2017 11:14:09 +0000</pubDate>
+      <author>Yermi Brenner</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/07/26/neighborhood-mothers-share-integration-wisdom-with-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/07/26/neighborhood-mothers-share-integration-wisdom-with-refugees</guid>
+      <description>A mentoring project for migrants and refugees founded in a Berlin neighborhood a decade ago is being replicated across Germany. Through ‘Neighborhood Mothers,’ women with their own history of migration and integration share their tips and experiences with new arrivals.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170726110741/Human-chain-against-anti-semitism.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Germany Seeks to Integrate Refugees Through Education</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Tue, 16 Aug 2016 10:04:29 +0000</pubDate>
+      <author>Yermi Brenner</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/08/16/germany-seeks-to-integrate-refugees-through-education</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/08/16/germany-seeks-to-integrate-refugees-through-education</guid>
+      <description>While Germany has made significant progress in providing education for refugee children regardless of their official status, more trained teachers, schools and housing facilities are needed.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160816095927/Mohammad-family1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

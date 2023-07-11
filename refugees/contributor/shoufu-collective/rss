@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Shoufu Collective</title>
+    <description>Shoufu collective is a group of recurring volunteers worked on the island of Chios.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/shoufu-collective/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/shoufu-collective/rss"/>
+    <item>
+      <title>When Volunteers Become the Lackeys of Authorities</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 27 Mar 2017 04:59:05 +0000</pubDate>
+      <author>Are You Syrious, Shoufu Collective</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/03/27/when-volunteers-become-the-lackeys-of-authorities</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/03/27/when-volunteers-become-the-lackeys-of-authorities</guid>
+      <description>Are refugee volunteers slowly emulating the hierarchies and structures they once protested? The question is posed by the two volunteer collectives, Are You Syrious and Shoufu, as they reflect on the need to bear witness as well as deliver aid.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170325154723/areyoursyrious.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Lauren Zanolli</title>
+    <description>Lauren Zanolli is a New Orleans-based freelance journalist who writes on a range of environmental, economic and social issues. She can be reached at lauren.zanolli@gmail.com.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/lauren-zanolli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/lauren-zanolli/rss"/>
+    <item>
+      <title>Gulf’s Mysterious Deep Corals Reveal Oil Spill’s Slow-Motion Damage</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <pubDate>Mon, 27 Nov 2017 09:39:04 +0000</pubDate>
+      <author>Lauren Zanolli</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/11/27/gulfs-mysterious-deep-corals-reveal-oil-spills-slow-motion-damage</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/11/27/gulfs-mysterious-deep-corals-reveal-oil-spills-slow-motion-damage</guid>
+      <description>As research funding related to the 2010 BP oil spill slows and the federal government contemplates new offshore drilling, scientists are trying to determine the fate of a sensitive and unique ecosystem. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171127093541/Deepwater-coral-orange-basket-star_.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

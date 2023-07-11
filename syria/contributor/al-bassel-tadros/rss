@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Al-Bassel Tadros</title>
+    <description>Al-Basel Tadros is an independent reporter and journalist from Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/al-bassel-tadros/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/al-bassel-tadros/rss"/>
+    <item>
+      <title>Wheelchair Race Gives Hope to Injured in Besieged Eastern Ghouta</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Thu, 10 Nov 2016 13:51:52 +0000</pubDate>
+      <author>Al-Bassel Tadros</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/11/10/wheelchair-race-gives-hope-to-injured-in-besieged-eastern-ghouta</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/11/10/wheelchair-race-gives-hope-to-injured-in-besieged-eastern-ghouta</guid>
+      <description>Amid the rubble in the Damascus suburbs, a wheelchair race sheds light on the growing number of people with lifelong injuries caused by the conflict in Syria, and survivors’ attempts to reengage with a war-ravaged community. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161110135114/Douma-Race-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Bryce Gray</title>
+    <description>Bryce Gray
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/bryce-gray/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/bryce-gray/rss"/>
+    <item>
+      <title>As Greenland Ramps Up Mining, Who Will Benefit?</title>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Bryce Gray</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/03/17/as-greenland-ramps-up-mining-who-will-benefit</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/03/17/as-greenland-ramps-up-mining-who-will-benefit</guid>
+      <description>With its newly accessible onshore and offshore mineral wealth sought by companies spanning the globe, mining developments remain a controversial topic in Greenland. At the heart of the debate is whether the boom will benefit or exploit the job-hungry local population.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092806/qaqortoq_2008-10-28_wikimedia-56eae2b766a4b.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Slow Markets Won’t Deter Greenland Mining Projects</title>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Bryce Gray</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/03/04/slow-markets-wont-deter-greenland-mining-projects</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/03/04/slow-markets-wont-deter-greenland-mining-projects</guid>
+      <description>Despite low commodity prices, a multinational minerals rush is reawakening Greenland’s dormant mining industry, stoking hopes for economic independence. But how many proposals will be able to brave low prices and a lack of infrastructure?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092817/9385a233-3f78-4263-9d2e-c2f984-56d96f1697d35.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

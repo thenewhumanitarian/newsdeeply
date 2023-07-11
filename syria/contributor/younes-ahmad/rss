@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Younes Ahmad</title>
+    <description>Younes Ahmad is a Syrian Contributor from Damascus
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/younes-ahmad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/younes-ahmad/rss"/>
+    <item>
+      <title>Arts + Culture: In a Militarized Damascus, Fatigues Become Fashion</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      <author>Younes Ahmad</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/05/30/arts-culture-in-a-militarized-damascus-fatigues-become-fashion</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/05/30/arts-culture-in-a-militarized-damascus-fatigues-become-fashion</guid>
+      <description>Tailors and store owners report a massive increase in sales of military-themed clothing as pro-government civilians don everything from camouflage dresses to generals’ uniforms in support of Assad.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115225/uniform-53889801ce906.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

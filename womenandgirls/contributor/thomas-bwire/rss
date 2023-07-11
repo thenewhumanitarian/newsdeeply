@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Thomas Bwire</title>
+    <description>Thomas Bwire is a journalist based in the Kibera slums, with a passion for telling development stories from the grassroots level. He is one of the cofounders and the editor of Habari Kibra, which trains Kibera teens to tell the narratives of the slums using analytical journalism. Follow him @thomasbwire and @HabariKibra.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/thomas-bwire/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/thomas-bwire/rss"/>
+    <item>
+      <title>Out of the Box: Giving Voice to Schoolgirls in Kenya’s Kibera Slum</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Wed, 11 Oct 2017 09:19:34 +0000</pubDate>
+      <author>Thomas Bwire</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/10/11/out-of-the-box-giving-voice-to-schoolgirls-in-kenyas-kibera-slum</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/10/11/out-of-the-box-giving-voice-to-schoolgirls-in-kenyas-kibera-slum</guid>
+      <description>For many girls, enduring a personal problem means suffering in silence. But a school-based program in the Kibera informal settlement in Nairobi lets girls share their secrets and get help using just a piece of paper and a wooden box.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171011090734/Talking-box.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

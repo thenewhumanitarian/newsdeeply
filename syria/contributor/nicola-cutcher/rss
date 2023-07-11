@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Nicola Cutcher</title>
+    <description>Nicola Cutcher is a freelance journalist and coproduced the documentary Syria’s Disappeared: The Case Against Assad.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/nicola-cutcher/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/nicola-cutcher/rss"/>
+    <item>
+      <title>Analysis: The Political Impasse Over Syria’s Disappeared</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 18 Oct 2017 09:46:31 +0000</pubDate>
+      <author>Nicola Cutcher</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/10/18/analysis-the-political-impasse-over-syrias-disappeared</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/10/18/analysis-the-political-impasse-over-syrias-disappeared</guid>
+      <description>Tens of thousands of people remain in detention or have ‘disappeared’ in Syria, devastating countless families. Nevertheless, advocates say the issue has largely been avoided in peace talks and negotiations aimed at bringing an end to the Syrian conflict.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171018093601/DCIMAGE-26.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Henri Ismail</title>
+    <description>Henri Ismail is a freelance documentary photographer from Indonesia. His recent work has focused on mining issues, indigenous people, human rights, poverty and most recently, refugee issues. With fellow photographers, Henri cofounded Poros Photos, an organization to develop social documentary photography in Indonesia.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/henri-ismail/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/henri-ismail/rss"/>
+    <item>
+      <title>Refugees in Indonesia Turn to Soccer to Fill Lives On Hold</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Mon, 23 Jan 2017 13:14:02 +0000</pubDate>
+      <author>Henri Ismail</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/23/refugees-in-indonesia-turn-to-soccer-to-fill-lives-on-hold</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/23/refugees-in-indonesia-turn-to-soccer-to-fill-lives-on-hold</guid>
+      <description>Following Australia’s decision to block migrant boats, thousands of refugees are now stranded in Indonesia. With little access to work or education while waiting years to be resettled, they have devised ways to keep productive, including the creation of a sports tournament. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170123130246/04_HIsmail.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

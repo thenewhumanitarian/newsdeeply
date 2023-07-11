@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Julie Jalloul</title>
+    <description>Julie Jalloul is a Translators without Borders project officer and humanitarian interpreter. Currently, she works with the TWB Words of Relief crisis response team, focused on the European refugee crisis response, developing open-source tools to guide and train interpreters on working in humanitarian settings. Translators without Borders is on Twitter: @TranslatorsWB
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/julie-jalloul/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/julie-jalloul/rss"/>
+    <item>
+      <title>Without Good Interpreters, Refugees Are Lost in an Information Void</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Wed, 20 Sep 2017 11:32:12 +0000</pubDate>
+      <author>Julie Jalloul</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/09/20/without-good-interpreters-refugees-are-lost-in-an-information-void</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/09/20/without-good-interpreters-refugees-are-lost-in-an-information-void</guid>
+      <description>Humanitarian interpreters are in short supply, undermining effective refugee response in countries like Greece, writes Julie Jalloul of Translators without Borders, which is launching a new platform to help connect interpreters and refugee support groups.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170920113017/1b62da31-047c-44aa-aa8d-98538f875f3f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

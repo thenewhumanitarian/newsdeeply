@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Camilla Turner</title>
+    <description>Camilla is a documentary filmmaker based in Kenya. A self-shooting director, she has been making films in Africa for over 12 years. She has made a wide range of films for BBC, Al Jazeera, PBS, Associated Press and many international NGO’s.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/camilla-turner/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/camilla-turner/rss"/>
+    <item>
+      <title>Video: The Midwife Who’s Busting Birth Control Myths in Kenya</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Mon, 13 Mar 2017 11:23:38 +0000</pubDate>
+      <author>Camilla Turner</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/13/video-midwife-whos-busting-birth-control-myths-kenya</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/13/video-midwife-whos-busting-birth-control-myths-kenya</guid>
+      <description>As a program officer for health charity Jhpiego, Emmah Kariuki finds innovative ways to separate rumors from family planning facts and helps thousands of disadvantaged women in Nairobi access essential contraception.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070951/Kariuki.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

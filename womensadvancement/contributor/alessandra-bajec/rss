@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Alessandra Bajec</title>
+    <description>Alessandra Bajec is a freelance journalist based in Tunis. Her work has appeared in rt.com, The New Arab, Middle East Eye and IRIN among others. Follow her on Twitter @alessandrabajec.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/alessandra-bajec/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/alessandra-bajec/rss"/>
+    <item>
+      <title>Tunisian Women March to Demand Equal Inheritance</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Tue, 13 Mar 2018 11:40:00 +0000</pubDate>
+      <author>Alessandra Bajec</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/03/13/tunisian-women-march-to-demand-equal-inheritance</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/03/13/tunisian-women-march-to-demand-equal-inheritance</guid>
+      <description>Tunisia’s president wants to make his country the first in the Arab world to grant women equal inheritance rights. On Saturday, Tunisian women turned out to support his proposal.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180313114223/IMG_0856.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

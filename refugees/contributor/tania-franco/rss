@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Tania Franco</title>
+    <description>Tania Franco is a Brazilian freelance journalist based in São Paulo who works with the New York Times in Brazil.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/tania-franco/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/tania-franco/rss"/>
+    <item>
+      <title>The Tastes and Memories of Syria That Unlocked a New Life in Brazil</title>
+      <category domain="https://www.newsdeeply.com/refugees/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Tue, 31 Jan 2017 10:35:52 +0000</pubDate>
+      <author>Tania Franco</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/01/31/tastes-memories-syria-unlocked-new-life-brazil</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/01/31/tastes-memories-syria-unlocked-new-life-brazil</guid>
+      <description>Fleeing the Syrian conflict, Muna Darweesh sought refuge in Brazil using a holiday visa. As Refugees Deeply reports, after a tough start, the refugee from Latakia is becoming a culinary star in her adopted country and an example for others.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071148/Muna1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Tastes and Memories of Syria That Unlocked a New Life in Brazil</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Mon, 30 Jan 2017 13:31:09 +0000</pubDate>
+      <author>Tania Franco</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/30/the-tastes-and-memories-of-syria-that-unlocked-a-new-life-in-brazil</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/30/the-tastes-and-memories-of-syria-that-unlocked-a-new-life-in-brazil</guid>
+      <description>Fleeing the Syrian conflict, Muna Darweesh sought refuge in Brazil using a holiday visa. After a tough start, the refugee from Latakia is becoming a culinary star in her adopted country and an example for other refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170130125622/Muna1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: John Bezdek</title>
+    <description>John Bezdek is a former attorney at the Department of the Interior holding several senior positions over a 20-year career working on water resources and related issues. He is now an attorney in private practice in Washington, D.C.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/john-bezdek/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/john-bezdek/rss"/>
+    <item>
+      <title>Bureau of Reclamation Got It Right in the Klamath Basin</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Tue, 26 Sep 2017 05:00:17 +0000</pubDate>
+      <author>Dan Keppen, John Bezdek</author>
+      <link>https://www.newsdeeply.com/water/community/2017/09/26/bureau-of-reclamation-got-it-right-in-the-klamath-basin</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/09/26/bureau-of-reclamation-got-it-right-in-the-klamath-basin</guid>
+      <description>A recent federal audit over a water-banking program in the Klamath Basin lacks an understanding of the on-the-ground reality in the region, writes attorney John Bezdek and Family Farm Alliance’s Dan Keppen.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170925063927/19d664be-edea-44d7-8a8e-80d3324adfa5.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

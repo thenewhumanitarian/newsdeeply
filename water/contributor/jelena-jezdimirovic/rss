@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Jelena Jezdimirovic</title>
+    <description>Jelena Jezdimirovic is a research associate at the PPIC Water Policy Center.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/jelena-jezdimirovic/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/jelena-jezdimirovic/rss"/>
+    <item>
+      <title>Information Gaps Hinder Progress on Safe Drinking Water</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 18 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Ellen Hanak, Caitrin Chappelle, Jelena Jezdimirovic</author>
+      <link>https://www.newsdeeply.com/water/community/2018/01/18/information-gaps-hinder-progress-on-safe-drinking-water</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/01/18/information-gaps-hinder-progress-on-safe-drinking-water</guid>
+      <description>When it comes to understanding how many people are impacted by unsafe water and which water suppliers have chronic problems, California is in need of better data, say water experts from the Public Policy Institute of California.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180117115850/DSC_17121.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

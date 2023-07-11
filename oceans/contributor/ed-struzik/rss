@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Ed Struzik</title>
+    <description>Canadian author and photographer Ed Struzik has been writing on the Arctic for more than three decades. He was the 2007 recipient of the Atkinson Fellowship in Public Policy and was a finalist for the 2008 Grantham Prize for Excellence in Reporting on the Environment. Ed is currently a fellow in the School of Policy Studies, Institute for Energy and Environmental Policy at Queen’s University.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/ed-struzik/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/ed-struzik/rss"/>
+    <item>
+      <title>Welcome to the Arctic Ocean, Mysterious Fish</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <pubDate>Fri, 12 May 2017 11:02:46 +0000</pubDate>
+      <author>Ed Struzik</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/05/12/welcome-to-the-arctic-ocean-mysterious-fish-2</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/05/12/welcome-to-the-arctic-ocean-mysterious-fish-2</guid>
+      <description>As the climate changes, the Arctic Ocean beckons Pacific salmon and other species from the south. What remains to be seen is whether this will benefit the Inuit or trigger an international race to exploit emerging resources in the central Arctic Ocean.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170512105612/arctic-cod11.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Welcome to the Arctic Ocean, Mysterious Fish</title>
+      <category domain="https://www.newsdeeply.com/oceans/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/oceans/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/oceans/shipping/">Shipping</category>
+      <pubDate>Mon, 22 Aug 2016 06:41:38 +0000</pubDate>
+      <author>Ed Struzik</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/08/22/welcome-to-the-arctic-ocean-mysterious-fish</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/08/22/welcome-to-the-arctic-ocean-mysterious-fish</guid>
+      <description>As the climate changes, the Arctic Ocean beckons Pacific salmon and other species from the south. What remains to be seen is whether this will benefit the Inuit or trigger an international race to exploit emerging resources in the central Arctic Ocean.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160822063403/arctic-cod1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Canada’s Arctic an Untapped Gold Mine … of Tourism</title>
+      <category domain="https://www.newsdeeply.com/oceans/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/oceans/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Tue, 28 Jun 2016 03:00:19 +0000</pubDate>
+      <author>Ed Struzik</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/28/canadas-arctic-an-untapped-gold-mine-of-tourism</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/28/canadas-arctic-an-untapped-gold-mine-of-tourism</guid>
+      <description>Foreign tourists helped Iceland back on its feet after its economy bottomed out. Canada’s Arctic is just as stunning and culturally rich, but it still lacks easy transportation, hotels and other amenities for tourism to give the region an economic boost.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160623101719/Otto-Fiord1-panorama-copy.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ice Melt Increases Indigenous Food Insecurity</title>
+      <category domain="https://www.newsdeeply.com/oceans/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/oceans/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Ed Struzik</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/01/ice-melt-increases-indigenous-food-insecurity</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/01/ice-melt-increases-indigenous-food-insecurity</guid>
+      <description>YALE ENVIRONMENT 360: Subsistence hunters in the Arctic have long taken to the sea ice to hunt seals, whales and polar bears. But now, as the ice disappears and soaring temperatures alter the life cycles and abundance of their prey, a growing number of indigenous communities face food shortages.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092741/senate-alaskays-ground-game-p-56fe1d8578656.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

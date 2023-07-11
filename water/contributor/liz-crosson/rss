@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Liz Crosson</title>
+    <description>Liz Crosson is the deputy chief sustainability officer for Los Angeles mayor Eric Garcetti. She works with city departments and outside stakeholders to achieve the measurable outcomes for the environment, equity and the economy set forth in the Sustainable City pLAn.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/liz-crosson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/liz-crosson/rss"/>
+    <item>
+      <title>Los Angeles Makes Strides on Smart Water Use and Efficiency</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Tue, 11 Jul 2017 04:50:50 +0000</pubDate>
+      <author>Liz Crosson</author>
+      <link>https://www.newsdeeply.com/water/community/2017/07/11/los-angeles-makes-strides-on-smart-water-use-and-efficiency</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/07/11/los-angeles-makes-strides-on-smart-water-use-and-efficiency</guid>
+      <description>As the state works to build a long-term framework for conservation and efficiency, Los Angeles is setting its own course, writes Liz Crosson, the deputy chief sustainability officer for Los Angeles mayor Eric Garcetti.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170711085020/Turf-Removal-Audit1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

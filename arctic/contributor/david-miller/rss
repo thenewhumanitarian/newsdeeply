@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: David Miller</title>
+    <description>David Miller is the president and CEO of WWF-Canada.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/david-miller/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/david-miller/rss"/>
+    <item>
+      <title>‘Historic Moment’ For Nunavut at Renewable Energy Summit</title>
+      <pubDate>Mon, 26 Sep 2016 08:41:15 +0000</pubDate>
+      <author>David Miller</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/09/26/historic-moment-for-nunavut-at-renewable-energy-summit</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/09/26/historic-moment-for-nunavut-at-renewable-energy-summit</guid>
+      <description>Hybridized electricity production that includes renewable energy is projected to be less expensive than business-as-usual in some northern communities, in addition to the environmental benefits of reducing reliance on fossil-fuel-generated electricity.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160926083446/fuel_storage_tanks__clyde_river__nunavut__c__peter_ewins_wwf_canada.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

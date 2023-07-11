@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Max Liboiron</title>
+    <description>Dr. Max Liboiron is an assistant professor in geography at Memorial University of Newfoundland, where she directs the Civic Laboratory for Environmental Action Research (CLEAR), a feminist laboratory that studies marine plastic pollution. Liboiron’s research bridges the natural and social sciences in its investigation of how harmful yet invisible threats such as toxicants and marine plastics become visible in science and activism, and how these methods of representation relate to action.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/max-liboiron/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/max-liboiron/rss"/>
+    <item>
+      <title>The Dangers of Using a Broad Brush to Discuss Marine Plastic Pollution</title>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Wed, 18 Jul 2018 08:30:00 +0000</pubDate>
+      <author>Max Liboiron</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/07/18/the-dangers-of-using-a-broad-brush-to-discuss-marine-plastic-pollution</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/07/18/the-dangers-of-using-a-broad-brush-to-discuss-marine-plastic-pollution</guid>
+      <description>When glossing over who marine plastic pollution really will affect by averaging risk, we may ignore harms to vulnerable populations, says Max Liboiron, a researcher who runs the Civic Laboratory for Environmental Action Research in Canada.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180717090107/1020_24_SDNE-00591.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rana Rizq</title>
+    <description>Rana Rizq is a pseudonym for a Syrian freelance journalist based in France
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rana-rizq/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rana-rizq/rss"/>
+    <item>
+      <title>Kurdish Fighters Accused of ‘Criminal Acts’ as Syrians Return to Tal Abyad</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Rana Rizq</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/07/02/kurdish-fighters-accused-of-criminal-acts-as-syrians-return-to-tal-abyad</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/07/02/kurdish-fighters-accused-of-criminal-acts-as-syrians-return-to-tal-abyad</guid>
+      <description>Syria Deeply spoke to Syrians about returning to Tal Abyad after Kurdish fighters evicted ISIS.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114555/sy-55959819919fb.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Syrian Christians Fearful as Battle for Daraa Continues</title>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      <author>Rana Rizq</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/06/25/syrian-christians-fearful-as-battle-for-daraa-continues</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/06/25/syrian-christians-fearful-as-battle-for-daraa-continues</guid>
+      <description>As the conflict between Assad’s military and Syrian opposition forces escalates in Daraa, religious minorities fear persecution from both sides.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114601/ap665366144492-54a2ad3a67e34-5-558c2e3e5a84b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

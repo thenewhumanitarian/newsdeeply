@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Shani Bar-Tuvia</title>
+    <description>Shani Bar-Tuvia is a doctoral student at the Hebrew University of Jerusalem, with a scholarship from the German-Israeli Program “Human Rights under Pressure,” and a volunteer at the Jerusalem African Community Center. Her research examines the diffusion of restrictive refugee policies among Western states.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/shani-bar-tuvia/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/shani-bar-tuvia/rss"/>
+    <item>
+      <title>Swiss Treatment of Eritreans Sets Dangerous Precedent</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 14 May 2018 03:00:00 +0000</pubDate>
+      <author>Shani Bar-Tuvia</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/05/14/swiss-treatment-of-eritreans-sets-dangerous-precedent</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/05/14/swiss-treatment-of-eritreans-sets-dangerous-precedent</guid>
+      <description>A controversial Swiss decision to review the status of 3,200 Eritrean asylum seekers may have dangerous consequences in Israel, where it has been cited as a precedent for returning Eritreans to Eritrea, says researcher Shani Bar-Tuvia.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180511182522/Par8007489.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: UNFPA Yemen</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/unfpa-yemen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/unfpa-yemen/rss"/>
+    <item>
+      <title>Photo Essay: A Year in Crisis for Yemen’s Women</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 23 Jun 2016 09:46:05 +0000</pubDate>
+      <author>UNFPA Yemen</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/06/23/photo-essay-a-year-in-crisis-for-yemens-women</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/06/23/photo-essay-a-year-in-crisis-for-yemens-women</guid>
+      <description>During times of conflict, access to reproductive healthcare can mean the difference between life and death for a woman. With medical equipment and social support, UNFPA Yemen helps women and children stay safe amid the country’s civil war.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074308/UNFPA-Yemen-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

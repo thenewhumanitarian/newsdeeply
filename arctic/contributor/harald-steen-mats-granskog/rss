@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Harald Steen and Mats Granskog</title>
+    <description>Harald Steen is a seabird biologist by training and is currently the leader for the Norwegian Polar Institute’s Centre for Ice, Climate and Ecosystems (ICE). Mats Granskog is a polar oceanographer and sea ice scientist and is the Chief Scientist of the N-ICE2015 campaign.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/harald-steen-mats-granskog/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/harald-steen-mats-granskog/rss"/>
+    <item>
+      <title>Following Sea Ice From Dark Winter to Sunny Spring</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Harald Steen and Mats Granskog</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/03/03/following-sea-ice-from-dark-winter-to-sunny-spring</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/03/03/following-sea-ice-from-dark-winter-to-sunny-spring</guid>
+      <description>“Meet us at N 81° 27´ E 25° 57´ on Jan. 12.” That was the message from the Norwegian Coast Guard ice breaker. So our research vessel RV Lance met KV Svalbard some 35 nautical miles due north of Sjuoyane, the last rocky outcrop of Svalbard. It was pitch dark: ice everywhere, dead calm and -30C. Precisely what we wanted.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094439/3c4d73ad-b215-494e-bbab-a98027-56d86c03d877d.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

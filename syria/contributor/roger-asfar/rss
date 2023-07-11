@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Roger Asfar</title>
+    <description>Roger Asfar is a freelance journalist based in Beirut.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/roger-asfar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/roger-asfar/rss"/>
+    <item>
+      <title>The Business of Smuggling Supplies in Besieged Eastern Ghouta</title>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Tue, 25 Apr 2017 13:26:05 +0000</pubDate>
+      <author>Roger Asfar</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/04/25/the-business-of-smuggling-supplies-in-besieged-eastern-ghouta</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/04/25/the-business-of-smuggling-supplies-in-besieged-eastern-ghouta</guid>
+      <description>A recent government offensive shut down smuggling tunnels rebels used to bring in supplies to besieged Eastern Ghouta. With nearly 300,000 people reportedly on the brink of famine, only a pair of businessmen can provide supplies. But they aren’t cheap.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170425132436/Clashes-between-Opposition-group-and-Assad-regime-forces-in-Dama.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

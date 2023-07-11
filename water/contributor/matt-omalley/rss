@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Matt O’Malley</title>
+    <description>Matt O’Malley is executive director and attorney at San Diego Coastkeeper and serves as board member and legal committee chair of the California Coastkeeper Alliance.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/matt-omalley/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/matt-omalley/rss"/>
+    <item>
+      <title>Making Water Conservation a Way of Life in San Diego</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Wed, 02 Aug 2017 03:00:24 +0000</pubDate>
+      <author>Matt O’Malley</author>
+      <link>https://www.newsdeeply.com/water/community/2017/08/02/making-water-conservation-a-way-of-life-in-san-diego</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/08/02/making-water-conservation-a-way-of-life-in-san-diego</guid>
+      <description>As California considers legislation to make conservation a permanent strategy, it needs support from Southern California water agencies like the San Diego County Water Authority, writes Matt O’Malley of San Diego Coastkeeper.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170731113308/US-CALIFORNIA-DROUGHT-REVEALS-UNEVEN-WATER-USAGE.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

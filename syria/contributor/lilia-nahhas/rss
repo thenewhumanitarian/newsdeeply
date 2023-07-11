@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lilia Nahhas</title>
+    <description>Lilia Nahhas is a contributor at Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lilia-nahhas/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lilia-nahhas/rss"/>
+    <item>
+      <title>Syria’s Wheat Fields Ablaze as Fighting Spreads</title>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Lilia Nahhas</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/09/09/syrias-wheat-fields-ablaze-as-fighting-spreads</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/09/09/syrias-wheat-fields-ablaze-as-fighting-spreads</guid>
+      <description>Fighting has caused Syrian wheat farmers to lose thousands of acres of crops. Nonetheless, this year’s wheat harvest is produce nearly twice as much as last year.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114444/wheat-suwar-3-55f076fdeef6a.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Marriage to ISIS Fighters: A Ghost That Haunts Women in Eastern Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Lilia Nahhas</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/07/31/marriage-to-isis-fighters-a-ghost-that-haunts-women-in-eastern-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/07/31/marriage-to-isis-fighters-a-ghost-that-haunts-women-in-eastern-syria</guid>
+      <description>In Raqqa and Deir Ezzor, Syrian women are being forced to marry ISIS fighters from across the world.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114524/women-isis-2-__-swuar-magazine-55bbac1b28a80.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

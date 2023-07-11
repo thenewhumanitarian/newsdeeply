@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Hannah Markay</title>
+    <description>Hannah Markay is a recent graduate of the MSc in refugee and forced migration studies at the University of Oxford. She is working in an observatory on migration in Lampedusa.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/hannah-markay/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/hannah-markay/rss"/>
+    <item>
+      <title>How the Debate Over Flags Sidelined Europe’s Migrant-Rescue Ships</title>
+      <pubDate>Thu, 22 Nov 2018 14:30:00 +0000</pubDate>
+      <author>Hannah Markay</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/11/22/how-the-debate-over-flags-sidelined-europes-migrant-rescue-ships</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/11/22/how-the-debate-over-flags-sidelined-europes-migrant-rescue-ships</guid>
+      <description>Europe’s aggressive migration policy has seen Italy dive into the obscure world of national shipping flags to sabotage rescue missions. Researcher Hannah Markay argues that such moves undermine the international legal requirement to save human lives at sea.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181122142827/SeaRescueNotCrime1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

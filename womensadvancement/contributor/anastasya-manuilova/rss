@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Anastasya Manuilova</title>
+    <description>Anastasya Manuilova is a reporter based in Moscow. She has written for the Guardian, the Huffington Post and Russia’s Kommersant newspaper.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/anastasya-manuilova/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/anastasya-manuilova/rss"/>
+    <item>
+      <title>Coworking With Inbuilt Childcare Helps Russian Moms Get Back to Work</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Thu, 13 Sep 2018 05:51:50 +0000</pubDate>
+      <author>Anastasya Manuilova</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/09/13/coworking-with-inbuilt-childcare-helps-russian-moms-get-back-to-work</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/09/13/coworking-with-inbuilt-childcare-helps-russian-moms-get-back-to-work</guid>
+      <description>Many Russian women find it difficult to get back into work after having children, but coworking centers with free childcare – the brainchild of P.R. specialist Olesya Kashaeva – are helping many in Moscow. This year Kashaeva is opening centers in 35 Russian cities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180913055337/TS08FA10.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

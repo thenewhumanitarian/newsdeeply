@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: John Fleck</title>
+    <description>John Fleck is Professor of Practice in Water Policy and Governance and Director of the University of New Mexico Water Resources Program. Much of his career was spent in journalism, focused since the 1980s on the interface between science and political and policy processes, with special emphasis on climate and water in the southwestern United States. He was the Water Resource program’s writer-in-residence for three years before transitioning to academia full time in 2016. In the field of water resources, his primary interest is in nurturing the collaborative water governance needed to adapt to scarcity in the southwestern United States as populations grow while climate change reduces water supplies. That goal animates the Water Resources Program, where he and his colleagues work with graduate students who will become the region’s future water managers. In both the Water Resources Program and the Department of Economics, he also works on translational activities – helping make the technical work done in academia of maximum benefit to political and policy processes.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/john-fleck/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/john-fleck/rss"/>
+    <item>
+      <title>If You Understand History, Colorado River Shortages Are No Surprise</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 18 Apr 2018 03:00:00 +0000</pubDate>
+      <author>Eric Kuhn, John Fleck</author>
+      <link>https://www.newsdeeply.com/water/community/2018/04/18/if-you-understand-history-colorado-river-shortages-are-no-surprise</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/04/18/if-you-understand-history-colorado-river-shortages-are-no-surprise</guid>
+      <description>While some problems on the Colorado River are the result of drought and climate change, Congress set the course for serious trouble in the watershed decades ago by authorizing the Central Arizona Project.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180417073430/20060830-cedeno-border-5271.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Syria’s Assyrian Christians: ‘Victims of This War’</title>
+      <category domain="https://www.newsdeeply.com/water/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <author>John Fleck</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/09/08/syrias-assyrian-christians-victims-of-this-war</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/09/08/syrias-assyrian-christians-victims-of-this-war</guid>
+      <description>Suwar Magazine spoke to Suleiman Yousef, an Assyrian Christian and researcher who specializes in Syria’s minorities, about the local Assyrian community and the challenges it faces as hard-line Islamist groups gain more traction in the country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114446/collins_assyrians-55eea3fa7685d.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dear Arizona: Blaming California Won’t Make It Rain</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <author>John Fleck</author>
+      <link>https://www.newsdeeply.com/water/community/2015/08/05/dear-arizona-blaming-california-wont-make-it-rain</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/08/05/dear-arizona-blaming-california-wont-make-it-rain</guid>
+      <description>More than hot talk and small steps are needed to resolve chronic problems on the Colorado River.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104714/c2c6016b-f155-478b-bc9e-3b3232-55c23c2df3574.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

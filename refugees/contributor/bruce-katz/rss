@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Bruce Katz</title>
+    <description>Bruce Katz is a centennial scholar at the Brookings Institution and co-author of The Metropolitan Revolution”. He’s on Twitter at @bruce_katz.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/bruce-katz/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/bruce-katz/rss"/>
+    <item>
+      <title>Cities and Refugees: The German Experience</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Mon, 19 Sep 2016 13:50:12 +0000</pubDate>
+      <author>Bruce Katz</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/09/19/cities-and-refugees-the-german-experience</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/09/19/cities-and-refugees-the-german-experience</guid>
+      <description>Ahead of the U.N. General Assembly meeting this week, a new discussion paper from the Brookings Institution has one clear message for world leaders: There is an urgent need to focus on the role and actions of cities taking in refugees across Europe. 
+</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160919134904/Germany-Refugee-Village.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

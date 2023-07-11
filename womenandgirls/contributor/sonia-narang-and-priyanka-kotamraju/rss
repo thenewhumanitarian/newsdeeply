@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Sonia Narang and Priyanka Kotamraju</title>
+    <description>Sonia Narang is a multimedia journalist who covers global health, education, culture, and more. She primarily reports on the lives of women and girls, and the challenges they face around the world. Sonia’s radio and visual work also airs on PRI’s The World, and her assignments have taken her across India, Nepal, Pakistan, Indonesia, the Philippines, Japan, and the US. Follow her on Twitter and Instagram @sonianarang.
+Priyanka Kotamraju is an independent journalist based in New Delhi. She writes on inequality, rural development and women.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/sonia-narang-and-priyanka-kotamraju/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/sonia-narang-and-priyanka-kotamraju/rss"/>
+    <item>
+      <title>STEM in the Slums: Giving India’s Girls the Skills to Rise Up</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Fri, 30 Sep 2016 13:09:06 +0000</pubDate>
+      <author>Sonia Narang and Priyanka Kotamraju</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/09/30/stem-in-the-slums-giving-indias-girls-the-skills-to-rise-up</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/09/30/stem-in-the-slums-giving-indias-girls-the-skills-to-rise-up</guid>
+      <description>When girls reach their teen years in parts of India, they often lose the opportunities afforded to males. But some young women are writing their own futures, using what they learn from innovative education and leadership initiatives in India’s poorest communities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073102/India-Daily-Life.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

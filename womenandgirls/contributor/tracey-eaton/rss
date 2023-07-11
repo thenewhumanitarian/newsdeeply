@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Tracey Eaton</title>
+    <description>Tracey Eaton is a journalist based in Florida. He has worked throughout Latin America and headed Dallas Morning News bureaus in Mexico and Cuba from 1994 to 2005. See more about his work here.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/tracey-eaton/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/tracey-eaton/rss"/>
+    <item>
+      <title>Sexual Exploitation of Girls on the Rise in Bolivia, Activists Warn</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Tue, 09 Jan 2018 09:30:00 +0000</pubDate>
+      <author>Tracey Eaton</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2018/01/09/sexual-exploitation-of-girls-on-the-rise-in-bolivia-activists-warn</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2018/01/09/sexual-exploitation-of-girls-on-the-rise-in-bolivia-activists-warn</guid>
+      <description>NGOs say increasing numbers of young girls are being forced or coaxed into prostitution in Bolivia, turning the country into Latin America’s latest sex tourism destination.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180109092805/Bolivia-teen-prostitution-11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

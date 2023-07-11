@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Evelyn Lirri</title>
+    <description>Evelyn Lirri is a freelance journalist based in Kampala, Uganda. She has written for the Daily Monitor, the EastAfrican, Thomson Reuters Foundation and Equal Times. Her areas of interest are health, human rights, gender and development issues.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/evelyn-lirri/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/evelyn-lirri/rss"/>
+    <item>
+      <title>HIV-Positive Artist Fights Shame With Art Made From Empty Drug Bottles</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/culture/">Culture</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Mon, 24 Jul 2017 12:24:37 +0000</pubDate>
+      <author>Evelyn Lirri</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/07/24/hiv-positive-artist-fights-shame-with-art-made-from-empty-drug-bottles</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/07/24/hiv-positive-artist-fights-shame-with-art-made-from-empty-drug-bottles</guid>
+      <description>Artist Barbara Kemigisa knows the dangers of not sticking to an antiretroviral drug regime. And she’s spreading the message with sculptures made of empty pill bottles, some of them her own.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170724122323/Barbara3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

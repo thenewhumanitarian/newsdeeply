@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Emma Penrod</title>
+    <description>Emma Penrod is an independent journalist based in rural Utah who covers science, energy, agriculture and environmental health, with a particular emphasis on water and water quality in the Western United States. For additional water coverage, follow @EmaPen on Twitter or visit pactio.us/host/emma-penrod.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/emma-penrod/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/emma-penrod/rss"/>
+    <item>
+      <title>Drought Forces Hard Choices for Farmers and Ranchers in the Southwest</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 13 Aug 2018 03:00:00 +0000</pubDate>
+      <author>Emma Penrod</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/08/13/drought-forces-hard-choices-for-farmers-and-ranchers-in-the-southwest</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/08/13/drought-forces-hard-choices-for-farmers-and-ranchers-in-the-southwest</guid>
+      <description>Large reservoirs have buffered urban areas in the Southwest from the worst of the year’s dry conditions, but rural farmers and ranchers are bearing the brunt of water shortages and the economic fallout.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180813024954/710339601.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Tri-State Compact That Could Destroy the Great Salt Lake</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 05 Jul 2018 03:50:00 +0000</pubDate>
+      <author>Emma Penrod</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/07/05/the-tri-state-compact-that-could-destroy-the-great-salt-lake</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/07/05/the-tri-state-compact-that-could-destroy-the-great-salt-lake</guid>
+      <description>An agreement signed in 1958 and amended in 1980 divvies up the Bear River between Wyoming, Utah and Idaho. If the states find a way to use all their allotted water, the Great Salt Lake could turn into toxic dust.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180705034033/1032_13_h44-300009711.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

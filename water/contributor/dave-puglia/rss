@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Dave Puglia</title>
+    <description>Dave Puglia is executive vice president of Western Growers.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/dave-puglia/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/dave-puglia/rss"/>
+    <item>
+      <title>Where Are California’s New Dams?</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 26 Jul 2016 05:00:02 +0000</pubDate>
+      <author>Dave Puglia</author>
+      <link>https://www.newsdeeply.com/water/community/2016/07/26/where-are-californias-new-dams</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/07/26/where-are-californias-new-dams</guid>
+      <description>California voters approved $2.7 billion in funds for new storage projects after passing a 2014 water bond. No new dams have been approved yet, but there is good reason for that, writes Dave Puglia, executive vice president of Western Growers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160721062937/California-Drought-Water-Storage.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

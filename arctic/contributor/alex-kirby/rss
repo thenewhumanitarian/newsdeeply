@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Alex Kirby</title>
+    <description>Alex Kirby
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/alex-kirby/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/alex-kirby/rss"/>
+    <item>
+      <title>Warming Fuels Rise in Methane Threat</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Alex Kirby</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/01/06/warming-fuels-rise-in-methane-threat</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/01/06/warming-fuels-rise-in-methane-threat</guid>
+      <description>CLIMATE NEWS NETWORK: Higher temperatures and permafrost thaw could cause an increase of up to 50 percent in emissions of methane from northern lakes and ponds by the end of the century. The greenhouse gas is many times more potent than carbon dioxide.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092932/e8ba5e06-0262-40f6-9fe4-47fdd2-568d5992d2273.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Climate Heads for Irreversible Change</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Alex Kirby</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2015/12/10/climate-heads-for-irreversible-change</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2015/12/10/climate-heads-for-irreversible-change</guid>
+      <description>CLIMATE NEWS NETWORK: With the U.N. climate conference still trying to agree on an effective way to tackle global warming, a scientific group warns that policy is ignoring the reality of the melting cryosphere, where change is happening faster and more dramatically than anywhere else on earth.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422093003/9a64afbc-e6fb-4eec-b258-7d712e-5669c3bacf7b1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Robert Percival, The Conversation</title>
+    <description>Robert Percival is professor of environmental law at the University of Maryland, Baltimore.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/robert-percival/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/robert-percival/rss"/>
+    <item>
+      <title>How Scott Pruitt May Impact Air and Water Protections as Head of EPA</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Thu, 29 Dec 2016 05:00:54 +0000</pubDate>
+      <author>Robert Percival, The Conversation</author>
+      <link>https://www.newsdeeply.com/water/community/2016/12/29/how-scott-pruitt-may-impact-air-and-water-protections-as-head-of-epa</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/12/29/how-scott-pruitt-may-impact-air-and-water-protections-as-head-of-epa</guid>
+      <description>Is Trump’s prospective new head of the Environmental Protective Agency truly like putting “an arsonist in charge of fighting fires”? Law professor Robert Percival looks at Scott Pruitt’s track record as Oklahoma attorney general to see what impact he may have.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161228080444/Trump.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

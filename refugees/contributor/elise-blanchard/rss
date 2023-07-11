@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Elise Blanchard</title>
+    <description>Elise Blanchard is a soon-to-be journalism graduate from Columbia University in New York and Sciences Po in Paris. She is on Twitter @eliseblchrd.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/elise-blanchard/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/elise-blanchard/rss"/>
+    <item>
+      <title>Waiting for a U.S. Visa in the Taliban Heartland</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 16 Jun 2017 07:04:11 +0000</pubDate>
+      <author>Elise Blanchard</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/16/waiting-for-a-u-s-visa-in-the-taliban-heartland</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/16/waiting-for-a-u-s-visa-in-the-taliban-heartland</guid>
+      <description>The U.S. special immigrant visa program offers a way out for Afghans in danger after working with the Americans. But delays have driven one Afghan interpreter in Kandahar back to the translation work that has already brought him death threats from the Taliban. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170616070208/AFGHANISTAN-PAKISTAN-UNREST-BORDER.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Afghan Translators Hope U.S. Visas Will Arrive Before Taliban Does</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 11 Jan 2017 12:16:39 +0000</pubDate>
+      <author>Elise Blanchard</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/11/afghan-translators-hope-u-s-visas-will-arrive-before-taliban-does</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/11/afghan-translators-hope-u-s-visas-will-arrive-before-taliban-does</guid>
+      <description>Congress recently renewed a visa program for Afghans working with U.S. forces, but with far fewer openings than previous years. This has left thousands of Afghans living in fear as they wait out the backlog. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170111121356/AFGHANISTAN-US-MARINES-UNREST.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

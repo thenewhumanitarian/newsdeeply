@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Priscilla Frank</title>
+    <description>Priscilla Frank writes about arts and culture for the Huffington Post. She graduated from U.C. Berkeley and currently lives in Los Angeles.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/priscilla-frank/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/priscilla-frank/rss"/>
+    <item>
+      <title>The Inuit Throat Singer Fighting To Protect Indigenous Women</title>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/arctic/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Mon, 14 Nov 2016 06:19:51 +0000</pubDate>
+      <author>Priscilla Frank</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/14/the-inuit-throat-singer-fighting-to-protect-indigenous-women</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/14/the-inuit-throat-singer-fighting-to-protect-indigenous-women</guid>
+      <description>How Nunavut singer and Björk collaborator Tanya Tagaq turned an Inuit tradition into a feminist battle cry.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161114061144/Tag_HuffPo.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Artist Races Against Time To Paint Mural On Melting Arctic Iceberg</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Mon, 10 Oct 2016 07:53:27 +0000</pubDate>
+      <author>Priscilla Frank</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/10/10/artist-races-against-time-to-paint-mural-on-melting-arctic-iceberg</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/10/10/artist-races-against-time-to-paint-mural-on-melting-arctic-iceberg</guid>
+      <description>An intrepid artist endeavors to complete a massive iceberg painting to communicate the dire condition of planet Earth – by focusing on the people who live in the Arctic.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161010074527/Portrait_hula_01.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

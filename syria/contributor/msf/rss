@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: MSF</title>
+    <description>Doctors Without Borders/Médecins Sans Frontières (MSF) is an international medical humanitarian organization created by doctors and journalists in France.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/msf/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/msf/rss"/>
+    <item>
+      <title>MSF: Syria’s Hospitals Are Now a War Zone</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
+      <author>MSF</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/01/11/msf-syrias-hospitals-are-now-a-war-zone</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/01/11/msf-syrias-hospitals-are-now-a-war-zone</guid>
+      <description>In June, Médecins Sans Frontières/Doctors Without Borders (MSF) opened a hospital in the Idlib region in northern Syria, an area under rebel control. Fabrice Weissman, MSF’s operations advisor, returned from a mission in Syria in early December. He was particularly struck by the breadth of the needs and the lack of international response.</description>
+    </item>
+  </channel>
+</rss>

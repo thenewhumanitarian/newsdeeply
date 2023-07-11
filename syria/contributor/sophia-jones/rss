@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Sophia Jones</title>
+    <description>Sophia Jones
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/sophia-jones/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/sophia-jones/rss"/>
+    <item>
+      <title>After Fleeing to Turkey, Syrians Face ISIS Rockets</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 28 Apr 2016 07:58:37 +0000</pubDate>
+      <author>Sophia Jones</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/04/28/after-fleeing-to-turkey-syrians-face-isis-rockets</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/04/28/after-fleeing-to-turkey-syrians-face-isis-rockets</guid>
+      <description>“Why is war coming after us?” asked one 13-year-old Syrian boy now living in the Turkish border city of Kilis. Having fled to Turkey in search of safety, many Syrian refugees are not yet out of ISIS’s reach.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160428075427/Turkey-Syria.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Humanitarians Struggle to Deliver Aid in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Sophia Jones</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/01/18/humanitarians-struggle-to-deliver-aid-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/01/18/humanitarians-struggle-to-deliver-aid-in-syria</guid>
+      <description>While aid groups did finally manage last week to deliver much-needed food and medicine to three besieged communities, muddy roads nearly rendered the entire operation a failure. But slick roads are nothing compared to the mountain of obstacles aid organizations must overcome to do their job in Syria.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114244/f2905bd2-102d-4495-baab-bd37ca-569d1ca1bab85.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Will Syria’s Children Be Forever Haunted by War?</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Sophia Jones</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/12/11/will-syrias-children-be-forever-haunted-by-war</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/12/11/will-syrias-children-be-forever-haunted-by-war</guid>
+      <description>Despite fleeing far from airstrikes and gunfire, many Syrian refugee children find they can’t get away from the effects of the war. A group of therapists and volunteers in Turkey are working to help traumatized youngsters whose “ability to trust, to daydream and to be creative has been shut down”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114311/48a64591-7840-4db6-95e3-675aae-566afd6516797.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

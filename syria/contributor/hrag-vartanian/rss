@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Hrag Vartanian</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/hrag-vartanian/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/hrag-vartanian/rss"/>
+    <item>
+      <title>Arts + Culture: An Emergency List of Syrian Cultural Objects at Risk</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Hrag Vartanian</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/10/02/arts-culture-an-emergency-list-of-syrian-cultural-objects-at-risk</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/10/02/arts-culture-an-emergency-list-of-syrian-cultural-objects-at-risk</guid>
+      <description>At an event last week at the Metropolitan Museum of Art in New York City, the International Council of Museums (ICOM) officially released the Emergency Red List of Syrian Cultural Objects at Risk.</description>
+    </item>
+  </channel>
+</rss>

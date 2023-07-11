@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Abdulrahman</title>
+    <description>Abdulrahman has a mechanical engineering degree from the University of Aleppo. He is currently based in Gaziantep, working for a Syrian NGO. He asked for his last name not to be revealed for security reasons.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/abdulrahman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/abdulrahman/rss"/>
+    <item>
+      <title>Parachutes Must Be Used to Drop Aid, Not Bombs, in Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 02 Dec 2016 11:00:08 +0000</pubDate>
+      <author>Amr Shayah, Abdulrahman</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/12/02/parachutes-must-be-used-to-drop-aid-not-bombs-in-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/12/02/parachutes-must-be-used-to-drop-aid-not-bombs-in-aleppo</guid>
+      <description>As efforts to establish a no-fly zone or implement humanitarian aid drops for Eastern Aleppo are continuously shut down, University of Aleppo engineering graduates Abdulrahman and Amr Shayah urge the deployment of steerable parachutes to safely drop much-needed aid and medical supplies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161202105943/Civil-War-in-Syria.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

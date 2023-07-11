@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Hussam al-Zeer</title>
+    <description>Hussam al-Zeer is a contributor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/hussam-al-zeer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/hussam-al-zeer/rss"/>
+    <item>
+      <title>Lebanon’s Palestinian Camps Shelter Displaced Syrians</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Hussam al-Zeer</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/09/04/lebanons-palestinian-camps-shelter-displaced-syrians</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/09/04/lebanons-palestinian-camps-shelter-displaced-syrians</guid>
+      <description>Syria Deeply met with Palestinian refugees from Syria displaced to difficult conditions in Lebanese camps. More than 45,000 Palestinian refugees have been displaced from their camps in Syria to neighboring Lebanon.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114448/ap_225995992934-55e9bc8ba85e2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

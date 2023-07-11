@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Mohammed Ali Kalfood</title>
+    <description>Mohammed Ali Kalfood is a freelance journalist based in Yemen.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/mohammed-ali-kalfood/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/mohammed-ali-kalfood/rss"/>
+    <item>
+      <title>In Yemeni Camp, a Principal Struggles to Keep Girls at School</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Tue, 23 May 2017 05:00:30 +0000</pubDate>
+      <author>Mohammed Ali Kalfood</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/23/in-yemeni-camp-a-principal-struggles-to-keep-girls-at-school-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/23/in-yemeni-camp-a-principal-struggles-to-keep-girls-at-school-2</guid>
+      <description>A head teacher in Yemen’s biggest camp for internally displaced people is struggling to keep the doors of his school open – and to prevent girls dropping out. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170519080314/IMG_9434.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Yemeni Camp, a Principal Struggles to Keep Girls at School</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Mon, 22 May 2017 05:00:03 +0000</pubDate>
+      <author>Mohammed Ali Kalfood</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/22/in-yemeni-camp-a-principal-struggles-to-keep-girls-at-school</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/22/in-yemeni-camp-a-principal-struggles-to-keep-girls-at-school</guid>
+      <description>A head teacher in Yemen’s biggest camp for internally displaced people is struggling to keep the doors of his school open – and to prevent girls dropping out. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170519080314/IMG_9434.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

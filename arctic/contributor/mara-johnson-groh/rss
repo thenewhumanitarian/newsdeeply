@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Mara Johnson-Groh</title>
+    <description>Mara Johnson-Groh is a freelance science writer and photographer. Her work, discussing everything under the sun and even things beyond it, has been featured in publications such as Scientific American, Backpacker, Muse and Astronomy. Her favorite word for snow is the Inuinnaqtun term “apijuq” – meaning covered in snow.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/mara-johnson-groh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/mara-johnson-groh/rss"/>
+    <item>
+      <title>Songs for Decolonization: A Q&amp;A With Saami Singer Sofia Jannok</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 01 Sep 2017 03:00:44 +0000</pubDate>
+      <author>Mara Johnson-Groh</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/09/01/songs-for-decolonization-a-qa-with-saami-singer-sofia-jannok</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/09/01/songs-for-decolonization-a-qa-with-saami-singer-sofia-jannok</guid>
+      <description>The Saami singer Sofia Jannok from Sweden combines traditional joiking with modern electronic music. Her lyrics, sung in three languages, aim to overturn colonial attitudes and express Indigenous views.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170831093527/Chloe_Lodge_Sofia-Jannok_39.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Portals to New Worlds: Martian Exploration Near the North Pole</title>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Wed, 26 Jul 2017 11:00:24 +0000</pubDate>
+      <author>Mara Johnson-Groh</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/07/26/portals-to-new-worlds-martian-exploration-near-the-north-pole</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/07/26/portals-to-new-worlds-martian-exploration-near-the-north-pole</guid>
+      <description>Researchers are using Devon Island in Canada’s High Arctic as a stand-in for Mars to help better understand how astronauts could survive the red planet’s hostile environment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170726105941/Mars-160-Jon-and-Anastasiya-salute-you.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Arctic Weather Can Improve Mid-Latitude Forecasts</title>
+      <category domain="https://www.newsdeeply.com/arctic/climate/">Climate</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Wed, 08 Mar 2017 05:50:47 +0000</pubDate>
+      <author>Mara Johnson-Groh</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/03/08/how-arctic-weather-can-improve-mid-latitude-forecasts</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/03/08/how-arctic-weather-can-improve-mid-latitude-forecasts</guid>
+      <description>Increased monitoring of Arctic weather conditions could help predict big storms that strike more southerly latitudes, according to new research by the National Institute of Polar Research in Japan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170308054738/jetstream.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

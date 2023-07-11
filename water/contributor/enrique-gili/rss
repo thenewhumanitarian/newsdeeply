@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Enrique Gili</title>
+    <description>Enrique Gili is freelance writer based in Southern California, covering environmental issues in the Southland and beyond. He focuses on the intersection between science, nature and technology with a twist of food politics. Send tips and info to gili92107@gmail.com.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/enrique-gili/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/enrique-gili/rss"/>
+    <item>
+      <title>Two Years After California’s Biggest Dam Removal, Fish Rebound</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Mon, 30 Oct 2017 03:00:03 +0000</pubDate>
+      <author>Enrique Gili</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/10/30/two-years-after-californias-biggest-dam-removal-fish-rebound</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/10/30/two-years-after-californias-biggest-dam-removal-fish-rebound</guid>
+      <description>In 2015 the San Clemente Dam was demolished, in part to restore the watershed and protect endangered steelhead trout. Now scientists are studying the impacts and the findings have them optimistic about the future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171026065242/KG_san_clemente_dam_30123.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Carbon Farming: California Focus on Soil to Meet Climate, Water Goals</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Mon, 31 Jul 2017 06:17:49 +0000</pubDate>
+      <author>Enrique Gili</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/07/31/carbon-farming-california-focus-on-soil-to-meet-climate-water-goals</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/07/31/carbon-farming-california-focus-on-soil-to-meet-climate-water-goals</guid>
+      <description>A pioneering program in California aims to sequester carbon, improve water resources and boost plant growth, by treating the soil beneath farmers’ and ranchers’ feet as part of a living system.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170731061406/California-Storms5.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Nick Aspinwall</title>
+    <description>Nick Aspinwall is a freelance writer based in Taipei.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/nick-aspinwall/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/nick-aspinwall/rss"/>
+    <item>
+      <title>Taiwan Pushed to Confront Work Abuse in High Seas Fishing Fleet</title>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <pubDate>Thu, 19 Jul 2018 08:00:00 +0000</pubDate>
+      <author>Nick Aspinwall</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/07/19/taiwan-pushed-to-confront-work-abuse-in-high-seas-fishing-fleet</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/07/19/taiwan-pushed-to-confront-work-abuse-in-high-seas-fishing-fleet</guid>
+      <description>The Taiwanese government is starting to listen to its critics as it works to improve monitoring of conditions for foreign workers on its large long-distance tuna fishing fleet. But local and international labor advocates say reforms aren’t happening quickly enough.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180719073937/yehliu_S3A34781.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

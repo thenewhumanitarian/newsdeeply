@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Akshai Jain</title>
+    <description>Akshai Jain is a Delhi-based freelance journalist. He writes on a variety of issues, but particularly enjoys writing on science.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/akshai-jain/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/akshai-jain/rss"/>
+    <item>
+      <title>The Cutting Edge of Malnutrition Research in India is Inside the Gut</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <pubDate>Wed, 16 May 2018 11:40:00 +0000</pubDate>
+      <author>Akshai Jain</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/16/the-cutting-edge-of-malnutrition-research-in-india-is-inside-the-gut</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/16/the-cutting-edge-of-malnutrition-research-in-india-is-inside-the-gut</guid>
+      <description>With traditional nutrition programs failing to correct anemia and other forms of malnutrition, researchers are now exploring what role the microbiome in the gut plays in perpetuating these problems.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180516114129/GettyImages-509157446.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

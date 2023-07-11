@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Jessica Hansen</title>
+    <description>Jessica Hansen is the global engagement manager at Kiva Microfunds, a nonprofit organization that allows people to lend money via the Internet to low-income entrepreneurs and students in more than 80 countries.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/jessica-hansen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/jessica-hansen/rss"/>
+    <item>
+      <title>‘We are Together’ in Preventing Displacement</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Mon, 27 Jun 2016 05:29:14 +0000</pubDate>
+      <author>Jessica Hansen</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/06/27/we-are-together-in-preventing-displacement</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/06/27/we-are-together-in-preventing-displacement</guid>
+      <description>Many refugees are displaced due to conflicts over land and resources. Jessica Hansen, global engagement manager at Kiva – a microfinance NGO – explains how pooling resources for members of disadvantaged groups prevents their becoming future refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160627052748/Kenya-Two-Faiths.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

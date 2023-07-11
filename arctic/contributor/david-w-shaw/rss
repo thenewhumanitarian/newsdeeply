@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: David W. Shaw</title>
+    <description>David W. Shaw is a science writer, photographer, guide and wildlife biologist living in Fairbanks, Alaska. Between travels, he can be found exploring the mountains and forests of his home state, poking under mossy rocks, and chasing birds with a pair of binoculars. Find out more about Dave and read his compelling science and natural history blog at www.david-w-shaw.com.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/david-w-shaw/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/david-w-shaw/rss"/>
+    <item>
+      <title>What Rural Alaska Can Teach the World About Renewables</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Fri, 31 Mar 2017 09:00:33 +0000</pubDate>
+      <author>David W. Shaw</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/03/31/what-rural-alaska-can-teach-the-world-about-renewables</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/03/31/what-rural-alaska-can-teach-the-world-about-renewables</guid>
+      <description>The distances between Alaska’s remote communities are daunting, making it challenging to supply people with power. If power can be generated using local renewables, the up-front cost is almost always worth it, writes David W. Shaw. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170329105739/Credit-Adina-Preston-Photography.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: David Scales</title>
+    <description>David Scales MD, PhD is a third year internal medicine resident at Cambridge Health Alliance.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/david-scales/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/david-scales/rss"/>
+    <item>
+      <title>Life in Limbo: Disabled Syrian Refugees in Jordan</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      <author>David Scales</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/02/18/life-in-limbo-disabled-syrian-refugees-in-jordan</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/02/18/life-in-limbo-disabled-syrian-refugees-in-jordan</guid>
+      <description>David Scales, an American doctor, spent months working with Syrian refugee communities in Jordan. He recently returned to the country to reconnect with some of his old patients who suffer from spinal cord injuries and discusses the difficulties physically disabled Syrians face in Jordan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112935/19b56398-fdca-4e7b-9b47-b4ae14-56c5ceca49f5c.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Susan Nerberg</title>
+    <description>Based in Montreal, Susan Nerberg is an award-winning independent journalist with an interest in science and the environment, architecture and human rights.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/susan-nerberg/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/susan-nerberg/rss"/>
+    <item>
+      <title>Building a Home for Labrador’s Inuit Cultural Revival</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 15 Sep 2017 05:41:43 +0000</pubDate>
+      <author>Susan Nerberg</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/09/15/building-a-home-for-labradors-inuit-cultural-revival</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/09/15/building-a-home-for-labradors-inuit-cultural-revival</guid>
+      <description>Construction is wrapping up on the Illusuak Cultural Centre, a striking wooden structure being built on the shores of the North Atlantic in Nain, Canada, to celebrate the region’s Inuit heritage.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170915053442/IMG_1211.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

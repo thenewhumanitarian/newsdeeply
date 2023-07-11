@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Saskia Baas</title>
+    <description>Saskia Baas leads the Durable Solutions Platform, an NGO-led research initiative to promote long-lasting solutions for displaced people from Syria. Follow Durable Solution Platform on Twitter @DSP_Syria.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/saskia-baas/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/saskia-baas/rss"/>
+    <item>
+      <title>The Real Reasons Why Syrians Return to Syria</title>
+      <pubDate>Tue, 06 Mar 2018 08:58:19 +0000</pubDate>
+      <author>Saskia Baas</author>
+      <link>https://www.newsdeeply.com/syria/community/2018/03/06/the-real-reasons-why-syrians-return-to-syria-2</link>
+      <guid>https://www.newsdeeply.com/syria/community/2018/03/06/the-real-reasons-why-syrians-return-to-syria-2</guid>
+      <description>A small number of Syrian refugees are returning home despite the violence in the country. New research among returnees shows that most were pushed home by the harsh living conditions in neighboring countries, and did not find safety or dignity upon return.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180306085725/AA_05022018_68681711.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Real Reasons Why Syrians Return to Syria</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Tue, 06 Mar 2018 03:00:00 +0000</pubDate>
+      <author>Saskia Baas</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/03/06/the-real-reasons-why-syrians-return-to-syria</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/03/06/the-real-reasons-why-syrians-return-to-syria</guid>
+      <description>A small number of Syrian refugees are returning home despite the violence in the country. New research among returnees shows that most were pushed home by the harsh living conditions in neighboring countries, and did not find safety or dignity upon return.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180302111800/AA_05022018_6868171.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

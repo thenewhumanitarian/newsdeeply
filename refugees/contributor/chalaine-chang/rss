@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Chalaine Chang</title>
+    <description>Chalaine Chang is a Canadian freelance journalist, currently based in Cairo.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/chalaine-chang/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/chalaine-chang/rss"/>
+    <item>
+      <title>In Egypt, Oromo Asylum Seekers Desperate Enough to Self-Immolate</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 12 Sep 2016 14:21:58 +0000</pubDate>
+      <author>Chalaine Chang</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/12/in-egypt-oromo-asylum-seekers-desperate-enough-to-self-immolate</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/12/in-egypt-oromo-asylum-seekers-desperate-enough-to-self-immolate</guid>
+      <description>Frustrations among Oromo refugees from Ethiopia stranded in Egypt over long waits for their claims to be processed by the U.N. refugee agency and the high rate of rejection have recently mounted to horrifying extremes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160912142130/Oromo_Tribe_Ethiopia_11416788543.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

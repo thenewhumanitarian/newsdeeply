@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Emilienne Malfatto</title>
+    <description>Emilienne Malfatto is a freelance journalist and photojournalist covering Middle East and Latin America. She worked two years for AFP in France and on the Middle East regional desk. In early 2015 she moved to northern Iraq as a freelancer. She recently reported in eastern Turkey, Caucasus, Ethiopia and Venezuela. She is on Twitter @emalfatto and her website is http://emalfatto.com
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/emilienne-malfatto/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/emilienne-malfatto/rss"/>
+    <item>
+      <title>Desperate Red Sea Journeys: Refugees Pour Into and Out of Yemen</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 28 Mar 2017 08:42:37 +0000</pubDate>
+      <author>Emeline Wuilbercq, Emilienne Malfatto</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/28/desperate-red-sea-journeys-refugees-pour-into-and-out-of-yemen</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/28/desperate-red-sea-journeys-refugees-pour-into-and-out-of-yemen</guid>
+      <description>Following the attack that killed 42 Somali refugees off the coast of Yemen, we report from Djibouti on the desperate choices faced by refugees who fled to Yemen and now find themselves in the middle of another conflict.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170328082546/4dd74fae-34fa-4f5d-bb75-cb529ebe375a.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

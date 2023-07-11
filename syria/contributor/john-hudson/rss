@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: John Hudson</title>
+    <description>John Hudson is a staff writer for Foreign Policy
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/john-hudson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/john-hudson/rss"/>
+    <item>
+      <title>Exclusive: U.N. Docs Expose Assad’s Starvation Campaign in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Sun, 20 Apr 2014 00:00:00 +0000</pubDate>
+      <author>John Hudson</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/20/exclusive-u-n-docs-expose-assads-starvation-campaign-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/20/exclusive-u-n-docs-expose-assads-starvation-campaign-in-syria</guid>
+      <description>While food aid begins to flow into the country, many Syrians are heading into the arms of the dictator to get it.</description>
+    </item>
+  </channel>
+</rss>

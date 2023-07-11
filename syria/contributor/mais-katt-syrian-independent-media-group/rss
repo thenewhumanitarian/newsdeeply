@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mais Katt, Syrian Independent Media Group</title>
+    <description>The Syrian Independent Media Group is comprised of five independent Syrian media organizations working together to highlight untold stories from the war-torn country: Arab Reporters for Investigative Journalism, Rozana Radio, Syria Deeply, Syria Untold and the Violation Documentation Center in Syria. The project is supported by International Media Support.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mais-katt-syrian-independent-media-group/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mais-katt-syrian-independent-media-group/rss"/>
+    <item>
+      <title>Children are Fighting on All Sides of Syria’s War</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 28 Jun 2016 12:40:54 +0000</pubDate>
+      <author>Mais Katt, Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/06/28/children-are-fighting-on-all-sides-of-syrias-war</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/06/28/children-are-fighting-on-all-sides-of-syrias-war</guid>
+      <description>Whether it’s with the Free Syrian Army or the pro-government National Defense Forces militia, ISIS or the Kurds, children across the war-torn country have consistently been recruited to fight in Syria’s war.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160628123954/Screen-Shot-2016-06-28-at-12.28.47-PM1.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

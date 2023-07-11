@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Al-Fanar Media Reporting Team</title>
+    <description>Al-Fanar Media provides balanced, accurate and independent coverage of all aspects of academic life in the Arab world.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/al-fanar-media-reporting-team/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/al-fanar-media-reporting-team/rss"/>
+    <item>
+      <title>The Difficulty of Studying Medicine in Times of War</title>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Mon, 30 Oct 2017 12:03:27 +0000</pubDate>
+      <author>Al-Fanar Media Reporting Team</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/10/30/the-difficulty-of-studying-medicine-in-times-of-war</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/10/30/the-difficulty-of-studying-medicine-in-times-of-war</guid>
+      <description>Years of war and attacks on healthcare have led to a severe lack of doctors in Syria. Amid ongoing fighting and tightening sieges, Syrian medical school students struggle to pass their classes and get practical training, reports Al-Fanar Media.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171030120117/AA_28092017_606561.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mohammad Kheir al-Hamwi</title>
+    <description>Mohammad Kheir al-Hamwi is a Syrian journalist based in Damascus.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mohammad-kheir-al-hamwi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mohammad-kheir-al-hamwi/rss"/>
+    <item>
+      <title>The Flawed Aftermath of a Damascus Suburb Truce</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 27 Jan 2017 08:09:35 +0000</pubDate>
+      <author>Mohammad Kheir al-Hamwi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/01/27/the-flawed-aftermath-of-a-damascus-suburb-truce</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/01/27/the-flawed-aftermath-of-a-damascus-suburb-truce</guid>
+      <description>In the Damascus suburbs, local truces are becoming more common and usually follow long periods of siege and fighting. Though the truce rarely restores normalcy, residents are forced to accept the situation to avoid renewed fighting. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170127080655/SYRIA-CONFLICT11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

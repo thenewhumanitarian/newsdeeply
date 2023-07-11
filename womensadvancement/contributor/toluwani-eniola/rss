@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Toluwani Eniola</title>
+    <description>Toluwani Eniola is a freelance journalist based in Lagos, Nigeria. In 2017, he was named an ICFJ Early Childhood Development Reporting Fellow and the Investigative Reporter of the Year by the Diamond Awards for Media Excellence (DAME).
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/toluwani-eniola/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/toluwani-eniola/rss"/>
+    <item>
+      <title>Nigeria’s Looming Election Puts Gender Equality Bill in Peril</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Wed, 08 Aug 2018 13:10:00 +0000</pubDate>
+      <author>Toluwani Eniola</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/08/08/nigerias-looming-election-puts-gender-equality-bill-in-peril</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/08/08/nigerias-looming-election-puts-gender-equality-bill-in-peril</guid>
+      <description>A bill designed to eradicate gender inequality in politics, education and employment has been sitting in the Nigerian Senate for eight years. Now the upcoming 2019 election could erode support among key senators.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180808125643/AA_29032015_366201.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

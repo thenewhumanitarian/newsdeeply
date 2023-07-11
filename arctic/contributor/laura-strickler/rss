@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Laura Strickler</title>
+    <description>Laura Strickler lives in Washington, D.C. and is a consultant to the Clean Air Task Force on Arctic policy. She was a 2014 Knauss Marine Policy fellow with NOAA and holds a graduate degree in International Environmental Policy from the Monterey Institute of International Studies.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/laura-strickler/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/laura-strickler/rss"/>
+    <item>
+      <title>Ban the Use of Heavy Fuel Oil in the Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Laura Strickler</author>
+      <link>https://www.newsdeeply.com/arctic/community/2015/12/08/ban-the-use-of-heavy-fuel-oil-in-the-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2015/12/08/ban-the-use-of-heavy-fuel-oil-in-the-arctic</guid>
+      <description>Passenger and cargo ships traveling in Antarctic waters are prohibited from using, or carrying, heavy fuel oil – but not in the Arctic. This inexpensive fuel emits powerful climate forcers and poses a significant threat to the marine environment, particularly in colder waters, writes Laura Strickler.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094514/ap_9712020156-565de30a1108a.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Melissa Smyth</title>
+    <description>Melissa Smyth is an associate editor at Warscapes and a lecturer at Franz Fanon University. Follow her on Twitter: @perrykeetsmyth
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/melissa-smyth/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/melissa-smyth/rss"/>
+    <item>
+      <title>Seen For Syria: a Q&amp;A with Soulaf Abas</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Melissa Smyth</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/02/18/seen-for-syria-a-qa-with-soulaf-abas</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/02/18/seen-for-syria-a-qa-with-soulaf-abas</guid>
+      <description>Syrian painter Soulaf Abas translates bloody images of her homeland she sees on the TV screen into works of art, in part to urge the casual viewer to reconsider the violence that has become normalized after five years of war, and in part to urge herself to come to terms with what Syria has become.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114212/a904db05-a7b7-4121-93e8-277fe7-56c5bb5886ce2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

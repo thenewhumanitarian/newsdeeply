@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Ruhani Kaur</title>
+    <description>Ruhani Kaur is a New Delhi-based photojournalist.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/ruhani-kaur/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/ruhani-kaur/rss"/>
+    <item>
+      <title>Indian Girls Go on Hunger Strike to Demand Better, Safer Schools</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Wed, 09 Aug 2017 04:28:23 +0000</pubDate>
+      <author>Ruhani Kaur</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/09/indian-girls-go-on-hunger-strike-to-demand-better-safer-schools</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/09/indian-girls-go-on-hunger-strike-to-demand-better-safer-schools</guid>
+      <description>To avoid being sexually harassed during long walks to high schools, teenage girls in northern India have embarked on a protest movement to demand the addition of high school classes at their local primary schools. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170809042726/Senior-School-Upgradation-21.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

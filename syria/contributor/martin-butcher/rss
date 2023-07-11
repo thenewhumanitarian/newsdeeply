@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Martin Butcher</title>
+    <description>Martin Butcher is Oxfam’s policy advisor on arms and conflict.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/martin-butcher/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/martin-butcher/rss"/>
+    <item>
+      <title>What’s Fueling Syria’s Weapons Supply?</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 23 Jan 2014 00:00:00 +0000</pubDate>
+      <author>Martin Butcher</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/01/23/whats-fueling-syrias-weapons-supply</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/01/23/whats-fueling-syrias-weapons-supply</guid>
+      <description>The conflict in Syria is close to entering its fourth year.The fighting rages on, fuelled by arms and ammunition from far beyond Syria.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Kirsten Bickford</title>
+    <description>Kirsten Bickford is the Information Systems Business Engagement Lead at Oxfam GB. A former journalist, she is passionate about raising awareness of social injustice and promoting the use of technology as a means to mobilise people in the spirit of positive social change.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/kirsten-bickford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/kirsten-bickford/rss"/>
+    <item>
+      <title>Achieving Gender Equality Means Getting More Women Online</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Wed, 26 Apr 2017 11:21:07 +0000</pubDate>
+      <author>Kirsten Bickford</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/04/26/achieving-gender-equality-means-getting-more-women-online</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/04/26/achieving-gender-equality-means-getting-more-women-online</guid>
+      <description>Women’s equality depends on access to computers, the internet and mobile phones. But we’ll only beat discrimination in the digital realm if we tackle gender discrimination offline.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170426112006/Alexandria-Egypt.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

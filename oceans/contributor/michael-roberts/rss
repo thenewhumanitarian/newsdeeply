@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Michael Roberts</title>
+    <description>Michael Roberts is the SEACAMS R&amp;amp;D project manager at the Centre for Applied Marine Sciences at Bangor University.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/michael-roberts/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/michael-roberts/rss"/>
+    <item>
+      <title>How Historic Shipwreck Exploration Is Advancing Ocean Renewable Energy</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Fri, 06 Apr 2018 08:10:00 +0000</pubDate>
+      <author>Michael Roberts</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/04/06/how-historic-shipwreck-exploration-is-advancing-ocean-renewable-energy</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/04/06/how-historic-shipwreck-exploration-is-advancing-ocean-renewable-energy</guid>
+      <description>Shipwrecks from both world wars are serving as models for research into how tidal and wave energy infrastructure will withstand marine conditions and potentially serve as artificial habitat.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180406080559/file-20180327-109199-1no77h01.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

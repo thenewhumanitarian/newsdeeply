@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: William Blomquist</title>
+    <description>William Blomquist is a professor of political science at Indiana University-Purdue University Indianapolis in Indianapolis, Indiana. His areas of research are water resource management, institutions and the policymaking process.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/william-blomquist/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/william-blomquist/rss"/>
+    <item>
+      <title>‘Exchange Pools’: Los Angeles Provides Innovative Groundwater Strategy</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Thu, 23 Aug 2018 07:00:00 +0000</pubDate>
+      <author>Erik Porse, Kathryn Mika, Stephanie Pincetl, Mark Gold, William Blomquist</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/08/23/exchange-pools-los-angeles-provides-innovative-groundwater-strategy</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/08/23/exchange-pools-los-angeles-provides-innovative-groundwater-strategy</guid>
+      <description>In a part of Los Angeles County, a community exchange pool has been established that allows entities to store and purchase groundwater. It’s an adaptive strategy that could be more common as California works to implement its Sustainable Groundwater Management Act.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180823071906/JRC_Los_Angeles_Hollywood-51.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

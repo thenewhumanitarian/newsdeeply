@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Gayathri Vaidyanathan</title>
+    <description>Gayathri Vaidyanathan is a reporter with ClimateWire, where she covers climate change science. She joined the publication in 2010 and has covered climate change as well as oil and gas. In 2014, she was awarded by the Society of Professional Journalists for feature writing. In 2012, she received the National Association of Science Writer’s Evert Clark/Seth Payne Award. Other than E&amp;amp;E, she has worked or interned at Nature, the Business Insider and the Wall Street Journal.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/gayathri-vaidyanathan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/gayathri-vaidyanathan/rss"/>
+    <item>
+      <title>Permafrost Meltdown Raises Risk of Runaway Warming</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Gayathri Vaidyanathan</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2015/12/21/permafrost-meltdown-raises-risk-of-runaway-warming</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2015/12/21/permafrost-meltdown-raises-risk-of-runaway-warming</guid>
+      <description>As permafrost thaws, a portion of the carbon stored in these northernmost ecosystems may be released to the atmosphere and trigger runaway global warming. Wildfires have also become more frequent and are burning larger areas in this changing region.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092950/520b9b72-6838-4b59-903a-c9374a-56785c3a600f9.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

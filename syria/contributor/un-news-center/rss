@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: UN News Center</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/un-news-center/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/un-news-center/rss"/>
+    <item>
+      <title>UNICEF: Thousands of Children Fleeing Syria Alone</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      <author>UN News Center</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/09/20/unicef-thousands-of-children-fleeing-syria-alone</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/09/20/unicef-thousands-of-children-fleeing-syria-alone</guid>
+      <description>UNICEF released this dispatch today, highlighting the state of children fleeing Syria’s war. We’ve decided to share the statement in full. .</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Hereward Holland</title>
+    <description>Hereward Holland is a journalist and filmmaker based in London, specializing in conflict, post-conflict and global affairs. He’s spent the last decade exploring natural resource and refugee issues from across Asia and Africa.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/hereward-holland/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/hereward-holland/rss"/>
+    <item>
+      <title>Video: The Afghan Skier Challenging Girls to Hit the Slopes</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Mon, 15 May 2017 13:03:48 +0000</pubDate>
+      <author>Hereward Holland</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/15/video-the-afghan-skier-challenging-girls-to-hit-the-slopes</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/15/video-the-afghan-skier-challenging-girls-to-hit-the-slopes</guid>
+      <description>Despite a wealth of snowy mountains, Afghanistan only has 12 female skiers. Fatima Nazari, the country’s best, is trying to change that by challenging girls to take to the slopes. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170515130243/Afghan-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Escaping Ebola: Danger from the Desert to the Deep Blue Sea</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Fri, 21 Oct 2016 12:54:43 +0000</pubDate>
+      <author>Hereward Holland</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/10/21/escaping-ebola-danger-desert-deep-blue-sea</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/10/21/escaping-ebola-danger-desert-deep-blue-sea</guid>
+      <description>Fleeing Sierra Leone for Europe, Fatima and her family endured a dangerous journey across six countries, the Sahara Desert and conflict-ridden Libya. And that was all before they joined the thousands who continue to risk their lives crossing the Mediterranean.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073023/Niger-Migrant-Deaths.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Escaping Ebola: Danger from the Desert to the Deep Blue Sea</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Fri, 21 Oct 2016 07:00:54 +0000</pubDate>
+      <author>Hereward Holland</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/21/escaping-ebola-danger-from-the-desert-to-the-deep-blue-sea</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/21/escaping-ebola-danger-from-the-desert-to-the-deep-blue-sea</guid>
+      <description>Fleeing Sierra Leone for Europe, Fatima and her family endured a dangerous journey across six countries, the Sahara Desert and conflict-ridden Libya. And that was all before they joined the thousands who continue to risk their lives crossing the Mediterranean.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161021160642/Niger-Migrant-Deaths.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

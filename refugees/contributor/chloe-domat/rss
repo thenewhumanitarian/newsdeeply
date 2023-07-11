@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Chloe Domat</title>
+    <description>Chloe Domat is a print and video journalist based in Beirut. She reports for international media, including France 24, Ouest France, Global Finance, L’Obs and Middle East Eye. She has a masters degree in international relations and journalism from the University of Sciences Po Paris and another one from the American University of Beirut in political studies. She speaks French, English and Arabic.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/chloe-domat/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/chloe-domat/rss"/>
+    <item>
+      <title>The Syrian Grave Digger and His Cemetery for Refugees in Lebanon</title>
+      <category domain="https://www.newsdeeply.com/refugees/human-rights/">Human Rights</category>
+      <pubDate>Thu, 13 Jul 2017 11:21:31 +0000</pubDate>
+      <author>Chloe Domat</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/07/13/the-syrian-grave-digger-and-his-cemetery-for-refugees-in-lebanon-2</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/07/13/the-syrian-grave-digger-and-his-cemetery-for-refugees-in-lebanon-2</guid>
+      <description>Syrian refugees in Lebanon are running out of space to bury their dead. Chloe Domat reports on Syrian refugees’ efforts to give their relatives a dignified resting place.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170713105836/FullSizeRender-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Syrian Grave Digger and His Cemetery for Refugees in Lebanon</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 13 Jul 2017 11:04:14 +0000</pubDate>
+      <author>Chloe Domat</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/07/13/the-syrian-grave-digger-and-his-cemetery-for-refugees-in-lebanon</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/07/13/the-syrian-grave-digger-and-his-cemetery-for-refugees-in-lebanon</guid>
+      <description>Syrian refugees in Lebanon are running out of space to bury their dead. Chloe Domat reports on Syrian refugees’ efforts to give their relatives a dignified resting place.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170713105836/FullSizeRender-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

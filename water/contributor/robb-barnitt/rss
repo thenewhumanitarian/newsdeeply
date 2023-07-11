@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Robb Barnitt</title>
+    <description>Robb Barnitt is the founder and CEO at Dropcountr, a water analytics company that develops intuitive, interoperable software and consumer apps that help utilities and their customers save water, money and time. He has spent his career working at the intersection of technology and sustainability in roles with Arthur D. Little, the National Renewable Energy Laboratory and several startups. He holds a master’s degree in engineering from Stanford and an MBA from U.C.-Berkeley.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/robb-barnitt/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/robb-barnitt/rss"/>
+    <item>
+      <title>Conservation Goals Can Keep California Afloat</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 29 Jul 2016 05:00:50 +0000</pubDate>
+      <author>Robb Barnitt</author>
+      <link>https://www.newsdeeply.com/water/community/2016/07/29/conservation-goals-can-keep-california-afloat</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/07/29/conservation-goals-can-keep-california-afloat</guid>
+      <description>If California wants an informed and water-conscious public, then it should not be acceptable that water agencies have no conservation goals at all, writes Robb Barnitt, the CEO at water analytics company Dropcountr.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160721123444/California-Drought-24.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How to Increase California’s Water Efficiency</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Robb Barnitt</author>
+      <link>https://www.newsdeeply.com/water/community/2016/04/04/how-to-increase-californias-water-efficiency</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/04/04/how-to-increase-californias-water-efficiency</guid>
+      <description>Californians have done a good job conserving water, but the state’s water issues will take much more than conservation to fix. Here are the steps we should be taking next to increase water efficiency during this drought and make lasting changes that will prepare us for the next drought.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104651/california-drought-57024cef72e32.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Natasja Sheriff</title>
+    <description>Natasja Sheriff is a journalist, editor and researcher, specializing in environmental and human rights reporting. She is currently a visiting scholar at New York University’s Institute of Journalism. Her writing has appeared on TED.com, Al Jazeera America, The Nation, Reuters Health, Audubon, Hyperallergic, Kirkus Reviews, WNYC, Malaysiakini.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/natasja-sheriff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/natasja-sheriff/rss"/>
+    <item>
+      <title>The Silent Suffering of Syria’s Chronically Ill</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Fri, 08 Jul 2016 12:03:51 +0000</pubDate>
+      <author>Natasja Sheriff</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/07/08/the-silent-suffering-of-syrias-chronically-ill</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/07/08/the-silent-suffering-of-syrias-chronically-ill</guid>
+      <description>In the first installment of our series on chronic illnesses in Syria, we explore how the war has left millions of Syrians unable to manage their conditions and led to severe complications and untold unnecessary deaths. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160708115829/Cl1H_2fXIAAaNh2.jpg-large.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

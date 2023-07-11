@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Festus Iyorah</title>
+    <description>Festus Iyorah is a Nigerian freelance journalist covering global health, conflicts, social innovation, technology and development. His work has been published in Al Jazeera, the Mail and the Guardian, Ozy and World Politics Review. Follow him on Twitter @festusiyorah1.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/festus-iyorah/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/festus-iyorah/rss"/>
+    <item>
+      <title>Cracking the Code: The Women Breaking Into Benin’s Tech Scene</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Wed, 15 Aug 2018 12:20:00 +0000</pubDate>
+      <author>Festus Iyorah</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/08/15/cracking-the-code-the-women-breaking-into-benins-tech-scene</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/08/15/cracking-the-code-the-women-breaking-into-benins-tech-scene</guid>
+      <description>Starting in school, women in Benin are steered away from careers in tech. But now a new generation of women tech developers is emerging, serving as mentors for others and showing that coding isn’t just for men.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180815121659/Women-EdTech1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Nigerian Women Farmers Team with Dairy Giants to Earn More From Milk</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Fri, 04 May 2018 09:40:00 +0000</pubDate>
+      <author>Festus Iyorah</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/05/04/nigerian-women-farmers-team-with-dairy-giants-to-earn-more-from-milk</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/05/04/nigerian-women-farmers-team-with-dairy-giants-to-earn-more-from-milk</guid>
+      <description>Using the skills and market access they get through a program run by a Dutch dairy corporation, women farmers in Nigeria are finally able to help support their families, challenging deeply entrenched attitudes about traditional gender roles.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180504094618/These-women-draped-in-colorful-hijabs-are-women-making-a-living-from-dairy-farming.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

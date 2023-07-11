@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Wessam and Karen Leigh</title>
+    <description>Karen Leigh is Managing Editor of Syria Deeply
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/wessam-and-karen-leigh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/wessam-and-karen-leigh/rss"/>
+    <item>
+      <title>Conversations: A Doctor in Jayroud</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Wessam and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/16/conversations-a-doctor-in-jayroud</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/16/conversations-a-doctor-in-jayroud</guid>
+      <description>There’s a temporary ceasefire in the city, but hospital staff say they and their equipment have been moved to a government-held area. Now they tell us how it’s impacting Jayroud’s residents.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115327/1422383_778170175528200_321354-534ec265e26c7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

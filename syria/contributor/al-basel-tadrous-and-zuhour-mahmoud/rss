@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Al-Basel Tadrous and Zuhour Mahmoud</title>
+    <description>Al-Basel Tadrous is an independent reporter and journalist from Syria.
+Zuhour Mahmoud is the Deputy Managing Editor of Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/al-basel-tadrous-and-zuhour-mahmoud/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/al-basel-tadrous-and-zuhour-mahmoud/rss"/>
+    <item>
+      <title>Ghouta Infighting Challenges Jaish al-Islam’s Rule</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 01 Jun 2016 07:47:56 +0000</pubDate>
+      <author>Al-Basel Tadrous and Zuhour Mahmoud</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/06/01/ghouta-infighting-challenges-jaish-al-islams-rule</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/06/01/ghouta-infighting-challenges-jaish-al-islams-rule</guid>
+      <description>A month-long struggle between the two leading factions in the besieged suburb of Eastern Ghouta in Damascus ended last week when the parties agreed to a cease-fire. However, the dispute raises questions over the rule of Jaish al-Islam, the leading faction in the area.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160601074707/Mideast-Syria-Al-Qaeda.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

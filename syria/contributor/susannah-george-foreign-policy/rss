@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Susannah George / Foreign Policy</title>
+    <description>Susannah George is a freelance journalist based in Beirut.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/susannah-george-foreign-policy/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/susannah-george-foreign-policy/rss"/>
+    <item>
+      <title>The Frontman vs. al Qaeda</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Susannah George / Foreign Policy</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/03/13/the-frontman-vs-al-qaeda</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/03/13/the-frontman-vs-al-qaeda</guid>
+      <description>In Antakya, Turkey, Foreign Policy’s Susannah George meets the leader of the Syrian Revolutionary Front. As the moderate opposition crumbles and extremists continue to consolidate their power in Syria, is he the opposition’s last great hope?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Clarissa Ward</title>
+    <description>Clarissa Ward is a London-based correspondent for CBS News. Her work from Syria has been honored with the Peabody Award and several Emmy nominations.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/clarissa-ward/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/clarissa-ward/rss"/>
+    <item>
+      <title>ISIS too Extreme for the Extremists?</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      <author>Clarissa Ward</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/09/05/isis-too-extreme-for-the-extremists</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/09/05/isis-too-extreme-for-the-extremists</guid>
+      <description>A European Jihadist tells Clarissa Ward why he left Syria.</description>
+    </item>
+    <item>
+      <title>A Rare Glimpse Inside a Hezbollah Stronghold</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0000</pubDate>
+      <author>Clarissa Ward</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/08/04/a-rare-glimpse-inside-a-hezbollah-stronghold</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/08/04/a-rare-glimpse-inside-a-hezbollah-stronghold</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

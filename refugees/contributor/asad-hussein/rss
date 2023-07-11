@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Asad Hussein</title>
+    <description>Asad Hussein is a writer living in Kenya’s Dadaab refugee camp. Follow him on Twitter: @asadhussein_
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/asad-hussein/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/asad-hussein/rss"/>
+    <item>
+      <title>After 13-Year Wait, My Family’s American Dream Is Dying</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 02 Feb 2017 10:48:49 +0000</pubDate>
+      <author>Asad Hussein</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/02/02/after-13-year-wait-my-familys-american-dream-is-dying</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/02/02/after-13-year-wait-my-familys-american-dream-is-dying</guid>
+      <description>Just weeks before they expected their visas to be issued, Somali writer Asad Hussein’s parents learned they are now barred from the U.S. under Trump’s executive order. Writing from Kenya’s Dadaab camp, he explains how the order is tearing his family apart.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170202104602/Kenya-Malala-Refugee-Camp1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

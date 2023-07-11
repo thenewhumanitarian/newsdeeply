@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Brown Moses</title>
+    <description>Brown Moses is a highly influential blog cataloguing weapon use in the Syrian conflict. It’s written by Eliot Higgins. Follow Higgins on Twitter @brown_moses.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/brown-moses/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/brown-moses/rss"/>
+    <item>
+      <title>Delving Into Detail on Chemical Weapons</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
+      <author>Brown Moses</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/05/23/delving-into-detail-on-chemical-weapons</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/05/23/delving-into-detail-on-chemical-weapons</guid>
+      <description>This post originally appeared on the Brown Moses Blog.</description>
+    </item>
+  </channel>
+</rss>

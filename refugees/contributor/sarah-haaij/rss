@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Sarah Haaij</title>
+    <description>Sarah Haaij is an independent journalist reporting on aid and trade, migration and conservation.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/sarah-haaij/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/sarah-haaij/rss"/>
+    <item>
+      <title>E.U. Aid Won’t Stop Migration Being a Boon to Burkina Faso</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 08 Feb 2018 12:30:00 +0000</pubDate>
+      <author>Saskia Houttuin, Sarah Haaij</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/02/08/e-u-aid-wont-stop-migration-being-a-boon-to-burkina-faso</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/02/08/e-u-aid-wont-stop-migration-being-a-boon-to-burkina-faso</guid>
+      <description>The E.U. is spending millions in development aid in sub-Saharan Africa in an effort to dissuade migration to Europe. But in countries like Burkina Faso, people think very differently about migration, IRIN News reports.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180208124027/weaving_workshop51.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

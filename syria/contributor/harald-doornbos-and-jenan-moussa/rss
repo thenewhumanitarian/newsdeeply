@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Harald Doornbos and Jenan Moussa</title>
+    <description>Harald Doornbos is a reporter based in Pakistan covering the Greater Middle East. Jenan Moussa is the roving reporter for Dubai-based pan-Arabic Al Aan TV.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/harald-doornbos-and-jenan-moussa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/harald-doornbos-and-jenan-moussa/rss"/>
+    <item>
+      <title>The Fugitive</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Harald Doornbos and Jenan Moussa</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/04/the-fugitive</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/04/the-fugitive</guid>
+      <description>GAZIANTEP, Turkey — Waiting for the tram in the southern Turkish city of Gaziantep, Abu Omar is on his way to the mall. No groceries today – his shopping list includes a Turkish-made tablet computer and a small GPS navigation device loaded with digital maps of the Middle East.</description>
+    </item>
+  </channel>
+</rss>

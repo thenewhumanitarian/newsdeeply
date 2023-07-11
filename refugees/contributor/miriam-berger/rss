@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Miriam Berger</title>
+    <description>Miriam Berger is a freelance journalist currently based in Jerusalem. She’s reported from around the Middle East, Africa and Central Asia. She tweets at @MiriamABerger and more of her work can be found at miriamaberger.com.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/miriam-berger/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/miriam-berger/rss"/>
+    <item>
+      <title>Syrians Given Temporary Refuge in Germany Fear Being Set up to Fail</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Tue, 06 Feb 2018 03:59:00 +0000</pubDate>
+      <author>Miriam Berger</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/02/06/syrians-given-temporary-refuge-in-germany-fear-being-set-up-to-fail</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/02/06/syrians-given-temporary-refuge-in-germany-fear-being-set-up-to-fail</guid>
+      <description>Most Syrians coming to Germany receive temporary protection instead of full refugee status, complicating efforts to integrate them. Miriam Berger reports on how one family from Damascus copes with the unknown while getting on with life in rural Bavaria.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180206030720/IMG_2723-11.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Gaza, Marriage Comes with a Host of Dangers for Women</title>
+      <category domain="https://www.newsdeeply.com/refugees/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/refugees/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/refugees/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 05 Jun 2017 12:51:21 +0000</pubDate>
+      <author>Miriam Berger</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/06/05/in-gaza-marriage-comes-with-a-host-of-dangers-for-women</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/06/05/in-gaza-marriage-comes-with-a-host-of-dangers-for-women</guid>
+      <description>For women in Gaza, dire economic conditions combined with a dearth of legal protections can cause many marriage-related problems. Among them are early marriages, wedding-related debt and domestic abuse. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170605124622/PALESTINE-WOMEN.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Palestinian Women in East Jerusalem Struggle to Escape Poverty</title>
+      <category domain="https://www.newsdeeply.com/refugees/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Fri, 14 Apr 2017 05:00:44 +0000</pubDate>
+      <author>Miriam Berger</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/04/14/palestinian-women-in-east-jerusalem-struggle-to-escape-poverty</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/04/14/palestinian-women-in-east-jerusalem-struggle-to-escape-poverty</guid>
+      <description>Many Palestinian women living in Israeli-occupied East Jerusalem want to work. But their search for jobs is often blocked by slow bureaucracy, impossible demands and lack of support.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170413110515/E.Jerusalem-poverty.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

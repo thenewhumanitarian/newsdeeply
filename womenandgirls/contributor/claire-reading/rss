@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Claire Reading</title>
+    <description>Claire Reading is a midwife on assignment with Medecins Sans Frontieres/Doctors Without Borders (MSF) in Port-a-Piment, Haiti.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/claire-reading/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/claire-reading/rss"/>
+    <item>
+      <title>‘My Mind Was Racing’: A Midwife’s First Day in Hurricane-Hit Haiti</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Tue, 20 Dec 2016 07:38:07 +0000</pubDate>
+      <author>Claire Reading</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/20/mind-racing-midwifes-first-day-hurricane-hit-haiti</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/20/mind-racing-midwifes-first-day-hurricane-hit-haiti</guid>
+      <description>British midwife Claire Reading was the first Medecins Sans Frontieres midwife sent to Port-a-Piment in Haiti, one month after Hurricane Matthew. A few hours after arriving, she was already dealing with a major medical emergency.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072144/Haiti-Pregnant-Amid-Ruins.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

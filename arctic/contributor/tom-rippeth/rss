@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Tom Rippeth</title>
+    <description>Tom Rippeth is the professor of physical oceanography at Bangor University. He is an expert in measuring ocean turbulence and uses these measurements to improve understanding of the processes which drive climatically important fluxes of heat, freshwater, nutrients and carbon within the oceanic component of the Earth System.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/tom-rippeth/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/tom-rippeth/rss"/>
+    <item>
+      <title>Potential ‘Hot Spots’ for Melting Sea Ice Identified in Arctic Ocean</title>
+      <category domain="https://www.newsdeeply.com/arctic/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/arctic/climate-change/">Climate Change</category>
+      <pubDate>Fri, 12 May 2017 11:11:05 +0000</pubDate>
+      <author>Tom Rippeth</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/05/12/potential-hot-spots-for-melting-sea-ice-identified-in-arctic-ocean-2</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/05/12/potential-hot-spots-for-melting-sea-ice-identified-in-arctic-ocean-2</guid>
+      <description>The warm currents flowing into the Arctic Ocean from the Atlantic are separated from the ice by a layer of cold water, but hot spots are appearing. Even so, these might not drive a widespread decline in sea ice cover – for now, says oceanography expert Tom Rippeth.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170512110907/Russian-Arctic-National-Park-expedition1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Potential ‘Hot Spots’ for Melting Sea Ice Identified in Arctic Ocean</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Tue, 08 Nov 2016 05:00:02 +0000</pubDate>
+      <author>Tom Rippeth</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/11/08/potential-hot-spots-for-melting-sea-ice-identified-in-arctic-ocean</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/11/08/potential-hot-spots-for-melting-sea-ice-identified-in-arctic-ocean</guid>
+      <description>The warm currents flowing into the Arctic Ocean from the Atlantic are separated from the ice by a layer of cold water, but hot spots are appearing. Even so, these might not drive a widespread decline in sea ice cover – for now, says oceanography expert Tom Rippeth.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161107153934/Russian-Arctic-National-Park-expedition.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

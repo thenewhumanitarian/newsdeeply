@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Connie and Peter Roop</title>
+    <description>Connie and Peter Roop are the authors over 100 children’s books about nature, science, and history. Former educators, the Roops now write and lecture fulltime and have given presentations on all seven continents. They are currently writing nature books for young readers for the American Museum of Natural History.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/connie-and-peter-roop/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/connie-and-peter-roop/rss"/>
+    <item>
+      <title>Arctic Tourists Are Ready, Even if the Arctic’s Not</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <pubDate>Fri, 12 May 2017 04:46:53 +0000</pubDate>
+      <author>Connie and Peter Roop</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/05/12/arctic-tourists-are-ready-even-if-the-arctics-not-2</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/05/12/arctic-tourists-are-ready-even-if-the-arctics-not-2</guid>
+      <description>A cruise through the Northwest Passage changed the way authors Connie and Peter Roop thought about Arctic tourism. There are benefits, but the risks remain great. Some trips should not go ahead.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170512044412/Arctic-landscape-21.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arctic Tourists Are Ready, Even if the Arctic’s Not</title>
+      <category domain="https://www.newsdeeply.com/oceans/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/oceans/infrastructure/">Infrastructure</category>
+      <pubDate>Wed, 29 Jun 2016 03:00:50 +0000</pubDate>
+      <author>Connie and Peter Roop</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/06/29/arctic-tourists-are-ready-even-if-the-arctics-not</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/06/29/arctic-tourists-are-ready-even-if-the-arctics-not</guid>
+      <description>A cruise through the Northwest Passage changed the way authors Connie and Peter Roop thought about Arctic tourism. There are benefits, but the risks remain great. Some trips should not go ahead.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160624143253/Arctic-landscape-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

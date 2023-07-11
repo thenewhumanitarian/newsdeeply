@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Pierre Krähenbühl</title>
+    <description>Pierre Krähenbühl is the Commissioner-General of The United Nations Relief and Works Agency (UNRWA)
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/pierre-krahenbuhl/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/pierre-krahenbuhl/rss"/>
+    <item>
+      <title>Striking ‘Grand Bargain’ for Palestinian Children</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Mon, 23 May 2016 08:00:18 +0000</pubDate>
+      <author>Pierre Krähenbühl</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/05/23/striking-grand-bargain-for-palestinian-children</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/05/23/striking-grand-bargain-for-palestinian-children</guid>
+      <description>As the World Humanitarian Summit convenes, UNRWA’s commissioner-general, Pierre Krähenbühl, calls for political action to resolve armed conflicts – especially so that Palestinian children in the Occupied Territories and Syria can access the education they need. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160523070552/Mideast-Gaza-Sewage-Crisis.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: David Zetland</title>
+    <description>David Zetland is an assistant professor of economics at Leiden University College in the Netherlands. He received his Ph.D. from U.C. Davis in 2008, writing a dissertation on water management in Southern California. He blogs on water, economics and politics at aguanomics.com
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/david-zetland/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/david-zetland/rss"/>
+    <item>
+      <title>The Banana Republic of California</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      <author>David Zetland</author>
+      <link>https://www.newsdeeply.com/water/community/2015/10/02/the-banana-republic-of-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/10/02/the-banana-republic-of-california</guid>
+      <description>It is time for state leaders to show some spine and stop pretending there’s enough water for all comers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104709/california-drought-560e983821a5f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Natasha Hall</title>
+    <description>Natasha Hall is the Middle East North Africa program officer for Center for Civilians in Conflict (CIVIC). A full report of CIVIC’s findings on Syrian civilian protection strategies and recommendations can be found at this link. Follow CIVIC on Facebook and on Twitter at @CivCenter.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/natasha-hall/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/natasha-hall/rss"/>
+    <item>
+      <title>Civilian Survival Strategies in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 17 Jun 2016 08:10:41 +0000</pubDate>
+      <author>Natasha Hall</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/06/17/civilian-survival-strategies-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/06/17/civilian-survival-strategies-in-syria</guid>
+      <description>Natasha Hall of the Center for Civilians in Conflict discusses enhanced protection mechanisms and ways to put survival in Syria back in the hands of civilians themselves. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160617080906/Mideast-Syria-Aleppo-Fear-of-Siege.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

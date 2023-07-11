@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Eric Holthaus</title>
+    <description>Eric Holthaus is a meteorologist and contributing writer for Grist, covering climate science, policy and solutions. He has previously written for the Wall Street Journal, Slate and a variety of other publications.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/eric-holthaus/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/eric-holthaus/rss"/>
+    <item>
+      <title>This Is the Year We Lost the Old Arctic</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <pubDate>Fri, 29 Dec 2017 03:00:00 +0000</pubDate>
+      <author>Eric Holthaus</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/12/29/this-is-the-year-we-lost-the-old-arctic</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/12/29/this-is-the-year-we-lost-the-old-arctic</guid>
+      <description>Climate change has irreversibly changed the Arctic from its reliably frozen past. Recently, U.S. government researchers, dubbing it the ‘New Arctic,’ said there’s little chance of going back to the way things were.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171221172359/greenland_pho_201508_1_lrg1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Greenland, the Land of Ice and Snow, Hit By Wildfire</title>
+      <pubDate>Fri, 11 Aug 2017 07:23:44 +0000</pubDate>
+      <author>Eric Holthaus</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/08/11/greenland-the-land-of-ice-and-snow-hit-by-wildfire</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/08/11/greenland-the-land-of-ice-and-snow-hit-by-wildfire</guid>
+      <description>Scientists are not sure what to make of an unprecedented fire raging in western Greenland, but they suspect it is another sign of the impact of climate change in the Arctic.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170811072034/greenland_oli_2017215_lrg.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

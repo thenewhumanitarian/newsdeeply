@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Lindsay Bass</title>
+    <description>Lindsay Bass is the manager of corporate water stewardship at WWF.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/lindsay-bass/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/lindsay-bass/rss"/>
+    <item>
+      <title>Big Food Brands Commit to Conserve Water, Soil – and the Climate</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Fri, 19 Oct 2018 08:00:00 +0000</pubDate>
+      <author>Eliza Roberts, Lindsay Bass</author>
+      <link>https://www.newsdeeply.com/water/community/2018/10/19/big-food-brands-commit-to-conserve-water-soil-and-the-climate</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/10/19/big-food-brands-commit-to-conserve-water-soil-and-the-climate</guid>
+      <description>Major food growers and retailers are looking hard at their growing and distribution practices to conserve soil nutrients and protect water quality. It’s an effort to reduce impacts throughout the entire food supply chain.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181018103901/holstein_cows.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

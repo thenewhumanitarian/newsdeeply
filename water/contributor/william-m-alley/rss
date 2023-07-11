@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: William M. Alley</title>
+    <description>William Alley is Director of Science and Technology for the National Ground Water Association. Previously, he served as Chief, Office of Groundwater for the U.S. Geological Survey for almost two decades.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/william-m-alley/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/william-m-alley/rss"/>
+    <item>
+      <title>The Dangers of Land Subsidence From California’s Groundwater Overdraft</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 14 Mar 2017 05:00:58 +0000</pubDate>
+      <author>Rosemarie Alley, William M. Alley</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/03/14/the-dangers-of-land-subsidence-from-californias-groundwater-overdraft</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/03/14/the-dangers-of-land-subsidence-from-californias-groundwater-overdraft</guid>
+      <description>Subsidence from the overpumping of groundwater has gotten so bad in the San Joaquin Valley that critical infrastructure is at risk. A new book, High and Dry, on the global groundwater crisis explains how things got so bad.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170308121823/FL_Firebaugh-2263.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

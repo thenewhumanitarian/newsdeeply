@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Carolyn Thompson</title>
+    <description>Carolyn Thompson is a journalist and media trainer based in Juba, South Sudan. She previously reported for several Canadian newspapers and has worked in Ghana, South Africa, Rwanda, Burundi and the Democratic Republic of Congo.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/carolyn-thompson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/carolyn-thompson/rss"/>
+    <item>
+      <title>In South Sudan, Effects of Hunger Will Linger After the War Ends</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <pubDate>Thu, 19 Jul 2018 12:34:07 +0000</pubDate>
+      <author>Carolyn Thompson</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/07/19/in-south-sudan-effects-of-hunger-will-linger-after-the-war-ends-2</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/07/19/in-south-sudan-effects-of-hunger-will-linger-after-the-war-ends-2</guid>
+      <description>There is no end in sight to South Sudan’s conflict, which has destroyed communities and upended the economy. Even when the bullets stop, high rates of stunting – caused by persistent food shortages – will make it difficult for the country to recover.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180717055039/011.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In South Sudan, Effects of Hunger Will Linger After the War Ends</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/stunting/">Stunting</category>
+      <pubDate>Tue, 17 Jul 2018 06:30:00 +0000</pubDate>
+      <author>Carolyn Thompson</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/07/17/in-south-sudan-effects-of-hunger-will-linger-after-the-war-ends</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/07/17/in-south-sudan-effects-of-hunger-will-linger-after-the-war-ends</guid>
+      <description>There is no end in sight to South Sudan’s conflict, which has destroyed communities and upended the economy. Even when the bullets stop, high rates of stunting – caused by persistent food shortages – will make it difficult for the country to recover.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180717055039/011.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>South Sudan Crisis Strains Uganda’s Exemplary Refugee Welcome</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 02 Nov 2016 14:40:53 +0000</pubDate>
+      <author>Carolyn Thompson</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/11/02/south-sudan-crisis-strains-ugandas-exemplary-refugee-welcome</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/11/02/south-sudan-crisis-strains-ugandas-exemplary-refugee-welcome</guid>
+      <description>Uganda is celebrated around the world for providing refugees with the land and resources to become self-sufficient. But war in South Sudan is putting pressure on that model, leaving the most vulnerable struggling to survive, reports Carolyn Thompson from Uganda.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161102143350/Refugees1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

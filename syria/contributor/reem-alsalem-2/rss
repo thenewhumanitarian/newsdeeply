@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Reem Alsalem</title>
+    <description>Reem Alsalem is regional public information officer for UNHCR’s Middle East and North Africa bureau. She is based in Beirut.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/reem-alsalem-2/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/reem-alsalem-2/rss"/>
+    <item>
+      <title>The Decision to Leave Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
+      <author>Reem Alsalem</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/04/26/the-decision-to-leave-syria</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/04/26/the-decision-to-leave-syria</guid>
+      <description>Reem Alsalem is regional public information officer for UNHCR’s Middle East and North Africa bureau. She is based in Beirut.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Zuhour Mahmoud &amp;#038; Dylan Collins</title>
+    <description>Zuhour Mahmoud is the Deputy Managing Editor of Syria Deeply.
+Dylan Collins is the Managing Editor of Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/zuhour-mahmoud-dylan-collins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/zuhour-mahmoud-dylan-collins/rss"/>
+    <item>
+      <title>Aleppo Is Burning: Civilians Under Fire</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 29 Apr 2016 11:47:01 +0000</pubDate>
+      <author>Zuhour Mahmoud &amp; Dylan Collins</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/04/29/aleppo-is-burning-civilians-under-fire</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/04/29/aleppo-is-burning-civilians-under-fire</guid>
+      <description>Government airstrikes on the opposition-held neighborhoods of Aleppo have targeted hospitals, mosques, bakeries and rescue workers over the past week, as violence in the city escalates to levels not seen in months.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160429113733/Mideast-Syria.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

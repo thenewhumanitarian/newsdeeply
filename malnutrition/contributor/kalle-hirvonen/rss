@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Kalle Hirvonen</title>
+    <description>Kalle Hirvonen is a research fellow based in Addis Ababa with the International Food Policy Research Institute.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/kalle-hirvonen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/kalle-hirvonen/rss"/>
+    <item>
+      <title>Ethiopian Economy Grows, but Diets Are Still Poor</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <pubDate>Tue, 27 Feb 2018 11:30:00 +0000</pubDate>
+      <author>Bart Minten, Kalle Hirvonen</author>
+      <link>https://www.newsdeeply.com/malnutrition/community/2018/02/27/ethiopian-economy-grows-but-diets-are-still-poor</link>
+      <guid>https://www.newsdeeply.com/malnutrition/community/2018/02/27/ethiopian-economy-grows-but-diets-are-still-poor</guid>
+      <description>Ethiopians have higher household incomes, but the economic growth has not still translated into better diets, say International Food Policy Research Institute researchers Bart Minten and Kalle Hirvonen.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180227114351/1011_19_1f-7261209.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

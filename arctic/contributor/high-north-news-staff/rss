@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: High North News staff</title>
+    <description>High North News is an independent newspaper published by the High North Center at the Nord University.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/high-north-news-staff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/high-north-news-staff/rss"/>
+    <item>
+      <title>Visas to Russia a Challenge for U.S. Researchers</title>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Fri, 01 Jul 2016 03:00:24 +0000</pubDate>
+      <author>High North News staff</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/07/01/visas-to-russia-a-challenge-for-u-s-researchers</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/07/01/visas-to-russia-a-challenge-for-u-s-researchers</guid>
+      <description>HIGH NORTH NEWS: The cold political climate between the East and the West is hurting cooperation in academia. It has become almost impossible for U.S. researchers to get visas to travel to Russia for conferences and meetings.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160624032330/Russia_research_bear.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

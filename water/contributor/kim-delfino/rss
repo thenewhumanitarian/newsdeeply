@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Kim Delfino</title>
+    <description>Kim Delfino is the program director for Defenders of Wildlife’s California program, which works to ensure a lasting future for all wildlife of the Golden State. Defenders’ California team focuses particularly on protecting water resources, renewable energy issues and protecting key species like the California condor, gray wolf, desert tortoise, delta smelt and more.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/kim-delfino/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/kim-delfino/rss"/>
+    <item>
+      <title>Why the Endangered Delta Smelt Needs Relief</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Tue, 16 Aug 2016 08:41:07 +0000</pubDate>
+      <author>Kim Delfino</author>
+      <link>https://www.newsdeeply.com/water/community/2016/08/16/why-the-endangered-delta-smelt-needs-relief</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/08/16/why-the-endangered-delta-smelt-needs-relief</guid>
+      <description>Environmental groups are calling on the California State Water Resources Control Board to increase freshwater flows to help critically endangered delta smelt. Kim Delfino of Defenders of Wildlife explains why.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160816083856/Newman2-1920px-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

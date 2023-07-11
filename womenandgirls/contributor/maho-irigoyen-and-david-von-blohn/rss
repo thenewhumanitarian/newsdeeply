@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Maho Irigoyen and David von Blohn</title>
+    <description>Maho Irigoyen was born in Buenos Aires and lived for two years in Mexico, where her passion for documenting life flourished. She has collaborated with various NGOs and after studying documentary film in Santiago de Chile, she’s now discovering the world as a nomad, eager to tell unique stories through her lens.
+David von Blohn is originally from Germany, and his studies in philosophy and political science have shaped his passion for cultures and social justice. He collaborates with international media outlets and non-profit organizations to tell compelling and engaging visual stories.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/maho-irigoyen-and-david-von-blohn/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/maho-irigoyen-and-david-von-blohn/rss"/>
+    <item>
+      <title>Video: Breaking Barriers to Stand Up for Family Planning</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 13 Oct 2016 14:20:19 +0000</pubDate>
+      <author>Maho Irigoyen and David von Blohn</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/10/13/video-breaking-barriers-stand-family-planning</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/10/13/video-breaking-barriers-stand-family-planning</guid>
+      <description>In the next video in our series “Choice and Change,” we meet Indigenous Guatemalan Lucy Cutzan, who defied cultural norms to go on birth control. Now she helps other women, tackling myths and raising awareness about contraception.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073040/Guatemala-vid.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

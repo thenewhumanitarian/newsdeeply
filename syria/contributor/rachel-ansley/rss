@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rachel Ansley</title>
+    <description>Rachel Ansley is an editorial assistant at the Atlantic Council.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rachel-ansley/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rachel-ansley/rss"/>
+    <item>
+      <title>Analysis: US Strike in Syria Unlikely to Provoke Russian Response</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Mon, 10 Apr 2017 18:44:50 +0000</pubDate>
+      <author>Rachel Ansley</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/04/10/us-strike-in-syria-unlikely-to-provoke-russian-response</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/04/10/us-strike-in-syria-unlikely-to-provoke-russian-response</guid>
+      <description>A missile strike by the U.S. at a Syrian regime-held airfield was to deter future chemical attacks and should not be seen as a sign of escalating the conflict, writes Rachel Ansley of the Atlantic Council.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170410183837/Tillersons-Moment.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This Is How the World Is Reacting to the U.S. Strikes in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Fri, 07 Apr 2017 16:04:19 +0000</pubDate>
+      <author>Rachel Ansley</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/04/07/this-is-how-the-world-is-reacting-to-the-u-s-strikes-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/04/07/this-is-how-the-world-is-reacting-to-the-u-s-strikes-in-syria</guid>
+      <description>The Atlantic Council rounds up comments from world leaders following the U.S. missile strikes on a Syrian air base in response to the Syrian government’s use of sarin gas on civilians.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407160409/US-SYRIA-CONFLICT-MILITARY-STRIKE-TRUMP.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arctic Council to Stay Course on Climate Change After U.S. Election</title>
+      <category domain="https://www.newsdeeply.com/syria/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/syria/governance/">Governance</category>
+      <pubDate>Thu, 03 Nov 2016 05:00:59 +0000</pubDate>
+      <author>Rachel Ansley</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/11/03/arctic-council-to-stay-course-on-climate-change-after-u-s-election</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/11/03/arctic-council-to-stay-course-on-climate-change-after-u-s-election</guid>
+      <description>The U.S. chairmanship of the Arctic Council concludes in spring 2017. Will its focus on climate change mitigation and adaptation be transformed with the election of a new U.S. president next week?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161102123627/17079647888_e45dcf9af8_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

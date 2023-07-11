@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Danielle Renwick</title>
+    <description>Danielle Renwick is a Brazil-based journalist.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/danielle-renwick/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/danielle-renwick/rss"/>
+    <item>
+      <title>Brazil’s Warm Welcome to Stateless Family Inspires Refugee Hosting App</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Tue, 14 Mar 2017 12:53:43 +0000</pubDate>
+      <author>Danielle Renwick</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/14/brazils-warm-welcome-to-stateless-family-inspires-refugee-hosting-app</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/14/brazils-warm-welcome-to-stateless-family-inspires-refugee-hosting-app</guid>
+      <description>Maha Mamo and her siblings, born stateless in Lebanon to Syrian parents, were welcomed into the home of a local family in Brazil. The experience inspired her to help design an app that connects the growing number of refugees in Brazil with volunteer host families.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170314125207/The-Week-That-Was-in-Latin-America-Photo-Gallery.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

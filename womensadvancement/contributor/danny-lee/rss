@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Danny Lee</title>
+    <description>Danny Lee is a journalist, editor, fiction writer, and lecturer. He contributes to international and UK media, including Channel 4 and The Guardian. He covers stories on the environment, ethnicity, gender, media, and mental health, as well as numerous other topics, and has appeared on Sky News and BBC Radio. His books include a children’s novel, Finding Dad (illustrated by Korky Paul, launched at the Hay Festival and later performed by Michael Palin for an audio CD), and publications for the Maudsley mental health hospital in London. http://danny-b-lee.blogspot.co.uk/
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/danny-lee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/danny-lee/rss"/>
+    <item>
+      <title>Cash Payments During Crisis Can Give Women More Power at Home</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/financial-inclusion/">Financial Inclusion</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 27 Feb 2018 12:20:00 +0000</pubDate>
+      <author>Danny Lee</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/02/27/cash-payments-during-crisis-can-give-women-more-power-at-home</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/02/27/cash-payments-during-crisis-can-give-women-more-power-at-home</guid>
+      <description>A growing number of NGOs are adding cash assistance to their aid programming, often targeting the support to women. Some groups find that giving money can boost women’s financial autonomy, but others say handing over cash is only a small part of the solution.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180227122305/AFP_9W8561.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Digital Revolution: Women Tech Leaders Defy Lebanon’s Gender Gap</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <pubDate>Fri, 22 Sep 2017 08:10:37 +0000</pubDate>
+      <author>Danny Lee</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/09/22/digital-revolution-women-tech-leaders-defy-lebanons-gender-gap</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/09/22/digital-revolution-women-tech-leaders-defy-lebanons-gender-gap</guid>
+      <description>In Lebanon, women outnumber men in many parts of the tech scene, succeeding and leading in an industry that’s dominated by men around the world, and challenging their country’s ingrained gender inequality.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170922080904/9f6cb26a-9b8c-4dd5-b90a-64b422be5186.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

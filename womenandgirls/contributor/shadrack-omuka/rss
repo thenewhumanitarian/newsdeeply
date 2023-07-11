@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Shadrack Omuka</title>
+    <description>Shadrack Omuka is a freelance journalist based in Nakuru, Kenya.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/shadrack-omuka/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/shadrack-omuka/rss"/>
+    <item>
+      <title>How a WhatsApp Group is Fighting Child Marriage and FGM in Kenya</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Fri, 08 Dec 2017 03:00:55 +0000</pubDate>
+      <author>Shadrack Omuka</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/12/08/how-a-whatsapp-group-is-fighting-child-marriage-and-fgm-in-kenya</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/12/08/how-a-whatsapp-group-is-fighting-child-marriage-and-fgm-in-kenya</guid>
+      <description>In rural southern Kenya, it can be difficult to reach girls at risk of experiencing genital cutting and forced marriage, but a gender officer in local government has set up a WhatsApp group to help the community intervene to protect their children. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171207114910/Masaai-teenagers.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

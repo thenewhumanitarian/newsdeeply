@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Khairunissa Dhala</title>
+    <description>Khairunissa Dhala is a researcher for Amnesty International on refugee and migrant rights.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/khairunissa-dhala-2/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/khairunissa-dhala-2/rss"/>
+    <item>
+      <title>Five Years of Crisis, Five Million Syrian Refugees</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Khairunissa Dhala</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/03/30/five-years-of-crisis-five-million-syrian-refugees-2</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/03/30/five-years-of-crisis-five-million-syrian-refugees-2</guid>
+      <description>The world must stop failing Syria’s refugees, writes Amnesty International’s head researcher on refugee and migrant rights in the lead up to the United Nations Refugee Agency’s March 30 conference centered on sharing responsibility for the refugee crisis globally.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112919/mideast-syria-uprising-anniver-56fba79c7fe1a.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

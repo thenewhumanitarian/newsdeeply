@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Tess Townsend</title>
+    <description>Tess Townsend is a freelance journalist based in Sacramento, where she covers water issues. She previously reported for Recode, Inc. Magazine and Connecticut regional newspaper the Day. Follow her on Twitter at @Tess_Townsend.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/tess-townsend/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/tess-townsend/rss"/>
+    <item>
+      <title>Why Emergency Drought Assistance Will Be Needed in California for Years</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Tue, 05 Jun 2018 03:00:00 +0000</pubDate>
+      <author>Tess Townsend</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/06/05/why-emergency-drought-assistance-will-be-needed-in-california-for-years</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/06/05/why-emergency-drought-assistance-will-be-needed-in-california-for-years</guid>
+      <description>Just how long interim funding will play a central role in responding to water issues depends on implementing long-term solutions to contamination and groundwater depletion.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180605025750/Was89628561.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>California Considers Charge on Utility Bills to Create Safe Water Fund</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Tue, 08 May 2018 07:20:00 +0000</pubDate>
+      <author>Tess Townsend</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/05/08/california-considers-charge-on-utility-bills-to-create-safe-water-fund</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/05/08/california-considers-charge-on-utility-bills-to-create-safe-water-fund</guid>
+      <description>A plan to help fix some of the state’s most persistent drinking-water problems is opposed by many water agencies, but a similar scheme has worked in the energy sector for decades.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180508072752/900_01_us_ca_81_1261.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

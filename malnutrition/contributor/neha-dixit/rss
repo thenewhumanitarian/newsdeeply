@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Neha Dixit</title>
+    <description>Neha Dixit is an independent journalist based out of New Delhi, India. She covers politics, gender and social justice in South Asia.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/neha-dixit/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/neha-dixit/rss"/>
+    <item>
+      <title>Dust, Snakes and Smoke: Rohingya Petition For Basic Rights in India</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/health/">Health</category>
+      <pubDate>Fri, 02 Feb 2018 09:27:32 +0000</pubDate>
+      <author>Neha Dixit</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/02/02/dust-snakes-and-smoke-rohingya-petition-for-basic-rights-in-india</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/02/02/dust-snakes-and-smoke-rohingya-petition-for-basic-rights-in-india</guid>
+      <description>India has not signed the U.N. Refugee Convention, leaving thousands of Rohingya refugees excluded from public health and nutrition programs. Now refugees are petitioning India’s Supreme Court for protection against deportation and to live in “humane conditions.”</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180202092555/AFP_X54FV1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rohingya in India Seeking Basic Nutrition Services</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/maternal-and-child-health/">Maternal and Child Health</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Fri, 02 Feb 2018 08:20:00 +0000</pubDate>
+      <author>Neha Dixit</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/02/02/india-blocking-rohingya-refugees-from-basic-nutrition-services</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/02/02/india-blocking-rohingya-refugees-from-basic-nutrition-services</guid>
+      <description>India is not a signatory to international refugee conventions, which it is using as a cover to prevent Rohingya from accessing programs that would help them with food and healthcare.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180202082518/AFP_X54FV.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

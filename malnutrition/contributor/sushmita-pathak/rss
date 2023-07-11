@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Sushmita Pathak</title>
+    <description>Sushmita Pathak is a freelance journalist and radio producer. Follow her at @sushmitza.
+ 
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/sushmita-pathak/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/sushmita-pathak/rss"/>
+    <item>
+      <title>Malnourished Patients Fall Through the Cracks in America’s Hospitals</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Wed, 04 Apr 2018 11:10:00 +0000</pubDate>
+      <author>Sushmita Pathak</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/04/04/malnourished-patients-fall-through-the-cracks-in-americas-hospitals</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/04/04/malnourished-patients-fall-through-the-cracks-in-americas-hospitals</guid>
+      <description>A persistent lack of awareness about the dangers of malnutrition among patients is contributing to higher mortality rates and longer hospital stays.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180404111725/1192610_ME_FluVaccine_MJB_01.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

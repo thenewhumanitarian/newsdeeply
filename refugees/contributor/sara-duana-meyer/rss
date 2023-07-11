@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Sara-Duana Meyer</title>
+    <description>Sara-Duana Meyer is a freelance journalist, yoga instructor and cultural producer and curator.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/sara-duana-meyer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/sara-duana-meyer/rss"/>
+    <item>
+      <title>In Portugal, Environmentalists Re-Imagine Refugee Spaces</title>
+      <category domain="https://www.newsdeeply.com/refugees/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Thu, 29 Mar 2018 03:00:00 +0000</pubDate>
+      <author>Sara-Duana Meyer</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/03/29/in-portugal-environmentalists-re-imagine-refugee-spaces</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/03/29/in-portugal-environmentalists-re-imagine-refugee-spaces</guid>
+      <description>A community in Portugal is planning to build a model refugee settlement that is ecologically sustainable and more socially inclusive than most camps. Sara-Duana Meyer examines the idea and its significance for the future of refugee settlements.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180328120751/161006_Tamera_SolarVillage_Technology_Mirror_Project_SMC_181.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Refugees Healing Scars With Yoga</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Tue, 21 Jun 2016 11:03:52 +0000</pubDate>
+      <author>Sara-Duana Meyer</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/06/21/refugees-healing-scars-with-yoga</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/06/21/refugees-healing-scars-with-yoga</guid>
+      <description>To mark International Yoga Day today, we explore how the ancient mind-body practice is helping women and men escaping conflict to heal some of the emotional scars that they carry with them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160621110211/India-International-Yoga-Day.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As Shelters Fill up, Germans Open Their Doors</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Sara-Duana Meyer</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/04/14/as-shelters-fill-up-germans-open-their-doors</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/04/14/as-shelters-fill-up-germans-open-their-doors</guid>
+      <description>Urban ‘ghettoization’ due to host governments housing refugees in shelters in impoverished neighborhoods has further impeded their social integration in European cities. In Germany, private initiatives are finding ways of creating an open-door culture through flat-shares.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422062425/ap_198901898504-570f56af830ef.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

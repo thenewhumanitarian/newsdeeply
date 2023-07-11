@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Justus Wanzala</title>
+    <description>Justus Wanzala is a Kenyan freelance journalist and development issues who writes about sustainable development, climate change, science policy, human rights  as well urban and rural development. He contributes articles to a number of publications with a global readership and also works as a development consultant. He has won several media fellowships and travelled widely. He is fluent in English and Swahili.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/justus-wanjala/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/justus-wanjala/rss"/>
+    <item>
+      <title>Failed by Banks, Kenyan Women in Clean Energy Embrace Crowdfunding</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 03 Apr 2018 11:50:00 +0000</pubDate>
+      <author>Jumana Farouky, Justus Wanzala</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/03/failed-by-banks-kenyan-women-in-clean-energy-embrace-crowdfunding</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/03/failed-by-banks-kenyan-women-in-clean-energy-embrace-crowdfunding</guid>
+      <description>Without property or land to use as collateral, women trying to succeed in Kenya’s renewable energy industry often struggle to get funding from traditional financial institutions. Many are turning to crowdfunding as a faster and fairer way to raise capital.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180403115220/60000_19_1913621.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kenyan Men Join the Fight Against Gender-Based Violence</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Tue, 05 Dec 2017 11:25:05 +0000</pubDate>
+      <author>Justus Wanzala</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/12/05/kenyan-men-join-the-fight-against-gender-based-violence</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/12/05/kenyan-men-join-the-fight-against-gender-based-violence</guid>
+      <description>In the slums of Nairobi, male ‘agents of change’ are teaching men and boys how to prevent violence against women and girls in their communities. They tell News Deeply that the fight begins with challenging their own entrenched attitudes about gender. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171205112426/DSC01459.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

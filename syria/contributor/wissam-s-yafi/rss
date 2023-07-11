@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Wissam S. Yafi</title>
+    <description>Wissam S. Yafi is an expert in ICT, Education, and International Development. He is the author of several books, including Inevitable Democracy in the Arab World (Palgrave MacMillan, 2011), A Decade of Turmoil and Hope (Morisken-Verlag, 2013), and Institutionalizing National ICT Strategies (Harvard University, 2003). His organization, TidWiT, is currently re-digitizing the Syrian curriculum and launching online social learning initiatives to help the Syrian refugees through education. For more information on how you can help, please contact learning4syrianrefugees@tidwit.com.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/wissam-s-yafi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/wissam-s-yafi/rss"/>
+    <item>
+      <title>Using Technology to Help Educate Syrian Refugees</title>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
+      <author>Wissam S. Yafi</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/07/23/using-technology-to-help-educate-syrian-refugees</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/07/23/using-technology-to-help-educate-syrian-refugees</guid>
+      <description>The protracted civil war in Syria has caused a human catastrophe for that country and its immediate neighbors. </description>
+    </item>
+  </channel>
+</rss>

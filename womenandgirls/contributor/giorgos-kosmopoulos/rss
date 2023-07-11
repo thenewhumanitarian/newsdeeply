@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Giorgos Kosmopoulos</title>
+    <description>Giorgos Kosmopoulos is a  researcher on refugee and migrant rights at Amnesty International’s head office.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/giorgos-kosmopoulos/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/giorgos-kosmopoulos/rss"/>
+    <item>
+      <title>Refugee Women on Greek Islands in Constant Fear</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Mon, 06 Jun 2016 11:47:02 +0000</pubDate>
+      <author>Giorgos Kosmopoulos</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/06/06/refugee-women-on-greek-islands-in-constant-fear-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/06/06/refugee-women-on-greek-islands-in-constant-fear-2</guid>
+      <description>Amnesty International’s Giorgos Kosmopoulos highlights the risks that lone refugee women in transit camps on Greek islands face in the absence of protection – a basic tenet of international humanitarian law.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074418/Greece-Migrants.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Refugee Women on Greek Islands in Constant Fear</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 06 Jun 2016 11:29:14 +0000</pubDate>
+      <author>Giorgos Kosmopoulos</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/06/06/refugee-women-on-greek-islands-in-constant-fear</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/06/06/refugee-women-on-greek-islands-in-constant-fear</guid>
+      <description>Amnesty International’s Giorgos Kosmopoulos highlights the risks that lone refugee women in transit camps on Greek islands face in the absence of protection – a basic tenet of international humanitarian law.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160606111218/Greece-Migrants4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

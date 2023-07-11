@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Ban Ki-moon</title>
+    <description>Ban Ki-moon is Secretary-General of the United Nations.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ban-ki-moon/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ban-ki-moon/rss"/>
+    <item>
+      <title>Ban Ki-moon: Global Compact for Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 01 Jul 2016 09:48:57 +0000</pubDate>
+      <author>Ban Ki-moon</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/01/ban-ki-moon-global-compact-for-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/01/ban-ki-moon-global-compact-for-refugees</guid>
+      <description>Following a Brussels meeting with European leaders, United Nations secretary-general Ban Ki-moon appeals for a new global compact on responsibility-sharing and safe, orderly and regular migration for refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160701094813/UN-Turkey.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

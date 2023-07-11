@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Sarah Tory, Aspen Journalism</title>
+    <description>Sarah Tory is a freelance writer and a correspondent for High Country News.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/sarah-tory/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/sarah-tory/rss"/>
+    <item>
+      <title>First-of-a-Kind Agreement in Colorado Could Aid West’s Ailing Rivers</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Fri, 02 Feb 2018 03:00:00 +0000</pubDate>
+      <author>Sarah Tory, Aspen Journalism</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/02/02/first-of-a-kind-agreement-in-colorado-could-aid-wests-ailing-rivers</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/02/02/first-of-a-kind-agreement-in-colorado-could-aid-wests-ailing-rivers</guid>
+      <description>A plan developed by ranchers and the Colorado Water Trust to help keep water in the state’s Crystal River could have far-reaching implications in the West if the model proves successful.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180129071917/20140127105736_478_japp_20130811_0391..jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Water Managers Seek Certainty in Colorado Basin</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Fri, 20 Oct 2017 05:00:08 +0000</pubDate>
+      <author>Sarah Tory, Aspen Journalism</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/10/20/water-managers-seek-certainty-in-colorado-basin</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/10/20/water-managers-seek-certainty-in-colorado-basin</guid>
+      <description>After 16 years of drought along the Colorado River, water quantities and prices fluctuate wildly. Now cities that depend on the river are desperate for some water regularity.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171019090125/Raft-on-Colorado-River-in-Glenwood-Springs-1-1170x658.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

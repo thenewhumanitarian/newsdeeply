@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Joe Grindstaff</title>
+    <description>Joe Grindstaff is general manager of Inland Empire Utilities Agency.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/joe-grindstaff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/joe-grindstaff/rss"/>
+    <item>
+      <title>Building the Future of Water and Energy in California</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/energy/">Energy</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 23 Nov 2016 05:10:29 +0000</pubDate>
+      <author>Joe Grindstaff</author>
+      <link>https://www.newsdeeply.com/water/community/2016/11/23/building-the-future-of-water-and-energy-in-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/11/23/building-the-future-of-water-and-energy-in-california</guid>
+      <description>Inland Empire Utilities Agency has invested in renewable energy generation. Now, the agency is employing energy storage systems in order to meet its goal of going gridless by 2020, writes general manager Joe Grindstaff.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161122060236/IC-81.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

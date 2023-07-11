@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Valerie Brown</title>
+    <description>Valerie Brown is a writer based in Oregon.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/valerie-brown/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/valerie-brown/rss"/>
+    <item>
+      <title>U.S.-Canada Pact Eases Arctic Fears</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 21 Apr 2016 01:37:58 +0000</pubDate>
+      <author>Valerie Brown</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/21/u-s-canada-pact-eases-arctic-fears</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/21/u-s-canada-pact-eases-arctic-fears</guid>
+      <description>CLIMATE NEWS NETWORK: Low oil prices have reduced pressure to exploit Arctic fossil fuels and boosted hopes that the region’s fragile environment and indigenous people may be better protected.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160425233450/russia-oil-platform-5719110d86d4b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

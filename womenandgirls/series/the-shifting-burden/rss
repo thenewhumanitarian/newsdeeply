@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Shifting Burden</title>
+    <description>Features, analysis and in-depth reporting on women and girls’ issues – including health, education and conflict – as well as the people and groups working toward solutions.</description>
+    <link>https://www.newsdeeply.com/womenandgirls/series/the-shifting-burden/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/series/the-shifting-burden/rss"/>
+    <item>
+      <title>To Beat Breast Cancer, It Takes Cooperation and Courage</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Wed, 07 Sep 2016 12:04:35 +0000</pubDate>
+      <author>Victoria Wolodzko</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/09/07/to-beat-breast-cancer-it-takes-cooperation-and-courage</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/09/07/to-beat-breast-cancer-it-takes-cooperation-and-courage</guid>
+      <description>Plans and policies can help make cancer care available to everyone who needs it. But they will only work if organizations, experts and cancer survivors band together, writes Victoria Wolodzko of Susan G. Komen, in the final part of our series “The Shifting Burden.”</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073150/EGYPT-Breast-Cancer.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Crippling Cost of Breast Cancer in Kenya</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 01 Sep 2016 08:52:45 +0000</pubDate>
+      <author>Hannah McNeish</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/09/01/the-crippling-cost-of-breast-cancer-in-kenya</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/09/01/the-crippling-cost-of-breast-cancer-in-kenya</guid>
+      <description>In Kenya, both the privileged and the poor struggle to pay for breast cancer treatment. As part of our series “The Shifting Burden,” we look at the slow progress toward accessible care in a country where a mammogram costs more than an average month’s salary.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073200/Health-Overhaul-Troubled-Program.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>For Bangkok’s Poor, a Chance to Fight Breast Cancer With Dignity</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Wed, 31 Aug 2016 09:40:37 +0000</pubDate>
+      <author>Ruth Carr</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/08/31/for-bangkoks-poor-a-chance-to-fight-breast-cancer-with-dignity</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/08/31/for-bangkoks-poor-a-chance-to-fight-breast-cancer-with-dignity</guid>
+      <description>In Thailand, the cost of breast cancer care means many women never get the help they need. In the latest part of our series “The Shifting Burden,” we look at how one cancer center in Bangkok aims to give poorer women the same chances of survival as the privileged.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073204/QSCBC_Finola.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Breast Cancer: A Looming Epidemic in the Developing World</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Mon, 29 Aug 2016 10:43:12 +0000</pubDate>
+      <author>Eleanor Wragg</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/08/29/breast-cancer-a-looming-epidemic-in-the-developing-world</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/08/29/breast-cancer-a-looming-epidemic-in-the-developing-world</guid>
+      <description>Almost 70 percent of all breast cancer deaths now occur in low-income countries. In the first part of our series “The Shifting Burden,” we look at how community is key to tackling the disease in countries that are ill-prepared and underfunded.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073209/India-Breast-Cancer-Awareness.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

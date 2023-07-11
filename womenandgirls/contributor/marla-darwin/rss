@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Marla Darwin</title>
+    <description>Marla Darwin is a cofounder of Grrrl Gang Manila, a feminist collective that seeks to create safe, nonjudgmental spaces for women in the Philippines to discuss the issues that affect them. Grrrl Gang Manila has an ongoing campaign to lift the current temporary restraining order on the Reproductive Health Law. Marla is also a graphic designer and writer.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/marla-darwin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/marla-darwin/rss"/>
+    <item>
+      <title>How Safe Spaces Can Help Stop the Philippines’ Teen Pregnancy Crisis</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Mon, 25 Sep 2017 14:33:26 +0000</pubDate>
+      <author>Marla Darwin</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/09/25/how-safe-spaces-can-help-stop-the-philippines-teen-pregnancy-crisis</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/09/25/how-safe-spaces-can-help-stop-the-philippines-teen-pregnancy-crisis</guid>
+      <description>To tackle the rising pregnancy rates among Filipino teens, young women need places both online and in real life where they can discuss sex and their bodies without fear of judgment, says Marla Darwin, cofounder of Grrrl Gang Manila.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170925143045/73318e47-dd98-42b8-8718-4595b78aec28.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

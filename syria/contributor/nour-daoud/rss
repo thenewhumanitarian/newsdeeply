@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Nour Daoud</title>
+    <description>Nour Daoud is a senior-year electrical engineering student at the Illinois Institute of Technology.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/nour-daoud/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/nour-daoud/rss"/>
+    <item>
+      <title>“Education is the most powerful weapon:” My Journey to Illinois Institute of Technology</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      <author>Nour Daoud</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/05/26/education-is-the-most-powerful-weapon-my-journey-to-illinois-institute-of-technology</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/05/26/education-is-the-most-powerful-weapon-my-journey-to-illinois-institute-of-technology</guid>
+      <description>A week ago, four undergraduate students from Syria graduated from Illinios Tech as part of the Syrian student initiative​ launched with Jusoor and IIE in July 2012.</description>
+    </item>
+    <item>
+      <title>Undergraduate Research in Syria – A Call for Action</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Nour Daoud</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/10/undergraduate-research-in-syria-a-call-for-action</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/10/undergraduate-research-in-syria-a-call-for-action</guid>
+      <description>I am Nour Daoud, a Syrian student studying electrical engineering at the Illinois Institute of Technology (IIT), under the Jusoor scholarship.</description>
+    </item>
+  </channel>
+</rss>

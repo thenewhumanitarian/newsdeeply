@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Emily Burchfield</title>
+    <description>Emily Burchfield is a program assistant at the Atlantic Council’s Rafik Hariri Center for the Middle East.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/emily-burchfield/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/emily-burchfield/rss"/>
+    <item>
+      <title>Analysis: Washington Still Has Work to Do in Former ISIS Territories</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Wed, 04 Apr 2018 12:20:00 +0000</pubDate>
+      <author>Emily Burchfield</author>
+      <link>https://www.newsdeeply.com/syria/community/2018/04/04/analysis-washington-still-has-work-to-do-in-former-isis-territories</link>
+      <guid>https://www.newsdeeply.com/syria/community/2018/04/04/analysis-washington-still-has-work-to-do-in-former-isis-territories</guid>
+      <description>Before the U.S. pulls out of Syria, Washington needs to address a governance gap left in some former ISIS territories. Otherwise, marginalized Arab communities will likely ally with the Syrian government or extremist forces, writes Emily Burchfield of the Atlantic Council.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180404122734/AFP_1318S4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

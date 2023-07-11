@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Joe Parkin Daniels</title>
+    <description>Joe Parkin Daniels is a freelance journalist based in Bogota.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/joe-parkin-daniels/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/joe-parkin-daniels/rss"/>
+    <item>
+      <title>Colombia Militias, Venezuela’s Dire Economy Fuel Growing Border Crisis</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 18 Apr 2017 13:39:38 +0000</pubDate>
+      <author>Joe Parkin Daniels</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/04/18/colombia-militias-venezuelas-dire-economy-fuel-growing-border-crisis</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/04/18/colombia-militias-venezuelas-dire-economy-fuel-growing-border-crisis</guid>
+      <description>On the Colombia-Venezuela border, Joe Parkin Daniels reports on the increasing numbers of people fleeing both ways over the frequently closed border to escape humanitarian problems in each of the countries.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170418133704/VENEZUELA-ECONOMY-CRISIS-BORDER.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vote to Reject FARC Peace Deal Leaves Colombia’s Displaced in Limbo</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 12 Oct 2016 13:00:23 +0000</pubDate>
+      <author>Joe Parkin Daniels</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/12/vote-to-reject-farc-peace-deal-leaves-colombias-displaced-in-limbo</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/12/vote-to-reject-farc-peace-deal-leaves-colombias-displaced-in-limbo</guid>
+      <description>Millions of Colombians forced from their homes by civil war find their immediate hopes of return dashed by the referendum result. With a lengthy new round of negotiations now expected, compensation, clearance of landmines and settlement of land rights remain on hold.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161012125921/AP474135265298.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Even After Peace in Colombia, the Past Is Another Country</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 14 Sep 2016 10:00:48 +0000</pubDate>
+      <author>Joe Parkin Daniels</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/14/even-after-peace-in-colombia-the-past-is-another-country</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/14/even-after-peace-in-colombia-the-past-is-another-country</guid>
+      <description>The first in our series “Returnees” finds that peace has come too late for many among the nearly 7 million Colombians displaced by fighting from the fields into the city slums.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160914104945/Colombia-Peace-Accord.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

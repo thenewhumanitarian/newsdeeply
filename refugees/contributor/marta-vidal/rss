@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Marta Vidal</title>
+    <description>Marta Vidal is a freelance journalist based in the Middle East. She writes about human rights and social justice, and has reported on the refugee crisis across Europe and the Middle East. Follow her work at: www.martavidalmedia.com.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/marta-vidal/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/marta-vidal/rss"/>
+    <item>
+      <title>In Jordan, Some Refugee Fathers Find a Place to Be Vulnerable</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Tue, 26 Mar 2019 08:30:00 +0000</pubDate>
+      <author>Marta Vidal</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2019/03/26/in-jordan-some-refugee-fathers-find-a-place-to-be-vulnerable</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2019/03/26/in-jordan-some-refugee-fathers-find-a-place-to-be-vulnerable</guid>
+      <description>Humanitarian aid organizations tend to view men as more capable of coping with hardship and often overlook them as a vulnerable population of refugees, writes Marta Vidal. One group in Jordan is trying to change that.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190326082907/Men.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

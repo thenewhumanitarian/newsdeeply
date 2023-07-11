@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Sanna Camara</title>
+    <description>Sanna Camara is Gambian journalist who spent years in exile in Senegal before returning to The Gambia in 2017. He has been reporting on The Gambia for over 15 years.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/sanna-camara/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/sanna-camara/rss"/>
+    <item>
+      <title>Gambians Return to Their Homeland With Hopes of Reform</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Wed, 01 Feb 2017 10:32:59 +0000</pubDate>
+      <author>Preethi Nallu, Sanna Camara</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/02/01/gambians-return-to-their-homeland-with-hopes-of-reform</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/02/01/gambians-return-to-their-homeland-with-hopes-of-reform</guid>
+      <description>Thousands of Gambian refugees are returning from Senegal as the country’s new president pledges stability and reform. Exiled Gambian journalist Sanna Camara reports from the border region on the hopes of returning refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170201102501/Family-awaits-departure.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As Gambia’s Crisis Grows, Refugees Face Struggle for Asylum in Senegal</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 19 Jan 2017 13:26:24 +0000</pubDate>
+      <author>Sanna Camara</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/01/19/as-gambias-crisis-grows-refugees-face-struggle-for-asylum-in-senegal</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/01/19/as-gambias-crisis-grows-refugees-face-struggle-for-asylum-in-senegal</guid>
+      <description>Thousands of Gambians are fleeing to Senegal, fearing unrest in their country after President Yahya Jammeh refused to step down. Exiled Gambian journalist Sanna Camara writes of his dashed hopes of returning home and his concerns for fellow refugees in Senegal.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170119132538/Gambia-Crisis.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

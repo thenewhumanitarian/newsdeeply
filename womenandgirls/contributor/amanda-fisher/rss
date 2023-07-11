@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Amanda Fisher</title>
+    <description>Amanda Fisher is a journalist and photographer from New Zealand who has reported from around the world on humanitarian issues for outlets including Al Jazeera, Reuters and PRI.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/amanda-fisher/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/amanda-fisher/rss"/>
+    <item>
+      <title>How Kenyan Women Broke Their Silence on HIV and Escaped Poverty</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Wed, 21 Dec 2016 13:26:59 +0000</pubDate>
+      <author>Amanda Fisher</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/21/kenyan-women-broke-silence-hiv-escaped-poverty</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/21/kenyan-women-broke-silence-hiv-escaped-poverty</guid>
+      <description>Founded in a Kenyan slum, Women Against Stigma offers moral and financial support to HIV-positive women and encourages them to be open about their status as a way to help fight discrimination within their communities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072141/WAS-12.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

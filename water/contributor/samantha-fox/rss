@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Samantha Fox</title>
+    <description>Samantha Fox has 15 years of experience in data warehousing and business intelligence and is currently senior database developer for Ponderosa Advisors LLC, organizing water rights data for Water Sage, an interactive mapping application that integrates information about water rights, land ownership and relative priority. Learn more at WaterSage.com.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/samantha-fox/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/samantha-fox/rss"/>
+    <item>
+      <title>The Unintended Consequences of Groundwater Overpumping</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 03 May 2017 03:24:07 +0000</pubDate>
+      <author>Samantha Fox</author>
+      <link>https://www.newsdeeply.com/water/community/2017/05/03/the-unintended-consequences-of-groundwater-overpumping</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/05/03/the-unintended-consequences-of-groundwater-overpumping</guid>
+      <description>Overdrafting of aquifers can endanger not only water supplies but also crucial infrastructure. As communities work to implement new groundwater law requirements, available data can help, writes analyst Samantha Fox.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170503111948/California-Sinking-Central-Valley.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

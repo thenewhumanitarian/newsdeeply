@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Areeb Ullah</title>
+    <description>Areeb Ullah is a journalist for Middle East Eye and has previously written for the Guardian, Vice News and the Huffington Post.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/areeb-ullah/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/areeb-ullah/rss"/>
+    <item>
+      <title>Analysis: Strike on Syrian Base Likely Unrelated To Alleged Douma Gas Attack</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Mon, 09 Apr 2018 13:00:00 +0000</pubDate>
+      <author>Areeb Ullah</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/04/09/analysis-strike-on-syrian-base-likely-unrelated-to-alleged-douma-gas-attack</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/04/09/analysis-strike-on-syrian-base-likely-unrelated-to-alleged-douma-gas-attack</guid>
+      <description>The motives behind a suspected Israeli missile attack on a Syrian airbase have more to do with containing Iran than punishing the Syrian government for using chemical weapons, writes journalist Areeb Ullah.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180409125838/768762331.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Braving Bombs, Health Workers Struggle to Save Lives in Eastern Ghouta</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 22 Feb 2018 11:40:00 +0000</pubDate>
+      <author>Areeb Ullah</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/02/22/braving-bombs-health-workers-struggle-to-save-lives-in-eastern-ghouta</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/02/22/braving-bombs-health-workers-struggle-to-save-lives-in-eastern-ghouta</guid>
+      <description>The Syrian government has targeted a number of hospitals and medical clinics in East Ghouta recently, complicating attempts to provide life-saving care to the nearly 400,000 people trapped under bombardment, writes journalist Areeb Ullah.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180222114711/FtpTrial-AA_15102017_6171981.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Aleppo Hospitals Bombed, Trapping Dozens in Latest Airstrikes</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Wed, 28 Sep 2016 07:43:24 +0000</pubDate>
+      <author>Areeb Ullah</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/09/28/aleppo-hospitals-bombed-trapping-dozens-in-latest-airstrikes</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/09/28/aleppo-hospitals-bombed-trapping-dozens-in-latest-airstrikes</guid>
+      <description>An estimated 90 people are reportedly trapped in the basement of the M2 hospital on the eastern side of Aleppo, and the M10 hospital is “out of commission” after the latest violence in Syria’s largest city.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160928073909/SYRIA-CONFLICT2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

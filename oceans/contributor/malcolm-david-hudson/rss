@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Malcolm David Hudson</title>
+    <description>Malcolm Hudson is an academic at the University of Southampton who works on a range of environmentally related topics, including ecosystem services and management, conservation of wildlife, pollution monitoring and environmental impact assessment.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/malcolm-david-hudson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/malcolm-david-hudson/rss"/>
+    <item>
+      <title>Will the World Come Together to End Ocean Plastic Pollution? It Depends</title>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Mon, 01 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Malcolm David Hudson</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/01/01/will-the-world-come-together-to-end-ocean-plastic-pollution-it-depends</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/01/01/will-the-world-come-together-to-end-ocean-plastic-pollution-it-depends</guid>
+      <description>The global community has solved significant environment problems, such as the ozone hole, but has fallen far short on others. When it come to plastic pollution, environmental researcher Malcolm David Hudson asks, which way will the world go?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171226095957/32481016025_2dce5dcde0_o1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

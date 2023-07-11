@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Shena Cavallo</title>
+    <description>Shena Cavallo is a program officer for the International Women’s Health Coalition.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/shena-cavallo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/shena-cavallo/rss"/>
+    <item>
+      <title>It’s Not Just About a Mosquito: Changing the Conversation on Zika</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 27 Oct 2016 11:02:37 +0000</pubDate>
+      <author>Shena Cavallo</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/10/27/not-just-mosquito-changing-conversation-zika</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/10/27/not-just-mosquito-changing-conversation-zika</guid>
+      <description>Shena Cavallo, a program officer for the International Women’s Health Coalition, recently travelled to the epicenter of the Zika epidemic in northeastern Brazil. There, she discovered that women’s health and rights are the burning issues of the day.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072322/Brazil-Zika-Moms.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

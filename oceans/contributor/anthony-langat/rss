@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Anthony Langat</title>
+    <description>Anthony Langat is a freelance journalist based in Nairobi, Kenya. He writes on environment, climate change, human rights, development and aid from East Africa. He has contributed to Al Jazeera, Thomson Reuters Foundation and the Guardian, among others.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/anthony-langat/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/anthony-langat/rss"/>
+    <item>
+      <title>Meet the Small Fishing Community Regrowing Coral Reefs in Kenya</title>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Thu, 31 May 2018 08:10:00 +0000</pubDate>
+      <author>Anthony Langat</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/05/31/meet-the-small-fishing-community-regrowing-coral-reefs-in-kenya</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/05/31/meet-the-small-fishing-community-regrowing-coral-reefs-in-kenya</guid>
+      <description>As fishers on Wasini Island began seeing the effects of coral ecosystem degradation, including declining catches, they revived an age-old tradition of conservation to replant and protect their reef.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180531080408/Picture-2-shows-community-involved-in-rehabilitation-techniques-and-implementing-coral-gardening-concept.-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Lisa Gregoire</title>
+    <description>Lisa Gregoire is assistant editor with Nunatsiaq News, Nunavut’s territorial newspaper.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/lisa-gregoire/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/lisa-gregoire/rss"/>
+    <item>
+      <title>Arctic Food: Window to the Past, Key to the Future</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 04 Aug 2017 03:00:14 +0000</pubDate>
+      <author>Lisa Gregoire</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/08/04/arctic-food-window-to-the-past-key-to-the-future</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/08/04/arctic-food-window-to-the-past-key-to-the-future</guid>
+      <description>NUNATSIAQ NEWS: Circumpolar food culture could be key to ensuring Indigenous northern peoples’ survival, so the Arctic Council has prepared a compendium to help capture this traditional knowledge.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170803080737/reindeer_herd_d.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

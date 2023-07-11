@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Adam Bemma</title>
+    <description>Adam Bemma is a Canadian freelance journalist and media development adviser living in Thailand. He previously lived and worked for five years in East Africa and East Asia.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/adam-bemma/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/adam-bemma/rss"/>
+    <item>
+      <title>Refugees in Indonesia Told to Assimilate but Not Settle</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Fri, 09 Feb 2018 12:00:00 +0000</pubDate>
+      <author>Adam Bemma</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/02/09/refugees-in-indonesia-told-to-assimilate-but-not-settle</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/02/09/refugees-in-indonesia-told-to-assimilate-but-not-settle</guid>
+      <description>As the route to Australia has shut, Indonesia is making a reluctant and contradictory switch from being a transit country. But refugees there often face a struggle to survive.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180209121043/FtpTrial-AA_19122017_6619911.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

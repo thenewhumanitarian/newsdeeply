@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Aya Hasan</title>
+    <description>Aya Hasan is a contributor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/aya-hasan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/aya-hasan/rss"/>
+    <item>
+      <title>In Hameh, a Snapshot of Life After a Cease-fire</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      <author>Aya Hasan</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/02/10/in-hameh-a-snapshot-of-life-after-a-cease-fire</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/02/10/in-hameh-a-snapshot-of-life-after-a-cease-fire</guid>
+      <description>The civilians’ situation was terrible. Our appeals to save the area were not heard, and we suffered from a severe food shortage.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114753/babila2-54da6148c76d3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

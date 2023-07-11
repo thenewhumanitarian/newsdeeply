@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Mariam Aboubakar Esperance</title>
+    <description>Mariam Aboubakar Esperance is a reporter with Global Press in the Democratic Republic of Congo.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/mariam-aboubakar-esperance/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/mariam-aboubakar-esperance/rss"/>
+    <item>
+      <title>DRC Hospital Holds New Mothers Until They Pay Delivery Costs</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 20 Apr 2017 13:51:05 +0000</pubDate>
+      <author>Mariam Aboubakar Esperance</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/04/20/drc-hospital-holds-new-mothers-until-they-pay-delivery-costs</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/04/20/drc-hospital-holds-new-mothers-until-they-pay-delivery-costs</guid>
+      <description>Hospitals in the city of Goma can handle the costs of natural childbirths. But mothers who have Cesarean deliveries or whose newborns need intensive care can incur higher bills – and one hospital won’t let them go home until they can pay.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170420134808/GP_DRC-delivery.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

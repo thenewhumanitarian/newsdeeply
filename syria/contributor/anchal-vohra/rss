@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Anchal Vohra</title>
+    <description>Anchal Vohra is a journalist based in Beirut covering the Middle East. She writes for Deutsche Welle, foreign policy, Berlin policy review and several publications in India.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/anchal-vohra/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/anchal-vohra/rss"/>
+    <item>
+      <title>Analysis: In South Syria, All Roads Lead Back to the Arab-Israeli Conflict</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Mon, 12 Feb 2018 12:00:00 +0000</pubDate>
+      <author>Anchal Vohra</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/02/12/analysis-in-south-syria-all-roads-lead-back-to-the-arab-israeli-conflict</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/02/12/analysis-in-south-syria-all-roads-lead-back-to-the-arab-israeli-conflict</guid>
+      <description>The recent uptick in clashes between Israel, Iran and Syria risks circling the conflict back to decades-old hostilities between Damascus and Tel Aviv in battles over the Golan Heights.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180212120000/AFP_ZB1P91.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Back Home in Homs: Challenges Facing Returnees to Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 09 Nov 2017 12:40:48 +0000</pubDate>
+      <author>Anchal Vohra</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/11/09/back-home-in-homs-challenges-facing-returnees-to-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/11/09/back-home-in-homs-challenges-facing-returnees-to-syria</guid>
+      <description>For many Syrians displaced from Homs over six years of war, going home means facing a gap in public services, the absence of social and economic support systems and security risks. Many who have returned have found debris where their houses once stood.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171109124034/AFP_TU03A.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

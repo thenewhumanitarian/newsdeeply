@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Steven Davidson</title>
+    <description>Steven Davidson is a freelance journalist based in the Middle East. His work has appeared in the Forward, the Times of Israel, Haaretz, Salon, and +972 magazine, among others. You can find him on Twitter @sdavidson169
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/steven-davidson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/steven-davidson/rss"/>
+    <item>
+      <title>Israel’s ‘Deposit Law’ Is Pushing Asylum Seekers to Financial Ruin</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 31 Jan 2019 08:30:00 +0000</pubDate>
+      <author>Steven Davidson</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2019/01/31/israels-deposit-law-is-pushing-asylum-seekers-to-financial-ruin</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2019/01/31/israels-deposit-law-is-pushing-asylum-seekers-to-financial-ruin</guid>
+      <description>An Israeli law enacted in mid-2017 amounts to a de facto salary cut for African asylum seekers, plunging the community into a financial crisis, reports Steven Davidson.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190131082325/African_refugees_in_Israel_4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Robert Kibet</title>
+    <description>Robert Kibet is a freelance development journalist based in Nairobi, Kenya. He has written for the Guardian UK, IPS, IRIN, IDN, Kenya London News and African Confidential.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/robert-kibet/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/robert-kibet/rss"/>
+    <item>
+      <title>Solar-Powered Pineapples: A Lifeline for Women Thrown Off Their Land</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Fri, 10 Aug 2018 12:00:00 +0000</pubDate>
+      <author>Robert Kibet</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/08/10/solar-powered-pineapples-a-lifeline-for-women-thrown-off-their-land</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/08/10/solar-powered-pineapples-a-lifeline-for-women-thrown-off-their-land</guid>
+      <description>In rural Kenya, the Waata people were displaced by the creation of a national park. But solar-dried pineapples have offered a lifeline to women who had struggled to make a living from farming in the past.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180810120224/Photo-00091.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Female Candidates Face Violence and Abuse Ahead of Kenyan Election</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 17 Jul 2017 11:37:23 +0000</pubDate>
+      <author>Robert Kibet</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/07/17/female-candidates-face-violence-and-abuse-ahead-of-kenyan-election</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/07/17/female-candidates-face-violence-and-abuse-ahead-of-kenyan-election</guid>
+      <description>Kenyan women running for election on August 8 face harassment, abuse and even violence. But they say they won’t be intimidated in their campaign to see women elected to all levels of power.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170717113622/KENYA-UNREST-INFLATION-POVERTY-FOOD.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Women Missing Out on Africa’s Tourism Boom: U.N. Report</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Mon, 10 Jul 2017 13:05:21 +0000</pubDate>
+      <author>Robert Kibet</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/07/10/women-missing-out-on-africas-tourism-boom-u-n-report</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/07/10/women-missing-out-on-africas-tourism-boom-u-n-report</guid>
+      <description>Tourism to Africa is set to jump to 134 million visitors by 2030. But the majority of high-earning jobs in the industry are held by men, a new report from the U.N.’s trade and development body has found.   </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170710130227/SHA-17-0121.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

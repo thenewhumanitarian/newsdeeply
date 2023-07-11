@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Anne Steele</title>
+    <description>Anne Steele is a Staff Writer for Christian Science Monitor
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/anne-steele/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/anne-steele/rss"/>
+    <item>
+      <title>Christian Science Monitor:  Woman Uses Hidden Camera to Expose Life under Islamic State</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      <author>Anne Steele</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/09/26/christian-science-monitor-woman-uses-hidden-camera-to-expose-life-under-islamic-state</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/09/26/christian-science-monitor-woman-uses-hidden-camera-to-expose-life-under-islamic-state</guid>
+      <description>A Syrian woman walked the streets of Raqqa with a camera hidden in her niqab. The video offers a rare glimpse of what life is like in the IS stronghold, where the group has imposed a radical interpretation of Islamic law.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171212060542/SD_lite14.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

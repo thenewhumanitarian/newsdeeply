@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Fadi Al Dairi</title>
+    <description>Fadi Al Dairi is the Syria Country Director for Hand in Hand.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/fadi-al-dairi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/fadi-al-dairi/rss"/>
+    <item>
+      <title>The Story of Kfr Nobol Hospital: ‘41 Minutes of Hell’</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Fri, 09 Feb 2018 05:00:00 +0000</pubDate>
+      <author>Fadi Al Dairi</author>
+      <link>https://www.newsdeeply.com/syria/community/2018/02/09/the-story-of-kfr-nobol-hospital-41-minutes-of-hell</link>
+      <guid>https://www.newsdeeply.com/syria/community/2018/02/09/the-story-of-kfr-nobol-hospital-41-minutes-of-hell</guid>
+      <description>After the first airstrike hit near the hospital, those inside knew they would soon be targeted, writes Fadi Al Dairi, the Syria country director for Hand in Hand. The next 41 minutes were ones of fear.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180209050253/hand-in-hand1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

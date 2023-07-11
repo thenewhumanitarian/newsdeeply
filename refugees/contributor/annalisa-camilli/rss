@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Annalisa Camilli</title>
+    <description>Annalisa Camilli is a journalist at Internazionale, covering migration in Italy and Greece. She tweets @annalisacamilli.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/annalisa-camilli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/annalisa-camilli/rss"/>
+    <item>
+      <title>Dodging Death Along the Alpine Migrant Passage</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 25 Jan 2018 12:10:00 +0000</pubDate>
+      <author>Annalisa Camilli</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/01/25/dodging-death-along-the-alpine-migrant-passage</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/01/25/dodging-death-along-the-alpine-migrant-passage</guid>
+      <description>Along the dangerous Alpine route from Italy to France, Annalisa Camilli of Internazionale meets young migrants desperate to reach northern Europe, and the local volunteers trying to make sure their villages are not another deadly stop on the migration trail.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180125121236/AFP_WI3DZ1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

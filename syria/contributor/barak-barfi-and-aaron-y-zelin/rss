@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Barak Barfi and Aaron Y. Zelin</title>
+    <description>Barak Barfi is a research fellow at the New America Foundation. Aaron Y. Zelin is the Richard Borow fellow at the Washington Institute for Near East Policy and a Ph.D. candidate at King’s College London.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/barak-barfi-and-aaron-y-zelin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/barak-barfi-and-aaron-y-zelin/rss"/>
+    <item>
+      <title>Al Qaeda’s Syrian Strategy</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Barak Barfi and Aaron Y. Zelin</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/15/al-qaedas-syrian-strategy</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/15/al-qaedas-syrian-strategy</guid>
+      <description>Al Qaeda is storming across northern Syria. Last month, the al Qaeda affiliate the Islamic State of Iraq and al-Sham (ISIS) captured the city of al-Bab in the northern province of Aleppo from a rival rebel militia.</description>
+    </item>
+  </channel>
+</rss>

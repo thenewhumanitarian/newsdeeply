@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Jason Baumsteiger</title>
+    <description> 
+Jason Baumsteiger is a Center for Watershed Sciences post-doctoral research fellow with Drs. Peter Moyle and Mike Miller. Peter Moyle is a U.C. Davis professor emeritus of fish biology and an associate director of the Center for Watershed Sciences.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/jason-baumsteiger/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/jason-baumsteiger/rss"/>
+    <item>
+      <title>Why Should You Care About Native Freshwater Fish?</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Jason Baumsteiger</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/01/28/why-should-you-care-about-native-freshwater-fish</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/01/28/why-should-you-care-about-native-freshwater-fish</guid>
+      <description>For species like salmon and trout, the benefits to humans are straightforward. But what of the many less charismatic species that naturally occur in California? Do they matter? New research suggests they do. Here’s why.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102307/ec9ed36e-7ef1-41a5-8d9f-adca42-56aa002cee052.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

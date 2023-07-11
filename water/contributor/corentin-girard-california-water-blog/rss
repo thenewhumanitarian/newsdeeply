@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Corentin Girard, California Water Blog</title>
+    <description>Corentin Girard is a postdoctoral researcher at the Universitat Politecnica de Valencia in Spain and visiting scholar at U.C. Davis Center for Watershed Sciences.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/corentin-girard-california-water-blog/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/corentin-girard-california-water-blog/rss"/>
+    <item>
+      <title>What We Can Learn About How the French Manage Groundwater</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 03 Aug 2016 07:59:33 +0000</pubDate>
+      <author>Corentin Girard, California Water Blog</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/08/03/what-we-can-learn-about-how-the-french-manage-groundwater</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/08/03/what-we-can-learn-about-how-the-french-manage-groundwater</guid>
+      <description>Both California and France have recently shifted to more local control of groundwater. There are key differences between the two laws, but both offer opportunities for better understanding of collective groundwater management.   </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160803075632/Desert-Water-Wars.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

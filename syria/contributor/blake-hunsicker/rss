@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Blake Hunsicker</title>
+    <description>Blake Hunsicker is a News Deeply Fellow.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/blake-hunsicker/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/blake-hunsicker/rss"/>
+    <item>
+      <title>Conversations: A Jihadi, Praising Jabhat al-Nusra</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <author>Blake Hunsicker</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/01/28/conversations-a-jihadi-praising-jabhat-al-nusra</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/01/28/conversations-a-jihadi-praising-jabhat-al-nusra</guid>
+      <description>Mohammad, a jihadi rebel from northern Syria, is describing his wedding night. His family had insisted on a non-religious ceremony. At the reception, just as his relatives began to dance and celebrate, he went home.</description>
+    </item>
+    <item>
+      <title>Homeless Syrians in Southern Turkey Wait for Relocation</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Blake Hunsicker</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/12/10/homeless-syrians-in-southern-turkey-wait-for-relocation</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/12/10/homeless-syrians-in-southern-turkey-wait-for-relocation</guid>
+      <description>Earlier this month, Turkish authorities moved 65 refugee families from a makeshift camp in a parking lot to a government-run refugee camp outside of Gaziantep.</description>
+    </item>
+  </channel>
+</rss>

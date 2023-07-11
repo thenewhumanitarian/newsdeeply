@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Cynthia Sleiman</title>
+    <description>Cynthia Sleiman is a child protection specialist in Beirut, Lebanon.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/cynthia-sleiman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/cynthia-sleiman/rss"/>
+    <item>
+      <title>What I Learned From Beirut’s Syrian Refugee ‘Street Children’</title>
+      <pubDate>Mon, 18 Mar 2019 10:00:52 +0000</pubDate>
+      <author>Cynthia Sleiman</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2019/03/18/what-i-learned-from-beiruts-syrian-refugee-street-children</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2019/03/18/what-i-learned-from-beiruts-syrian-refugee-street-children</guid>
+      <description>Beirut’s Syrian refugee street children are not thieves, nor are they criminals, writes child protection specialist Cynthia Sleiman. Despite their hardships, they can be incredibly compassionate, and have hopes and fears just like everyone else.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190318093408/MAIN_Beggars-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

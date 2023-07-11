@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Erik Porse</title>
+    <description>Erik Porse is a research engineer in the Office of Water Programs at CSU-Sacramento and a visiting assistant researcher at the University of California, Los Angeles.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/erik-porse/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/erik-porse/rss"/>
+    <item>
+      <title>How Much Water Should California Cities Use? New Data Could Help</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Thu, 17 May 2018 03:00:00 +0000</pubDate>
+      <author>Erik Porse</author>
+      <link>https://www.newsdeeply.com/water/community/2018/05/17/how-much-water-should-california-cities-use-new-data-could-help</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/05/17/how-much-water-should-california-cities-use-new-data-could-help</guid>
+      <description>California has learned a lot since the last drought about how much water urban areas are using, but research engineer Erik Porse examines whether it can help answer the complex question about how much water should be used.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180516014730/FL_Caltrans_Sign-71251.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Los Angeles and the Future of Urban Water in California</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 26 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Erik Porse</author>
+      <link>https://www.newsdeeply.com/water/community/2018/01/26/los-angeles-and-the-future-of-urban-water-in-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/01/26/los-angeles-and-the-future-of-urban-water-in-california</guid>
+      <description>Lessons water managers have learned developing local supplies for Los Angeles could help influence the future of urban water management throughout the West, writes research engineer Erik Porse.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180125084424/JRC_Los_Angeles_Hollywood-41.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

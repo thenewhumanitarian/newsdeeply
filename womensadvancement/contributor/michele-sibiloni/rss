@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Michele Sibiloni</title>
+    <description>Michele Sibiloni is an Italian photographer and videographer living between Italy and Uganda. His work has appeared in the New York Times, Vice, The Wall Street Journal and Wired among others.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/michele-sibiloni/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/michele-sibiloni/rss"/>
+    <item>
+      <title>The Ugandan Sanitary Pad Factory Keeping Girls in School</title>
+      <pubDate>Wed, 17 Oct 2018 12:30:00 +0000</pubDate>
+      <author>Michele Sibiloni</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/10/17/the-ugandan-sanitary-pad-factory-keeping-girls-in-school</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/10/17/the-ugandan-sanitary-pad-factory-keeping-girls-in-school</guid>
+      <description>A factory in the Ugandan capital, Kampala, is helping keep girls in school by producing cheap, reusable sanitary pads. By teaming up with NGOs, they’ve been able to distribute them to thousands of girls.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181018072009/UgandaSanitaryPad.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

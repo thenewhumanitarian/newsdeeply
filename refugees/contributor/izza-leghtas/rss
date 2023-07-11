@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Izza Leghtas</title>
+    <description>Izza Leghtas is a senior advocate at Refugees International in Washington, D.C.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/izza-leghtas/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/izza-leghtas/rss"/>
+    <item>
+      <title>We Need to Help Jordan’s Other Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 11 Oct 2018 14:00:00 +0000</pubDate>
+      <author>Dina Baslan, Izza Leghtas</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/10/11/we-need-to-help-jordans-other-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/10/11/we-need-to-help-jordans-other-refugees</guid>
+      <description>Help for refugees in Jordan is focused almost exclusively on Syrians. Researchers Izza Leghtas and Dina Baslan make a plea for Yemenis, Somalis and Sudanese not to be forgotten.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181011135406/Jordan1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

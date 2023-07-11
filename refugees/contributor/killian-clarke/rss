@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Killian Clarke</title>
+    <description>Killian Clarke is a PhD candidate in Politics at Princeton University.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/killian-clarke/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/killian-clarke/rss"/>
+    <item>
+      <title>Informal Syrian Refugee Initiatives Need Support</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Fri, 29 Apr 2016 07:34:23 +0000</pubDate>
+      <author>Killian Clarke</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/04/29/informal-syrian-refugee-initiatives-need-support</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/04/29/informal-syrian-refugee-initiatives-need-support</guid>
+      <description>Many informal Syrian associations are bringing relief, aid and social support to refugees. And yet, despite understanding refugees’ needs better than anyone, they face significant operating hurdles. The humanitarian community should do more to help.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160429072732/Turkey-Syrian-Refugees.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

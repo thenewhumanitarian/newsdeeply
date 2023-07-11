@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Theodore Karasik</title>
+    <description>Dr. Theodore Karasik is an adjunct fellow of the Lexington Institute.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/theodore-karasik/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/theodore-karasik/rss"/>
+    <item>
+      <title>The Pivot to the Arctic: Implications for the Gulf Cooperation Council</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/energy-natural-resources/">Energy &amp; Natural Resources</category>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <pubDate>Mon, 27 Mar 2017 09:21:55 +0000</pubDate>
+      <author>Alexander Murinson, Theodore Karasik</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/03/27/the-pivot-to-the-arctic-implications-for-the-gulf-cooperation-council</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/03/27/the-pivot-to-the-arctic-implications-for-the-gulf-cooperation-council</guid>
+      <description>The Arctic is of growing geopolitical importance, and not just for Arctic nations. The interests of the monarchies of the Arabian Peninsula are also at play, say Theodore Karasik of the Lexington Institute and Alexander Murinson of NATO Defense College.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170327092142/2888731.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Samuel Okiror</title>
+    <description>A freelance journalist based in Kampala, Uganda.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/samuel-okiror/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/samuel-okiror/rss"/>
+    <item>
+      <title>Analysis: South Sudan’s Power-Sharing Agreement</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/transitional-justice-negotiations/">Transitional Justice &amp; Negotiations</category>
+      <pubDate>Mon, 20 Aug 2018 11:30:00 +0000</pubDate>
+      <author>Samuel Okiror</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/08/20/analysis-south-sudans-power-sharing-agreement</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/08/20/analysis-south-sudans-power-sharing-agreement</guid>
+      <description>The leaders of South Sudan’s warring parties signed a final power-sharing agreement this month, but it remains unclear whether the deal will guarantee long-term stability in the country, journalist Samuel Okiror writes for IRIN news.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180820114734/AFP_17C6WR1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Stephan Schott</title>
+    <description>Stephan Schott is a professor in the School of Public Policy and Administration at Carleton University, with a background in natural resource and environmental economics. He is currently a principal investigator on Arctic research projects on food security and sustainable fisheries, and mining, local business and human development.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/stephan-schott/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/stephan-schott/rss"/>
+    <item>
+      <title>Economic Development and the Future of Mining in the Canadian North</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <pubDate>Tue, 16 Aug 2016 06:08:35 +0000</pubDate>
+      <author>Stephan Schott</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/08/16/economic-development-and-the-future-of-mining-in-the-canadian-north</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/08/16/economic-development-and-the-future-of-mining-in-the-canadian-north</guid>
+      <description>The extraction of natural resources – oil, gas, minerals – has a central role in many Northern economies. But with dwindling interest in these industries in the Canadian Arctic, what might a post-extractive economy look like?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160816091551/Ekati_mine_640px.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

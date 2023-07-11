@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Sarah Friedmann, Passblue</title>
+    <description>Sarah Friedmann is an American writer and researcher based in Kenya. She previously worked as a research for PAI, the women’s reproductive health and rights organization in Washington, D.C., and for the Georgetown Institute for Women, Peace and Security in Washington. She was also a fellow in the gender office and the media office for the UN Development Program in Kosovo. Friedmann has a master’s in foreign service from Georgetown University and a B.A. with honors from Baldwin-Wallace College in Berea, Ohio.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/sarah-friedmann-passblue/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/sarah-friedmann-passblue/rss"/>
+    <item>
+      <title>Using Data to Link the Status of Women to Peace and Security</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/data-peace/">Data &amp; Peace</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/women-peace/">Women &amp; Peace</category>
+      <pubDate>Fri, 20 Jul 2018 16:00:00 +0000</pubDate>
+      <author>Sarah Friedmann, Passblue</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/07/20/using-data-to-link-the-status-of-women-to-peace-and-security</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/07/20/using-data-to-link-the-status-of-women-to-peace-and-security</guid>
+      <description>Researchers and investigators at WomanStats have created one of the most comprehensive databases on the status of women around the world, and are assessing how these data points can help explain the behavior and security of a state.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180720151417/AFP_TP2FX1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

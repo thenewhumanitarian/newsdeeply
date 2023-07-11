@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Humans of Syria</title>
+    <description>Humans of Syria is our effort to introduce you to the people of Syria: a project to document and publish stories from beyond the battle lines, down to the details that make us human. Stories of daily life, and survival; hardship and hope.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/humans-of-syria/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/humans-of-syria/rss"/>
+    <item>
+      <title>Syrian Universities: A Lost Generation</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <author>Humans of Syria</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/06/12/syrian-universities-a-lost-generation</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/06/12/syrian-universities-a-lost-generation</guid>
+      <description>Humans of Syria highlights stories from a generation of Syrian youth who have had to abandon their dreams of higher education.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114615/hos11-557ac58bb5c29.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

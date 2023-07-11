@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Luke Dennison</title>
+    <description>Luke Dennison is a photojournalist based in Michigan, covering conflict and humanitarian crisis abroad.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/luke-dennison/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/luke-dennison/rss"/>
+    <item>
+      <title>DRC Rape Survivors Take on Stigma Through Starting Their Own Businesses</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <pubDate>Tue, 26 Jun 2018 16:00:00 +0000</pubDate>
+      <author>Luke Dennison</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/06/26/drc-rape-survivors-take-on-stigma-through-starting-their-own-businesses</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/06/26/drc-rape-survivors-take-on-stigma-through-starting-their-own-businesses</guid>
+      <description>Sexual assault survivors are heavily stigmatized in the Democratic Republic of Congo. But by starting up their own small businesses, some women have been able to reintegrate into their communities, and feed their families.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180626175154/MAPENDO11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

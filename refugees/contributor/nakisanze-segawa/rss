@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Nakisanze Segawa</title>
+    <description>Nakisanze Segawa is a Luganda performance poet and fiction writer. She has reported on politics, health environment and culture.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/nakisanze-segawa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/nakisanze-segawa/rss"/>
+    <item>
+      <title>Ugandans Who Returned After War Now Battle Over Ownership of Land</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 03 Nov 2017 03:10:46 +0000</pubDate>
+      <author>Nakisanze Segawa</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/11/03/ugandans-who-returned-after-war-now-battle-over-ownership-of-land</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/11/03/ugandans-who-returned-after-war-now-battle-over-ownership-of-land</guid>
+      <description>Nearly 2 million Ugandans were displaced in the country’s civil war. Most have returned home in the past decade, but many are finding it hard to prove their lands belong to them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171102125239/GP-News-Uganda-NS-Land-Fraud-photo-023_Web_L.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Uganda Lifts Ban on Emigrants Working in Jordan and Saudi Arabia</title>
+      <category domain="https://www.newsdeeply.com/refugees/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Tue, 27 Jun 2017 09:22:29 +0000</pubDate>
+      <author>Nakisanze Segawa</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/06/27/uganda-lifts-ban-on-emigrants-working-in-jordan-and-saudi-arabia</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/06/27/uganda-lifts-ban-on-emigrants-working-in-jordan-and-saudi-arabia</guid>
+      <description>Uganda has partially lifted a ban on citizens working as domestic workers in the Middle East, which was implemented in 2016 after reports of abuse. The government says increased supervision will lead to safer working conditions, but some say the measures are not enough.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170627092112/GPJ-News-Uganda-Maid-recruitment-Photo-032_web_L.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

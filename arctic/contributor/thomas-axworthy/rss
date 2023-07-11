@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Thomas Axworthy</title>
+    <description>Thomas S. Axworthy is Public Policy Chair at Massey College, University of Toronto.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/thomas-axworthy/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/thomas-axworthy/rss"/>
+    <item>
+      <title>The North Could be Trudeau’s Policy Sweet Spot</title>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Thomas Axworthy</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/02/24/the-north-could-be-trudeaus-policy-sweet-spot</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/02/24/the-north-could-be-trudeaus-policy-sweet-spot</guid>
+      <description>During Justin Trudeau’s election campaign and his first 100 days in government, four themes have emerged – infrastructure investment, reconciliation with First Nations, Metis and the Inuit, climate change, and multilateral engagement in foreign policy – areas that converge in the North.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094442/bb60a2fa-3385-4329-8bb8-ad4a8e-56d08776f3286.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

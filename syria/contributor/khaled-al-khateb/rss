@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Khaled Al-Khateb</title>
+    <description>Khaled al-Khateb is a Syrian journalist and former lecturer in the Geography Department of the University of Aleppo.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/khaled-al-khateb/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/khaled-al-khateb/rss"/>
+    <item>
+      <title>The Troubling Triumvirate Ruling Over Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Fri, 24 Nov 2017 03:00:25 +0000</pubDate>
+      <author>Khaled Al-Khateb</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/11/24/the-troubling-triumvirate-ruling-over-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/11/24/the-troubling-triumvirate-ruling-over-aleppo</guid>
+      <description>Almost one year after rebels retreated from Aleppo, the northern Syrian city is now at the mercy of security services, pro-government militias and the Baath party, who are doing little to improve living conditions, writes Syrian journalist Khaled Al-Khateb.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171122124047/AFP_UB73G.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

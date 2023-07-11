@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Rachel Cernansky</title>
+    <description>Rachel Cernansky is a freelance journalist who covers health, environment and poverty and development. She is based in Colorado.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/rachel-cernansky/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/rachel-cernansky/rss"/>
+    <item>
+      <title>E.U. Looks to Stop Plastic Trash Before it Pollutes the Mediterranean</title>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Tue, 19 Dec 2017 03:00:14 +0000</pubDate>
+      <author>Rachel Cernansky</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/12/19/e-u-looks-to-stop-plastic-trash-before-it-pollutes-the-mediterranean</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/12/19/e-u-looks-to-stop-plastic-trash-before-it-pollutes-the-mediterranean</guid>
+      <description>The Mediterranean and Baltic Seas harbor some of the highest levels of plastic pollution in the world. A new EU-financed collaboration between universities and companies will develop technologies for wastewater treatment plants and waterways that can stop the flow.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171218072711/AFP_JZ0571.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

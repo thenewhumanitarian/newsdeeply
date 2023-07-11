@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Benard Kimani</title>
+    <description>Benard Kimani is an award-winning freelance journalist based in Nairobi, Kenya. He has published widely in both local and international media outlets, covering a wide range of topics such as the environment, women’s land rights, governance and health.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/benard-kimani/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/benard-kimani/rss"/>
+    <item>
+      <title>Kenyan Women Pooling Their Cash to Become Landlords</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 03 Jul 2018 13:20:00 +0000</pubDate>
+      <author>Benard Kimani</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/03/kenyan-women-pooling-their-cash-to-become-landlords</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/03/kenyan-women-pooling-their-cash-to-become-landlords</guid>
+      <description>Most women’s savings groups focus on small-scale ventures, but the Murang’a County Women SACCO wanted to think bigger. So they built an apartment block to house students, defying the financial and cultural obstacles that stop so many women from owning land in Kenya.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180703132044/women-landlords1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

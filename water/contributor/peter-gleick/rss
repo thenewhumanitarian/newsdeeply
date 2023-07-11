@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Peter Gleick</title>
+    <description>Peter Gleick is president emeritus and chief scientist of the Pacific Institute in Oakland.
+ 
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/peter-gleick/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/peter-gleick/rss"/>
+    <item>
+      <title>Wishful Thinking Won’t End California’s Drought</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 11 Aug 2016 13:00:24 +0000</pubDate>
+      <author>Peter Gleick</author>
+      <link>https://www.newsdeeply.com/water/community/2016/08/11/wishful-thinking-wont-end-californias-drought</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/08/11/wishful-thinking-wont-end-californias-drought</guid>
+      <description>After more than four years of drought, Californians may be tired of hearing about their water problems, but the state still faces a future where water stress is likely to be a permanent problem, writes Peter Gleick of the Pacific Institute.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160810105421/California-Drought16.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

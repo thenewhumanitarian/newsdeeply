@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Laura Secorun</title>
+    <description>Laura Secorun is an independent journalist obsessed with borders and everything that crosses them. Born in Barcelona, based in Nairobi, she writes about development, migration and human trafficking in East Africa. Her work appears regularly in Newsweek, The Guardian, Slate, Fortune and others.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/laura-secorun/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/laura-secorun/rss"/>
+    <item>
+      <title>In Lebanon, a Controversial Approach to Ending Domestic Worker Abuse</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/unpaid-domestic-and-care-work/">Unpaid Domestic and Care Work</category>
+      <pubDate>Tue, 15 May 2018 12:10:00 +0000</pubDate>
+      <author>Laura Secorun</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/05/15/in-lebanon-a-controversial-approach-to-ending-domestic-worker-abuse</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/05/15/in-lebanon-a-controversial-approach-to-ending-domestic-worker-abuse</guid>
+      <description>A company in Lebanon hopes to reduce the potential for abuse of foreign domestic workers by improving relationships with their employers. But migrant advocates say this won’t fix the problem in a country where two domestic workers commit suicide every week.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180515121116/28576280_334580940282115_227479205727167954_n.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Three Ways Women with Disabilities Are Getting Ahead in Uganda</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Mon, 30 Apr 2018 11:30:00 +0000</pubDate>
+      <author>Laura Secorun</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/30/three-ways-women-with-disabilities-are-getting-ahead-in-uganda</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/30/three-ways-women-with-disabilities-are-getting-ahead-in-uganda</guid>
+      <description>Uganda has some of the most progressive laws for people with disabilities in Africa, but public perception has not always kept up. Three NGOs are trying to turn that around by offering economic opportunities for women.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180430113214/UgandaCrafts_41.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Uganda Fights Child Marriage With Job Courses and Kids’ Clubs</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Fri, 26 May 2017 11:45:22 +0000</pubDate>
+      <author>Laura Secorun</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/26/uganda-fights-child-marriage-with-job-courses-and-kids-clubs</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/26/uganda-fights-child-marriage-with-job-courses-and-kids-clubs</guid>
+      <description>Two years ago, Uganda launched a national strategy to cut child marriage rates, but girls are still getting married too young. Now local groups are stepping in to try to tackle the problem with community-based initiatives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170526124507/APTOPIX-Uganda-Daily-Life.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

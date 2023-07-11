@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Ryan Schuessler</title>
+    <description>Ryan Schuessler is a Chicago-based journalist whose work has appeared in the Guardian, the Washington Post, the New York Times, Al Jazeera America and National Geographic News. He frequently writes at the intersection of the environment and social justice issues, as well as on conservation, the Arctic, religion, diaspora communities and identity.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/ryan-schuessler/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/ryan-schuessler/rss"/>
+    <item>
+      <title>Drones Offer Hope for Fighting Arctic Oil Spills</title>
+      <pubDate>Wed, 27 Apr 2016 04:21:32 +0000</pubDate>
+      <author>Ryan Schuessler</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/27/drones-offer-hope-for-fighting-arctic-oil-spills</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/27/drones-offer-hope-for-fighting-arctic-oil-spills</guid>
+      <description>HAKAI MAGAZINE: Ships are flocking to the Arctic, increasing the risk of a spill in an ill-prepared region. But researchers are testing whether drones can track oil spills – and do the clean-up.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160427041938/4fmrbse_-_imgur_uaf.gif" type="image/gif" length="0"/>
+    </item>
+    <item>
+      <title>Killer Competition in Northwestern Alaska</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Ryan Schuessler</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/07/killer-competition-in-northwestern-alaska</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/07/killer-competition-in-northwestern-alaska</guid>
+      <description>HAKAI MAGAZINE: Disappearing sea ice means Alaskan killer whales are expanding their range and hunting more beluga whales. Their presence is bringing them into increasing competition with indigenous beluga whale hunters – and may even be changing the way belugas behave.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092733/exxon-valdez-oil-spill-wildlif-57062ded068b7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

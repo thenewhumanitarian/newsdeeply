@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Lynzy Billing</title>
+    <description>Lynzy Billing is a British journalist based in Manila, Philippines, photographing and reporting on sociocultural and political issues in the region. Follow her on Twitter @LynzyBilling.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/lynzy-billing/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/lynzy-billing/rss"/>
+    <item>
+      <title>How Transgender Women Found Freedom in Call Centers of the Philippines</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Thu, 19 Jul 2018 15:03:59 +0000</pubDate>
+      <author>Lynzy Billing</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/19/how-transgender-women-found-freedom-in-call-centers-of-the-philippines</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/19/how-transgender-women-found-freedom-in-call-centers-of-the-philippines</guid>
+      <description>The Philippines’ call center boom has provided new opportunities for transgender women to earn a decent income and present themselves in their authentic gender identity without fear of discrimination.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180719143627/Amiel-de-Dios-3-telus1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Philippines, Where Divorce Is Illegal, Women Pay the Price</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Thu, 22 Feb 2018 12:00:00 +0000</pubDate>
+      <author>Lynzy Billing</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/02/22/in-philippines-where-divorce-is-illegal-women-pay-the-price</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/02/22/in-philippines-where-divorce-is-illegal-women-pay-the-price</guid>
+      <description>In the Philippines, lack of divorce laws means hefty annulment fees, no division of assets and no child support for women whose marriages break down. But a new bill is trying to change that.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180222115645/NewsDeeply31.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

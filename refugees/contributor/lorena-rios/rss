@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Lorena Ríos</title>
+    <description>Lorena Ríos is a freelance journalist based in Turkey. She started her career in Egypt and has been reporting in the region for the last three years. She covers culture, food, displacement and human stories told against the backdrop of sociopolitical landscapes. Follow her on Twitter@rioslorena.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/lorena-rios/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/lorena-rios/rss"/>
+    <item>
+      <title>‘Biased’ Changes to Egypt’s Divorce Laws Over Custody Prompt Outcry</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Wed, 18 Jan 2017 15:05:06 +0000</pubDate>
+      <author>Lorena Ríos</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/01/18/biased-changes-egypts-divorce-laws-custody-prompt-outcry</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/01/18/biased-changes-egypts-divorce-laws-custody-prompt-outcry</guid>
+      <description>An amendment that would give custody of children to their father if their mother remarries has sparked outrage among Egyptian women and their advocates, who claim it highlights systemic gender biases in family laws.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072028/Mideast-Egypt-Eid-al-Fitr.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>South Sudanese Women Carry Bulk of the Burden in Uganda Refugee Camps</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 20 Oct 2016 12:20:14 +0000</pubDate>
+      <author>Lorena Ríos</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/20/south-sudanese-women-carry-bulk-of-the-burden-in-uganda-refugee-camps</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/20/south-sudanese-women-carry-bulk-of-the-burden-in-uganda-refugee-camps</guid>
+      <description>With their husbands fighting in the civil war or struggling to find work, the South Sudanese women staying in Uganda’s refugee camps often find themselves responsible for supporting their families on their own.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161020121700/A-woman-carrying-fire-wood-in-Pagarinya-refugee-settlment.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>South Sudanese Women Carry Bulk of the Burden in Uganda Refugee Camps</title>
+      <category domain="https://www.newsdeeply.com/refugees/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Wed, 19 Oct 2016 14:22:24 +0000</pubDate>
+      <author>Lorena Ríos</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/10/19/south-sudanese-women-carry-bulk-burden-uganda-refugee-camps</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/10/19/south-sudanese-women-carry-bulk-burden-uganda-refugee-camps</guid>
+      <description>With their husbands fighting in the civil war or struggling to find work, the South Sudanese women staying in Uganda’s refugee camps often find themselves responsible for supporting their families on their own.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073029/A-woman-carrying-fire-wood-in-Pagarinya-refugee-settlment.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

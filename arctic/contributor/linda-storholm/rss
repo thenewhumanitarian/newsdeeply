@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Linda Storholm</title>
+    <description>Linda Storholm is a Norwegian journalist living in the Arctic region of Norway. Linda works for High North News.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/linda-storholm/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/linda-storholm/rss"/>
+    <item>
+      <title>Cruise Company Plans Silent Trips in Arctic Fjords With Hybrid Engines</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Tue, 13 Sep 2016 11:24:10 +0000</pubDate>
+      <author>Linda Storholm</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/09/13/cruise-company-plans-silent-trips-in-arctic-fjords-with-hybrid-engines</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/09/13/cruise-company-plans-silent-trips-in-arctic-fjords-with-hybrid-engines</guid>
+      <description>HIGH NORTH NEWS: Norwegian coastal shipping line Hurtigruten has inked a deal to have two partially electric ships built for its Arctic tours to cut down on noise, pollution and greenhouse gas emissions. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160913111129/Hurtigruten_Illustration.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

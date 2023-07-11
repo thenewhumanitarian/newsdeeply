@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Laura Feinstein</title>
+    <description>Laura Feinstein is a senior research associate at the Pacific Institute, an Oakland, California-based global water think tank. 
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/laura-feinstein/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/laura-feinstein/rss"/>
+    <item>
+      <title>Big-Picture Questions Raised by the Oroville Dam Emergency</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 16 Feb 2017 08:29:44 +0000</pubDate>
+      <author>Peter Gleick, Laura Feinstein</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/02/16/big-picture-questions-raised-by-the-oroville-dam-emergency</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/02/16/big-picture-questions-raised-by-the-oroville-dam-emergency</guid>
+      <description>Let’s not let a good crisis go to waste: Here are six important conversations that need to happen in the aftermath of problems at Oroville Dam in Northern California.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170215150527/FL_Oroville-2490_02_14_2017.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

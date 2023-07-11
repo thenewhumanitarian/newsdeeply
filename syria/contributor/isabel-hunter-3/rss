@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Isabel Hunter</title>
+    <description>Freelance journalist based between Istanbul and Gaziantep.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/isabel-hunter-3/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/isabel-hunter-3/rss"/>
+    <item>
+      <title>Islamists Up Close: A Soldier of ISIS </title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Isabel Hunter</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/09/03/islamists-up-close-a-soldier-of-isis</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/09/03/islamists-up-close-a-soldier-of-isis</guid>
+      <description>Playing outside the gates of Kilis refugee camp is Zahra, a six-year-old girl with a bright pink T-shirt and an infectious smile.</description>
+    </item>
+    <item>
+      <title>The Interview: Ghassan Hitto, the Syrian Opposition’s First Prime Minister</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
+      <author>Isabel Hunter</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/07/08/the-interview-ghassan-hitto-the-syrian-oppositions-first-prime-minister</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/07/08/the-interview-ghassan-hitto-the-syrian-oppositions-first-prime-minister</guid>
+      <description>Syria Deeply interviews Ghassan Hitto*, outgoing Prime Minister of the Syrian National Coalition’s interim government, during the Coalition’s weekend General Assembly Meeting. *.</description>
+    </item>
+  </channel>
+</rss>

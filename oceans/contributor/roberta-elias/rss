@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Roberta Elias</title>
+    <description>Roberta Elias is deputy director for ocean policy at the World Wildlife Fund, U.S.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/roberta-elias/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/roberta-elias/rss"/>
+    <item>
+      <title>Trump Takes U.S. Ocean Policy in the Wrong Direction</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/marine-protected-areas/">Marine Protected Areas</category>
+      <pubDate>Thu, 21 Jun 2018 03:10:00 +0000</pubDate>
+      <author>Whitley Saumweber, Roberta Elias</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/06/21/trump-takes-u-s-ocean-policy-in-the-wrong-direction</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/06/21/trump-takes-u-s-ocean-policy-in-the-wrong-direction</guid>
+      <description>We must reorient our ocean management to adapt to new climate realities, say Whitley Saumweber, former ocean and coastal adviser to President Obama, and Roberta Elias of the World Wildlife Fund.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180621031450/Fishing071.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

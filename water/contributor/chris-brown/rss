@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Chris Brown</title>
+    <description>Chris Brown is former executive director of the California Urban Water Conservation Council. He is a writer and consultant working with clients who wish to reduce their water and carbon footprints. He can be reached at: cbconserv@gmail.com
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/chris-brown/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/chris-brown/rss"/>
+    <item>
+      <title>Crisis Conservation Not Working for California</title>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Chris Brown</author>
+      <link>https://www.newsdeeply.com/water/community/2015/07/14/crisis-conservation-not-working-for-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/07/14/crisis-conservation-not-working-for-california</guid>
+      <description>To prepare for the next drought, California must rewrite its inadequate water conservation laws now.</description>
+    </item>
+  </channel>
+</rss>

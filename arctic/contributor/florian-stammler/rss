@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Florian Stammler</title>
+    <description>Florian Stammler is a research professor at the Arctic Centre at the University of Lapland. He studies industrialization and how it changes the face of the North, in particular the increasing activities around mineral resource extraction.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/florian-stammler/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/florian-stammler/rss"/>
+    <item>
+      <title>Reindeer Slaughter Plan Is a Problem for Yamal-Nenets Nomads</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Mon, 24 Oct 2016 05:00:46 +0000</pubDate>
+      <author>Florian Stammler</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/24/reindeer-slaughter-plan-is-a-problem-for-yamal-nenets-nomads</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/24/reindeer-slaughter-plan-is-a-problem-for-yamal-nenets-nomads</guid>
+      <description>A plan to cull 250,000 reindeer in the Yamal-Nenets autonomous region coincides with the government’s speedy development of gas fields in the Arctic, Florian Stammler writes in this commentary. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161021170101/Stammler_01.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

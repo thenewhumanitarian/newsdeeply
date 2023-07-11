@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Alvar Escriva-Bou</title>
+    <description>Alvar Escriva-Bou is a research fellow at the PPIC Water Policy Center. His research explores integrated water, energy and environmental resources management. He holds a Ph.D. and M.S. in water and environmental engineering and a B.S. in civil engineering from the Polytechnic University of Valencia in Spain, as well as an M.S. in agricultural and resource economics from the University of California, Davis.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/alvar-escriva-bou/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/alvar-escriva-bou/rss"/>
+    <item>
+      <title>The Two Biggest Challenges to Groundwater Recharge in California</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 21 Jun 2018 03:00:00 +0000</pubDate>
+      <author>Alvar Escriva-Bou</author>
+      <link>https://www.newsdeeply.com/water/community/2018/06/21/the-two-biggest-challenges-to-groundwater-recharge-in-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/06/21/the-two-biggest-challenges-to-groundwater-recharge-in-california</guid>
+      <description>Recent studies have calculated how much water is available for recharge, but the hurdle now is how to get it underground, writes researcher Alvar Escriva-Bou of the PPIC Water Policy Center.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180621030607/KG_andrus_birds_96571.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Five Things to Know About Desalination</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Alvar Escriva-Bou</author>
+      <link>https://www.newsdeeply.com/water/community/2016/04/21/five-things-to-know-about-desalination</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/04/21/five-things-to-know-about-desalination</guid>
+      <description>Since California has so much oceanfront, desalination may seem like a no-brainer to increase water supply. But there are a few things that are important to understand about why it’s not always the best solution.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104646/tapping-the-ocean-5718ca7223b38.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

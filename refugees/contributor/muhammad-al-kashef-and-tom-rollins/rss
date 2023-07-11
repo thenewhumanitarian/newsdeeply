@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Muhammad al-Kashef and Tom Rollins</title>
+    <description>Muhammad al-Kashef is a researcher on migrant movements on the north coast for the Egyptian Initiative for Personal Rights (EIPR). 
+Tom Rollins is a freelance journalist based in Cairo.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/muhammad-al-kashef-and-tom-rollins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/muhammad-al-kashef-and-tom-rollins/rss"/>
+    <item>
+      <title>The Misunderstood Gateway Into Europe</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 08 Sep 2016 13:00:15 +0000</pubDate>
+      <author>Muhammad al-Kashef and Tom Rollins</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/08/the-misunderstood-gateway-into-europe</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/08/the-misunderstood-gateway-into-europe</guid>
+      <description>The expected flood of Syrians to Egypt after the E.U.-Turkey deal never materialized. But Egyptian and African flows are rising, and the long-term detention of migrants demands urgent attention.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160908125838/Europe-Young-Migrants-Alone.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

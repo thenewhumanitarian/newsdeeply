@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Rakesh Nagar</title>
+    <description>Rakesh Nagar is a New Delhi-based video journalist with 25 years of experience. He has worked for NHK Japan, CNN International, PBS Newshour and ABC Australia, among others.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/rakesh-nagar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/rakesh-nagar/rss"/>
+    <item>
+      <title>Video: Driving Away from Domestic Violence in India</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 23 May 2017 05:00:04 +0000</pubDate>
+      <author>Rakesh Nagar</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/05/23/driving-away-from-domestic-violence-in-india</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/05/23/driving-away-from-domestic-violence-in-india</guid>
+      <description>In India, a charity is helping domestic violence survivors by training them as taxi drivers. Thanks to these new skills, they gain greater independence. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170522135127/INDIA-DV.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

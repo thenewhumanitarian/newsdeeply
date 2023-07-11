@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Brian Gray</title>
+    <description>Brian Gray is a senior fellow at the Public Policy Institute of California and professor emeritus at the University of California, Hastings College of the Law.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/brian-gray/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/brian-gray/rss"/>
+    <item>
+      <title>A Water Right for the Environment in California</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 19 Dec 2017 03:00:00 +0000</pubDate>
+      <author>Barton “Buzz” Thompson, Leon Szeptycki, Brian Gray</author>
+      <link>https://www.newsdeeply.com/water/community/2017/12/19/a-water-right-for-the-environment-in-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/12/19/a-water-right-for-the-environment-in-california</guid>
+      <description>Assigning Ecosystem Water Budgets for California’s major watersheds would provide a defined amount of water that could be flexibly allocated and could ease conflict, say authors of a new report from Public Policy Institute of California.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171213095816/KG_Thermalito_67551.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

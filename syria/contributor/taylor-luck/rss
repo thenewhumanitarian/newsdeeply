@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Taylor Luck</title>
+    <description>Taylor Luck is a journalist and analyst who has reported from his base in Amman, Jordan, for the past decade. Luck is a Middle East correspondent for the Christian Science Monitor and special correspondent for the Washington Post, focusing on Jordanian affairs, Islamic movements, refugee issues, Syria and the Arab Gulf. Luck’s work has also appeared in the Guardian, CNN.com, the German Press Agency (DPA) and the Jordan Times. His monthly column on regional political affairs can be found in the National. Luck has been quoted and interviewed by several Arab and Western media outlets including NPR, FOX News, Al Arabiya, Al Jazeera English and BBC World Radio. Twitter: @Taylor_Luck.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/taylor-luck/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/taylor-luck/rss"/>
+    <item>
+      <title>‘Refugee Does Not Define Us’: Finding Community in Exile in Jordan</title>
+      <category domain="https://www.newsdeeply.com/syria/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/syria/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Wed, 01 Aug 2018 12:20:00 +0000</pubDate>
+      <author>Taylor Luck</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/08/01/refugee-does-not-define-us-finding-community-in-exile-in-jordan</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/08/01/refugee-does-not-define-us-finding-community-in-exile-in-jordan</guid>
+      <description>A new initiative in Jordan is helping refugees build a sense of community, filling a gap in support for the “silent killers” of boredom, hopelessness and isolation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180801121833/AFP_1145RB.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Analysis: Dropped by CIA, Syrian Rebels Could Join Jihadists</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 02 Aug 2017 06:10:38 +0000</pubDate>
+      <author>Taylor Luck</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/08/02/analysis-dropped-by-cia-syrian-rebels-could-join-jihadists</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/08/02/analysis-dropped-by-cia-syrian-rebels-could-join-jihadists</guid>
+      <description>The Trump administration’s decision to end a covert CIA program that provided arms and training to Syrian rebels may prompt the country’s battered opposition to side with jihadists in pursuit of a common goal: the overthrow of the Syrian government.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170802060815/SYRIA-CONFLICT-21.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

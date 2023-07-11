@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Kevin McGwin</title>
+    <description>Kevin McGwin is an American freelance journalist based in Copenhagen. He is the former editor of The Arctic Journal.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/kevin-mcgwin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/kevin-mcgwin/rss"/>
+    <item>
+      <title>The Case for Creating a Saami Art Museum</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 06 Sep 2017 06:19:07 +0000</pubDate>
+      <author>Kevin McGwin</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/09/06/the-case-for-creating-a-saami-art-museum</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/09/06/the-case-for-creating-a-saami-art-museum</guid>
+      <description>A playful experiment performed at Norway’s Nordnorsk Kunstmuseum earlier this year saw the entire premises temporarily transformed into a museum dedicated to Saami art. Now there’s a push underway to create something longer lasting.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170906061500/marita-isobel-solberg_nordnorsk-kunstmuseum.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Circumpolar Creativity: Some Takeaways from the Arctic Arts Summit</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 14 Jul 2017 08:13:25 +0000</pubDate>
+      <author>Kevin McGwin</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/07/14/circumpolar-creativity-some-takeaways-from-the-arctic-arts-summit</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/07/14/circumpolar-creativity-some-takeaways-from-the-arctic-arts-summit</guid>
+      <description>Representatives from all eight Arctic countries recently gathered in Harstad, Norway, to reflect on the varying definitions and aims of Indigenous art in the North.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170714081246/35432789215_ab24083244_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

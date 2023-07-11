@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Wisam Franjieh</title>
+    <description>Wisam Franjieh – Wissam is a freelance Syrian journalist based in Istanbul.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/wisam-franjieh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/wisam-franjieh/rss"/>
+    <item>
+      <title>In Besieged Eastern Ghouta, Rebel Infighting Increases Civilian Suffering</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 01 Aug 2017 13:08:25 +0000</pubDate>
+      <author>Wisam Franjieh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/08/01/in-besieged-eastern-ghouta-rebel-infighting-increases-civilian-suffering</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/08/01/in-besieged-eastern-ghouta-rebel-infighting-increases-civilian-suffering</guid>
+      <description>While the Syrian government ramps up its offensive on the Eastern Ghouta suburbs of Damascus, local residents have to also contend with bitter rivalries between opposition groups, who have carved up the besieged enclave.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170801130732/SYRIA-CONFLICT36.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

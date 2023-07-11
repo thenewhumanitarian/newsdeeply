@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Maria Gallucci</title>
+    <description>Maria Gallucci is the 2017–18 energy journalism fellow at the University of Texas at Austin.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/122635/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/122635/rss"/>
+    <item>
+      <title>The Fight for Greener Ships That May Make or Break U.N. Climate Goals</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Fri, 24 Nov 2017 03:08:48 +0000</pubDate>
+      <author>Maria Gallucci</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/11/24/the-fight-for-greener-ships-that-may-make-or-break-u-n-climate-goals</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/11/24/the-fight-for-greener-ships-that-may-make-or-break-u-n-climate-goals</guid>
+      <description>The global shipping industry will need to dramatically lower emissions if the world hopes to avoid dangerous climate change, but companies argue that the technology isn’t available yet.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171121071504/stla239344.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

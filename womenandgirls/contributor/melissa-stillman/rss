@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Melissa Stillman</title>
+    <description>Melissa Stillman is a Research Associate at the Guttmacher Institute. Her main research interests include adolescent sexual and reproductive health behaviors and needs, sexuality education, fertility intentions and contraceptive use among couples and abortion in developing countries. She is a member of the Population Association of America, the Asian Population Association and the International Union for the Scientific Study of Population.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/melissa-stillman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/melissa-stillman/rss"/>
+    <item>
+      <title>Sex Education Programs in Kenyan Schools Are Failing Students</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Tue, 09 May 2017 12:02:37 +0000</pubDate>
+      <author>Estelle Monique Sidze, Melissa Stillman</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/05/09/sex-education-programs-in-kenyan-schools-are-failing-students</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/05/09/sex-education-programs-in-kenyan-schools-are-failing-students</guid>
+      <description>A recent survey of teachers and students found that Kenyan schools are not teaching sexuality education properly. This has serious consequences for girls, who risk early pregnancy and the transmission of STIs or HIV if they’re taught abstinence is the only way.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170509120201/KENYA-RIGHTS-CHILDREN-TRADITION.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

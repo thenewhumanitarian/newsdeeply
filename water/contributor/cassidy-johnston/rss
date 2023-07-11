@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Cassidy Johnston</title>
+    <description>Cassidy Johnston is a New Mexico cattle rancher and sustainability officer for the U.S. Farmers &amp;amp; Ranchers Alliance.
+ 
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/cassidy-johnston/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/cassidy-johnston/rss"/>
+    <item>
+      <title>How Ranchers Are Getting by With Less Water Across the West</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 16 Aug 2018 03:00:00 +0000</pubDate>
+      <author>Cassidy Johnston</author>
+      <link>https://www.newsdeeply.com/water/community/2018/08/16/how-ranchers-are-getting-by-with-less-water-across-the-west</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/08/16/how-ranchers-are-getting-by-with-less-water-across-the-west</guid>
+      <description>Most ranches depend on rain to ensure cattle have enough to eat, but arid conditions amplified by drought across much of the West means that ranchers are employing best practices to use water as efficiently as possible, writes New Mexico rancher Cassidy Johnston.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180815072800/CDXXDUSTBOWL_RJ243101.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

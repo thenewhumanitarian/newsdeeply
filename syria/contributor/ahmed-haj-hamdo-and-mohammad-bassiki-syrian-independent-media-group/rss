@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ahmed Haj Hamdo and Mohammad Bassiki, Syrian Independent Media Group</title>
+    <description>The Syrian Independent Media Group is comprised of five independent Syrian media organizations working together to highlight untold stories from the war-torn country: Arab Reporters for Investigative Journalism, Rozana Radio, Syria Deeply, Syria Untold and the Violation Documentation Center in Syria. The project is supported by International Media Support.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/ahmed-haj-hamdo-and-mohammad-bassiki-syrian-independent-media-group/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ahmed-haj-hamdo-and-mohammad-bassiki-syrian-independent-media-group/rss"/>
+    <item>
+      <title>Amid War and Conscription – A City Without Men</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 16 May 2016 07:08:32 +0000</pubDate>
+      <author>Ahmed Haj Hamdo and Mohammad Bassiki, Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/16/amid-war-and-conscription-a-city-without-men</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/16/amid-war-and-conscription-a-city-without-men</guid>
+      <description>As the war in Syria pushes on into its sixth year, the streets of Damascus are eerily absent of young men in civilian clothes. While many are off fighting on the front lines, thousands have hidden themselves away at home out of fear of being forcefully conscripted.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160516070212/APTOPIX-Mideast-Syria2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

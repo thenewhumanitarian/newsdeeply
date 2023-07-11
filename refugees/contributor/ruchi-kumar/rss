@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Ruchi Kumar</title>
+    <description>Ruchi Kumar is an Indian journalist currently working in Kabul, Afghanistan, focusing on news stories from the Af-Pak region. She has been published in Foreign Policy, the Guardian, Al Jazeera and the Washington Post, among other publications.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ruchi-kumar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ruchi-kumar/rss"/>
+    <item>
+      <title>Afghans Returned From Europe Look to Escape War Again</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 08 Jan 2018 09:00:00 +0000</pubDate>
+      <author>Ruchi Kumar</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/01/08/afghans-returned-from-europe-look-to-escape-war-again</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/01/08/afghans-returned-from-europe-look-to-escape-war-again</guid>
+      <description>Despite growing bloodshed in Afghanistan, fewer Afghans are recognized as refugees in Europe and many are sent home to a country still at war and struggling to integrate massive numbers of returnees, Ruchi Kumar reports for IRIN News.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180108085818/afghanistan-returnees-21.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

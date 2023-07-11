@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Firas Alwani</title>
+    <description>Firas Alwani
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/firas-alwani/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/firas-alwani/rss"/>
+    <item>
+      <title>The Unknown Journey of Syria’s Refugees</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Firas Alwani</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/03/23/the-unknown-journey-of-syrias-refugees</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/03/23/the-unknown-journey-of-syrias-refugees</guid>
+      <description>The dangerous sea and land crossings that Syrian refugees are making to Europe have been well-documented, but less well known are the equally perilous journeys people take to leave Syria itself. In this first installment of a two-part series, Syria Deeply examines the illegal journey from Damascus to Turkey.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114133/mideast-syria-women-refugees-56f2e7922e1e8.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>From Syria to Lebanon: Palestinians Stuck Between ‘Catastrophes’</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Firas Alwani</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/09/21/from-syria-to-lebanon-palestinians-stuck-between-catastrophes</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/09/21/from-syria-to-lebanon-palestinians-stuck-between-catastrophes</guid>
+      <description>Syria Deeply had the rare opportunity to speak to Palestinian refugees from Syria about becoming “double refugees” as they flee the violence there and seek security in Lebanon. At least 45,000 Palestinians have arrived in Lebanon from Syria since the civil war began, according to the U.N.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114436/600x400_crop-55ffcbf9b2474.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

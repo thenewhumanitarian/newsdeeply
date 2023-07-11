@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Tony Davis</title>
+    <description>Tony Davis has covered water issues and other environmental problems in the Southwest since 1981 for three Arizona and New Mexico newspapers and has written regularly for the biweekly environmental magazine High Country News. He is currently the Arizona Daily Star’s environmental reporter.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/tony-davis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/tony-davis/rss"/>
+    <item>
+      <title>Why One Decision Could Decide the Future of Desalination in California</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 07 Dec 2016 11:16:47 +0000</pubDate>
+      <author>Tony Davis</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/12/07/why-one-decision-could-decide-the-future-of-desalination-in-california</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/12/07/why-one-decision-could-decide-the-future-of-desalination-in-california</guid>
+      <description>The future of coastal desalination in California could be determined by the decision on permits for a plant in Huntington Beach, where regulators and the plant’s company have locked horns on the issue of subsurface intake pipes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161207111132/Desalination-Plant.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Various Authors</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/arctic/contributor/various-authors/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/various-authors/rss"/>
+    <item>
+      <title>Postcards from the Canadian North</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <pubDate>Fri, 15 Jul 2016 13:12:13 +0000</pubDate>
+      <author>Various Authors</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/07/15/postcards-from-the-canadian-north</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/07/15/postcards-from-the-canadian-north</guid>
+      <description>When ambassadors and high commissioners set off on a whirlwind tour of Canada’s northern region, they traveled thousands of kilometers from one end of the country to the other. We asked a few of them to send us a postcard from the trip.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160715125049/Norway_01.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

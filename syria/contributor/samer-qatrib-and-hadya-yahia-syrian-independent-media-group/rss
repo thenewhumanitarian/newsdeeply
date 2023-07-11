@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Samer Qatrib and Hadya Yahia, Syrian Independent Media Group</title>
+    <description>The Syrian Independent Media Group is comprised of five independent Syrian media organizations working together to highlight untold stories from the war-torn country: Arab Reporters for Investigative Journalism, Rozana Radio, Syria Deeply, Syria Untold and the Violation Documentation Center in Syria. The project is supported by International Media Support.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/samer-qatrib-and-hadya-yahia-syrian-independent-media-group/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/samer-qatrib-and-hadya-yahia-syrian-independent-media-group/rss"/>
+    <item>
+      <title>Curriculum v. Ideology: the War in the Classroom</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Wed, 18 May 2016 03:00:14 +0000</pubDate>
+      <author>Samer Qatrib and Hadya Yahia, Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/18/curriculum-v-ideology-the-war-in-the-classroom</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/18/curriculum-v-ideology-the-war-in-the-classroom</guid>
+      <description>In classrooms across the opposition-controlled province of Idlib, the school curriculum has become the battlefield for various factions trying to win the hearts and minds of Syrian youth.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160517131531/6fa5476f156cf6213e0f6a706700198f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

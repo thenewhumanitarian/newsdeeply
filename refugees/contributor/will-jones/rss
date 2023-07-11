@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Will Jones and Alex Teytelboym</title>
+    <description>Will Jones is Lecturer in International Relations at Royal Holloway.
+Alex Teytelboym is currently the Otto Poon research fellow at the Institute for New Economic Thinking (INET) at the University of Oxford.
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/will-jones/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/will-jones/rss"/>
+    <item>
+      <title>An Algorithm to Alleviate the Refugee Crisis</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 05 Aug 2016 05:03:10 +0000</pubDate>
+      <author>Will Jones and Alex Teytelboym</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/08/05/an-algorithm-to-alleviate-the-refugee-crisis</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/08/05/an-algorithm-to-alleviate-the-refugee-crisis</guid>
+      <description>Matching theory can drastically improve refugee resettlement, argue Will Jones and Alex Teytelboym, who have adapted algorithms used for school choice.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160804120630/APTOPIX-Greece-Migrants6.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

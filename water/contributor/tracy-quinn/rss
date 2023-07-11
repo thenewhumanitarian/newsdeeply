@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Tracy Quinn</title>
+    <description>Tracy Quinn is a policy analyst in the water program at the Natural Resources Defense Council.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/tracy-quinn/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/tracy-quinn/rss"/>
+    <item>
+      <title>Five Reasons Water Efficiency and Recycling Are a Perfect Match</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 24 Mar 2017 05:00:35 +0000</pubDate>
+      <author>Tracy Quinn</author>
+      <link>https://www.newsdeeply.com/water/community/2017/03/24/five-reasons-water-efficiency-and-recycling-are-a-perfect-match</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/03/24/five-reasons-water-efficiency-and-recycling-are-a-perfect-match</guid>
+      <description>In order to ensure that Californians are meeting the requirements of California’s long-term conservation framework, water efficiency and conservation should complement recycled water efforts, writes NRDC’s Tracy Quinn.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170307090415/California-Drought33.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Double-Talk on Drought Severity from Water Agencies Group</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 08 Nov 2016 05:00:47 +0000</pubDate>
+      <author>Tracy Quinn</author>
+      <link>https://www.newsdeeply.com/water/community/2016/11/08/double-talk-on-drought-severity-from-water-agencies-group</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/11/08/double-talk-on-drought-severity-from-water-agencies-group</guid>
+      <description>The state’s largest lobbying group for water agencies is giving mixed messages about drought severity and what should be done about it, saysTracy Quinn at the Natural Resources Defense Council.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161107161147/California-Drought28.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Nuba Reports</title>
+    <description>Nuba Reports provides credible coverage of the ongoing conflict in the Nuba mountains and across Sudan. 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/nuba-reports/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/nuba-reports/rss"/>
+    <item>
+      <title>Courts Target Poor Sudanese Women With Extortionate ‘Morality’ Fines</title>
+      <category domain="https://www.newsdeeply.com/refugees/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Fri, 01 Dec 2017 07:39:46 +0000</pubDate>
+      <author>Nuba Reports</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/12/01/courts-target-poor-sudanese-women-with-extortionate-morality-fines</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/12/01/courts-target-poor-sudanese-women-with-extortionate-morality-fines</guid>
+      <description>Penalties handed down by Sudan’s Public Order Courts, whose role is to ‘uphold moral order,’ mean vast sums of money are going into the state treasury and judges’ pockets – and 70 percent of such cases involve women.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171201073836/Lady-peering-into-court-window-Ayin.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sudanese Women in Media: The Majority With a Minor Voice</title>
+      <category domain="https://www.newsdeeply.com/refugees/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Tue, 13 Jun 2017 11:46:46 +0000</pubDate>
+      <author>Nuba Reports</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/06/13/sudanese-women-in-media-the-majority-with-a-minor-voice</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/06/13/sudanese-women-in-media-the-majority-with-a-minor-voice</guid>
+      <description>Landing an entry-level gig in a newsroom is an easy task for Sudanese women, but getting a promotion once inside is near impossible, say media organizations in Sudan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170613114507/SUDAN-MEDIA-WOMEN-RELIGION.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Video: Sudanese Deported by Jordan Await Answers</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 21 Apr 2016 01:12:31 +0000</pubDate>
+      <author>Nuba Reports</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/04/21/video-sudanese-deported-by-jordan-await-answers</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/04/21/video-sudanese-deported-by-jordan-await-answers</guid>
+      <description>The case of the 800 Sudanese asylum seekers who were deported by Jordan after protesting in front of the UNHCR office has disappeared from media coverage. But nearly five months later many returnees like Hawa Abdo Adam are waiting to be reunited with family members who </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160426011503/united-nations-darfur-exit-str-5718c761a2d23.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Omar Abdallah &amp;#038; Tamer Osman</title>
+    <description>Omar Abdallah &amp;amp; Tamer Osman are contributors for Syria Deeply
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/omar-abdallah-tamer-osman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/omar-abdallah-tamer-osman/rss"/>
+    <item>
+      <title>Syrians Desperate for Healthcare as Assad Regime Barrel Bombs Hospitals</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Omar Abdallah &amp; Tamer Osman</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/07/03/syrians-desperate-for-healthcare-as-assad-regime-barrel-bombs-hospitals</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/07/03/syrians-desperate-for-healthcare-as-assad-regime-barrel-bombs-hospitals</guid>
+      <description>Syria Deeply spoke to locals about the Assad regime’s attacks on medical facilities across the country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114554/ap664219736418-5506d0c4bb86d-559628ee2aa97.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

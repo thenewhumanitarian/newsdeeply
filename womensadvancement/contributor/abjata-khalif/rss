@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Abjata Khalif</title>
+    <description>Abjata Khalif is a journalist based in Northern Kenya. He specializes in women’s rights, human rights, refugee rights, cross-border issues and food security.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/abjata-khalif/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/abjata-khalif/rss"/>
+    <item>
+      <title>Land Rights FM: Community Radio Helps Rural Women Claim What’s Theirs</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 27 Feb 2018 11:30:00 +0000</pubDate>
+      <author>Abjata Khalif</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/02/27/land-rights-fm-community-radio-helps-rural-women-claim-whats-theirs</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/02/27/land-rights-fm-community-radio-helps-rural-women-claim-whats-theirs</guid>
+      <description>Kenya’s 2010 constitution guaranteed women extensive land and property rights. But the message wasn’t getting out to the remote communities of the north until a community radio station stepped in.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180227113414/Sankuri-Women-Milk-Hawking-Cooperative-official-members-at-their-group-headquarters-in-Sankuri-Garissa-Kenya.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

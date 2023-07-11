@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Nick Santos</title>
+    <description>Nick Santos creates geospatial applications for the U.C. Davis Center for Watershed Sciences and developed the PISCES software.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/nick-santos/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/nick-santos/rss"/>
+    <item>
+      <title>Where Are the Fish? Finally, Answers for Water Managers</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Nick Santos</author>
+      <link>https://www.newsdeeply.com/water/community/2015/11/27/where-are-the-fish-finally-answers-for-water-managers</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/11/27/where-are-the-fish-finally-answers-for-water-managers</guid>
+      <description>When it comes to managing scarce water supplies in California, it’s important to know where the fish are to avoid killing them during pumping and transfer operations. Up to now, this has been difficult, but new open-source software may provide the solution.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104705/f164a947-592f-4bd2-9ebb-afcd51-56582260e29a6.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

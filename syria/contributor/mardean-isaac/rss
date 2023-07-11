@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mardean Isaac</title>
+    <description>Mardean Isaac is a writer of fiction, journalism and essays who has written and spoken widely on Iraq and Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mardean-isaac/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mardean-isaac/rss"/>
+    <item>
+      <title>Under Fire From All Sides: Syria’s Assyrians</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Fri, 03 Jun 2016 10:37:13 +0000</pubDate>
+      <author>Mardean Isaac</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/06/03/under-fire-from-all-sides-syrias-assyrians</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/06/03/under-fire-from-all-sides-syrias-assyrians</guid>
+      <description>Unless concrete measures are taken to support the steadily shrinking Assyrian community in Hassakeh province, one of the region’s most ancient communities may soon be gone, writes Syrian commentator Mardean Isaac.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160603103244/Mideast-Lebanon-Islamic-State-Assyrians.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Habib Mohaed</title>
+    <description>Habib Mohaed is a journalist based in Algeria.
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/habib-mohaed/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/habib-mohaed/rss"/>
+    <item>
+      <title>Sahrawi Refugees Await a State and a Home</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Fri, 08 Jul 2016 15:56:58 +0000</pubDate>
+      <author>Habib Mohaed</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/07/08/sahrawi-refugees-await-a-state-and-a-home</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/07/08/sahrawi-refugees-await-a-state-and-a-home</guid>
+      <description>Marking the start of Eid-Al-Fitr celebrations that will continue into the weekend, young and old residents of the Sahrawi refugee settlement in Algeria draw parallels between breaking their month-long fast and their quest for self-determination.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160708153439/Western-Sahara-Forgotten-Front.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Monika Bolliger</title>
+    <description>Monika Bolliger is the Middle East Correspondent of the Swiss daily newspaper Neue Zürcher Zeitung. Before venturing into journalism, she studied History and Arabic Language in Zurich and Damascus. She is currently based in Cairo.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/monika-bolliger/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/monika-bolliger/rss"/>
+    <item>
+      <title>Notes From a Brief Return to Damascus</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Monika Bolliger</author>
+      <link>https://www.newsdeeply.com/syria/community/2015/11/27/notes-from-a-brief-return-to-damascus</link>
+      <guid>https://www.newsdeeply.com/syria/community/2015/11/27/notes-from-a-brief-return-to-damascus</guid>
+      <description>At the end of October 2015, Swiss journalist Monika Bolliger had the chance to visit Damascus for the first time in more than four years. This is a short and very personal account of her journey back to a city she used to call her second home.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112954/ap_595420768835-565876ad5e4a8.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

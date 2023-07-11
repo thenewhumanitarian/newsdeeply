@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Gabriella Canal</title>
+    <description>Gabriella Canal is a freelance journalist based in New York.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/gabriella-canal/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/gabriella-canal/rss"/>
+    <item>
+      <title>Inside Job: The Gourmet Restaurant in a Colombian Women’s Prison</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <pubDate>Wed, 08 Nov 2017 11:18:07 +0000</pubDate>
+      <author>Gabriella Canal</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/11/08/inside-job-the-gourmet-restaurant-in-a-colombian-womens-prison</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/11/08/inside-job-the-gourmet-restaurant-in-a-colombian-womens-prison</guid>
+      <description>At El Restaurante Interno in Cartagena, diners feast on sirloin steak and coconut shrimp – all prepared, cooked and served by the female inmates of San Diego women’s prison. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171108111751/El-Restaurante-Interno_-4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

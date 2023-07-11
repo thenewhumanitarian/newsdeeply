@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Tricia Taormina</title>
+    <description>Tricia Taormina is a journalist who focuses on gender issues. She has a master’s in human rights studies from Columbia University.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/tricia-taormina/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/tricia-taormina/rss"/>
+    <item>
+      <title>Women in Nepal Are Turning to Pharmacies for Clandestine Abortions</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Mon, 04 Sep 2017 08:35:22 +0000</pubDate>
+      <author>Tricia Taormina</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/09/04/women-in-nepal-are-turning-to-pharmacies-for-clandestine-abortions</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/09/04/women-in-nepal-are-turning-to-pharmacies-for-clandestine-abortions</guid>
+      <description>In Nepal, many women still turn to clandestine abortions – via pills sold at pharmacies – rather than visiting doctors for legal procedures. The government and NGOs are now educating pharmacists on how to offer women safer abortions.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170904083443/Nepal-pharmacy.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

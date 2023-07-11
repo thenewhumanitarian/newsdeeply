@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mike Lee</title>
+    <description>Mike Lee covered the world for four decades as a foreign correspondent with ABC News and CBS News. He is now retired and serves as an editorial advisor to Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mike-lee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mike-lee/rss"/>
+    <item>
+      <title>Why We Need Syria Deeply</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 15 Oct 2012 00:00:00 +0000</pubDate>
+      <author>Mike Lee</author>
+      <link>https://www.newsdeeply.com/syria/community/2012/10/15/why-we-need-syria-deeply</link>
+      <guid>https://www.newsdeeply.com/syria/community/2012/10/15/why-we-need-syria-deeply</guid>
+      <description>Mike Lee covered the world for four decades as a foreign correspondent with ABC News and CBS News. He is now retired and serves as an editorial advisor to Syria Deeply.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Faisal Mahmud</title>
+    <description>Faisal Mahmud is a Dhaka-based journalist covering Bangladesh for several international news outlets, including Al Jazeera, Asia Times and the Wire. A trained engineer, he specializes in writing about technology, but his passion lies in covering social and political affairs.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/faisal-mahmud/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/faisal-mahmud/rss"/>
+    <item>
+      <title>As Safety Improves in Bangladesh’s Garment Industry, Women Drop Out</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Fri, 20 Jul 2018 15:00:00 +0000</pubDate>
+      <author>Faisal Mahmud</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/20/as-safety-improves-in-bangladeshs-garment-industry-women-drop-out</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/20/as-safety-improves-in-bangladeshs-garment-industry-women-drop-out</guid>
+      <description>The collapse of the Rana Plaza building sent shockwaves through Bangladesh and prompted a series of reforms to improve worker safety in garment factories. Five years on, the measures designed to protect employees are also shutting many women out of the workforce.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180720145334/Garment-workers-Bangladesh1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Women-Only Ride-Sharing Apps Take on Dhaka’s Notorious Traffic Chaos</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Tue, 03 Apr 2018 11:00:00 +0000</pubDate>
+      <author>Faisal Mahmud</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/03/women-only-ride-sharing-apps-take-on-dhakas-notorious-traffic-chaos</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/03/women-only-ride-sharing-apps-take-on-dhakas-notorious-traffic-chaos</guid>
+      <description>Navigating the traffic-clogged streets of Dhaka can be a nightmare for many professional women. Now a new breed of ride-sharing app has sprung up to help women commuters get to work on time.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180403110005/116.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

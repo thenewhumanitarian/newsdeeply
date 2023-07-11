@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Yehya Alrejjo</title>
+    <description>Yehya Alrejjo is a photographer and activist living in Eastern Aleppo.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/yehya-alrejjo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/yehya-alrejjo/rss"/>
+    <item>
+      <title>Pixels of War: One Student’s Path to Photography in Eastern Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 18 Nov 2016 08:00:04 +0000</pubDate>
+      <author>Yehya Alrejjo</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/11/18/pixels-of-war-one-students-path-to-photography-in-eastern-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/11/18/pixels-of-war-one-students-path-to-photography-in-eastern-aleppo</guid>
+      <description>In the second installment of “Pixels of War,” our diary series on Syrian photographers, Yehya Alrejjo recounts how the Syrian uprising and war transformed him from a student of chemistry to a photographer with the opposition in the besieged and fiercely contested city of Aleppo. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161118072421/D491-5HJ1-DJDJ-13-9-2016-29011854-.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

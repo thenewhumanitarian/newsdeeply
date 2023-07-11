@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Bart Peeters-Akkermans</title>
+    <description>Bart Peeters-Akkermans is a journalist, researcher and translator currently based in Brussels.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/bart-peeters-akkermans/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/bart-peeters-akkermans/rss"/>
+    <item>
+      <title>Anti-Refugee Sentiments Reveal a Withering Europe</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Bart Peeters-Akkermans</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/04/06/anti-refugee-sentiments-reveal-a-withering-europe</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/04/06/anti-refugee-sentiments-reveal-a-withering-europe</guid>
+      <description>As Europe battles economic and refugee “crises,” independent researcher Bart Peeters-Akkermans argues that European leaders have exercised a  “damage maximization” strategy, creating hardship and hatred for refugees and their own citizens. Enlarging the “zone of prosperity” is the way forward, he says.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422085619/greece-migrants-5704ff67be632.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

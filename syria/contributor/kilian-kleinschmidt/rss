@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Kilian Kleinschmidt</title>
+    <description>Kilian Kleinschmidt is the manager of Zaatari refugee camp, the largest camp housing Syrian refugees.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/kilian-kleinschmidt/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/kilian-kleinschmidt/rss"/>
+    <item>
+      <title>On Running the Zaatari Refugee Camp</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Kilian Kleinschmidt</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/12/02/on-running-the-zaatari-refugee-camp</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/12/02/on-running-the-zaatari-refugee-camp</guid>
+      <description>The kids of Za’atari. The kids, now 45,000 of them. Kids wherever you look. Kids around you when you walk. Kids when you shop in the souk. Kids hanging on water tankers looking for adventure.</description>
+    </item>
+  </channel>
+</rss>

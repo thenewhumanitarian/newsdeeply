@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lindsey Snell and Hiba Dlewati</title>
+    <description>Lindsey Snell is an independent video journalist based in Istanbul covering the Middle East and North Africa, particularly Syria, Iraq, and Tunisia.
+
+Hiba Dlewati is the Deputy Managing Editor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lindsey-snell-and-hiba-dlewati/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lindsey-snell-and-hiba-dlewati/rss"/>
+    <item>
+      <title>Aleppo ER: Offering Care as the Bombs Fall</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 08 Jul 2016 14:36:15 +0000</pubDate>
+      <author>Lindsey Snell and Hiba Dlewati</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/07/08/aleppo-er-offering-care-as-the-bombs-fall</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/07/08/aleppo-er-offering-care-as-the-bombs-fall</guid>
+      <description>As Aleppo comes under siege by Syrian government forces, Syria Deeply goes inside one of the last remaining proper hospitals in the eastern opposition-held areas of the city. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160708143107/Screen-Shot-2016-07-08-at-10.18.35-AM.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

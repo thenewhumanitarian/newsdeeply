@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Zaid Mohammad</title>
+    <description>Zaid Mohammad is a contributor for the Institute for War and Peace Reporting.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/zaid-mohammad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/zaid-mohammad/rss"/>
+    <item>
+      <title>Institute for War and Peace Reporting: Civil Defense Comes Under Fire in Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      <author>Zaid Mohammad</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/07/07/institute-for-war-and-peace-reporting-civil-defense-comes-under-fire-in-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/07/07/institute-for-war-and-peace-reporting-civil-defense-comes-under-fire-in-aleppo</guid>
+      <description>Rescue workers, known in Syria as civil defense forces, face a lack of resources and staff in opposition-controlled parts of Aleppo.</description>
+    </item>
+  </channel>
+</rss>

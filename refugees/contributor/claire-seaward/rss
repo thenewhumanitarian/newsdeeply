@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Claire Seaward</title>
+    <description>Claire Seaward is Europe migration campaign lead for Oxfam.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/claire-seaward/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/claire-seaward/rss"/>
+    <item>
+      <title>Oxfam: ‘European Union is Proactively Doing Harm’</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 29 Aug 2016 07:30:14 +0000</pubDate>
+      <author>Claire Seaward</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/08/29/oxfam-european-union-is-proactively-doing-harm</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/08/29/oxfam-european-union-is-proactively-doing-harm</guid>
+      <description>As part of our series “The Road to UNGA,” Oxfam’s migration campaign lead, Claire Seaward, claims that E.U. states’ deterrence policies are creating a “route of hell” to Europe, with tensions escalating among stranded asylum seekers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160829085328/98327lpr.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Joone Lopez</title>
+    <description>Joone Lopez is general manager of Moulton Niguel Water District.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/joone-lopez/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/joone-lopez/rss"/>
+    <item>
+      <title>Moving Beyond Water Conservation as a Way of Life</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 01 Dec 2016 05:02:54 +0000</pubDate>
+      <author>Joone Lopez</author>
+      <link>https://www.newsdeeply.com/water/community/2016/12/01/moving-beyond-water-conservation-as-a-way-of-life</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/12/01/moving-beyond-water-conservation-as-a-way-of-life</guid>
+      <description>California will soon release a framework for long-term water efficiency. But there is still much to do to ensure all Californians have access to safe, reliable water, writes Joone Lopez, general manager of the Moulton Niguel Water District.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161130050748/Screen-Shot-2016-11-29-at-9.43.55-AM.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

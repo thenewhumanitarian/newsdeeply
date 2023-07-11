@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Jennifer Lavers</title>
+    <description>Jennifer Lavers: Dr Lavers is a research scientist at the Institute for Marine and Antarctic Studies. She is a marine eco-toxicologist with expertise in tropical and temperate seabird ecology, plastic pollution (marine debris), invasive species management, and fisheries by-catch. She supervises a large number of graduate students in Australia and abroad working on a diverse array of projects.
+ 
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/jennifer-lavers/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/jennifer-lavers/rss"/>
+    <item>
+      <title>Remote Island Goes From Pristine Paradise to Plastic Rubbish Dump</title>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Fri, 21 Jul 2017 05:00:14 +0000</pubDate>
+      <author>Alexander Bond, Jennifer Lavers</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/07/21/remote-island-goes-from-pristine-paradise-to-plastic-rubbish-dump</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/07/21/remote-island-goes-from-pristine-paradise-to-plastic-rubbish-dump</guid>
+      <description>Photos taken two decades apart of Henderson Island, one of the world’s most isolated atolls, reveal the reach of the ocean plastic pollution crisis and the need to change our behavior.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170719073335/file-20170714-14306-wmgjzv.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

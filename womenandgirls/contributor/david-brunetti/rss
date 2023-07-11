@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: David Brunetti</title>
+    <description>David Brunetti is an award-winning photojournalist based in London. His focus on issues of human rights, conflict and identity has led him to work on projects with organizations such as UNICEF, UNFPA and Shelter. See more of his work at davidbrunetti.com
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/david-brunetti/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/david-brunetti/rss"/>
+    <item>
+      <title>Photo Essay: Syrian Refugees Find Hope Again</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Fri, 17 Jun 2016 14:15:07 +0000</pubDate>
+      <author>David Brunetti</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/06/17/photo-essay-syrian-refugees-find-hope-again</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/06/17/photo-essay-syrian-refugees-find-hope-again</guid>
+      <description>Adolescent girls who have fled Syria find continued risks in refugee camps: early marriage, abuse and lack of education. Photographer David Brunetti turns his lens on their diverse lives – and how they are finding renewed hope in camps where UNFPA provides support. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074328/UNFPA-2015-David-Brunetti.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

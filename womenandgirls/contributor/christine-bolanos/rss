@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Christine Bolaños</title>
+    <description>Christine Bolaños is a Texas-based freelance journalist covering government, education, human interest and business news. The IWMF fellow has reported on a range of topics, from bullying cases that have changed school policy, to women at NASA, Google and the FBI. Follow her @bolanosnews08 or https://www.linkedin.com/in/christinebolanos.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/christine-bolanos/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/christine-bolanos/rss"/>
+    <item>
+      <title>Guatemala’s First Lesbian Congresswoman Challenges Status Quo</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 29 May 2017 12:03:48 +0000</pubDate>
+      <author>Christine Bolaños</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/29/guatemalas-first-lesbian-congresswoman-challenges-status-quo</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/29/guatemalas-first-lesbian-congresswoman-challenges-status-quo</guid>
+      <description>Sandra Moran realized she was gay at a young age, but chose to hide her identity for fear of retaliation. Today, as Guatemala’s first openly gay member of Congress, she is helping to bring conversations about LGBT rights into the spotlight. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170529115841/Sandra-Moran-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Nuns Helping Women Build Businesses in El Salvador</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Fri, 20 Jan 2017 08:39:46 +0000</pubDate>
+      <author>Christine Bolaños</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/01/20/nuns-helping-women-build-businesses-el-salvador</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/01/20/nuns-helping-women-build-businesses-el-salvador</guid>
+      <description>After witnessing the tragedies of civil war in El Salvador, Sister Anne Marie Gardiner made it her mission to support female entrepreneurs as they become self-sustaining, challenge traditional gender roles and inspire their children to give something back to their communities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071215/Gardiner-SEW.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Salvadoran Community Where Women Take the Lead</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Tue, 06 Dec 2016 12:39:27 +0000</pubDate>
+      <author>Christine Bolaños</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/06/salvadoran-community-women-take-lead</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/06/salvadoran-community-women-take-lead</guid>
+      <description>In El Salvador, where being female often means being stigmatized, a small community has grown into a haven for displaced women. Now the people of the Romero Community have been granted rights to their land, allowing them to finally settle into their new lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072217/Romero1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Elaine Anselmi</title>
+    <description>Elaine Anselmi is a journalist based in Yellowknife and currently the associate editor of Up Here magazine. When she isn’t writing, she spends as much of her time as possible outdoors. But it does get cold in the North, so she has a well-stocked bookshelf.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/elaine-anselmi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/elaine-anselmi/rss"/>
+    <item>
+      <title>Iceland’s Tourism Boom Offers Lessons to Arctic Nations</title>
+      <pubDate>Wed, 04 Jan 2017 05:00:36 +0000</pubDate>
+      <author>Elaine Anselmi</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/01/04/icelands-tourism-boom-offers-lessons-to-arctic-nations</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/01/04/icelands-tourism-boom-offers-lessons-to-arctic-nations</guid>
+      <description>Tourism is now Iceland’s No. 1 industry, but this transformation hasn’t come without growing pains. Other northern regions can take note as they assess their own potential.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161229140414/reykjavik-snjor-jan-2012-1382-2-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>On Land and Water, Ulukhaktok Welcomes Luxury Cruiseliner</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 08 Sep 2016 11:41:40 +0000</pubDate>
+      <author>Elaine Anselmi</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/09/08/on-land-and-water-ulukhaktok-welcomes-luxury-cruiseliner</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/09/08/on-land-and-water-ulukhaktok-welcomes-luxury-cruiseliner</guid>
+      <description>Opportunity and risk come as a package deal as tickets to the Northwest Passage go up for sale. While critics decry the high-end travelers making their way North, their hosts offer another take.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160908113854/ADulu1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Clarissa Maracci</title>
+    <description>Clarissa Maracci is a reporter based in East Africa. She was a VICE Media fellow at the CUNY Journalism School in NYC.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/clarissa-maracci/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/clarissa-maracci/rss"/>
+    <item>
+      <title>Power From Pain: Standing up for Widows and Orphans in Kenya</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Tue, 17 Oct 2017 14:11:47 +0000</pubDate>
+      <author>Clarissa Maracci</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/10/17/power-from-pain-standing-up-for-widows-and-orphans-in-kenya</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/10/17/power-from-pain-standing-up-for-widows-and-orphans-in-kenya</guid>
+      <description>Divorced, widowed and childless, Roseline Orwa knows all too well the challenges faced by women in Kenya’s remote communities. Through her Rona Foundation, she pushes for the rights of widows around the country and helps them build new lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171017140947/Roseline-Orwa-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

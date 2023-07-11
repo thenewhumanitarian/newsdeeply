@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Anna Cavell</title>
+    <description>Anna Cavell is a journalist based in South Sudan. In Africa she has covered elections and investigated human trafficking in Uganda.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/anna-cavell/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/anna-cavell/rss"/>
+    <item>
+      <title>‘Not Your Body’: Ugandan Women Share Stories of Sexual Harassment</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Tue, 27 Jun 2017 08:40:45 +0000</pubDate>
+      <author>Anna Cavell</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/06/27/not-your-body-ugandan-women-share-stories-of-sexual-harassment</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/06/27/not-your-body-ugandan-women-share-stories-of-sexual-harassment</guid>
+      <description>The “Not Your Body” forum is a space where Ugandan women can recount their experiences of sexual harassment and discrimination. Women &amp; Girls caught up with its founder, Lindsey Kukunda. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170627083943/Screen-Shot-2017-06-26-at-18.26.45.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

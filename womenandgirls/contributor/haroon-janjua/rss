@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Haroon Janjua</title>
+    <description>Haroon Janjua is an award winning journalist reporting on security issues, militancy, economy and human rights from Islamabad, Pakistan. He is recipient of 2015 United Nations Correspondents Association Award and holds 2015 IE Business School Prize for best journalistic work on Latin America’s economy in Asia. He is 2015 Global Media Award winner from The Population Institute Washington DC. He tweets @JanjuaHaroon
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/haroon-janjua/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/haroon-janjua/rss"/>
+    <item>
+      <title>Amid Mass Returns, a Teacher’s Hopes for Refugee Girls in Afghanistan</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Thu, 09 Mar 2017 08:42:22 +0000</pubDate>
+      <author>Haroon Janjua</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/09/amid-mass-returns-teachers-hopes-refugee-girls-afghanistan</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/09/amid-mass-returns-teachers-hopes-refugee-girls-afghanistan</guid>
+      <description>As hundreds of thousands of Afghan refugees return from Pakistan, Refugees Deeply speaks to Aqeela Asifi, a prize-winning educator of refugee girls in the country’s Punjab province, about how the mass returns will impact girls’ education and thus the future of Afghanistan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071003/Afghan-refugees-in-Pakistan-return-to-their-country.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Amid Mass Returns, a Teacher’s Hopes for Refugee Girls in Afghanistan</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 09 Mar 2017 05:00:30 +0000</pubDate>
+      <author>Haroon Janjua</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/03/09/amid-mass-returns-a-teachers-hopes-for-refugee-girls-in-afghanistan</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/03/09/amid-mass-returns-a-teachers-hopes-for-refugee-girls-in-afghanistan</guid>
+      <description>As hundreds of thousands of Afghan refugees return from Pakistan, we speak to Aqeela Asifi, a prize-winning educator of refugee girls in the country’s Punjab province, about how the mass returns will impact girls’ education and thus the future of Afghanistan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170306142509/Afghan-refugees-in-Pakistan-return-to-their-country.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Even Fame Can’t Shield ‘Afghan Girl’ from Pakistan’s Refugee Clampdown</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Fri, 04 Nov 2016 14:30:12 +0000</pubDate>
+      <author>Charlotte Alfred, Haroon Janjua</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/11/04/even-fame-cant-shield-afghan-girl-from-pakistans-refugee-clampdown</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/11/04/even-fame-cant-shield-afghan-girl-from-pakistans-refugee-clampdown</guid>
+      <description>The “Afghan Girl” of National Geographic fame was arrested last week for obtaining a fake Pakistani ID and will shortly be deported. Her case illustrates the plight of hundreds of thousands of Afghans caught up in a Pakistani crackdown.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161104135713/Pakistan-Famed-Afghan-Woman.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

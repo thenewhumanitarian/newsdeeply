@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Gurvinder Singh</title>
+    <description>Gurvinder Singh is a freelance journalist based in Kolkata.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/gurvinder-singh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/gurvinder-singh/rss"/>
+    <item>
+      <title>Fighting for the Marriage Rights of Khasi Women</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Fri, 12 Oct 2018 15:49:00 +0000</pubDate>
+      <author>Gurvinder Singh</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/10/12/fighting-for-the-marriage-rights-of-khasi-women</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/10/12/fighting-for-the-marriage-rights-of-khasi-women</guid>
+      <description>Tensions are running high in India’s Khasi community, one of the world’s few remaining matrilineal societies, as a new bill seeks to prevent women from marrying non-tribal members.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181012154552/Khasi_Girls.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kolkata’s Only Woman Rickshaw-Puller Fights for Her Family’s Survival</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Wed, 07 Mar 2018 08:00:00 +0000</pubDate>
+      <author>Gurvinder Singh</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/03/07/kolkatas-only-woman-rickshaw-puller-fights-for-her-familys-survival</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/03/07/kolkatas-only-woman-rickshaw-puller-fights-for-her-familys-survival</guid>
+      <description>Mithu Pandit should be a trailblazer, but the first woman to break into Kolkata’s all-male rickshaw trade does not feel like one. She’s just trying to feed her family.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180307075556/IMG_20171029_1138371.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

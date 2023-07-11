@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Mahesh Bacham</title>
+    <description>Mahesh Bacham is a video journalist who specializes in capturing socially impactful stories of ordinary people. He is a member of 101Reporters, a pan-Indian network of grassroots reporters.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/mahesh-bacham/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/mahesh-bacham/rss"/>
+    <item>
+      <title>The Indian Women Campaigning for Clean Water</title>
+      <pubDate>Wed, 17 Oct 2018 12:30:00 +0000</pubDate>
+      <author>Mahesh Bacham</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/10/17/the-indian-women-campaigning-for-clean-water</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/10/17/the-indian-women-campaigning-for-clean-water</guid>
+      <description>A campaign started by the women of Beechaganahalli village in Karnataka, India, has transformed lives. Their efforts resulted in the building of a treatment plant to remove arsenic and fluoride from local groundwater – and now local people have clean water to drink.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181018071804/IndiaCleanWater.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Indian Domestic Workers Unionize to Secure Their Rights</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Thu, 19 Jul 2018 09:10:25 +0000</pubDate>
+      <author>Mahesh Bacham</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/19/indian-domestic-workers-unionize-to-secure-their-rights</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/19/indian-domestic-workers-unionize-to-secure-their-rights</guid>
+      <description>Nisha Mathews is a campaigner and hero to many women in Karnataka in India. She’s helped set up a union for domestic workers in the region, which today has more than 13,000 members.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180719085838/Nisha-still1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Women Reel in Profits After Switching to Fish Farming</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Wed, 20 Jun 2018 00:06:36 +0000</pubDate>
+      <author>Mahesh Bacham</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/06/20/women-reel-in-profits-after-switching-to-fish-farming</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/06/20/women-reel-in-profits-after-switching-to-fish-farming</guid>
+      <description>In rural Andhra Pradesh, it can be hard for women to make enough money to feed their families. But this group of women is taking on the male-dominated occupation of fish farming, and making it their own.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180620000832/fisherwomen-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Catching a Ride With the Only Woman Bus Driver in Bangalore</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <pubDate>Fri, 29 Sep 2017 11:16:24 +0000</pubDate>
+      <author>Elizabeth Mani, Mahesh Bacham</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/09/29/catching-a-ride-with-the-only-woman-bus-driver-in-bangalore</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/09/29/catching-a-ride-with-the-only-woman-bus-driver-in-bangalore</guid>
+      <description>There are over 100,000 bus drivers in the Indian city of Bangalore, but only one of them is a woman. Preema Nadapatti now wants to get other women to take to the roads.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170929111605/Bangalore-bus-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

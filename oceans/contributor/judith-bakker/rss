@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Judith Bakker</title>
+    <description>Judith Bakker: Research fellow, environment &amp;amp; life sciences, University of Salford.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/judith-bakker/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/judith-bakker/rss"/>
+    <item>
+      <title>In Oceans of DNA, Biologists Discover ‘Hidden’ Shark Diversity</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Fri, 04 May 2018 03:00:00 +0000</pubDate>
+      <author>Stefano Mariani, Judith Bakker</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/05/04/in-oceans-of-dna-biologists-discover-hidden-shark-diversity</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/05/04/in-oceans-of-dna-biologists-discover-hidden-shark-diversity</guid>
+      <description>Rapidly advancing technology allows scientists to find elusive sharks by detecting their DNA signature in the water. That could help devise more effective protections for predators decimated by overfishing and other threats.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180503124009/file-20180502-153878-1p7zmdc1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

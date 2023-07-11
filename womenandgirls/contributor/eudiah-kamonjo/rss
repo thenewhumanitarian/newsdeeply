@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Eudiah Kamonjo</title>
+    <description>Eudiah Kamonjo is a journalist and spoken-word artist based in Nairobi, Kenya. She has been working as a journalist since 2005. She is especially passionate about reporting on women, children and the arts. Her Twitter is @EudiahKamonjo.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/eudiah-kamonjo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/eudiah-kamonjo/rss"/>
+    <item>
+      <title>Photo Essay: Marching for Women’s Rights in Nairobi</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Mon, 23 Jan 2017 14:51:59 +0000</pubDate>
+      <author>Eudiah Kamonjo</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/01/23/photo-essay-marching-womens-rights-nairobi</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/01/23/photo-essay-marching-womens-rights-nairobi</guid>
+      <description>As millions of Americans took to the streets on Saturday, people gathered all over the world to highlight women’s issues in their countries, too. In Kenya, over 700 people came together to call for land rights for women and an end to discrimination and FGM.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071210/Kenya-Sex-Workers-Alliance-KESWA-calling-for-equal-rights-and-power.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

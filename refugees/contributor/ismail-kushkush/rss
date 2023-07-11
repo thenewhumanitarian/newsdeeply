@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Isma’il Kushkush</title>
+    <description>Isma’il Kushkush is a journalist who has contributed to the New York Times, CNN, the Associated Press and Reuters. He was based in Khartoum, Sudan, for eight years.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ismail-kushkush/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ismail-kushkush/rss"/>
+    <item>
+      <title>Israel’s Only Refugee Mental Health Clinic Works in Shadow of Closure</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 19 Jun 2018 13:10:00 +0000</pubDate>
+      <author>Isma’il Kushkush</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/06/19/israels-only-refugee-mental-health-clinic-works-in-shadow-of-closure</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/06/19/israels-only-refugee-mental-health-clinic-works-in-shadow-of-closure</guid>
+      <description>The Gesher Clinic in Jaffa is down to opening nine hours a week despite the overwhelming need for mental healthcare. Its patients, many of whom survived Sinai torture camps, face an uncertain future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180619131149/779824691.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

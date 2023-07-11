@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Brigid McCormack</title>
+    <description>Brigid McCormack is executive director of Audubon California. She can be reached via Twitter at @audubon_brigid.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/brigid-mccormack/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/brigid-mccormack/rss"/>
+    <item>
+      <title>Despite Rain, Drought Continues for Waterfowl</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Brigid McCormack</author>
+      <link>https://www.newsdeeply.com/water/community/2016/01/22/despite-rain-drought-continues-for-waterfowl</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/01/22/despite-rain-drought-continues-for-waterfowl</guid>
+      <description>Five million waterbirds rely on habitats along the Pacific Flyway in California that are increasingly threatened by insufficient water allocations to wildlife refuges. Even in a rainy year, these wetlands don’t have enough water.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104659/82f43a01-c1c8-45a6-8ddc-ae1626-56a20a18369bf.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

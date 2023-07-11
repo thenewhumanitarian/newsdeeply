@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Megan Alpert</title>
+    <description>Megan Alpert is a writer living in Washington, D.C. Her work has appeared on the websites of the Atlantic, Smithsonian, Foreign Policy and the Guardian.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/megan-alpert/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/megan-alpert/rss"/>
+    <item>
+      <title>U.S. Refugee Groups Grapple With ‘Crushing Human Cost’ of Trump Order</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 01 Feb 2017 06:52:08 +0000</pubDate>
+      <author>Megan Alpert</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/02/01/u-s-refugee-groups-grapple-with-crushing-human-cost-of-trump-order</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/02/01/u-s-refugee-groups-grapple-with-crushing-human-cost-of-trump-order</guid>
+      <description>A number of mostly faith-based organizations tasked with resettling refugees in America are rallying to support refugees in the country who fear they will never be reunited with relatives, while keeping their operations afloat during the suspension of the refugee program.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170201065044/US-POLITICS-TRUMP-IMMIGRATION-PROTEST.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

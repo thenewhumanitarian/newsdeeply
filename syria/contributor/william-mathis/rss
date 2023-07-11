@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: William Mathis</title>
+    <description>William Mathis is a freelance journalist based in New York City. He is a regular contributor to the Associated Press, DNAinfo and VICE. Follow him on Twitter @MathisWilliam.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/william-mathis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/william-mathis/rss"/>
+    <item>
+      <title>Young Film Directors Highlight the People of Zaatari</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Thu, 05 May 2016 03:20:48 +0000</pubDate>
+      <author>William Mathis</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/05/young-film-directors-highlight-the-people-of-zaatari</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/05/young-film-directors-highlight-the-people-of-zaatari</guid>
+      <description>Following refugee families and an aid worker fighting to keep the camp running, a new film produced by two young filmmakers and backed by Daily Show star Jon Stewart allows viewers to experience what it is like to live in Zaatari, the largest camp for Syrian refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160515142601/Mideast-Jordan-Syria.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

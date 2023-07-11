@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Jane Labous</title>
+    <description>Jane Labous is a writer, broadcaster and journalist focused on Africa, particularly humanitarian news and human interest stories.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/jane-labous/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/jane-labous/rss"/>
+    <item>
+      <title>Togo: the Girls Escaping Traffickers</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Wed, 18 May 2016 02:15:12 +0000</pubDate>
+      <author>Jane Labous</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/05/18/togo-the-girls-escaping-traffickers</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/05/18/togo-the-girls-escaping-traffickers</guid>
+      <description>In the West African country of Togo, aid agencies say thousands of girls fall into the hands of traffickers every year. Some manage to escape, only to be stigmatized by their communities, and are forced to work for a pittance.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406075149/The-road-from-Lom%C3%BD-to-Sokod.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Henry Langston, Vice Media</title>
+    <description>Henry Langston, news editor for Vice Media, monitors Syria as part of his weekly column on global affairs.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/henry-langston-vice-media/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/henry-langston-vice-media/rss"/>
+    <item>
+      <title>The View from Vice: This Week in Battle</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 23 Oct 2012 00:00:00 +0000</pubDate>
+      <author>Henry Langston, Vice Media</author>
+      <link>https://www.newsdeeply.com/syria/community/2012/10/23/the-view-from-vice-this-week-in-battle</link>
+      <guid>https://www.newsdeeply.com/syria/community/2012/10/23/the-view-from-vice-this-week-in-battle</guid>
+      <description>Henry Langston, news editor for Vice Media, monitors Syria as part of his weekly column on global affairs. .</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Sam Hamad</title>
+    <description>Sam Hamad is a writer and analyst of Middle Eastern affairs based in Edinburgh.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/sam-hamad/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/sam-hamad/rss"/>
+    <item>
+      <title>How Noam Chomsky Betrayed the Syrian People</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Sam Hamad</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/04/14/how-noam-chomsky-betrayed-the-syrian-people</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/04/14/how-noam-chomsky-betrayed-the-syrian-people</guid>
+      <description>American linguist and renowned left-wing activist Noam Chomsky’s stance on the Syria uprising turned proxy war is a betrayal of the Syrian people, writes analyst Sam Hamad. He has allowed his steadfast anti-imperialist approach to blind him to the Arab Spring’s complexities and contradictions.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112916/noam-chomsky-1977-570f528edec4b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

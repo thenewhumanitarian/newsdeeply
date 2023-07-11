@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Kate Stafford</title>
+    <description>Kate Stafford is an oceanographer with the University of Washington Applied Physics Laboratory. Her research focuses on the use of passive acoustic monitoring to study large whale species. The majority of her work is based in polar regions, with a particular focus on the Arctic.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/kate-stafford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/kate-stafford/rss"/>
+    <item>
+      <title>Barrow Canyon: Ecosystem at the Top of the World</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 13 Jun 2016 06:23:22 +0000</pubDate>
+      <author>Kate Stafford</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/06/13/barrow-canyon-ecosystem-at-the-top-of-the-world</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/06/13/barrow-canyon-ecosystem-at-the-top-of-the-world</guid>
+      <description>Each spring, more than 15,000 bowhead whales – and many more belugas –move from the Chukchi Sea to the Beaufort Sea through the canal-like deep water of the Barrow Canyon. University of Washington oceanographer Kate Stafford listens to the underwater cacophony.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160613061828/1-0L6T9wrgotKk8TcgC2nFkg.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

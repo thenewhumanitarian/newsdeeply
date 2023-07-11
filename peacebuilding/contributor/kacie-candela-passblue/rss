@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Kacie Candela, PassBlue</title>
+    <description>Kacie Candela is an assistant editor for PassBlue and a news anchor and reporter with WFUV, a public radio station in the Bronx, N.Y., where she covers the U.N. and other beats. Her work has won various awards from the New York State Associated Press Association, New York State Broadcasters Association, PRNDI and the Alliance for Women in Media.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/kacie-candela-passblue/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/kacie-candela-passblue/rss"/>
+    <item>
+      <title>Women in Peacekeeping: A Status Report</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/protection-peace/">Protection &amp; Peace</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/women-peace/">Women &amp; Peace</category>
+      <pubDate>Fri, 17 Aug 2018 10:00:00 +0000</pubDate>
+      <author>Kacie Candela, PassBlue</author>
+      <link>https://www.newsdeeply.com/peacebuilding/community/2018/08/17/women-in-peacekeeping-a-status-report</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/community/2018/08/17/women-in-peacekeeping-a-status-report</guid>
+      <description>Female participation in U.N. peacekeeping remains low, especially in military and combat roles. But more women are taking up civilian roles in peace operations, writes journalist Kacie Candela for PassBlue.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180817095950/Hkg100982901.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Heather McGregor</title>
+    <description>Heather E. McGregor holds a Social Sciences and Humanities Research Council of Canada postdoctoral fellowship in the Faculty of Education at the University of Ottawa. Her research into the history of curriculum, educational policy and schools led to the 2010 publication of “Inuit Education and Schools in the Eastern Arctic” (University of British Columbia Press, 2010).
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/heather-mcgregor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/heather-mcgregor/rss"/>
+    <item>
+      <title>North of 60: A New Approach to Inuit Relations and Northern Governance</title>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 28 Oct 2016 09:00:18 +0000</pubDate>
+      <author>Heather McGregor</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/28/north-of-60-a-new-approach-to-inuit-relations-and-northern-governance</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/28/north-of-60-a-new-approach-to-inuit-relations-and-northern-governance</guid>
+      <description>Governments need to offer more support for work on social issues and capacity building, says Duane Ningaqsiq Smith, former president of the Inuit Circumpolar Council Canada and CEO of the Inuvialuit Regional Corporation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161027100418/Sun_Over_Inuvik.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

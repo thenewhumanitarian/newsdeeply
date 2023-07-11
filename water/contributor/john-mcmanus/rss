@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: John McManus</title>
+    <description>John McManus is the president of the Golden Gate Salmon Association.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/john-mcmanus/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/john-mcmanus/rss"/>
+    <item>
+      <title>Innovative Water Storage Projects Aid Wildlife, Salmon and Fishing Jobs</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Fri, 18 May 2018 03:00:00 +0000</pubDate>
+      <author>Rachel Zwillinger, John McManus</author>
+      <link>https://www.newsdeeply.com/water/community/2018/05/18/innovative-water-storage-projects-aid-wildlife-salmon-and-fishing-jobs</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/05/18/innovative-water-storage-projects-aid-wildlife-salmon-and-fishing-jobs</guid>
+      <description>Environmental and fisheries groups have often opposed water storage projects. But two proposed projects in California have earned their backing, and Rachel Zwillinger of Defenders of Wildlife and John McManus of the Golden Gate Salmon Association, explain why.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180517093026/1149088_me_San_Joaquin_BRM51.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

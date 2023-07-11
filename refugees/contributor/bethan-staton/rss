@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Bethan Staton</title>
+    <description>Bethan Staton is a freelance journalist based in Amman, Jordan. She is a contributor to The Guardian, New Statesman, GlobalPost and Al Jazeera among others.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/bethan-staton/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/bethan-staton/rss"/>
+    <item>
+      <title>Deal to Deliver Help to Refugees at the Berm Divides Aid Community</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 28 Nov 2016 13:27:50 +0000</pubDate>
+      <author>Bethan Staton</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/11/28/deal-to-deliver-help-to-refugees-at-the-berm-divides-aid-community</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/11/28/deal-to-deliver-help-to-refugees-at-the-berm-divides-aid-community</guid>
+      <description>While a compromise has been reached with Jordan that allows access to 85,000 Syrians in the lawless border area between the two countries, lack of control over supplies and security has deterred some agencies from taking part.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161128132607/Mideast-Jordan-Stranded-Syrians.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Refugee Journalism Project: Putting Displaced Voices on the Front Page</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 24 Aug 2016 10:53:36 +0000</pubDate>
+      <author>Bethan Staton</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/08/24/refugee-journalism-project-putting-displaced-voices-on-the-front-page</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/08/24/refugee-journalism-project-putting-displaced-voices-on-the-front-page</guid>
+      <description>Refugees often lose professions as well as homelands. The Refugee Journalism Project in London is helping new arrivals to find work, rebuild careers and revive their skills in a new environment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160824105116/Aziz.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Jordan Experiment Spurs Jobs For Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <pubDate>Mon, 25 Jul 2016 05:00:09 +0000</pubDate>
+      <author>Bethan Staton</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/07/25/jordan-experiment-spurs-jobs-for-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/07/25/jordan-experiment-spurs-jobs-for-refugees</guid>
+      <description>Policy experts are hoping that a small patch of desert in Jordan can provide global answers to the refugee crisis by giving displaced Syrians the right to work.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160722134005/Mideast-Gulf-Migrants1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Reuben Okonda</title>
+    <description>Reuben Okonda is a freelance journalist based in Kisumu. His work has appeared in County Voice and the Sun Weekly in Kenya and Africa Confidential in Uganda.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/reuben-okonda/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/reuben-okonda/rss"/>
+    <item>
+      <title>A Surprising Solution to Kenya’s Cooking Fuel Crisis: Human Waste</title>
+      <pubDate>Fri, 27 Jul 2018 14:09:00 +0000</pubDate>
+      <author>Reuben Okonda</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/27/a-surprising-solution-to-kenyas-cooking-fuel-crisis-human-waste</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/27/a-surprising-solution-to-kenyas-cooking-fuel-crisis-human-waste</guid>
+      <description>The women restaurateurs of Nakuru were hit hard by a recent ban on logging that pushed up cooking fuel prices. But they are turning a profit again thanks to clean-burning briquettes made from human waste.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180727140854/Untitled21.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Gold Barred: In Rural Kenya, Women Banned From Mining Their Own Land</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Wed, 18 Apr 2018 09:20:00 +0000</pubDate>
+      <author>Reuben Okonda</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/18/gold-barred-in-rural-kenya-women-banned-from-mining-their-own-land</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/18/gold-barred-in-rural-kenya-women-banned-from-mining-their-own-land</guid>
+      <description>Mining for gold can provide a solid livelihood for many living in Kenya’s Kakamega county. But customary beliefs prohibit women from entering the mines, even on their own land, forcing them either to lease the land or leave the precious metal in the ground.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180418093028/AA_19022018_695338-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

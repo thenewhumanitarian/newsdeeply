@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Selina Ward</title>
+    <description>Selina Ward is a senior lecturer in the school of biological sciences at the University of Queensland. She is a director of the International River Foundation and a councillor and past president of the Australian Coral Reef Society.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/selina-ward/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/selina-ward/rss"/>
+    <item>
+      <title>Bleaching in Australia’s Northern Territory Is a Scary Sign for Corals</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <pubDate>Tue, 27 Mar 2018 03:00:00 +0000</pubDate>
+      <author>Selina Ward</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/03/27/bleaching-in-australias-northern-territory-is-a-scary-sign-for-corals</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/03/27/bleaching-in-australias-northern-territory-is-a-scary-sign-for-corals</guid>
+      <description>It’s not the first time bleaching has hit this area, but it is another indication that waters around Australia, and the world, are warming rapidly, says University of Queensland coral researcher Selina Ward.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180326143950/Bleached-Coral-The-Conversation.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

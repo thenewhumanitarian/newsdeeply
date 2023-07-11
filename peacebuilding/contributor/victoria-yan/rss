@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Victoria Yan</title>
+    <description>Victoria Yan is an American journalist based in Beirut writing for local newspaper The Daily Star.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/victoria-yan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/victoria-yan/rss"/>
+    <item>
+      <title>Saga of Beit Beirut: A Museum Struggles to Remember Civil War</title>
+      <pubDate>Wed, 18 Jul 2018 15:25:00 +0000</pubDate>
+      <author>Victoria Yan</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/07/18/saga-of-beit-beirut-a-museum-struggles-to-remember-civil-war</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/07/18/saga-of-beit-beirut-a-museum-struggles-to-remember-civil-war</guid>
+      <description>The civil war in Lebanon ended 28 years ago, but the state remains largely divided – even when it comes to how to remember the past. One Lebanese architect is trying to change that, but the road to remembrance has been challenging.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180718152601/Nic448242.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

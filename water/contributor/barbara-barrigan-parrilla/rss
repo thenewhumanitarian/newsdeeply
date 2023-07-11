@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Barbara Barrigan-Parrilla</title>
+    <description>Barbara Barrigan-Parrilla is executive director and cofounder of Restore the Delta.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/barbara-barrigan-parrilla/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/barbara-barrigan-parrilla/rss"/>
+    <item>
+      <title>Growing Evidence Highlights Cracks in California Delta Tunnels Plan</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 04 Oct 2016 05:25:02 +0000</pubDate>
+      <author>Barbara Barrigan-Parrilla</author>
+      <link>https://www.newsdeeply.com/water/community/2016/10/04/growing-evidence-highlights-cracks-in-california-delta-tunnels-plan</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/10/04/growing-evidence-highlights-cracks-in-california-delta-tunnels-plan</guid>
+      <description>An unpublished analysis shows that Gov. Jerry Brown’s plan to build twin tunnels won’t benefit either farmers or citizens, writes Barbara Barrigan-Parrilla, executive director of Restore the Delta.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161004062356/California-Water-Tunnels-Cost.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

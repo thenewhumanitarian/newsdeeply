@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Tala Mukaddam</title>
+    <description>Tala Mukaddam is a journalist based in Beirut, Lebanon who spent nearly 18 months chronicling the crisis in Syria through English and Arabic social media. She has highlighted what are, in her mind, the top Syrian Facebook groups and some of the best Twitter handles to follow
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/tala-mukaddam/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/tala-mukaddam/rss"/>
+    <item>
+      <title>The Facebook Factor</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Mon, 15 Oct 2012 00:00:00 +0000</pubDate>
+      <author>Tala Mukaddam</author>
+      <link>https://www.newsdeeply.com/syria/community/2012/10/15/the-facebook-factor</link>
+      <guid>https://www.newsdeeply.com/syria/community/2012/10/15/the-facebook-factor</guid>
+      <description>Tala Mukaddam is a journalist based in Beirut, Lebanon who spent nearly 18 months chronicling the crisis in Syria through English and Arabic social media. .</description>
+    </item>
+  </channel>
+</rss>

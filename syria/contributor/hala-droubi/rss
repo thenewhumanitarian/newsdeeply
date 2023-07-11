@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Hala Droubi</title>
+    <description>Hala Droubi is a Syrian reporter. Columbia Journalism School Graduate. Worked for the New York Times in Beirut and Yahoo! In Dubai. She’s heading the Karam Journalism Program.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/hala-droubi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/hala-droubi/rss"/>
+    <item>
+      <title>Syrian Trainees Tell Stories in Their Own Words</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Hala Droubi</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/04/12/syrian-trainees-tell-stories-in-their-own-words</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/04/12/syrian-trainees-tell-stories-in-their-own-words</guid>
+      <description>While many journalists travel to the Turkish border to hear the stories of Syrian refugees, journalist Hala Droubi and the Karam Foundation are doing something refreshingly different. They have created a program that provides young Syrians with the knowledge and skills to tell their own story.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112917/10827990_768685756544470_55528-570cd1f39cab5.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

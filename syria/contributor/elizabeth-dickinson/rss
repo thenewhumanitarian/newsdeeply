@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Elizabeth Dickinson</title>
+    <description>Elizabeth Dickinson is a Gulf-based American journalist who has written for The New Yorker, Foreign Policy, The Economist, the Christian Science Monitor, The National, and Al Monitor, as well as the Wall Street Journal, the New York Times, and The New Republic, among others.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/elizabeth-dickinson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/elizabeth-dickinson/rss"/>
+    <item>
+      <title>Spending Time with Jordan’s Invisible Refugees</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Elizabeth Dickinson</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/06/11/spending-time-with-jordans-invisible-refugees</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/06/11/spending-time-with-jordans-invisible-refugees</guid>
+      <description>Elizabeth Dickinson spent time with Syrian refugees in Amman. Here’s what she found.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Andrea Castillo</title>
+    <description>Andrea Castillo is a Fresno Bee reporter covering diverse communities.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/andrea-castillo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/andrea-castillo/rss"/>
+    <item>
+      <title>New San Joaquin River Dam Dominates Meeting On Water Storage Solutions</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      <author>Andrea Castillo</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/10/22/new-san-joaquin-river-dam-dominates-meeting-on-water-storage-solutions</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/10/22/new-san-joaquin-river-dam-dominates-meeting-on-water-storage-solutions</guid>
+      <description>FRESNO BEE: Commission sought to update rules for the water storage spending, but some people only wanted to discuss Temperance Flat Dam.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102435/a72761ce-d479-4eb0-a200-49971a-562917741f40b.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Life Without Water – Hope Runs Dry for East Porterville Woman</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Andrea Castillo</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/07/30/life-without-water-hope-runs-dry-for-east-porterville-woman</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/07/30/life-without-water-hope-runs-dry-for-east-porterville-woman</guid>
+      <description>FRESNO BEE: “I don’t think I’ll last another year here like this,” says Juana Garcia. “How can the children and I live without water?”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102558/wd-hero-55b8fbcddd198.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Laura Seoane</title>
+    <description>Laura Seoane is a freelance journalist and filmmaker originally from Madrid who specializes in gender, human rights and international affairs. Her most recent project, Women at Work, explores the lives of working women in India.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/laura-seoane/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/laura-seoane/rss"/>
+    <item>
+      <title>Video: All-Female Advice Groups Help Indian Women Get Into the Workforce</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Thu, 13 Jul 2017 07:13:25 +0000</pubDate>
+      <author>Laura Seoane</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/07/13/all-female-advice-groups-help-indian-women-get-into-the-workforce</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/07/13/all-female-advice-groups-help-indian-women-get-into-the-workforce</guid>
+      <description>India has one of the lowest rates for women in paid employment in the world. But women’s groups in rural areas are helping each other to start businesses and become financially independent.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170713071229/Indian-women-work-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

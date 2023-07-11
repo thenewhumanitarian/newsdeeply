@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Michael A. Livermore</title>
+    <description>Michael A. Livermore is an associate professor of law at the University of Virginia and a senior adviser for the Institute for Policy Integrity at New York University School of Law.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/michael-a-livermore/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/michael-a-livermore/rss"/>
+    <item>
+      <title>Offshore Drilling: Why Waiting Makes Fiscal Sense</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 05 May 2016 03:34:38 +0000</pubDate>
+      <author>Michael A. Livermore</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/05/05/offshore-drilling-why-waiting-makes-fiscal-sense</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/05/05/offshore-drilling-why-waiting-makes-fiscal-sense</guid>
+      <description>Lawmakers and activists are urging the U.S. Department of the Interior to ban oil and gas drilling in the Arctic Ocean. But there are also financial reasons to be cautious about fossil fuel development.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160515144056/Artic-Drilling.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

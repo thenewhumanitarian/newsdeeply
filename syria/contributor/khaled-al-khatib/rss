@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Khaled Al Khatib</title>
+    <description>Khaled Al Khatib is a Syrian contributor for Syria Deeply
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/khaled-al-khatib/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/khaled-al-khatib/rss"/>
+    <item>
+      <title>Aleppo Residents Struggle to Fight ISIS – But Remain Wary of U.S. Strikes</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <author>Khaled Al Khatib</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/10/01/aleppo-residents-struggle-to-fight-isis-but-remain-wary-of-u-s-strikes</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/10/01/aleppo-residents-struggle-to-fight-isis-but-remain-wary-of-u-s-strikes</guid>
+      <description>“ISIS claim they are carrying out Islamic doctrine, and then they kill innocent people,” says one resident, who fled his hometown as the militant group advanced. “For me, they are criminals with no respect for human beings and their legitimate rights. They don’t represent Islam.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115011/002-542c359dba808.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

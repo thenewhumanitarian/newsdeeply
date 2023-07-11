@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Medecins Sans Frontieres</title>
+    <description>Doctors Without Borders/Médecins Sans Frontières (MSF) is an international medical humanitarian organization created by doctors and journalists in France in 1971.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/medecins-sans-frontieres/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/medecins-sans-frontieres/rss"/>
+    <item>
+      <title>Médecins Sans Frontières Dispatch: ‘The Stories Are Many, and They Are All Heartbreaking’</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 +0000</pubDate>
+      <author>Medecins Sans Frontieres</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/03/20/medecins-sans-frontieres-dispatch-the-stories-are-many-and-they-are-all-heartbreaking</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/03/20/medecins-sans-frontieres-dispatch-the-stories-are-many-and-they-are-all-heartbreaking</guid>
+      <description>“Today we only have one general surgeon and one orthopedic surgeon in all of al-Houleh, for more than 90,000 people,” a doctor in northern Homs tell us.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114716/screen-shot-2015-03-20-at-1-13-550c00a24ee01.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Médecins Sans Frontières Dispatch: Surgery Under Siege</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+      <author>Medecins Sans Frontieres</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/03/18/medecins-sans-frontieres-dispatch-surgery-under-siege</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/03/18/medecins-sans-frontieres-dispatch-surgery-under-siege</guid>
+      <description>“Every moment of every day I feel I have had enough, but we have no other choice. People here need us. They are in desperate need of all kinds of medical care, from the most simple to the most complicated.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114718/b0e90faa-d2c8-438d-aa3e-759b87-550963bb0c535.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Syria: Hospitals Overwhelmed Amid Aleppo Bombings</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Medecins Sans Frontieres</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/12/18/syria-hospitals-overwhelmed-amid-aleppo-bombings</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/12/18/syria-hospitals-overwhelmed-amid-aleppo-bombings</guid>
+      <description>Hospitals in the northern Syrian city of Aleppo are overwhelmed with patients injured in an ongoing wave of airstrikes that have already killed more than 100 people, the international medical humanitarian organization Doctors Without Borders/Médecins Sans Frontières (MSF) said today.</description>
+    </item>
+  </channel>
+</rss>

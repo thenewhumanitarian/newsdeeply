@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Emily Courey Pryor</title>
+    <description>Emily Courey Pryor is Executive Director of Data2X, a dynamic platform hosted at the UN Foundation which promotes and enables the production and use of gender data to improve the lives of women and girls.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/emily-courey-pryor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/emily-courey-pryor/rss"/>
+    <item>
+      <title>Gender Data Is Essential to Drive SDG Advocacy for Women and Girls</title>
+      <pubDate>Thu, 20 Sep 2018 07:30:00 +0000</pubDate>
+      <author>Emily Courey Pryor</author>
+      <link>https://www.newsdeeply.com/womensadvancement/community/2018/09/20/gender-data-is-essential-to-drive-sdg-advocacy-for-women-and-girls</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/community/2018/09/20/gender-data-is-essential-to-drive-sdg-advocacy-for-women-and-girls</guid>
+      <description>A new index brings us one step closer to measuring progress toward gender equality under the U.N. Sustainable Development Goals, but ultimate success is hampered by a persistent problem: gaps in the relevant data.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180920065401/UNGA_M_Sullivan-581.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Countries Need to Use Gender Data to Track SDG Progress. Here’s How</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Thu, 12 Jul 2018 11:22:00 +0000</pubDate>
+      <author>Emily Courey Pryor</author>
+      <link>https://www.newsdeeply.com/womensadvancement/community/2018/07/12/countries-need-to-use-gender-data-to-track-sdg-progress-heres-how</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/community/2018/07/12/countries-need-to-use-gender-data-to-track-sdg-progress-heres-how</guid>
+      <description>Understanding how all dimensions of development impact women and girls is essential to fulfilling the Sustainable Development Goals, and we can’t do that without good gender-disaggregated data, says Emily Courey Pryor, executive director of Data2X.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180712112101/AFP_1252GU1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

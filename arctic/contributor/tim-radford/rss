@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Tim Radford</title>
+    <description>Tim Radford is Arctic Deeply contributor.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/tim-radford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/tim-radford/rss"/>
+    <item>
+      <title>Cloud Blanket Warms Up Melting Ice Cap</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Tim Radford</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/02/01/cloud-blanket-warms-up-melting-ice-cap</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/02/01/cloud-blanket-warms-up-melting-ice-cap</guid>
+      <description>CLIMATE NEWS NETWORK: A new study shows that up to 30 percent of the Greenland ice-cap melting is due to cloud cover that is helping to raise temperatures by as much as 3C (5.4F) – like a blanket that keeps the surface warm − and so accelerate sea level rise.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092858/greenland-the-ice-puzzle-56af6e7b8ade4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

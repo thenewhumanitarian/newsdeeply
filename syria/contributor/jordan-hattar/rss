@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jordan Hattar</title>
+    <description>Jordan Hattar is a junior at California State University, Long Beach. He founded www.help4refugees.org, a website to help Syrians civilians suffering in the crisis. He delivered aid and began reporting on the Za’atri refugee camp in Jordan three weeks ago, filing stories and images for Syria Deeply
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jordan-hattar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jordan-hattar/rss"/>
+    <item>
+      <title>A Plea for Help</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 23 Oct 2012 00:00:00 +0000</pubDate>
+      <author>Jordan Hattar</author>
+      <link>https://www.newsdeeply.com/syria/community/2012/10/23/a-plea-for-help</link>
+      <guid>https://www.newsdeeply.com/syria/community/2012/10/23/a-plea-for-help</guid>
+      <description>Jordan Hattar is a junior at California State University, Long Beach. He founded www.help4refugees.org, a website to help Syrians civilians suffering in the crisis. He delivered aid and began reporting on the Za’atri refugee camp in Jordan three weeks ago, filing stories and images for Syria Deeply.</description>
+    </item>
+  </channel>
+</rss>

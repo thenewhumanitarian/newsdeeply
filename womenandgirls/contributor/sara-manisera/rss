@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Sara Manisera</title>
+    <description>Sara Manisera is a freelance journalist focused on the Middle East. She has an MA in Euro-Mediterranean relations and the Arab world from Saint Joseph University, Beirut, and a degree in international relations from Milan.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/sara-manisera/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/sara-manisera/rss"/>
+    <item>
+      <title>‘I Came for the Jihad’: Women Tell of Life in the Islamic State</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Fri, 29 Sep 2017 10:46:19 +0000</pubDate>
+      <author>Sara Manisera</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/09/29/i-came-for-the-jihad-women-tell-of-life-in-the-islamic-state-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/09/29/i-came-for-the-jihad-women-tell-of-life-in-the-islamic-state-2</guid>
+      <description>They were the brides of the so-called Islamic State. These days, they are detained in a camp for the internally displaced north of Raqqa city. They speak to Syria Deeply about life in the caliphate, and whether or not they would return to their homes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170928125917/d7e50e34-fd57-4a02-b764-debe84128aff.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘I Came for the Jihad’: Women Tell of Life in the Islamic State</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/isis/">ISIS</category>
+      <pubDate>Fri, 29 Sep 2017 03:00:19 +0000</pubDate>
+      <author>Sara Manisera</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/09/29/i-came-for-the-jihad-women-tell-of-life-in-the-islamic-state</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/09/29/i-came-for-the-jihad-women-tell-of-life-in-the-islamic-state</guid>
+      <description>They were the brides of the so-called Islamic State. These days, they are detained in a camp for the internally displaced north of Raqqa city. They speak to Syria Deeply about life in the caliphate, and whether or not they would return to their homes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170928125917/d7e50e34-fd57-4a02-b764-debe84128aff.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Mark Squillace</title>
+    <description>Mark Squillace is a professor of law at the University of Colorado Law School. He is currently writing about the public interest in water resources.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/mark-squillace/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/mark-squillace/rss"/>
+    <item>
+      <title>Don’t Blame Water Markets for Trouble With Western Rivers</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 16 Jun 2017 05:00:39 +0000</pubDate>
+      <author>Mark Squillace</author>
+      <link>https://www.newsdeeply.com/water/community/2017/06/16/dont-blame-water-markets-for-trouble-with-western-rivers</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/06/16/dont-blame-water-markets-for-trouble-with-western-rivers</guid>
+      <description>When it comes to protecting the West’s rivers, water markets are not the problem, says University of Colorado law professor Mark Squillace. Instead, it’s our failure to protect the public interest.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170614065054/Fallowing-for-Water.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

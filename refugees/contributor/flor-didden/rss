@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Flor Didden</title>
+    <description>Flor Didden is the migration policy officer at 11.11.11 Coalition of the Flemish North-South movement.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/flor-didden/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/flor-didden/rss"/>
+    <item>
+      <title>What Belgium’s Migrant Torture Crisis Tells Us About Europe</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 17 Jan 2018 11:00:00 +0000</pubDate>
+      <author>Flor Didden</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/01/17/what-belgiums-migrant-torture-crisis-tells-us-about-europe</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/01/17/what-belgiums-migrant-torture-crisis-tells-us-about-europe</guid>
+      <description>Belgium’s controversial migration minister Theo Francken survived claims that he deported Sudanese migrants back into harm’s way. Flor Didden from the Flemish North-South Movement warns that more returns will mean more scandals.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180117111334/arroyofernandez-thousand180113_npRpG1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

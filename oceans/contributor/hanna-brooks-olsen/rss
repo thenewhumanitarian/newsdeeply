@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Hanna Brooks Olsen</title>
+    <description>Hanna Brooks Olsen is a writer living in Seattle. She is the cofounding editor of Seattlish. Her writing has been published in such publications asThe Atlantic, Salon, CityLab and McSweeney’s.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/hanna-brooks-olsen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/hanna-brooks-olsen/rss"/>
+    <item>
+      <title>Why Tearing Down Dams Could Help Save Endangered Killer Whales</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <pubDate>Mon, 25 Sep 2017 09:58:10 +0000</pubDate>
+      <author>Hanna Brooks Olsen</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/09/25/why-tearing-down-dams-could-help-save-endangered-killer-whales</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/09/25/why-tearing-down-dams-could-help-save-endangered-killer-whales</guid>
+      <description>Dams, pollution and development have taken a toll on salmon populations in Washington State. Now researchers find that the lack of fish is causing pregnant orcas to miscarry, further imperiling the endangered killer whales. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170925095424/kw_from_above_large_noaa_fisheries_vancouver_aquarium_06.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

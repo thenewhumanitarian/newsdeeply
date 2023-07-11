@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Stefanie Glinski</title>
+    <description>Stefanie is a journalist and photographer based in South Sudan.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/stefanie-glinski/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/stefanie-glinski/rss"/>
+    <item>
+      <title>Only Lasting Peace Can Help Stem Famine in South Sudan</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/protection-peace/">Protection &amp; Peace</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/stability-development/">Stability &amp; Development</category>
+      <pubDate>Wed, 04 Jul 2018 00:20:00 +0000</pubDate>
+      <author>Stefanie Glinski</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/07/04/only-lasting-peace-can-help-stem-famine-in-south-sudan</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/07/04/only-lasting-peace-can-help-stem-famine-in-south-sudan</guid>
+      <description>Violations of South Sudan’s latest ceasefire have spurred concerns that continued fighting will increase food scarcity in the country. Only lasting peace can ameliorate the situation, writes journalist Stefanie Glinski for IRIN news.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180704002404/AFP_P464J2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sleeping at the Altar: Crowds Take Refuge in South Sudan’s Churches</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Wed, 23 Aug 2017 12:25:48 +0000</pubDate>
+      <author>Stefanie Glinski</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/23/sleeping-at-the-altar-crowds-take-refuge-in-south-sudans-churches</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/23/sleeping-at-the-altar-crowds-take-refuge-in-south-sudans-churches</guid>
+      <description>Over 10,000 people have fled to a Catholic cathedral in South Sudan’s second largest city. Stefanie Glinski reports for IRIN News on the civilians sheltering with little food aid and scant security in the hope that fighters will at least spare the nation’s churches. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170823121945/wau_3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

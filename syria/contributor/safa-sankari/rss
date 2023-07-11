@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Safa Sankari</title>
+    <description>Safa Sankari is a Syrian American activist who works with the Syria team for Women Under Siege. She is the co-founder and former president of the Syrian American Medical Society Michigan Foundation, a nonprofit organization that was active in assisting in the ongoing humanitarian and medical crisis in Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/safa-sankari/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/safa-sankari/rss"/>
+    <item>
+      <title>No More Music, No More Jasmine: A Syrian-American’s Reflections on Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Safa Sankari</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/06/25/no-more-music-no-more-jasmine-a-syrian-americans-reflections-on-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/06/25/no-more-music-no-more-jasmine-a-syrian-americans-reflections-on-aleppo</guid>
+      <description>Women Under Siege reflects on the city’s changed landscape.</description>
+    </item>
+  </channel>
+</rss>

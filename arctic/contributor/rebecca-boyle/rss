@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Rebecca Boyle</title>
+    <description>Rebecca Boyle is an award-winning freelance journalist who writes about astronomy, zoonoses and everything in-between. She is a contributing writer for the Atlantic, and her work regularly appears in Popular Science, New Scientist, FiveThirtyEight, Wired and many other publications for adults and children. Rebecca lives in St. Louis, at the confluence of North America’s two mightiest rivers. Follow her on Twitter @rboyle31.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/rebecca-boyle/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/rebecca-boyle/rss"/>
+    <item>
+      <title>For the Melting Arctic, Fuzzy Forecasts Are the Best We Can Do</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Wed, 21 Sep 2016 05:00:30 +0000</pubDate>
+      <author>Rebecca Boyle</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/09/21/for-the-melting-arctic-fuzzy-forecasts-are-the-best-we-can-do</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/09/21/for-the-melting-arctic-fuzzy-forecasts-are-the-best-we-can-do</guid>
+      <description>Some people claim to know when the Arctic Ocean will become ice-free. They don’t. Scientists’ best estimates of how the climate will evolve come from complex computer models. But even these can’t account for all possible scenarios, especially far into the future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160920055844/6715934387_659cdeab4b_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rachel Townzen</title>
+    <description>Rachel Townzen is a 2nd year Master of Social Work student at the University of Pennsylvania. She has worked in programs serving refugees and asylum-seekers in the US, Armenia, and Jordan. As a 2016 student fellow of the Pulitzer Center on Crisis Reporting, she reports on issues related to identity, trust, and technology for Syrian refugees in Jordan. To view more of Rachel’s project click here.
+.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rachel-townzen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rachel-townzen/rss"/>
+    <item>
+      <title>Trusting Tech Initiatives Isn’t Easy for Most Syrians</title>
+      <category domain="https://www.newsdeeply.com/syria/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Tue, 20 Sep 2016 16:57:41 +0000</pubDate>
+      <author>Rachel Townzen</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/20/trusting-tech-initiatives-isnt-easy-for-most-syrians-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/20/trusting-tech-initiatives-isnt-easy-for-most-syrians-2</guid>
+      <description>In light of the U.N. Summit for Refugees and Migrants in New York, we explore what it means for Syrians and Syrian refugees to stay safe in a tech-driven world where new technologies and data-collection initiatives are on the rise. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160920110728/refugees-tech.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Trusting Tech Initiatives Isn’t Easy for Most Syrians</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Tue, 20 Sep 2016 11:08:34 +0000</pubDate>
+      <author>Rachel Townzen</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/09/20/trusting-tech-initiatives-isnt-easy-for-most-syrians</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/09/20/trusting-tech-initiatives-isnt-easy-for-most-syrians</guid>
+      <description>In light of the U.N. Summit for Refugees and Migrants in New York, we explore what it means for Syrians and Syrian refugees to stay safe in a tech-driven world where new technologies and data-collection initiatives are on the rise. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160920110728/refugees-tech.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

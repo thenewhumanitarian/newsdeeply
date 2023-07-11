@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Michael Kiparsky</title>
+    <description>Michael Kiparsky is director of the Wheeler Water Institute, and a co-director of U.C. Water.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/michael-kiparsky/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/michael-kiparsky/rss"/>
+    <item>
+      <title>Saving Troubled Water Systems Requires Flexible Solutions, Not Mandates</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/water/toxic-taps/">Toxic Taps</category>
+      <pubDate>Mon, 10 Sep 2018 08:00:00 +0000</pubDate>
+      <author>Nell Green Nylen, Michael Kiparsky</author>
+      <link>https://www.newsdeeply.com/water/community/2018/09/10/saving-troubled-water-systems-requires-flexible-solutions-not-mandates</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/09/10/saving-troubled-water-systems-requires-flexible-solutions-not-mandates</guid>
+      <description>California’s five-year drought highlighted the struggles faced by small water systems. Legal and policy solutions are in the works, but they must remain adaptable to meet the needs of small communities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180910070458/ca-drought1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Accelerating Innovation in the Urban Water Sector</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Tue, 19 Jul 2016 10:03:59 +0000</pubDate>
+      <author>Michael Kiparsky</author>
+      <link>https://www.newsdeeply.com/water/community/2016/07/19/accelerating-innovation-in-the-urban-water-sector</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/07/19/accelerating-innovation-in-the-urban-water-sector</guid>
+      <description>Our water systems need innovation, but the task of bringing new ideas to fruition falls on a sector that is regarded as conservative and risk averse, writes Michael Kiparsky, director of the Wheeler Water Institute.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160719094818/El-Nino-Storms-Capturing-Rain1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Eli Kintisch</title>
+    <description>Eli Kintisch is a correspondent for Science magazine who focuses on climate science, the Arctic, and environmental science. A story he wrote in 2014 was included in the Best American Science and Nature Writing anthology. Between 2011 and 2013 he was an MIT Knight Science Writing Fellow in Cambridge, Massachusetts. His 2010 book Hack the Planet: “Science’s Best Hope – Or Worst Nightmare – For Averting Climate Catastrophe” received a starred review from Publishers Weekly, which called it “fascinating” and “engaged but balanced.”
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/eli-kintisch/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/eli-kintisch/rss"/>
+    <item>
+      <title>People of the Sea Ice See Cracks Forming</title>
+      <category domain="https://www.newsdeeply.com/arctic/climate/">Climate</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Mon, 30 Jan 2017 12:09:11 +0000</pubDate>
+      <author>Eli Kintisch</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/01/30/people-of-the-sea-ice-see-cracks-forming</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/01/30/people-of-the-sea-ice-see-cracks-forming</guid>
+      <description>One of Canada’s more northerly communities reinvents its relationship with a thawing landscape, reports Hakai Magazine.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170130120405/header-nain-sea-ice.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Martina Tyrrell</title>
+    <description>Martina Tyrrell is an environmental anthropologist. She is an honorary research fellow and human geographer at the University of Exeter. Her research explores Inuit perception, knowledge and use of the sea, with a particular focus on marine mammal conservation and its impact on human-animal relationships.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/martina-tyrrell/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/martina-tyrrell/rss"/>
+    <item>
+      <title>Environmental NGOs Team Up with Inuit</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 20 May 2016 05:08:49 +0000</pubDate>
+      <author>Martina Tyrrell</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/05/20/environmental-ngos-team-up-with-inuit</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/05/20/environmental-ngos-team-up-with-inuit</guid>
+      <description>The relationship between Indigenous organizations and environmental NGOs used to be one of conflict and suspicion. But now these groups are working together to protect species, environments, culture and a common future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160520050312/Adventfjorden_Greenpeace_IMG_2861_Arctic_Sunrise.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

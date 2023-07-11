@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Joseph Dutton</title>
+    <description>Joseph Dutton is an associate research fellow at the University of Exeter’s Energy Policy Group, working on the politics of U.K. and European energy policy interactions.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/joseph-dutton/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/joseph-dutton/rss"/>
+    <item>
+      <title>Norway May Open Lofoten Islands to Oil and Gas</title>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Joseph Dutton</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/02/15/norway-may-open-lofoten-islands-to-oil-and-gas</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/02/15/norway-may-open-lofoten-islands-to-oil-and-gas</guid>
+      <description>Each year, Norway awards licenses for offshore oil and gas development. Typically, these are covered mainly in the specialist media, but this year was more controversial after the country’s energy minister argued that the environmentally sensitive Lofoten islands “must at some point come into play”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094449/4c8cf3df-bc47-4cb8-9a79-f0ce1a-56bdb148a9b86.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

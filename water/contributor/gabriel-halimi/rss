@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Gabriel Halimi</title>
+    <description>Gabriel Halimi is cofounder and CEO of Flo Technologies, a Los Angeles-based family company providing innovative and accessible technology solutions that enable and transform the control and conservation of water at home.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/gabriel-halimi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/gabriel-halimi/rss"/>
+    <item>
+      <title>The Next Water Frontier: Efficiency Technology</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Thu, 22 Dec 2016 06:56:49 +0000</pubDate>
+      <author>Gabriel Halimi</author>
+      <link>https://www.newsdeeply.com/water/community/2016/12/22/the-next-water-frontier-efficiency-technology</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/12/22/the-next-water-frontier-efficiency-technology</guid>
+      <description>Water efficiency technology is set to become the next essential household management tool and will help contribute to California’s innovative and tech-savvy economy, writes Gabriel Halimi, cofounder of Flo Technologies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161222065520/California-Drought30.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

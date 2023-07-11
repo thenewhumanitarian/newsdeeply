@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Dr. Ibrahim al-Masri</title>
+    <description>Dr. Ibrahim al-Masri is a Syrian physician living in Canada. During four years of exile in Lebanon, he cofounded the NGO Multi Aid Programs (MAPS), was MAPS manager of health programs and medical director of the Syrian American Medical Society (SAMS) in Lebanon.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/dr-ibrahim-al-masri/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/dr-ibrahim-al-masri/rss"/>
+    <item>
+      <title>A Doctor’s Duty Is Not Disrupted by War</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Wed, 06 Sep 2017 10:32:08 +0000</pubDate>
+      <author>Dr. Ibrahim al-Masri</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/09/06/a-doctors-duty-is-not-disrupted-by-war-2</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/09/06/a-doctors-duty-is-not-disrupted-by-war-2</guid>
+      <description>Neither the Syrian war nor the severe restrictions of exile in Lebanon could keep Dr. Ibrahim al-Masri from his work. The Syrian doctor, now resettled in Canada, tells his story of fighting for the rights and health of refugees. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170906083003/SYRIA-CONFLICT-CHILDREN-HEALTH.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Doctor’s Duty Is Not Disrupted by War</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 06 Sep 2017 08:32:36 +0000</pubDate>
+      <author>Dr. Ibrahim al-Masri</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/09/06/a-doctors-duty-is-not-disrupted-by-war</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/09/06/a-doctors-duty-is-not-disrupted-by-war</guid>
+      <description>Neither the Syrian war nor the severe restrictions of exile in Lebanon could keep Dr. Ibrahim al-Masri from his work. The Syrian doctor, now resettled in Canada, tells his story of fighting for the rights and health of refugees. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170906083003/SYRIA-CONFLICT-CHILDREN-HEALTH.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

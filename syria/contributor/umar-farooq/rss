@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Umar Farooq</title>
+    <description>Umar Farooq is a freelance journalist whose work has appeared in Foreign Policy, the Wall Street Journal, the Christian Science Monitor, the Los Angeles Times, the Daily Beast, Al Jazeera English, and IRIN News
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/umar-farooq/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/umar-farooq/rss"/>
+    <item>
+      <title>Turkmen Caught Between ISIS, Assad and Russia</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Umar Farooq</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/11/26/turkmen-caught-between-isis-assad-and-russia</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/11/26/turkmen-caught-between-isis-assad-and-russia</guid>
+      <description>Turkmen have been involved in Syria’s civil war since the beginning of the uprising, but the group has only recently come to prominence due to Russia’s military intervention. Aligned with Turkey against Assad and Russia, and too moderate to join with ISIS, the minority militia is getting hit from all sides.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114326/3579cf03-f5ae-4220-a05f-087e68-5657343cd4443.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

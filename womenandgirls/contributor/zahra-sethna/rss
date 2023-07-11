@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Zahra Sethna</title>
+    <description>Zahra Sethna is the editor of Plan International’s new report, “Counting the Invisible,” and leads on content development for a new civil society partnership to track implementation of the Sustainable Development Goals for girls and women. She has a Master’s degree in journalism and has worked at UNICEF, the New York Times and the Canadian Broadcasting Corporation.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/zahra-sethna/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/zahra-sethna/rss"/>
+    <item>
+      <title>Shining a Light on Invisible Girls and Women: Why Gender Data Matters</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Tue, 11 Oct 2016 12:25:04 +0000</pubDate>
+      <author>Zahra Sethna</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/10/11/shining-light-invisible-girls-women-gender-data-matters</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/10/11/shining-light-invisible-girls-women-gender-data-matters</guid>
+      <description>On International Day of the Girl, girls are demonstrating their ability to change the world. Yet more needs to be done to make all girls visible, including gathering meaningful data about their lives, writes Plan International’s Zahra Sethna.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073049/DayofGirl-oped1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

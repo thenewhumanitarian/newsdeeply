@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Osama Nassar</title>
+    <description>Ozama Nassar is a Syrian human Rights Activist in Eastern Ghouta, outside of Damascus.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/osama-nassar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/osama-nassar/rss"/>
+    <item>
+      <title>The Life of a Syrian Activist</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Osama Nassar</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/03/15/the-life-of-a-syrian-activist</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/03/15/the-life-of-a-syrian-activist</guid>
+      <description>Five years ago, human rights activist Osama Nassar witnessed and then started taking part in the protests and violent government response that sparked Syria’s war. Since then, he and his family have been arrested, intimidated and forced underground. He told Amnesty International their story.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112926/osama-at-work-56e8202431a4f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

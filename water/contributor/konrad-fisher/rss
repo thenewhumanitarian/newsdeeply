@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Konrad Fisher</title>
+    <description>Konrad Fisher is the director of Klamath Riverkeeper where he coordinates campaigns to un-dam the Klamath River and increase water flows in the Klamath River and its tributaries. He resides on the lower Klamath River and has worked for more than 15 years advancing public-interest water and climate policies.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/konrad-fisher/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/konrad-fisher/rss"/>
+    <item>
+      <title>The Klamath River Needs More Than Dam Removal</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 05 May 2016 03:52:30 +0000</pubDate>
+      <author>Konrad Fisher</author>
+      <link>https://www.newsdeeply.com/water/community/2016/05/05/the-klamath-river-needs-more-than-dam-removal</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/05/05/the-klamath-river-needs-more-than-dam-removal</guid>
+      <description>The much-celebrated agreement to remove dams along the Klamath River has been hailed as a win for fish, but the river ecosystem needs more than just dam removal. Increased water flows are also paramount.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160515145525/Klamath-Dams.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

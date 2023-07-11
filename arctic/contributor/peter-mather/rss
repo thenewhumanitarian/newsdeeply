@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Peter Mather</title>
+    <description>Peter Mather is a photojournalist based in Whitehorse, Yukon. He is a fellow of the International League of Conservation Photographers (iLCP), and is represented by National Geographic Creative. His most recent work has focused on the Gwich’in First Nation people, their connection to the Porcupine caribou herd, and the threats they face from potential development in the calving and nursing grounds of the herd.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/peter-mather/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/peter-mather/rss"/>
+    <item>
+      <title>Alaska’s Porcupine Caribou Herd – and the People It Helps Sustain</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 09 Jun 2017 09:50:36 +0000</pubDate>
+      <author>Peter Mather</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/06/09/alaskas-porcupine-caribou-herd-and-the-people-it-helps-sustain</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/06/09/alaskas-porcupine-caribou-herd-and-the-people-it-helps-sustain</guid>
+      <description>As the U.S. resumes its debate over whether to drill for oil at the calving grounds of the Porcupine caribou herd on Alaska’s north coast, photographer Peter Mather shares some shots and personal experiences with the herd and the Gwich’in, whose culture is tied to it.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170609094254/1050530.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Photo-Essay: Finding Light in the Darkness of Arctic Winter</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 02 Mar 2017 13:56:39 +0000</pubDate>
+      <author>Peter Mather</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/03/02/photo-essay-finding-light-in-the-darkness-of-arctic-winter</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/03/02/photo-essay-finding-light-in-the-darkness-of-arctic-winter</guid>
+      <description>Peter Mather has gone to great lengths to photograph wildlife in Canada’s Yukon Territory. Here he shares some of his favorite winter shots and some tricks for staying warm.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170302134750/DSC3048bw.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

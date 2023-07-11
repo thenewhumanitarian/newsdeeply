@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Ray Mwareya</title>
+    <description>Ray Mwareya, a Zimbabwean journalist, is the editor of Women Tabooks Radio and the winner of a 2016 United Nations Correspondents Association media award.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/ray-mwareya/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/ray-mwareya/rss"/>
+    <item>
+      <title>Zimbabwe’s Micronutrient Battle</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/maternal-and-child-health/">Maternal and Child Health</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <pubDate>Tue, 16 Jan 2018 03:20:00 +0000</pubDate>
+      <author>Ray Mwareya</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/01/16/zimbabwes-micronutrient-battle</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/01/16/zimbabwes-micronutrient-battle</guid>
+      <description>Zimbabwean officials want the food industry to help solve the country’s micronutrient shortages by fortifying popular products. The companies say the cost is too high.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180116032756/Par2358002.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

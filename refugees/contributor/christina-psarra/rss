@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Christina Psarra</title>
+    <description>Christina Psarra is a humanitarian worker from Greece and has participated in many search and rescue operations in the Mediterranean Sea. She is a Fulbright/Humphrey Fellow and a junior scholar at the Wilson Center.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/christina-psarra/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/christina-psarra/rss"/>
+    <item>
+      <title>The Deadly ‘Humanitarian Ping-Pong’ of Refugee Rescue at Sea</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 30 May 2017 13:40:17 +0000</pubDate>
+      <author>Christina Psarra</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/05/30/the-deadly-humanitarian-ping-pong-of-refugee-rescue-at-sea</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/05/30/the-deadly-humanitarian-ping-pong-of-refugee-rescue-at-sea</guid>
+      <description>Coastal nations who rescue refugees at sea must allow them to claim asylum on land. Humanitarian worker Christina Psarra describes how this creates perverse incentives for states to leave people adrift or bounce refugees between different jurisdictions.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170530105458/Rescue-on-the-Mediterranean-Sea.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

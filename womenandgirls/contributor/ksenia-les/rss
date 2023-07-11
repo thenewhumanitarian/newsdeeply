@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Ksenia Les</title>
+    <description>Ksenia Les and Lisa Hermes studied Photography and Media at the University of Applied Sciences Bielefeld. Since their graduation in 2015, they have been working on assignments for German and international media.
+Ksenia Les works on long-term projects with a focus on social issues in the countries of the former Soviet Union, exploring the shift of the East European identity beyond the stereotypes. Follow her work at www.kseniales.com.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/ksenia-les/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/ksenia-les/rss"/>
+    <item>
+      <title>‘Here We Survive’: The Women of Ukraine’s Forgotten War</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Wed, 18 Oct 2017 14:05:49 +0000</pubDate>
+      <author>Lisa Hermes, Ksenia Les</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/10/18/here-we-survive-the-women-of-ukraines-forgotten-war</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/10/18/here-we-survive-the-women-of-ukraines-forgotten-war</guid>
+      <description>When photojournalists Ksenia Les and Lisa Hermes started a project on the war in Ukraine, they discovered that women’s voices were being silenced and their courage dismissed. In this photo essay, they share the everyday struggles of women on both sides of the conflict.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171018134903/Ukraine-war-opener.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

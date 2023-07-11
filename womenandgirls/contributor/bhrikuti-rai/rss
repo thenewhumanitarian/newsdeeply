@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Bhrikuti Rai</title>
+    <description>Bhrikuti Rai is a journalist based in Kathmandu, Nepal. Her work has appeared in the Nepali Times, South Asia Check, Los Angeles Times and Radiolab. She has produced several investigative stories about corruption, health and the environment from Nepal. She is also the co-creator of the Boju Bajai podcast. Follow her on Twitter @bbhrikuti.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/bhrikuti-rai/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/bhrikuti-rai/rss"/>
+    <item>
+      <title>From Child Soldier to Nepal’s Most Famous Female Trail Runner</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Mon, 20 Feb 2017 13:39:44 +0000</pubDate>
+      <author>Bhrikuti Rai</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/02/20/child-soldier-nepals-famous-female-trail-runner</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/02/20/child-soldier-nepals-famous-female-trail-runner</guid>
+      <description>Forced to leave school to help with the housework, Mira Rai ran away to join Nepal’s Maoist rebel group. And she’s been running ever since. Now an internationally acclaimed trail runner, Rai is inspiring a new generation of young girls to challenge expectations.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071057/NEPAL-ATHLETICS-GENDER-GUERILLA.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

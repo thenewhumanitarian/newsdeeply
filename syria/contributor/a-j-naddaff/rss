@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: A.J. Naddaff</title>
+    <description>A.J. is an Arab studies and political science student, assistant French teacher, and researcher for the Arab Studies department at Davidson College. His current book project examines Syrian artists in exile.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/a-j-naddaff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/a-j-naddaff/rss"/>
+    <item>
+      <title>Pixels of War: Photographing the House of Assad</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <pubDate>Tue, 05 Sep 2017 11:39:29 +0000</pubDate>
+      <author>A.J. Naddaff</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/09/05/photographing-the-house-of-assad</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/09/05/photographing-the-house-of-assad</guid>
+      <description>Franco-Syrian photographer Ammar Abd Rabbo discusses his experience covering two Assad presidencies and how his work changed when the Syrian war started.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170905112948/Bashar-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

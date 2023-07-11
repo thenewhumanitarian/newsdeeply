@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Prisca Aroko</title>
+    <description>Prisca Aroko is a Kenyan health and human interest journalist with five years of experience. A broadcast journalism graduate from the Kenya Institute of Mass Communication, she currently works at Family Media.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/prisca-aroko/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/prisca-aroko/rss"/>
+    <item>
+      <title>A New Test for Kenya’s Students: Learning to Eat Healthier</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/">Noncommunicable Diseases</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Tue, 29 May 2018 14:10:00 +0000</pubDate>
+      <author>Prisca Aroko</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/29/a-new-test-for-kenyas-students-learning-to-eat-healthier</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/29/a-new-test-for-kenyas-students-learning-to-eat-healthier</guid>
+      <description>Faced with rising rates of non-communicable diseases, Kenyan activists have turned to educating young people on how to eat healthier. Now the government is taking a lesson from those efforts.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180529140920/corbis078.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

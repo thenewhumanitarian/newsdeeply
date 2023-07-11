@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Penny Gage</title>
+    <description>Penny Gage is an Emerging Leader in Environmental and Energy Policy (ELEEP) fellow with the Atlantic Council and Ecologic Institute.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/penny-gage/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/penny-gage/rss"/>
+    <item>
+      <title>Alaska’s Microgrid Experience Applied Across Borders</title>
+      <pubDate>Wed, 26 Oct 2016 07:02:27 +0000</pubDate>
+      <author>Penny Gage</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/26/alaskas-microgrid-experience-applied-across-borders</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/26/alaskas-microgrid-experience-applied-across-borders</guid>
+      <description>Despite challenges, the Alaska energy sector has excelled in developing microgrids to increase energy security and reduce costs. It’s time to share this expertise with Europe, but funding and support continue to fall short.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161026070126/Pillar-Mountain-Majesty.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

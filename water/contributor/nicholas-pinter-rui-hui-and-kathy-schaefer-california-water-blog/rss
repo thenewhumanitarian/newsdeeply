@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Nicholas Pinter, Rui Hui, and Kathy Schaefer, California Water Blog</title>
+    <description>Nicholas Pinter is the Roy Shlemon Professor of Applied Geosciences in the Department of Earth and Planetary Sciences and an affiliate of the U.C. Davis Center for Watershed Sciences.
+
+Rui Hui is a postdoctoral researcher with the Center for Watershed Sciences.
+
+Kathleen Shaefer is a prospective graduate student at U.C. Davis, and previously worked as a regional engineer for flood projects with FEMA Region IX.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/nicholas-pinter-rui-hui-and-kathy-schaefer-california-water-blog/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/nicholas-pinter-rui-hui-and-kathy-schaefer-california-water-blog/rss"/>
+    <item>
+      <title>Radical Change Urged For California’s Flood Risk Insurance</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 26 Dec 2016 05:00:27 +0000</pubDate>
+      <author>Nicholas Pinter, Rui Hui, and Kathy Schaefer, California Water Blog</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/12/26/radical-change-urged-for-californias-flood-risk-insurance</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/12/26/radical-change-urged-for-californias-flood-risk-insurance</guid>
+      <description>With the U.S. National Flood Insurance Program more than $20 billion in debt and the Golden State paying more in premiums than it receives in funding, researchers explain how it could fund its own flood program.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161223085609/Screen-Shot-2016-12-22-at-9.03.18-PM.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Morgane Fert-Malka</title>
+    <description>Morgane Fert-Malka is a French political analyst based in Moscow. She focuses on Russian decision-making processes and on Russia’s Arctic policies. She writes for various outlets such as Russia Direct (Moscow) and IFRI (Paris). She also cofounded WeBuildEurope.eu, a pan-European strategy think tank based in Vienna, where she heads a research project about the role of the European Union in the Arctic
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/morgane-fert-malka/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/morgane-fert-malka/rss"/>
+    <item>
+      <title>The Northern Sea Route, Russia’s Coronary Artery</title>
+      <category domain="https://www.newsdeeply.com/arctic/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/arctic/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Fri, 28 Jul 2017 03:00:08 +0000</pubDate>
+      <author>Morgane Fert-Malka</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/07/28/the-northern-sea-route-russias-coronary-artery</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/07/28/the-northern-sea-route-russias-coronary-artery</guid>
+      <description>It will take political courage and planning to make Russia’s Northern Sea Route the main thoroughfare of a healthy, unitary country – but there is no alternative, writes Morgane Fert-Malka, a French Moscow-based political analyst. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170727110806/Picture1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pragmatic Environmentalism in the Russian Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Mon, 29 May 2017 07:22:45 +0000</pubDate>
+      <author>Morgane Fert-Malka</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/05/29/pragmatic-environmentalism-in-the-russian-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/05/29/pragmatic-environmentalism-in-the-russian-arctic</guid>
+      <description>WORLD POLICY: Russia’s bad reputation for managing environmental issues in the Arctic is not entirely deserved, contend Maria Lagutina and Nadezhda Kharlampieva, two associate professors of world politics at Saint Petersburg State University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170529072228/A10xyAVmlbFtkfcS8liS1laeGuAB4d8P.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

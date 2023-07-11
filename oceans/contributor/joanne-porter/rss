@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Joanne Porter</title>
+    <description>Joanne Porter is an associate professor at Heriot-Watt University Orkney Campus, Heriot-Watt University.
+ 
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/joanne-porter/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/joanne-porter/rss"/>
+    <item>
+      <title>Explosion of Marine Life in the Wreckage of a World War Is Under Threat</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Mon, 28 May 2018 06:30:00 +0000</pubDate>
+      <author>Clara Mackenzie, Joanne Porter</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/05/28/explosion-of-marine-life-in-the-wreckage-of-a-world-war-is-under-threat</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/05/28/explosion-of-marine-life-in-the-wreckage-of-a-world-war-is-under-threat</guid>
+      <description>The scuttling of 52 German warships off Scotland nearly a century ago during World War I spawned a habitat for a diverse array of crab, lobster, starfish, sea urchin and fish. Now bottom trawling and climate change is imperiling that refuge, say two researchers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180528063446/file-20180508-34027-1yy5dyc1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

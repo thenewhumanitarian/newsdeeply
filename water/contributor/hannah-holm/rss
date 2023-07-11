@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Hannah Holm</title>
+    <description>Hannah Holm is coordinator of the Hutchins Water Center at Colorado Mesa University, in Grand Junction, which promotes research, education and dialogue to address the water issues facing the Upper Colorado River Basin. Support for Hutchins Water Center articles is provided by a grant from the Walton Family Foundation.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/hannah-holm/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/hannah-holm/rss"/>
+    <item>
+      <title>Colorado River Crisis Demands Focus on Farm Conservation Programs</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Mon, 22 Oct 2018 08:00:00 +0000</pubDate>
+      <author>Hannah Holm</author>
+      <link>https://www.newsdeeply.com/water/community/2018/10/22/colorado-river-crisis-demands-focus-on-farm-conservation-programs</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/10/22/colorado-river-crisis-demands-focus-on-farm-conservation-programs</guid>
+      <description>Small programs can go a long way to save water and help farmers survive the coming shortages on the Colorado River. These should be the next focus for policymakers now wrestling with drought contingency plans.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20181017055113/TK-CenterPivot.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

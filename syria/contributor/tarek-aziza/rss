@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Tarek Aziza</title>
+    <description>Tarek Aziza is a is a researcher on jihadist groups. He lives in Damascus.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/tarek-aziza/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/tarek-aziza/rss"/>
+    <item>
+      <title>Al-Qaida in Syria: Surface Divisions, But a Common Thread</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Tarek Aziza</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/03/al-qaida-in-syria-surface-divisions-but-a-common-thread</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/03/al-qaida-in-syria-surface-divisions-but-a-common-thread</guid>
+      <description>On Thursday, six of the strongest Syrian rebel groups issued a joint statement demanding that al-Qaida branch the Islamic State of Iraq and Syria (ISIS) withdraw from the northern town of Azaz, which borders Turkey.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Al-Basel Tadrous</title>
+    <description>Al-Basel Tadrous is an independent reporter and journalist from Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/al-basel-tadrous/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/al-basel-tadrous/rss"/>
+    <item>
+      <title>Conversations: Selling Military Antiques in Wartime</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 07 Jul 2016 06:43:40 +0000</pubDate>
+      <author>Al-Basel Tadrous</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/07/07/conversations-selling-military-antiques-in-wartime</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/07/07/conversations-selling-military-antiques-in-wartime</guid>
+      <description>As part of our effort to highlight civilian stories, Syria Deeply spoke to Abu Abdo, an antique shop owner in Eastern Ghouta, one of the heaviest-hit areas in the war-ravaged country, who has kept his business open in the face of the utmost adversity.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160707064107/IMG-20160625-WA0022.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Dangers of Unexploded Bombs in Eastern Ghouta</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 29 Apr 2016 06:51:39 +0000</pubDate>
+      <author>Al-Basel Tadrous</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/04/29/the-dangers-of-unexploded-bombs-in-eastern-ghouta</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/04/29/the-dangers-of-unexploded-bombs-in-eastern-ghouta</guid>
+      <description>Hundreds of unexploded cluster bombs dropped by Syrian government forces in and around Eastern Ghouta since 2012 pose a deadly threat to people in the besieged rebel-held area of northern Damascus.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160429065052/United-Nations-Syria-Children.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

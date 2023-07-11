@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Aaron Stein</title>
+    <description>Aaron Stein is the senior resident fellow for Turkey with the Rafik Hariri Center for the Middle East.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/aaron-stein/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/aaron-stein/rss"/>
+    <item>
+      <title>How Turkey Is Governing in Northern Aleppo</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 20 Jul 2017 08:23:59 +0000</pubDate>
+      <author>Rao Komar, Hossam Abouzahr, Aaron Stein</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/07/20/how-turkey-is-governing-in-northern-aleppo</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/07/20/how-turkey-is-governing-in-northern-aleppo</guid>
+      <description>At the end of major combat operations in Syria’s north, the Turkish government faces many challenges governing areas it now controls. Atlantic Council’s Aaron Stein, Hossam Abouzahr and Rao Komar tracked stabilization projects and violence in Aleppo’s northern countryside. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170720082024/SYRIA-CONFLICT-DAILY-LIFE2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

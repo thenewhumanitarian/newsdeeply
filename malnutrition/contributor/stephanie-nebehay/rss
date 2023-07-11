@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Stephanie Nebehay</title>
+    <description>Stephanie Nebehay is a Reuters reporter in Geneva mainly covering the U.N.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/stephanie-nebehay/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/stephanie-nebehay/rss"/>
+    <item>
+      <title>60,000 North Korean Children at Risk of Severe Malnutrition: UNICEF</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <pubDate>Thu, 01 Feb 2018 12:30:00 +0000</pubDate>
+      <author>Stephanie Nebehay</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/02/01/60000-north-korean-children-at-risk-of-severe-malnutrition-unicef</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/02/01/60000-north-korean-children-at-risk-of-severe-malnutrition-unicef</guid>
+      <description>As sanctions slow relief efforts, UNICEF is one of only a few aid agencies with access to the isolated country, which suffered famine in the mid-1990s that killed up to 3 million people.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180201122828/AFP_UQ1T6.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

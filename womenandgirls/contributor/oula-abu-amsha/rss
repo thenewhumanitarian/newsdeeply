@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Oula Abu-Amsha</title>
+    <description>Oula Abu-Amsha is a Syrian professor of computer science and applied mathematics. She left Syria in 2012, first for Lebanon and then in mid-2014 to Switzerland. She started working in refugee education in 2014 with the support of World Bank’s education team. In 2015, she attended the first summer school on Higher Education in Emergencies at the University of Geneva. Since December 2015, she has been Jamiya’s academic adviser leading the learning design for the development and delivery of an Applied IT pilot course to refugees in Jordan. She was recently a visiting scholar at the Vaud School of Engineering and Business, Switzerland.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/oula-abu-amsha/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/oula-abu-amsha/rss"/>
+    <item>
+      <title>An Academic in Exile Torn Between Here and There</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 23 Mar 2017 09:07:44 +0000</pubDate>
+      <author>Oula Abu-Amsha</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/03/23/an-academic-in-exile-torn-between-here-and-there-2</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/03/23/an-academic-in-exile-torn-between-here-and-there-2</guid>
+      <description>While struggling to restart her career in Europe, Syrian academic Oula Abu-Amsha found solace helping refugees in Jordan access higher education through the Jamiya Project and was reunited with her former students from Damascus University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170321085259/Mideast-Jordan-Syria1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>An Academic in Exile Torn Between Here and There</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Wed, 22 Mar 2017 08:05:21 +0000</pubDate>
+      <author>Oula Abu-Amsha</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/22/academic-exile-torn</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/22/academic-exile-torn</guid>
+      <description>While struggling to restart her career in Europe, Syrian academic Oula Abu-Amsha found solace helping refugees in Jordan access higher education through the Jamiya Project and was reunited with her former students from Damascus University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070925/Mideast-Jordan-Syria1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>An Academic in Exile Torn Between Here and There</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/refugee-voices/">Refugee Voices</category>
+      <pubDate>Tue, 21 Mar 2017 08:51:10 +0000</pubDate>
+      <author>Oula Abu-Amsha</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/03/21/an-academic-in-exile-torn-between-here-and-there</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/03/21/an-academic-in-exile-torn-between-here-and-there</guid>
+      <description>While struggling to restart her career in Europe, Syrian academic Oula Abu-Amsha found solace helping refugees in Jordan access higher education through the Jamiya Project and was reunited with her former students from Damascus University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170321085259/Mideast-Jordan-Syria1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

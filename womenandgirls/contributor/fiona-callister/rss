@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Fiona Callister</title>
+    <description>Fiona Callister is global head of media at WaterAid, an international development organization working in 38 countries to make sure that everyone, everywhere has clean water, a decent toilet and is able to live hygienically.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/fiona-callister/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/fiona-callister/rss"/>
+    <item>
+      <title>Why We Should Invest as Much in Toilets As We Do in Leonardo da Vinci</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Fri, 17 Nov 2017 11:40:01 +0000</pubDate>
+      <author>Fiona Callister</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/11/17/why-we-should-invest-as-much-in-toilets-as-we-do-in-leonardo-da-vinci</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/11/17/why-we-should-invest-as-much-in-toilets-as-we-do-in-leonardo-da-vinci</guid>
+      <description>One in three people around the world have no access to a working toilet. But access to sanitation and clean water is essential to women’s health, education and opportunities, says Fiona Callister, global head of media at WaterAid.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171117113726/rahman-notitle170716_npOLq.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

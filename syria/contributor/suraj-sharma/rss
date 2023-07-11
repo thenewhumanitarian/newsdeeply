@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Suraj Sharma</title>
+    <description>Suraj Sharma is a journalist based in Istanbul, Turkey, who mostly covers domestic Turkish politics and regional foreign policy issues that involve the country.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/suraj-sharma/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/suraj-sharma/rss"/>
+    <item>
+      <title>Analysis: Despite Gains, Turkey Could Still Stumble in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Fri, 23 Mar 2018 10:40:00 +0000</pubDate>
+      <author>Suraj Sharma</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/03/23/analysis-despite-gains-turkey-could-still-stumble-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/03/23/analysis-despite-gains-turkey-could-still-stumble-in-syria</guid>
+      <description>The capture of the Kurdish enclave of Afrin marked a significant victory for Turkey in Syria. But a major expansion of Ankara’s offensive to other Kurdish enclaves could squander recent gains, writes journalist Suraj Sharma for Middle East Eye.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180323105007/FtpTrial-AA_21032018_712396.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Caoimhe Butterly</title>
+    <description>Caoimhe Butterly is an Irish peace activist and film-maker, currently focused on refugee issues.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/caoimhe-butterly/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/caoimhe-butterly/rss"/>
+    <item>
+      <title>Video: Finding ‘Refuge’ on Mediterranean Crisis’ Ground Zero</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 19 Sep 2016 06:24:53 +0000</pubDate>
+      <author>Caoimhe Butterly</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/19/video-finding-refuge-on-mediterranean-crisis-ground-zero</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/19/video-finding-refuge-on-mediterranean-crisis-ground-zero</guid>
+      <description>As the UNGA meets to create a blueprint for better international response, the lives of thousands of asylum seekers in Greece remain on hold. “Refuge,” directed by Caoimhe Butterly, presents voices from what has become ground zero of the Mediterranean migration crisis.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160919064030/Greece_08-2016_0681.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

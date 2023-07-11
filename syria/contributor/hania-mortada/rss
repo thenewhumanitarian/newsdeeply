@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Hania Mortada</title>
+    <description>Hania Mortada is a journalist.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/hania-mortada/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/hania-mortada/rss"/>
+    <item>
+      <title>Foreign Policy: A Foothold on the Euphrates, a Boot Heel on the Tigris</title>
+      <pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate>
+      <author>Hania Mortada</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/07/25/foreign-policy-a-foothold-on-the-euphrates-a-boot-heel-on-the-tigris</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/07/25/foreign-policy-a-foothold-on-the-euphrates-a-boot-heel-on-the-tigris</guid>
+      <description>Before ISIS stomped Mosul and turned Iraq upside down, it slowly crushed its enemies to death in Raqqa.</description>
+    </item>
+    <item>
+      <title>The Islamist Enemy of Our Islamist Enemy</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <author>Hania Mortada</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/01/02/the-islamist-enemy-of-our-islamist-enemy</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/01/02/the-islamist-enemy-of-our-islamist-enemy</guid>
+      <description>BEIRUT — When he was a fighter with the Free Syrian Army (FSA), waging war against President Bashar al-Assad’s forces in the northern economic hub of Aleppo, Abu Muhannad’s confidence verged on presumptuousness.</description>
+    </item>
+  </channel>
+</rss>

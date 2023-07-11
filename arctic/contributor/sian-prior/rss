@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Sian Prior</title>
+    <description>Sian Prior is a marine scientist with more than 25 years’ experience in industry and environmental nongovernmental organizations and lead advisor to the Clean Arctic Alliance, a coalition of nonprofit groups campaigning to end the use of heavy fuel oil in Arctic shipping.
+ 
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/sian-prior/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/sian-prior/rss"/>
+    <item>
+      <title>Time to Commit to Cleaning up Arctic Shipping</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Mon, 23 Jan 2017 10:31:31 +0000</pubDate>
+      <author>Sian Prior</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/01/23/time-to-commit-to-cleaning-up-arctic-shipping</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/01/23/time-to-commit-to-cleaning-up-arctic-shipping</guid>
+      <description>Heavy fuel oil is fiendishly tricky to clean up once spilled in Arctic waters. Sian Prior of the Clean Arctic Alliance is urging attendees at the Arctic Frontiers conference to sign the group’s pledge to stop using the fuel in the Arctic.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170123102539/024_1724001.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

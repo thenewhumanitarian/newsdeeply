@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Yngve Kristoffersen, Audun Tholfsen, John K. Hall, and Ruediger Stein</title>
+    <description>Yngve Kristoffersen and Audun Tholfsen, Nansen Environmental and Remote Sensing Center, Department of Earth Science, University of Bergen, Bergen, Norway; email: yngve.kristoffersen@geo.uib.no. 
+John K. Hall (retired), Geological Survey of Israel, Jerusalem, Israel.
+Ruediger Stein, Alfred Wegener Institute of Polar and Marine Research, Bremerhaven, Germany.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/yngve-kristoffersen-audun-tholfsen-john-k-hall-and-ruediger-stein/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/yngve-kristoffersen-audun-tholfsen-john-k-hall-and-ruediger-stein/rss"/>
+    <item>
+      <title>Scientists Spend Arctic Winter Adrift on Sea Ice</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 17 Oct 2016 10:47:09 +0000</pubDate>
+      <author>Yngve Kristoffersen, Audun Tholfsen, John K. Hall, and Ruediger Stein</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/10/17/scientists-spend-arctic-winter-adrift-on-sea-ice</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/10/17/scientists-spend-arctic-winter-adrift-on-sea-ice</guid>
+      <description>A hovercraft-based ice drift station gives researchers access to previously inaccessible regions of the changing Arctic sea ice cover off the coast of Greenland.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161017103621/arctic-hovercraft-sea-ice-drift-research-station-winter-main-800x600.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

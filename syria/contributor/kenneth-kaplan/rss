@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Kenneth Kaplan</title>
+    <description>Kenneth Kaplan is a Staff Writer for Christian Science Monitor.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/kenneth-kaplan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/kenneth-kaplan/rss"/>
+    <item>
+      <title>Kobane: Turkey to Allow Some Kurds to Help Defend City Against Islamic State</title>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <author>Kenneth Kaplan</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/10/21/kobane-turkey-to-allow-some-kurds-to-help-defend-city-against-islamic-state</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/10/21/kobane-turkey-to-allow-some-kurds-to-help-defend-city-against-islamic-state</guid>
+      <description>The battle for the ethnic-Kurdish city of Kobane on the Turkish-Syria border could see Iraqi Kurds join the fray in greater numbers after Turkey’s decision, a reversal of its previous policy.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114939/1020-world-odu-syriais_full_60-544645cecb85e.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Islamic State: US-led Coalition Hammers Oil Targets as it Awaits New Members</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      <author>Kenneth Kaplan</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/09/29/islamic-state-us-led-coalition-hammers-oil-targets-as-it-awaits-new-members</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/09/29/islamic-state-us-led-coalition-hammers-oil-targets-as-it-awaits-new-members</guid>
+      <description>Efforts to expand the anti-Islamic State coalition include the debate in Britain’s Parliament, deliberations in Denmark and Belgium, and US overtures to Turkey. US and French jets struck IS oil targets overnight in Syria.</description>
+    </item>
+  </channel>
+</rss>

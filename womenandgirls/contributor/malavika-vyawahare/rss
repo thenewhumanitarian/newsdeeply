@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Malavika Vyawahare</title>
+    <description>Malavika Vyawahare is a New Delhi-based freelance journalist who writes on nature, culture and everything in between. The alum of Columbia Journalism School believes in narrowing the chasm between narratives produced in the developed and developing world through her reporting.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/malavika-vyawahare/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/malavika-vyawahare/rss"/>
+    <item>
+      <title>In Afghanistan, a Group of Women Move Mountains by Climbing Them</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Wed, 14 Dec 2016 13:32:23 +0000</pubDate>
+      <author>Malavika Vyawahare</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/14/afghanistan-group-women-move-mountains-climbing</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/14/afghanistan-group-women-move-mountains-climbing</guid>
+      <description>One charity is challenging cultural attitudes in Afghanistan by training all-female teams of mountaineers to scale some of Afghanistan’s highest peaks and experience the freedom they’ve long been denied.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072154/Ascend-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

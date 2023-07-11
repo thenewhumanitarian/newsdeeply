@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Dominique Bonessi</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/dominique-bonessi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/dominique-bonessi/rss"/>
+    <item>
+      <title>After High School, Women in Turkey Struggle With Degrees and Careers</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Tue, 13 Dec 2016 13:20:12 +0000</pubDate>
+      <author>Dominique Bonessi</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/12/13/high-school-women-turkey-struggle-degrees-careers</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/12/13/high-school-women-turkey-struggle-degrees-careers</guid>
+      <description>Around 40 percent of Turkish women go to university, but only 11 percent graduate. Activists say a range of obstacles, from gender bias in high school to cultural pressures, pushes women out of education and widens Turkey’s workforce gender gap.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072156/TURKEY-POLITICS-HEADSCARF.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

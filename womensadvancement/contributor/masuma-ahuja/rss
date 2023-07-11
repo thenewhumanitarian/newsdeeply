@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Masuma Ahuja</title>
+    <description>Masuma Ahuja is an independent journalist covering gender, migration and human rights. She’s an IWMF grantee and previously worked on staff at CNN and the Washington Post. Follow her work on Twitter and Instagram.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/masuma-ahuja/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/masuma-ahuja/rss"/>
+    <item>
+      <title>Preschool Teachers Help Families Cope While Mothers Work Abroad</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/unpaid-domestic-and-care-work/">Unpaid Domestic and Care Work</category>
+      <pubDate>Fri, 15 Jun 2018 13:20:00 +0000</pubDate>
+      <author>Masuma Ahuja</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/06/15/preschool-teachers-help-families-cope-while-mothers-work-abroad</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/06/15/preschool-teachers-help-families-cope-while-mothers-work-abroad</guid>
+      <description>In the Sri Lankan hills, preschool teachers run classes to prepare women for the practical and emotional realities of taking on migrant work in a foreign country and teach husbands how to do the job of raising the children.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180615131836/Migration-school-pamphlets1.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Levi Bridges</title>
+    <description>Levi Bridges is a reporting fellow at Human Rights Center, UC Berkeley School of Law. Currently developing an audio series for PRI’s “The World” about human rights violations committed against Central American migrants in Mexico.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/levi-bridges/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/levi-bridges/rss"/>
+    <item>
+      <title>Central Americans Face Backlash On Mexico’s Migrant Trail</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 02 Jan 2018 08:40:27 +0000</pubDate>
+      <author>Levi Bridges</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/01/02/central-americans-face-backlash-on-mexicos-migrant-trail</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/01/02/central-americans-face-backlash-on-mexicos-migrant-trail</guid>
+      <description>Amid rising violence in Mexico, populists are cracking down on Central American migrants in some towns along historic migration routes. Their rhetoric mirrors American anti-immigrant politics north of the border.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180102084137/mexico11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Alaa</title>
+    <description>Alaa, whose last name has been omitted for security reasons, is a Syrian civil society worker in Damascus.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/alaa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/alaa/rss"/>
+    <item>
+      <title>What Red Lines And Foreign Intervention Look Like for Syrian Civilians</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Mon, 16 Apr 2018 11:00:00 +0000</pubDate>
+      <author>Alaa</author>
+      <link>https://www.newsdeeply.com/syria/community/2018/04/16/what-red-lines-and-foreign-intervention-look-like-for-syrian-civilians</link>
+      <guid>https://www.newsdeeply.com/syria/community/2018/04/16/what-red-lines-and-foreign-intervention-look-like-for-syrian-civilians</guid>
+      <description>Alaa, a civil society worker who has been in Damascus since the start of the conflict, weighs in on the impact and the perception of civilians on the ground have of U.S. and Russian foreign intervention in Syria.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180416110042/AFP_1427SU.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

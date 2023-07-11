@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Graham Fogg</title>
+    <description>Graham Fogg is a professor of hydrogeology and hydrogeologist at the University of California, Davis.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/graham-fogg/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/graham-fogg/rss"/>
+    <item>
+      <title>The Hidden Treasure of California’s Groundwater</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 15 Jul 2016 06:05:17 +0000</pubDate>
+      <author>Graham Fogg</author>
+      <link>https://www.newsdeeply.com/water/community/2016/07/15/the-hidden-treasure-of-californias-groundwater</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/07/15/the-hidden-treasure-of-californias-groundwater</guid>
+      <description>California can stave off a water crisis if it learns to manage both surface water and groundwater, which hasn’t happened yet. A better understanding is also needed of what’s at stake if overdrafts in groundwater are ignored.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160715094613/Californina-Sinking-Land-Costs2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

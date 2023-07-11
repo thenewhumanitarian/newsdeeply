@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: William Clowes</title>
+    <description>William Clowes is a freelance journalist based in Kinshasa.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/william-clowes/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/william-clowes/rss"/>
+    <item>
+      <title>Inside Congo’s Fast-Growing Displacement Crisis</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 18 Jul 2017 10:35:17 +0000</pubDate>
+      <author>William Clowes</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/07/18/inside-congos-fast-growing-displacement-crisis</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/07/18/inside-congos-fast-growing-displacement-crisis</guid>
+      <description>Congo has the most internally displaced people in Africa. In Tanganyika province, their number is rapidly expanding amid militia fighting. Yet the government insists the area is peaceful and is forcing displaced people home, William Clowes reports for IRIN News. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170718103300/kalemie_feza_mwange.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

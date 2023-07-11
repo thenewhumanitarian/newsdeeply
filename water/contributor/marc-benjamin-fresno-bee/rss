@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Marc Benjamin, Fresno Bee</title>
+    <description>Marc Benjamin is a reporter for the Fresno Bee.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/marc-benjamin-fresno-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/marc-benjamin-fresno-bee/rss"/>
+    <item>
+      <title>Dying Sierra Trees Creating a Hazard</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Thu, 28 Apr 2016 07:32:07 +0000</pubDate>
+      <author>Marc Benjamin, Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/04/28/dying-sierra-trees-creating-a-hazard</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/04/28/dying-sierra-trees-creating-a-hazard</guid>
+      <description>FRESNO BEE – Millions of Sierra trees that are dead or dying from bark beetles and drought are now presenting a hazard as agencies struggle to find funds to remove them before fire season.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160428062755/dead-trees.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>City of Clovis Water Waste Fines Reach Nearly $500,000</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Marc Benjamin, Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/16/city-of-clovis-water-waste-fines-reach-nearly-500000</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/16/city-of-clovis-water-waste-fines-reach-nearly-500000</guid>
+      <description>FRESNO BEE: Second-time offenders lead to a surge in penalties; Clovis residents must cut water use by 36 percent to avoid fines.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102511/clovis-water-55f997d84f56d.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Small Towns with Big Food Processors Struggle to Conserve Water</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Marc Benjamin, Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/08/small-towns-with-big-food-processors-struggle-to-conserve-water</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/08/small-towns-with-big-food-processors-struggle-to-conserve-water</guid>
+      <description>FRESNO BEE: Large industrial water users take steps to cut water use as cities seek exemption from state drought rules.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102520/pitman-55ef0a91af36c.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

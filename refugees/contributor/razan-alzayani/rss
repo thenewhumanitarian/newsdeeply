@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Razan Alzayani</title>
+    <description>Razan Alzayani is a visual journalist based in Dubai. She is the co-founder of Kerning Cultures, an audio storytelling platform.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/razan-alzayani/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/razan-alzayani/rss"/>
+    <item>
+      <title>The Chill Sets in at La Liniere, France’s First Official Refugee Camp</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 18 Jan 2017 14:23:03 +0000</pubDate>
+      <author>Razan Alzayani</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/01/18/the-chill-sets-in-at-la-liniere-frances-first-official-refugee-camp</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/01/18/the-chill-sets-in-at-la-liniere-frances-first-official-refugee-camp</guid>
+      <description>Not far from the demolished Calais camp, hundreds of refugees are braving winter in a newer camp outside Dunkirk. Razan Alzayani, of the Kerning Cultures podcast, describes her visit to France’s first official refugee facility. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170118142149/Dunkirk-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

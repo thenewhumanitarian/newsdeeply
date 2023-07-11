@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Cristina Roca</title>
+    <description>Cristina Roca is a freelance journalist based in Barcelona. Her work has appeared in Maclean’s, the National Post and other publications. She is a fellow at the Munk School of Global Affairs. Follow her on Twitter @crisisfwp.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/cristina-roca/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/cristina-roca/rss"/>
+    <item>
+      <title>Long Read: How the Syrian War Changed How War Crimes Are Documented</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 01 Jun 2017 12:52:45 +0000</pubDate>
+      <author>Cristina Roca</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/06/01/long-read-how-the-syrian-war-changed-how-war-crimes-are-documented</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/06/01/long-read-how-the-syrian-war-changed-how-war-crimes-are-documented</guid>
+      <description>Seven years of war have transformed Syrian monitoring groups into sophisticated investigation centers. But with few options to hold perpetrators of humanitarian law violations accountable, the number of Syrians supplying evidence of human rights violations is dwindling, along with their hope for justice. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170601125139/Assad-regime-hits-civilians-in-Damascus.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spanish Prosecutor Appeals Decision to Allow Trial of Syrian Officials</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 31 Mar 2017 15:12:10 +0000</pubDate>
+      <author>Cristina Roca</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/03/31/spanish-prosecutor-appeals-decision-to-allow-trial-of-syrian-officials</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/03/31/spanish-prosecutor-appeals-decision-to-allow-trial-of-syrian-officials</guid>
+      <description>Four days after Spain’s national court became the first foreign court to admit a criminal case against Syrian officials, a public prosecutor has filed an appeal to reverse the decision and halt the investigation into alleged crimes of state terrorism. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170330093758/ea316550-3715-42dc-8258-3bc56c759f91.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Building the First Criminal Case Against Assad’s Regime</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 30 Mar 2017 09:41:29 +0000</pubDate>
+      <author>Cristina Roca</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/03/30/building-the-first-criminal-case-against-assads-regime</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/03/30/building-the-first-criminal-case-against-assads-regime</guid>
+      <description>Lawyers Maite Parejo and Almudena Bernabeu discuss how they built the first criminal case against Syrian officials to be accepted in a foreign court, and the impact it will have on bringing perpetrators of abuse in Syria to justice. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170330093758/ea316550-3715-42dc-8258-3bc56c759f91.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

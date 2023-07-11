@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Anne Brice</title>
+    <description>Anne Brice is a writer for UC Berkeley News Service.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/anne-brice/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/anne-brice/rss"/>
+    <item>
+      <title>Q&amp;A with Lynn Ingram: Drought Lessons from History</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Anne Brice</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/01/25/qa-with-lynn-ingram-drought-lessons-from-history</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/01/25/qa-with-lynn-ingram-drought-lessons-from-history</guid>
+      <description>Paleoclimatologist B. Lynn Ingram is the coauthor of “The West Without Water”, which documents the tumultuous climate of the West over 20 millenia. She shares her insights on what we can learn about California’s future weather and water prospects based on that history.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102322/d9cb8814-2d79-4f48-a39d-9c65cc-569e7e036a54a.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

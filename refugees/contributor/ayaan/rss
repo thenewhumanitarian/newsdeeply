@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Ayaan</title>
+    <description>Ayaan was born in an internal displacement camp in Kismayo, Somalia. As a child, her family fled to Kenya’s largest refugee camp, Dadaab. While she has no formal birth certificate, she is around 22 years old. She is the mother of two young children, who are seven and eight years old.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ayaan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ayaan/rss"/>
+    <item>
+      <title>On the Run from Bullets and Bruises: Ayaan’s Story</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 16 Aug 2017 12:00:32 +0000</pubDate>
+      <author>Ayaan</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/16/on-the-run-from-bullets-and-bruises-ayaans-story</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/16/on-the-run-from-bullets-and-bruises-ayaans-story</guid>
+      <description>In Kenya’s largest refugee camp, a young Somali mother lives in hiding amid constant death threats from her ex-husband. With U.S. refugee resettlement frozen, all her efforts to leave the country have so far been in vain. Ayaan tells us her story in her own words.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170816115048/KENYA-UN-SOMALIA-REFUGEES-SECURITY1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

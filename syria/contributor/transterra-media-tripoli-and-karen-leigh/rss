@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Transterra Media / Tripoli and Karen Leigh</title>
+    <description>Transterra Media is an international news agency which provides on-demand, in-depth, human interest video and photo content.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/transterra-media-tripoli-and-karen-leigh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/transterra-media-tripoli-and-karen-leigh/rss"/>
+    <item>
+      <title>Refugees in Grim Global Spotlight After Syrian Woman Self-Immolates in Tripoli</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Transterra Media / Tripoli and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/03/27/refugees-in-grim-global-spotlight-after-syrian-woman-self-immolates-in-tripoli</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/03/27/refugees-in-grim-global-spotlight-after-syrian-woman-self-immolates-in-tripoli</guid>
+      <description>As Syrian refugees face poverty, hunger and unemployment in northern Lebanon, one woman, unable to feed her four children, re-triggers global debate by staging her own jarring protest.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115353/20140325_122214-533444a545471.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

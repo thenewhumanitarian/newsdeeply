@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Hanan Elbadawi</title>
+    <description>Hanan Elbadawi is an independent writer and analyst, experienced in humanitarian issues and Arab affairs. Most recently she worked as the founding manager of the Program on Refugees, Forced Displacement and Humanitarian Responses at Yale University. Previously, she worked with the League of Arab States, the International Peace Institute and the Egyptian Initiative for Personal Rights. Hanan holds a Master of Advanced Study in Global Affairs from Yale University, and an M.A. in international relations from the American University in Cairo.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/hanan-elbadawi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/hanan-elbadawi/rss"/>
+    <item>
+      <title>The Second Exodus: Tracing the Footsteps of Palestinian Refugees in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Fri, 06 Apr 2018 13:30:00 +0000</pubDate>
+      <author>Hanan Elbadawi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/04/06/the-second-exodus-tracing-the-footsteps-of-palestinian-refugees-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/04/06/the-second-exodus-tracing-the-footsteps-of-palestinian-refugees-in-syria</guid>
+      <description>An estimated 550,000 Palestinian refugees registered in Syria are now facing secondary displacement due to the conflict, and many of them are facing deteriorating conditions and a protection gap in host countries, writes humanitarian expert Hanan Elbadawi.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180406140621/AA_27032018_715943.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

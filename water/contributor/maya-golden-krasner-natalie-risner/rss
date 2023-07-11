@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Maya Golden-Krasner and Natalie Risner</title>
+    <description>Maya Golden-Krasner is an attorney with the Center for Biological Diversity. Natalie Risner lives in the Price Canyon area.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/maya-golden-krasner-natalie-risner/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/maya-golden-krasner-natalie-risner/rss"/>
+    <item>
+      <title>Protecting Aquifers From Oil Industry Pollution</title>
+      <category domain="https://www.newsdeeply.com/water/energy/">Energy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Maya Golden-Krasner and Natalie Risner</author>
+      <link>https://www.newsdeeply.com/water/community/2016/03/23/protecting-aquifers-from-oil-industry-pollution</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/03/23/protecting-aquifers-from-oil-industry-pollution</guid>
+      <description>Residents near San Luis Obispo County’s Price Canyon are concerned the Environmental Protection Agency will approve an aquifer exemption application allowing oil companies to dispose of wastewater in aquifers. This may be one of dozens of aquifers at risk from potential pollution.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104652/imperiled-aquifers-56f2a7010d659.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

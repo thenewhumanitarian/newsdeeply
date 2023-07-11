@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Dr. Elizabeth Dougherty</title>
+    <description>Dr. Elizabeth Dougherty is the executive director of Wholly H2O, a water conservation and reuse arts and education nonprofit in Oakland, California.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/elizabeth-dougherty/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/elizabeth-dougherty/rss"/>
+    <item>
+      <title>Beyond the Drought: Building Water Conservation Consciousness</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Thu, 11 May 2017 05:14:05 +0000</pubDate>
+      <author>Dr. Elizabeth Dougherty</author>
+      <link>https://www.newsdeeply.com/water/community/2017/05/11/beyond-the-drought-building-water-conservation-consciousness</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/05/11/beyond-the-drought-building-water-conservation-consciousness</guid>
+      <description>Water consciousness may spike during a period of drought, but the reasons for saving water extend far beyond times of shortages, writes Elizabeth Dougherty, executive director of Wholly H2O. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170511051217/El-Nino-Storms-Capturing-Rain5.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

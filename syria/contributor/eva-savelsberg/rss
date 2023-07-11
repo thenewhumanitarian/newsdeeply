@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Eva Savelsberg</title>
+    <description>Eva Savelsberg is president of the European Center for Kurdish Studies and web journalist for the website www.kurdwatch.org, which is focussing on human rights violation against the Kurds in Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/eva-savelsberg/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/eva-savelsberg/rss"/>
+    <item>
+      <title>War Is No Excuse: PYD Deployment of Child Soldiers</title>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Eva Savelsberg</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/02/26/war-is-no-excuse-pyd-deployment-of-child-soldiers</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/02/26/war-is-no-excuse-pyd-deployment-of-child-soldiers</guid>
+      <description>The PYD and its YPG and YPJ militias regularly, and often forcibly, recruit child soldiers and deploy them to the battlefield, writes Eva Savelsberg. The U.S.-led coalition against the Islamic State group, which has closely partnered with the PYD, should not allow a war against extremism supersede child rights.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112930/8d31bbef-81eb-4212-b110-4e24bb-56d07eacedb49.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

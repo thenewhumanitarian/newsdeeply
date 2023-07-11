@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Vladislav Chirin, Zineb Doubli and Patrick Martin</title>
+    <description>Vladislav Chirin is a student of international journalism at St Petersburg State University.
+Patrick Martin studied civil engineering at the University of Notre Dame. He then served in the U.S. Marine Corps and deployed to Afghanistan twice. He is studying video journalism and national security reporting at the Medill School of Journalism.
+Zineb Doubli (born in Morocco) has been living in Germany since 2008. She is currently a master’s program student at the Hamburg University of Applied Sciences.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/vladislav-chirin-zineb-doubli-and-patrick-martin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/vladislav-chirin-zineb-doubli-and-patrick-martin/rss"/>
+    <item>
+      <title>Flight for Life: Afghans Are Now Second-Class Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 24 Aug 2016 13:00:55 +0000</pubDate>
+      <author>Vladislav Chirin, Zineb Doubli and Patrick Martin</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/08/24/flight-for-life-afghans-are-now-second-class-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/08/24/flight-for-life-afghans-are-now-second-class-refugees</guid>
+      <description>Since the Syrian refugee crisis, Afghan asylum seekers in Europe have had to work harder to prove their lives are in danger. But for many of the more than 55,000 who applied for asylum in Germany in the past five years, deportation means a death sentence.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160824092609/Nazeri.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Sandra Postel</title>
+    <description>Sandra Postel directs the independent Global Water Policy Project and lectures, writes and consults on global water issues. In 2010 she was appointed Freshwater Fellow of the National Geographic Society. Sandra is co-creator of Change the Course, the national water stewardship initiative awarded the 2017 US Water Prize for restoring billions of gallons of water to depleted rivers and wetlands.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/sandra-postel/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/sandra-postel/rss"/>
+    <item>
+      <title>Creative Solutions to Save Vital Arizona River</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Wed, 29 Nov 2017 03:00:31 +0000</pubDate>
+      <author>Sandra Postel</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/11/29/creative-solutions-to-save-vital-arizona-river</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/11/29/creative-solutions-to-save-vital-arizona-river</guid>
+      <description>In Sandra Postel’s new book ‘Replenish,’ she writes about an initiative that helped inspire farmers to put more water back in Arizona’s Verde River and how downstream users in Phoenix are also getting involved.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171128084232/927_09_VH000274.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

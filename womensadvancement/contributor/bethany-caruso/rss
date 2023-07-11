@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Bethany Caruso</title>
+    <description>Bethany Caruso is a postdoctoral fellow in the Department of Environmental Health at Emory University.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/bethany-caruso/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/bethany-caruso/rss"/>
+    <item>
+      <title>Women Still Carry Most of the World’s Water</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/unpaid-domestic-and-care-work/">Unpaid Domestic and Care Work</category>
+      <pubDate>Tue, 18 Jul 2017 11:18:27 +0000</pubDate>
+      <author>Bethany Caruso</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/07/18/women-still-carry-most-of-the-worlds-water</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/07/18/women-still-carry-most-of-the-worlds-water</guid>
+      <description>According to a new United Nations report, more than 2 billion people around the world do not have access to clean, safe water in their homes. Most of the work of getting water falls on women and girls.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170718111625/PAKISTAN-UN-ENVIRONMENT-WATER.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

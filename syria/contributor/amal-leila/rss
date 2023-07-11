@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Amal Leila</title>
+    <description>Amal Leila is based in Syria. Like all our contributors in country she writes under a pen name for security reasons.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/amal-leila/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/amal-leila/rss"/>
+    <item>
+      <title>Critical Condition: a Syrian Female Doctor Makes a Desperate Plea to the U.N. for Help</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      <author>Amal Leila</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/10/30/critical-condition-a-syrian-female-doctor-makes-a-desperate-plea-to-the-u-n-for-help</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/10/30/critical-condition-a-syrian-female-doctor-makes-a-desperate-plea-to-the-u-n-for-help</guid>
+      <description>‘I wish that the urgency that moved the U.S. and other governments to bomb ISIS was matched by an urgency to save the lives of civilians’.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422113019/iamadoctorphoto-5453a11dad100.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

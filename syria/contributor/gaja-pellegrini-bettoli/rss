@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Gaja Pellegrini-Bettoli</title>
+    <description>Gaja Pellegrini-Bettoli is a freelance journalist based in Beirut and focusing on the MENA region. Since December 2016 she has been a frequent guest on Italy’s Mediaset TV channels with commentary and freelance reporting from the Middle East. She has published in Carnegie’s Sada journal, Corriere della Sera and Italy’s leading geopolitical magazine LIMES. Her articles appear in Al Jazeera, Middle East Eye, Al-Monitor, E.U. Observer, France24, Opendemocracy and the Atlantic Treaty Association.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/gaja-pellegrini-bettoli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/gaja-pellegrini-bettoli/rss"/>
+    <item>
+      <title>Intrepid Sisters Reveal How ISIS Depends on Role of Women</title>
+      <pubDate>Fri, 26 May 2017 09:08:21 +0000</pubDate>
+      <author>Gaja Pellegrini-Bettoli</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/05/26/intrepid-sisters-reveal-how-isis-depends-on-role-of-women</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/05/26/intrepid-sisters-reveal-how-isis-depends-on-role-of-women</guid>
+      <description>Two forensic social workers who visit Lebanon’s notorious Roumieh prison gained a rare insight through inmates into the activity of female ISIS supporters, whose roles go far beyond that of wives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170526090717/Operation-against-Tripoli-cafe-bombing-at-Roumieh-Prison-in-Beir.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

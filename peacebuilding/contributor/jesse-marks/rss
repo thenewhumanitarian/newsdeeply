@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Jesse Marks</title>
+    <description>Jesse Marks is a Fulbright fellow and Scoville Peace fellow based in Amman, Jordan researching strategies for managing refugee return, Syrian reconstruction, and civilian protection in conflict.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/jesse-marks/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/jesse-marks/rss"/>
+    <item>
+      <title>Inside the Largest Mass Displacement of Syria’s War</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 26 Jul 2018 14:30:00 +0000</pubDate>
+      <author>Sophie Zinser, Jesse Marks</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/07/26/inside-the-largest-mass-displacement-of-syrias-war</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/07/26/inside-the-largest-mass-displacement-of-syrias-war</guid>
+      <description>In recent weeks, Syrian journalist and activist Logain Almelehan found herself caught up in the largest single displacement of the Syrian war, as hundreds of thousands fled a government offensive in outhwest Syria. She tells her story to Sophie Zinser and Jesse Marks.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180726144111/AFP_17U1P41.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

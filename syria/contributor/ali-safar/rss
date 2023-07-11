@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ali Safar</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/ali-safar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ali-safar/rss"/>
+    <item>
+      <title>In Deir Ezzor, Education Continues Underground</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Ali Safar</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/03/06/in-deir-ezzor-education-continues-underground</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/03/06/in-deir-ezzor-education-continues-underground</guid>
+      <description>Teachers in Deir Ezzor province have created classrooms out of cellars in an effort to protect their students from aerial shelling. Here, we tell the story of three teachers struggling to continue their students’ education as war closes in.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115415/deir-ezzor-5318aabcd7237.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Alone in Moadimiya, But Vowing to Stay</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
+      <author>Ali Safar</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/02/25/alone-in-moadimiya-but-vowing-to-stay</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/02/25/alone-in-moadimiya-but-vowing-to-stay</guid>
+      <description>Amer, a 24-year-old in Moadimiya, has vowed not to leave his hometown. But he says life in this besieged pro-opposition enclave near Damascus is getting harder.</description>
+    </item>
+    <item>
+      <title>Trapped in Damascus: A Mother’s Quest to Reunite with Her Family in Egypt</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0000</pubDate>
+      <author>Ali Safar</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/11/13/trapped-in-damascus-a-mothers-quest-to-reunite-with-her-family-in-egypt</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/11/13/trapped-in-damascus-a-mothers-quest-to-reunite-with-her-family-in-egypt</guid>
+      <description>Samar reaches for her phone and dials the number she has now memorized by heart. She waits, then gets the voice mail asking her to leave a message.</description>
+    </item>
+  </channel>
+</rss>

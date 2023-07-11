@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Kirby Brill</title>
+    <description>Kirby Brill is the former general manager of the Mojave Water Agency in Southern California.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/kirby-brill/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/kirby-brill/rss"/>
+    <item>
+      <title>How Science and Data Can Help Water Agencies Evolve</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 15 Sep 2017 09:22:45 +0000</pubDate>
+      <author>Kirby Brill</author>
+      <link>https://www.newsdeeply.com/water/community/2017/09/15/how-science-and-data-can-help-water-agencies-evolve</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/09/15/how-science-and-data-can-help-water-agencies-evolve</guid>
+      <description>Among water users and agencies, data is often kept in private and hidden from public view, but that’s beginning to change, writes Kirby Brill, former general manager of the Mojave Water Agency. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170915092100/FL_Cedar_Springs_4280_05_09_2014.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

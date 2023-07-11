@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lauren Holt</title>
+    <description>Lauren Holt is a senior studying journalism and political science at Emerson College in Boston, MA. She is interested in human rights, the environment and politics – especially how they all intersect. Lauren spends her time at Emerson reporting and producing for the college television station, WEBN, and also enjoys a good yoga class. Lauren has held internships at ABC News and CNN.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lauren-holt/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lauren-holt/rss"/>
+    <item>
+      <title>From Classroom to Walmart Night Shift, a Syrian’s Battle for a Degree</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Mon, 05 Jun 2017 09:09:45 +0000</pubDate>
+      <author>Lauren Holt</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/06/05/from-classroom-to-walmart-night-shift-a-syrians-battle-for-a-degree-2</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/06/05/from-classroom-to-walmart-night-shift-a-syrians-battle-for-a-degree-2</guid>
+      <description>Zainab Abdo was once held at gunpoint on her way to take her school exams in Aleppo. Now resettled in the U.S., she is among nearly 100,000 university-qualified Syrians worldwide who have been stopped from attaining higher education.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170605090800/Zainab-hallway.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>From Classroom to Walmart Night Shift, a Syrian’s Battle for a Degree</title>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/integration/">Integration</category>
+      <pubDate>Mon, 05 Jun 2017 09:08:38 +0000</pubDate>
+      <author>Lauren Holt</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/05/from-classroom-to-walmart-night-shift-a-syrians-battle-for-a-degree</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/05/from-classroom-to-walmart-night-shift-a-syrians-battle-for-a-degree</guid>
+      <description>Zainab Abdo was once held at gunpoint on her way to take her school exams in Aleppo. Now resettled in the U.S., she is among nearly 100,000 university-qualified Syrians worldwide who have been stopped from attaining higher education.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170605090800/Zainab-hallway.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

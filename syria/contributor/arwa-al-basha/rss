@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Arwa al-Basha</title>
+    <description>Arwa al-Basha is a freelance Syrian journalist.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/arwa-al-basha/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/arwa-al-basha/rss"/>
+    <item>
+      <title>A Mother’s Loss in the Coalition’s Battle for Raqqa</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Thu, 17 Aug 2017 10:59:00 +0000</pubDate>
+      <author>Arwa al-Basha</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/08/17/a-mothers-loss-in-the-coalitions-battle-for-raqqa</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/08/17/a-mothers-loss-in-the-coalitions-battle-for-raqqa</guid>
+      <description>Umm Omar had not seen her youngest son, Ali, in three years before he was killed by a U.S.-led coalition airstrike on Raqqa city. He is just one of the roughly 500 people who have reportedly been killed by coalition airstrikes on ISIS’s former Syrian stronghold since June. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170817105541/SYRIA-RAQQA-MILITARY.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Besieged Homs, Blood Becomes a Rare Commodity</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Tue, 25 Jul 2017 12:14:25 +0000</pubDate>
+      <author>Arwa al-Basha</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/07/25/in-besieged-homs-blood-becomes-a-rare-commodity</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/07/25/in-besieged-homs-blood-becomes-a-rare-commodity</guid>
+      <description>At least 32 children in the besieged Houla region are suffering from an inherited blood disorder that requires frequent transfusions. Though fatality rates for thalassemia are not exceptionally high, the absence of supplies and blood banks has made it life-threatening.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170725121314/3084296.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Scavenging for Books Beneath the Rubble in Daraa</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <pubDate>Mon, 26 Jun 2017 11:35:33 +0000</pubDate>
+      <author>Arwa al-Basha</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/06/26/scavenging-for-books-beneath-the-rubble-in-daraa</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/06/26/scavenging-for-books-beneath-the-rubble-in-daraa</guid>
+      <description>Teachers and volunteers in a rural Daraa town are braving bullets and airstrikes to rescue books from beneath the wreckage and stock a new public library. Their aim is to assist local students in the difficult task of finding resources in war-torn Syria.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170626113457/Inkhil-Library.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

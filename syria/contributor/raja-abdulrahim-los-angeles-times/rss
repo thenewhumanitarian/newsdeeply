@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Raja Abdulrahim / Los Angeles Times</title>
+    <description>Los Angeles Times reporter, covering the conflict in Syria from far and near.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/raja-abdulrahim-los-angeles-times/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/raja-abdulrahim-los-angeles-times/rss"/>
+    <item>
+      <title>Ranks of Syrian War Widows Grow As Rebels Are Killed Off</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      <author>Raja Abdulrahim / Los Angeles Times</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/05/30/ranks-of-syrian-war-widows-grow-as-rebels-are-killed-off</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/05/30/ranks-of-syrian-war-widows-grow-as-rebels-are-killed-off</guid>
+      <description>As the number of female-led households grows in Syria, the LA Times’s Raja Abdulrahim, in Anadan, speaks to widowed women.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115226/la-afp-getty-topshots-turkey-s-53886ed708c25.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

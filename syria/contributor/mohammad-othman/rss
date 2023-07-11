@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mohammad Othman</title>
+    <description>Mohammad Othman is a freelance journalist working inside Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mohammad-othman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mohammad-othman/rss"/>
+    <item>
+      <title>Cease-fire and Prospects for Success in Geneva</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Mohammad Othman</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/03/16/cease-fire-and-prospects-for-success-in-geneva</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/03/16/cease-fire-and-prospects-for-success-in-geneva</guid>
+      <description>While the two-week truce in Syria has allowed for the resumption of peace talks in Geneva, if Russia and the United States do not act now to pressure both sides to agree on a transitional government, they may risk losing their last opportunity at a negotiated settlement.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112925/mideast-syria-56e94958655cd.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>International Intervention Is Prolonging Syrian War</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Mohammad Othman</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/02/09/international-intervention-is-prolonging-syrian-war</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/02/09/international-intervention-is-prolonging-syrian-war</guid>
+      <description>The Geneva III talks could be the last chance to save what remains of Syria and the Syrian people, writes Mohammad Othman. But as long as international political interests dominate what should be a national dialogue, the desperate situation will only become worse.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112938/3aac7a15-4690-40ad-8b44-ed21e5-56ba2b7f79f20.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mahmoud Mustafa</title>
+    <description>Mahmoud Mustafa is a field ophthalmologist and the director and founder of Independent Doctors Association (IDA), a Syrian humanitarian organization that consists of Syrian medics who provide healthcare services to the population of northern Syria. Aleppo native Mustafa and his colleagues work to reactivate and rehabilitate health facilities in the opposition-held parts of the region in an effort to cover the health needs of people living in one of Syria’s most war-torn regions. Faced with the persistent attacks on health workers in the region, Mustafa and IDA are strong advocates for the protection of medical workers and facilities in Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mahmoud-mustafa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mahmoud-mustafa/rss"/>
+    <item>
+      <title>Chronicle of Care: Providing Health Services for Millions of Syrians</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Thu, 21 Sep 2017 12:41:00 +0000</pubDate>
+      <author>Mahmoud Mustafa</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/09/21/chronicle-of-care-providing-health-services-for-millions-of-syrians</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/09/21/chronicle-of-care-providing-health-services-for-millions-of-syrians</guid>
+      <description>In the first in our series of diary entries from Syrian doctors, Mahmoud Mustafa, director of the Independent Doctors Association, explains how he went from being an eye surgeon in Aleppo to providing emergency care amid attacks, sporadic aid access and exhaustion. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170921123403/35b0921a-8a34-4840-8b0a-383eeac99f62.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

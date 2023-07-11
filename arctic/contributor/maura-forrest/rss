@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Maura Forrest</title>
+    <description>Maura Forrest is a Canadian journalist based in Whitehorse, Yukon. She has written for the Globe and Mail, CBC, the Tyee, the Barents Observer and other publications. She recently worked as a reporter for the Yukon News.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/maura-forrest/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/maura-forrest/rss"/>
+    <item>
+      <title>Thin Ice: The Drive Toward All-Season Roads in Canada’s North</title>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Thu, 06 Apr 2017 09:13:51 +0000</pubDate>
+      <author>Maura Forrest</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/04/06/thin-ice-the-drive-toward-all-season-roads-in-canadas-north</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/04/06/thin-ice-the-drive-toward-all-season-roads-in-canadas-north</guid>
+      <description>As the climate warms and ice roads become more unreliable, northern Canada is turning to technological solutions to give them longer lives, as well as looking at building alternative routes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406091309/Ice-road-aerial-Diavik.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

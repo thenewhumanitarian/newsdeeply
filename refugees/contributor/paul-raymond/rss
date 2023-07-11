@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Paul Raymond</title>
+    <description>Paul Raymond is a freelance journalist based in London and reporting from across the MENA region, Turkey and Mali. His work has been published by The Guardian, The Economist, Al Jazeera and others.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/paul-raymond/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/paul-raymond/rss"/>
+    <item>
+      <title>‘The Great Need Lurking in the Shadows’</title>
+      <category domain="https://www.newsdeeply.com/refugees/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Tue, 17 May 2016 03:15:50 +0000</pubDate>
+      <author>Paul Raymond</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/05/17/the-great-need-lurking-in-the-shadows-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/05/17/the-great-need-lurking-in-the-shadows-2</guid>
+      <description>Nihad was one of 5,000 Yazidi women and girls kidnapped by the Islamic State group. When she escaped, her suffering followed her to the refugee camps of Iraq. NGOs like Amar try to reach Nihad and other women who face social stigma and suffer psychological trauma.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406075157/MYA_2021.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘The Great Need Lurking in the Shadows’</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 02 May 2016 08:40:09 +0000</pubDate>
+      <author>Paul Raymond</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/05/02/the-great-need-lurking-in-the-shadows</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/05/02/the-great-need-lurking-in-the-shadows</guid>
+      <description>Nihad was one of 5,000 Yazidi women and girls kidnapped by the Islamic State group. When she escaped, her suffering followed her to the refugee camps of Iraq. NGOs like Amar try to reach Nihad and other women who face social stigma and suffer psychological trauma.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160502083442/MYA_2021.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lesbos: Online Volunteers Bridge Language Gap</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Paul Raymond</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/03/16/lesbos-online-volunteers-bridge-language-gap</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/03/16/lesbos-online-volunteers-bridge-language-gap</guid>
+      <description>How do you help someone if you can’t communicate with them? Translators without Borders, a remote network of volunteer translators, is helping NGOs in the Western Balkans translate vital information to help newly arrived migrants on the island of Lesbos.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422062456/2c449eba-7e0a-4281-80fe-3780ac-56d9f659c6c66.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

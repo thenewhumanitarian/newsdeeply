@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: John Holland</title>
+    <description>John Holland, Modesto Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/john-holland/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/john-holland/rss"/>
+    <item>
+      <title>Almond Growers Join in Groundwater Study</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      <author>John Holland</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/10/28/almond-growers-join-in-groundwater-study</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/10/28/almond-growers-join-in-groundwater-study</guid>
+      <description>MODESTO BEE: Researchers will use excess river water, if available, to flood almond fields this winter, then track any improvement in aquifer levels.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102429/3d6533be-d76f-4db4-b11d-efe940-5630c24320b20.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Irrigation District Explores Remaking Entire Water System</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      <author>John Holland</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/14/irrigation-district-explores-remaking-entire-water-system</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/14/irrigation-district-explores-remaking-entire-water-system</guid>
+      <description>MODESTO BEE: The $325 million plan would save water through more precise irrigation; cost to be covered by outside water buyers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102513/aa-stanislaus-river-03-55f6f194a5276.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

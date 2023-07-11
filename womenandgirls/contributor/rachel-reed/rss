@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Rachel Reed</title>
+    <description>Rachel Reed is an independent photojournalist and videographer reporting on East Africa. Her work has appeared in The Guardian and Al Jazeera English, among others.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/rachel-reed/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/rachel-reed/rss"/>
+    <item>
+      <title>The Women Activists Working to Keep Kenya’s Election Peaceful</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/economic-independence/">Economic Independence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Fri, 04 Aug 2017 11:49:34 +0000</pubDate>
+      <author>Rachel Reed</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/04/the-women-activists-working-to-keep-kenyas-election-peaceful</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/04/the-women-activists-working-to-keep-kenyas-election-peaceful</guid>
+      <description>As Kenya heads to the polls, all eyes are on the country’s leaders and candidates. But behind the scenes, the country’s women grassroots organizers are working to make sure violence doesn’t break out in their communities. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170804114913/Intro-Photo.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

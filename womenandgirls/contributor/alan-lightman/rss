@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Alan Lightman</title>
+    <description>Alan Lightman is founder and chair of the board at the Harpswell Foundation. He is also a novelist, physicist and professor of humanities at MIT.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/alan-lightman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/alan-lightman/rss"/>
+    <item>
+      <title>Empowering Girls in Cambodia Starts With Dormitories</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 16 Mar 2017 11:47:00 +0000</pubDate>
+      <author>Alan Lightman</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/03/16/empowering-girls-cambodia-starts-dormitories</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/03/16/empowering-girls-cambodia-starts-dormitories</guid>
+      <description>Female university students in Cambodia are often unable to find housing and are thus excluded from higher education. Dormitories give girls a place to live and a support system that breeds self-confidence and cooperation, says Alan Lightman of the Harpswell Foundation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070939/Harpswell.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

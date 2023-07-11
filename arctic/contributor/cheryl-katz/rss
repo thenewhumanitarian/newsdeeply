@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Cheryl Katz</title>
+    <description>Cheryl Katz is an independent science writer covering climate change,_ energy, technology and environmental health. She has a special interest in the cryosphere, and has traveled to both the Arctic and Antarctica. Her articles have appeared in National Geographic, Yale Environment 360 and _Scientific American, among other publications.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/cheryl-katz/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/cheryl-katz/rss"/>
+    <item>
+      <title>Marine Mammals Unsettled as Arctic Noise Grows</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Cheryl Katz</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/02/19/marine-mammals-unsettled-as-arctic-noise-grows</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/02/19/marine-mammals-unsettled-as-arctic-noise-grows</guid>
+      <description>Industrial noise from ships, offshore development and military activity is exposing Arctic marine mammals to unprecedented amounts of man-made racket. With the retreat of the sea ice, scientists figure the Arctic Ocean will only get louder. Can they muffle the din?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092829/7bdbfd8c-267b-4e5a-9870-1640ee-56c6ee18dbb24.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>New Climate Records Transforming Arctic: NOAA</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Cheryl Katz</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2015/12/16/new-climate-records-transforming-arctic-noaa</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2015/12/16/new-climate-records-transforming-arctic-noaa</guid>
+      <description>The latest report on the Arctic by the U.S. National Oceanic and Atmospheric Administration finds dwindling sea ice and temperatures as much as 3C (5.4F) above average are disrupting walrus and fish populations and having major impacts on the ecosystem.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092955/cb2d4a84-9bde-464e-bf62-f60630-5671ae9e83d1f.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

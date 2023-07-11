@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kat Zhang</title>
+    <description>Kat Zhang is a journalist based in New York, focusing on education news, financial news, refugees resettlement and culture stories.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kat-zhang/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kat-zhang/rss"/>
+    <item>
+      <title>In Florida, Syrians Try to Make a Home Among Cuban Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Thu, 03 Aug 2017 03:00:48 +0000</pubDate>
+      <author>Kat Zhang</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/03/in-florida-syrians-try-to-make-a-home-among-cuban-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/03/in-florida-syrians-try-to-make-a-home-among-cuban-refugees</guid>
+      <description>Florida has been an important home to Cuban refugees for generations. As Cuban arrivals dwindled last year, hundreds of Syrians were resettled in the state, and some are struggling to integrate into Spanish-speaking communities. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170731120546/US-CANDLE-LIGHT-VIGIL-HELD-FOR-JOURNALIST-STEPHEN-SOTLOFF-EXECUT.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

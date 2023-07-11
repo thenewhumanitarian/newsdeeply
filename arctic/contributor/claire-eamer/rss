@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Claire Eamer</title>
+    <description>Claire Eamer holds two degrees in English and mainly writes about science and history. She is the author of multiple books for children and young adults including Before the World Was Ready, The World in Your Lunch Box, Lizards in the Sky and Spiked Scorpions &amp;amp; Walking Whales. In 2014 she won the prestigious Lane Anderson Award for science writing in the young readers category.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/claire-eamer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/claire-eamer/rss"/>
+    <item>
+      <title>The Canadian Arctic Remains Dangerously Unmapped</title>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Mon, 09 May 2016 03:35:10 +0000</pubDate>
+      <author>Claire Eamer</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/05/09/the-canadian-arctic-remains-dangerously-unmapped</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/05/09/the-canadian-arctic-remains-dangerously-unmapped</guid>
+      <description>HAKAI MAGAZINE: Arctic waters are increasingly ice-free, but a lack of seafloor mapping means navigating the region is still risky. Mapping the Arctic is underway, but it’s neither easy nor cheap.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160510173032/5456659274_d4030b966d_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

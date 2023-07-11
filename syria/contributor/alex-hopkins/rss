@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Alex Hopkins</title>
+    <description>Alex Hopkins is Web Producer at Airwars, responsible for archiving official military reports of the war and assessing alleged coalition strikes in Iraq and Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/alex-hopkins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/alex-hopkins/rss"/>
+    <item>
+      <title>Airwars: Rise in Civilian Deaths from Coalition Strikes Unprecedented</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Mon, 26 Jun 2017 13:50:17 +0000</pubDate>
+      <author>Alex Hopkins</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/06/26/airwars-rise-in-civilian-deaths-from-coalition-strikes-unprecedented</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/06/26/airwars-rise-in-civilian-deaths-from-coalition-strikes-unprecedented</guid>
+      <description>Entire families are more frequently being killed in coalition airstrikes in Iraq and Syria, according to Airwars researcher Alex Hopkins. However, he writes in IRIN News, it has become increasingly difficult to determine which party is to blame.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170626134940/SYRIA-CONFLICT30.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

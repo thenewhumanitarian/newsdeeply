@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Colleen Kimmett</title>
+    <description>Colleen Kimmett is a Canadian journalist who writes about food, land and health. She has reported from half a dozen countries across the Americas and Southeast Asia and currently makes her home in Montréal.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/colleen-kimmett/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/colleen-kimmett/rss"/>
+    <item>
+      <title>Citizen-Led Solutions Hold Key to Helping the Hungry in Nunavut</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Wed, 31 May 2017 12:33:57 +0000</pubDate>
+      <author>Colleen Kimmett</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/05/31/citizen-led-solutions-hold-key-to-helping-the-hungry-in-nunavut</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/05/31/citizen-led-solutions-hold-key-to-helping-the-hungry-in-nunavut</guid>
+      <description>More than one-third of households in Canada’s eastern Arctic don’t have access to enough nutritious food. Social media campaigns against the territory’s sky-high food prices have prompted a variety of responses to help.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170531123333/20170517_161256.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

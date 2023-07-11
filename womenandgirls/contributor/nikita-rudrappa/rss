@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Nikita Rudrappa</title>
+    <description>Nikita Rudrappa is a freelance multimedia journalist based in Mumbai. Her work has featured in the New York Times, CCTV America and AFP among others. Her latest work is a collaborative project with U.N. Women.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/nikita-rudrappa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/nikita-rudrappa/rss"/>
+    <item>
+      <title>Video: Indian Grandmothers Prove It’s Never Too Late to Go Back to School</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/economic-independence/">Economic Independence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 29 Jun 2017 08:12:53 +0000</pubDate>
+      <author>Nikita Rudrappa</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/06/29/indian-grandmothers-prove-its-never-too-late-to-go-back-to-school</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/06/29/indian-grandmothers-prove-its-never-too-late-to-go-back-to-school</guid>
+      <description>Many older Indian women missed out on an education when they were young, but for one group of grandmothers, aged between 60 and 90, the dream of going to school is finally becoming a reality.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170629081237/India-grannies-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Madhumita Pandey</title>
+    <description>Madhumita Pandey is a doctoral candidate in the Department of Criminology at Anglia Ruskin University, Cambridge. Her research is based in Tihar Central Jail, New Delhi and includes narratives of convicted rapists as well as convicted murderers to explore various cultural and gender themes in India, particularly attitudes of convicted offenders towards women. She is also a monthly columnist for the Observer, writing about mental health, child sexual health, sexual violence and social change. Her research interests include sex trafficking in India, rape myth attitudes, masculinity ideology and children of prisoners.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/madhumita-pandey/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/madhumita-pandey/rss"/>
+    <item>
+      <title>What I Learned Interviewing Convicted Rapists in New Delhi</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Thu, 10 Aug 2017 11:49:59 +0000</pubDate>
+      <author>Madhumita Pandey</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/08/10/what-i-learned-interviewing-convicted-rapists-in-new-delhi</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/08/10/what-i-learned-interviewing-convicted-rapists-in-new-delhi</guid>
+      <description>Interviews with 100 convicted sex offenders in India, where almost 90 percent of rape cases go unreported, demonstrate that gender norms are deeply internalized.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170810114525/INDIA-CRIME-RAPE-SUICIDE.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

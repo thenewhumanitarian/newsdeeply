@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Sean O&amp;#8217;Neill</title>
+    <description>Sean O’Neill is a freelance writer based in Bologna, Italy.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/sean-oneill/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/sean-oneill/rss"/>
+    <item>
+      <title>Bags and Belongings: A Pack of Cards and Five Photos</title>
+      <pubDate>Thu, 12 Jan 2017 11:36:46 +0000</pubDate>
+      <author>Sean O’Neill</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/01/12/bags-and-belongings-a-pack-of-cards-and-five-photos-2</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/01/12/bags-and-belongings-a-pack-of-cards-and-five-photos-2</guid>
+      <description>In the fifth installment of our “Bags and Belongings” series, we meet Thair Orfali, a university graduate from Damascus who took a boat to Italy on one of the world’s deadliest sea routes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170112112928/APTOPIX-Mideast-Egypt-Daily-Life.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bags and Belongings: A Pack of Cards and Five Photos</title>
+      <category domain="https://www.newsdeeply.com/syria/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 12 Jan 2017 11:36:10 +0000</pubDate>
+      <author>Sean O’Neill</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/12/bags-and-belongings-a-pack-of-cards-and-five-photos</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/12/bags-and-belongings-a-pack-of-cards-and-five-photos</guid>
+      <description>In the fifth installment of our “Bags and Belongings” series, we meet Thair Orfali, a university graduate from Damascus who took a boat to Italy on one of the world’s deadliest sea routes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170112112928/APTOPIX-Mideast-Egypt-Daily-Life.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Syrians Find Prospects Thwarted by Housing Discrimination in Italy</title>
+      <category domain="https://www.newsdeeply.com/syria/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/syria/integration/">Integration</category>
+      <pubDate>Tue, 10 Jan 2017 13:55:19 +0000</pubDate>
+      <author>Preethi Nallu, Sean O’Neill</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/10/syrians-find-prospects-thwarted-by-housing-discrimination-in-italy</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/10/syrians-find-prospects-thwarted-by-housing-discrimination-in-italy</guid>
+      <description>Discrimination against foreigners – whether economic migrants or refugees – in Italy’s rental market has been exacerbated by the economic crisis. Refugees Deeply spoke with Syrians living in Bologna who have struggled to find housing despite owning their own businesses.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170110135138/Migrants-in-Rome.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Grainne Harrington</title>
+    <description>Grainne Harrington is a multimedia journalist based in Kampala, Uganda. She used to work at BBC World and currently contributes to a wide variety of publications, including AFP and France24. @GIHarrington.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/grainne-harrington/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/grainne-harrington/rss"/>
+    <item>
+      <title>Video: Educating Girls Helps Break the Cycle of Sex Work in Uganda</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Thu, 06 Jul 2017 03:00:54 +0000</pubDate>
+      <author>Grainne Harrington</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/07/06/video-educating-girls-helps-break-the-cycle-of-sex-work-in-uganda</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/07/06/video-educating-girls-helps-break-the-cycle-of-sex-work-in-uganda</guid>
+      <description>Sex workers in Uganda’s slums often have children at a young age, and girls can end up following their mothers into sex work. One project, Rhythm of Life, is trying to break this cycle by ensuring that the daughters of sex workers stay in school. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170705112717/Rhythm-of-Life-sharifah.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching Ugandan Girls to Code to Keep Them in School</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Thu, 04 May 2017 07:45:07 +0000</pubDate>
+      <author>Grainne Harrington</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/04/teaching-ugandan-girls-to-code-to-keep-them-in-school</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/04/teaching-ugandan-girls-to-code-to-keep-them-in-school</guid>
+      <description>One third of Ugandan school children won’t make it to the end of their primary education, but that could change, thanks to a women’s technology organization and a British NGO whose coding lessons encourage them to stay in school and give them crucial skills for the future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170504074317/P1020105.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Nurses and Cheap Morphine Made Uganda a Model for Palliative Care</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 22 Sep 2016 16:50:12 +0000</pubDate>
+      <author>Grainne Harrington</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/09/22/how-nurses-and-cheap-morphine-made-uganda-a-model-for-palliative-care</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/09/22/how-nurses-and-cheap-morphine-made-uganda-a-model-for-palliative-care</guid>
+      <description>Uganda’s underfunded health system struggles to effectively treat the country’s growing number of cancer patients. But for the terminally ill, a small hospice organization has come up with a homemade pain relief treatment that has revolutionized end-of-life care.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073119/Agatha-.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

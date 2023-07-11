@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Ed Hawkins</title>
+    <description>Ed Hawkins is a climate scientist in the National Centre for Atmospheric Science (NCAS) at the University of Reading. He is an IPCC AR5 contributing author. He can be found on Twitter @ed_hawkins
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/ed-hawkins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/ed-hawkins/rss"/>
+    <item>
+      <title>The Dangers of Predicting an Ice-Free Arctic Summer</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Wed, 24 Aug 2016 13:47:24 +0000</pubDate>
+      <author>Ed Hawkins</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/08/24/the-dangers-of-predicting-an-ice-free-arctic-summer</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/08/24/the-dangers-of-predicting-an-ice-free-arctic-summer</guid>
+      <description>Dramatic sea ice predictions make headlines. There are very serious risks from continued climatic changes and a melting Arctic, but we do not serve the public and policymakers well by exaggerating those risks.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160824134042/7873355004_60dbb97d67_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

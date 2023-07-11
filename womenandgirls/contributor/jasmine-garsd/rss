@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Jasmine Garsd</title>
+    <description>Jasmine Garsd is a reporter for Across Women’s Lives.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/jasmine-garsd/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/jasmine-garsd/rss"/>
+    <item>
+      <title>Bar Talk Helps Break the Link Between Rape and HIV in South Africa</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 10 Aug 2017 12:34:52 +0000</pubDate>
+      <author>Andrea Crossan, Jasmine Garsd</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/10/bar-talk-helps-break-the-link-between-rape-and-hiv-in-south-africa</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/10/bar-talk-helps-break-the-link-between-rape-and-hiv-in-south-africa</guid>
+      <description>South Africa is home to the biggest HIV epidemic in the world. It also has one of the world’s highest rates of rape. With the country’s legal system slow to recognize the issue of violence against women, local NGOs are working to break the link.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170810123422/HIV-violence-Sebeela.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Richard G. Luthy</title>
+    <description>Richard G. Luthy is a professor of civil and environmental engineering at Stanford University, California and director of the NSF Engineering Research Center for Reinventing the Nation’s Urban Water Infrastructure (ReNUWIt).
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/richard-g-luthy/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/richard-g-luthy/rss"/>
+    <item>
+      <title>The Price of Water Conservation – Using Less and Paying More</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Mon, 26 Sep 2016 06:00:43 +0000</pubDate>
+      <author>Richard G. Luthy</author>
+      <link>https://www.newsdeeply.com/water/community/2016/09/26/the-price-of-water-conservation-using-less-and-paying-more</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/09/26/the-price-of-water-conservation-using-less-and-paying-more</guid>
+      <description>Many people have seen their water rates go up as they conserve more, but it doesn’t have to be this way, writes Richard G. Luthy, a professor of civil and environmental engineering at Stanford University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160922113134/California-Drought22.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

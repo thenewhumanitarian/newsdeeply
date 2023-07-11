@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Nathaniel Homan</title>
+    <description>Nathaniel Homan is earning his Master’s degree in Environmental Engineering at U.C. Davis. He is working with Dr. Peter Green and Dr. Thomas Young to minimize waste from strong base anion exchange systems used to remove hexavalent chromium from drinking water.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/nathaniel-homan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/nathaniel-homan/rss"/>
+    <item>
+      <title>Toilet to Tap: A Potential Quality Water Source</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Nathaniel Homan</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/04/04/toilet-to-tap-a-potential-quality-water-source</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/04/04/toilet-to-tap-a-potential-quality-water-source</guid>
+      <description>Currently, nowhere in California does direct potable reuse – often referred to as “toilet to tap” – but that could change in coming years. There are a number of reasons why direct potable reuse would be a high-quality option for California to increase its water supply.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102218/dsc_9567-5702835c8f67a.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

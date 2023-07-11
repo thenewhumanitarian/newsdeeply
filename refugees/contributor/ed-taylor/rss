@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Ed Taylor</title>
+    <description>Ed Taylor is Medecins Sans Frontieres’ Project Coordinator on MV Aquarius.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ed-taylor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ed-taylor/rss"/>
+    <item>
+      <title>Diary of a Rescue Worker on the Mediterranean Sea</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Fri, 21 Apr 2017 15:28:24 +0000</pubDate>
+      <author>Ed Taylor</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/04/21/diary-of-a-rescue-worker-on-the-mediterranean-sea</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/04/21/diary-of-a-rescue-worker-on-the-mediterranean-sea</guid>
+      <description>Amid a surge in refugee boats from North Africa, a humanitarian worker describes one grueling day onboard a search and rescue ship on the Mediterranean Sea and his dismay at reactions to such rescues in Europe.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170421152638/Aquarius-SAR-Winter-conditions-and-high-seas.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

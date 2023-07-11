@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Phillip Reese, Ryan Sabalow &amp;#038; Dale Kasler, Sacramento Bee</title>
+    <description>Phillip Reese, Ryan Sabalow and Dale Kasler, Sacramento Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/phillip-reese-ryan-sabalow-dale-kasler-sacramento-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/phillip-reese-ryan-sabalow-dale-kasler-sacramento-bee/rss"/>
+    <item>
+      <title>Folsom Lake Levels Rise, Salmon Numbers Falling</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Phillip Reese, Ryan Sabalow &amp; Dale Kasler, Sacramento Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/02/03/folsom-lake-levels-rise-salmon-numbers-falling</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/02/03/folsom-lake-levels-rise-salmon-numbers-falling</guid>
+      <description>SACRAMENTO BEE: Rains have helped improve water levels in Folsom Lake, but the good news comes as the National Marine Fisheries Service report an alarming decline in the population of the juvenile winter-run Chinook salmon. Only 3 percent survived last year’s drought.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102302/2e4056c9-6755-4a00-acfe-8d713b-56b0f0b76a9a3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

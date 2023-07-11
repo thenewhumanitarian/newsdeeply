@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: John Wreford</title>
+    <description>John Wreford is a photographer based in Damascus. Roads and Kingdoms, an independent journal of food, politics, music and culture, can be found on Twitter @roadskingdoms.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/john-wreford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/john-wreford/rss"/>
+    <item>
+      <title>Roads + Kingdoms: Drinking Tea to the Sound of Distant Mortars</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      <author>John Wreford</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/03/26/roads-kingdoms-drinking-tea-to-the-sound-of-distant-mortars</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/03/26/roads-kingdoms-drinking-tea-to-the-sound-of-distant-mortars</guid>
+      <description>John Wreford is a photographer based in Damascus. Roads and Kingdoms, an independent journal of food, politics, music and culture, can be found on Twitter @roadskingdoms.</description>
+    </item>
+  </channel>
+</rss>

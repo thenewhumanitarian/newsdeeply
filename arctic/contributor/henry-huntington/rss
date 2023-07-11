@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Henry Huntington</title>
+    <description>Henry Huntington is a senior officer and science director for The Pew Charitable Trusts’ Arctic programs.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/henry-huntington/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/henry-huntington/rss"/>
+    <item>
+      <title>What We Can Learn From Remarkable Smith Bay</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Wed, 10 Aug 2016 10:37:14 +0000</pubDate>
+      <author>Henry Huntington</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/08/10/what-we-can-learn-from-remarkable-smith-bay</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/08/10/what-we-can-learn-from-remarkable-smith-bay</guid>
+      <description>Each spring, black guillemots arrive in Smith Bay to nest and lay their eggs, but the food web is shifting, and in 2009, only one chick survived to fledge and leave the island. Marine ecologist Henry Huntington looks at why this unique region needs protection.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160810103011/SmithBay_01.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

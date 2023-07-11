@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Madineh Zafari</title>
+    <description>Madineh Zafari is 17 years old and is from Afghanistan. She goes to a Greek school in Athens and likes journalism a lot.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/madineh-zafari/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/madineh-zafari/rss"/>
+    <item>
+      <title>In Greek Camp, Raindrops That Once Soothed Now Bring Sorrow</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 03 May 2017 10:27:21 +0000</pubDate>
+      <author>Madineh Zafari</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/03/in-greek-camp-raindrops-that-once-soothed-now-bring-sorrow</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/03/in-greek-camp-raindrops-that-once-soothed-now-bring-sorrow</guid>
+      <description>Madineh Zafari used to love walking in the rain. In an essay published in a Greek newspaper, the 17-year-old Afghan refugee describes how living in a refugee camp in Greece now makes her panic at the sound of raindrops. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170503102201/GREECE-EUROPE-MIGRANTS2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ali Melhem</title>
+    <description>Ali Melhem is a contributor to Rozana Radio.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/ali-melhem/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ali-melhem/rss"/>
+    <item>
+      <title>Locals in Idlib Take on al-Nusra Front</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Ali Melhem</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/03/19/locals-in-idlib-take-on-al-nusra-front</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/03/19/locals-in-idlib-take-on-al-nusra-front</guid>
+      <description>There’s growing hostility between al-Qaida’s branch in Syria and the locals of Idlib. After attempting to disrupt popular protests in the streets of Maarat al-Numan last week, the insurgent group then pushed a popular branch of the Free Syrian Army out of town.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112921/mideast-syria-al-qaeda-56ecd2675f259.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Syrian Revolution Lives Again</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Ali Melhem</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/03/08/the-syrian-revolution-lives-again</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/03/08/the-syrian-revolution-lives-again</guid>
+      <description>After nearly five years of civil war, the temporary cease-fire has brought a return of popular protests to Syria’s streets. But now that civil society is finally back, writes Ali Melhem, it is time for activists to rethink past mistakes and speak out against the Islamist groups that kidnapped the spirit of the uprising.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112928/74301248-0fa1-401e-b13d-18d979-56dfc7e833d34.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

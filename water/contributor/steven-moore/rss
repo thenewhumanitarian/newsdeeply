@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Steven Moore</title>
+    <description>Steven Moore is vice chair of the State Water Resources Control Board. He previously served on the San Francisco Bay Regional Water Board from 2008–12 under the Brown and Schwarzenegger administrations and held staff positions at that regional water board at various times between 1992 and 2006. He is a registered civil engineer and a member of the American Society of Civil Engineers.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/steven-moore/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/steven-moore/rss"/>
+    <item>
+      <title>California Is Using Open Data to Provide Key Health, Water Information</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Fri, 22 Sep 2017 05:00:09 +0000</pubDate>
+      <author>Steven Moore</author>
+      <link>https://www.newsdeeply.com/water/community/2017/09/22/california-is-using-open-data-to-provide-key-health-water-information</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/09/22/california-is-using-open-data-to-provide-key-health-water-information</guid>
+      <description>Water boards have improved their use of modern data management to change public habits on critical water issues and are hoping to do more in the future, writes Steven Moore, vice chair of the State Water Resources Control Board.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170919103115/1372.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

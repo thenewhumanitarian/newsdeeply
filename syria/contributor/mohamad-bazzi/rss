@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mohamad Bazzi</title>
+    <description>Mohamad Bazzi is a journalism professor at New York University and former Middle East bureau chief at Newsday. He is writing a book on the proxy wars between Saudi Arabia and Iran. Find him on Twitter at @BazziNYU.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mohamad-bazzi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mohamad-bazzi/rss"/>
+    <item>
+      <title>Analysis: How Civilians Will Lose in the Battle Against ISIS in Raqqa</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Tue, 08 Nov 2016 07:19:55 +0000</pubDate>
+      <author>Mohamad Bazzi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/11/08/analysis-how-civilians-will-lose-in-the-battle-against-isis-in-raqqa</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/11/08/analysis-how-civilians-will-lose-in-the-battle-against-isis-in-raqqa</guid>
+      <description>As the U.S.-led offensive against ISIS pushes fighters out of Mosul into Syria, a similar offensive has begun against militants in Raqqa, but that’s not likely to stop them from mounting attacks, writes journalist Mohamad Bazzi.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161108071828/Mideast-Syria-Mosul-Campaign.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Analysis: ISIS’s Ramadan Campaign of Terror</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Wed, 13 Jul 2016 12:47:35 +0000</pubDate>
+      <author>Mohamad Bazzi</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/07/13/analysis-isiss-ramadan-campaign-of-terror</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/07/13/analysis-isiss-ramadan-campaign-of-terror</guid>
+      <description>Middle East expert Mohamad Bazzi explains how the so-called Islamic State’s territorial losses in Syria and Iraq pushed it to focus on large-scale attacks around the world during the holy month of Ramadan. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160713124620/Mideast-Iraq.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jesselyn Cook</title>
+    <description>Jesselyn Cook
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jesselyn-cook/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jesselyn-cook/rss"/>
+    <item>
+      <title>Stranded Syrians Celebrate Nowruz in Idomeni</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Jesselyn Cook</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/03/25/stranded-syrians-celebrate-nowruz-in-idomeni</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/03/25/stranded-syrians-celebrate-nowruz-in-idomeni</guid>
+      <description>Hundreds of Syrian Kurdish refugees celebrated the holiday of Nowruz, marking the beginning of the Persian New Year, along Greece’s border with Macedonia. They have been stuck in Idomeni along with around 10,000 other migrants after Macedonian authorities sealed the border earlier this month.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114131/greece-migrants-56f55f4b2a87f.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The First Syrian Astronaut Is Now a Refugee</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Jesselyn Cook</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/03/11/the-first-syrian-astronaut-is-now-a-refugee</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/03/11/the-first-syrian-astronaut-is-now-a-refugee</guid>
+      <description>Muhammad Faris was the first and only Syrian to be sent into space. Selected as part of a Soviet-led mission in the 1980s, he received a hero’s welcome on his return home. But the national hero now lives as a refugee in Istanbul, forced to flee the violence in Aleppo in the first year of the uprising.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114148/turkey-syrian-cosmonaut-56e2c0ae18a4b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

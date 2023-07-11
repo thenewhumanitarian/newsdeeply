@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Nick Hansen</title>
+    <description>Nick Hansen runs the recycled water blog Recycled H2O, is a passionate water conservationist and a certified grade III – wastewater treatment plant operator in the San Francisco Bay Area.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/nick-hansen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/nick-hansen/rss"/>
+    <item>
+      <title>How to Get Free Recycled Water in California</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 24 Aug 2016 05:00:49 +0000</pubDate>
+      <author>Nick Hansen</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/08/24/how-to-get-free-recycled-water-in-california</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/08/24/how-to-get-free-recycled-water-in-california</guid>
+      <description>The pioneering efforts of a Northern California water agency in 2014 have led to the creation of a first-of-its-kind program that has helped create recycled water fill stations across the state.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160823074629/DSRSD-recycled-water-fill-station.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Making the Most of Wastewater</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 02 Aug 2016 12:32:30 +0000</pubDate>
+      <author>Nick Hansen</author>
+      <link>https://www.newsdeeply.com/water/community/2016/08/02/making-the-most-of-wastewater</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/08/02/making-the-most-of-wastewater</guid>
+      <description>Delta Diablo, a wastewater recovery center in Antioch, California has become a showcase for how to save water and energy, while turning 12 million gallons a day of wastewater into something usable.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160802123007/delta-diablo1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Alaa Masalma</title>
+    <description>Alaa Masalma is a Syrian mother of two and former French teacher currently living in Jordan.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/alaa-masalma/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/alaa-masalma/rss"/>
+    <item>
+      <title>Love in the Time of Displacement: Part II</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Fri, 16 Mar 2018 03:00:00 +0000</pubDate>
+      <author>Oudai Al Homsi, Alaa Masalma</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/03/16/love-in-the-time-of-displacement-part-ii</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/03/16/love-in-the-time-of-displacement-part-ii</guid>
+      <description>The diaries of Syrian couple Oudai and Alaa continue as they part in Jordan. In this second installment, Alaa copes with raising the children on her own while Oudai contends with repeatedly dashed expectations as Germany shifts the deadline for family reunifications.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180315124448/AFP_GE2261.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love in the Time of Displacement: Part I</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 14 Mar 2018 12:20:00 +0000</pubDate>
+      <author>Oudai Al Homsi, Alaa Masalma</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/03/14/love-in-the-time-of-displacement-part-i</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/03/14/love-in-the-time-of-displacement-part-i</guid>
+      <description>Newlyweds Oudai and Alaa fled the war in Syria together and started a family in Jordan. Then Oudai traveled to Germany alone, hoping to bring his family a few months later. The couple kept a diary detailing their separation; this first installment begins in Syria.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180314121934/AFP_S66B41.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

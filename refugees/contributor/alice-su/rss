@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Alice Su</title>
+    <description>Alice Su (@aliceysu) is a journalist based in Amman, Jordan. Her work focuses on migration, religion, China and the Middle East.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/alice-su/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/alice-su/rss"/>
+    <item>
+      <title>What Refugees in Germany Say About Islam and the West</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Wed, 18 Oct 2017 15:13:17 +0000</pubDate>
+      <author>Alice Su</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/10/18/what-refugees-in-germany-say-about-islam-and-the-west</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/10/18/what-refugees-in-germany-say-about-islam-and-the-west</guid>
+      <description>Refugees coming to Germany bring with them vastly different ideas about religion. Now, their relationship with their faith is being shaped once again in their new country. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171018150636/97824261.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Abused Migrant Workers End Up in Prison After Trying to Flee</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 09 Jun 2017 05:04:49 +0000</pubDate>
+      <author>Alice Su</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/09/abused-migrant-workers-end-up-in-prison-after-trying-to-flee-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/09/abused-migrant-workers-end-up-in-prison-after-trying-to-flee-2</guid>
+      <description>In Jordan and Lebanon, hundreds of migrant domestic workers are being held in detention. Lawyers and activists say that many of these women wind up in prison after they try to leave abusive employers, who can easily retaliate by falsely accusing them of committing crimes. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170607122705/May-Day-in-Beirut.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Abused Migrant Workers End Up in Prison After Trying to Flee</title>
+      <category domain="https://www.newsdeeply.com/refugees/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/refugees/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Wed, 07 Jun 2017 12:27:27 +0000</pubDate>
+      <author>Alice Su</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/06/07/abused-migrant-workers-end-up-in-prison-after-trying-to-flee</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/06/07/abused-migrant-workers-end-up-in-prison-after-trying-to-flee</guid>
+      <description>In Jordan and Lebanon, hundreds of migrant domestic workers are being held in detention. Lawyers and activists say that many of these women wind up in prison after they try to leave abusive employers, who can easily retaliate by falsely accusing them of committing crimes. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170607122705/May-Day-in-Beirut.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Photo Essay: Coping Skills and Trauma Therapy in Jordan</title>
+      <category domain="https://www.newsdeeply.com/refugees/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Alice Su</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/14/photo-essay-coping-skills-and-trauma-therapy-in-jordan</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/14/photo-essay-coping-skills-and-trauma-therapy-in-jordan</guid>
+      <description>More than 80% of the almost 600,000 Syrians in Jordan live in urban areas outside of refugee camps. With no sign of the conflict ending, local and international NGOs are trying to help Syrians cope with daily life.</description>
+    </item>
+  </channel>
+</rss>

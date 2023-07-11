@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Malik Al-Abdeh</title>
+    <description>Malik Al-Abdeh is a London-based Syrian journalist. Follow him on @malikalabdeh
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/malik-al-abdeh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/malik-al-abdeh/rss"/>
+    <item>
+      <title>Talking About My Generation</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <author>Malik Al-Abdeh</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/02/18/talking-about-my-generation</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/02/18/talking-about-my-generation</guid>
+      <description>Malik Al-Abdeh is a London-based Syrian journalist. Follow him on @malikalabdeh.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Benjamin Dix</title>
+    <description>Benjamin Dix in the Founder and Director at PositiveNegatives, a graphic journalism initiative. He is completing his PhD at the University of Sussex on the methodologies and ethics of producing a comic book.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/benjamin-dix/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/benjamin-dix/rss"/>
+    <item>
+      <title>Comics as Art, Education and Advocacy</title>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Benjamin Dix</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/03/15/comics-as-art-education-and-advocacy</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/03/15/comics-as-art-education-and-advocacy</guid>
+      <description>From stories of bonded labor to long, perilous journeys, PositiveNegatives produces literary comics based on firsthand accounts of displaced people and communities. Founder Benjamin Dix reflects on graphic journalism as a tool of education and advocacy.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422085629/7a9f6af7-e65c-4a46-9d29-2b1a64-56dd7c4d3b576.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

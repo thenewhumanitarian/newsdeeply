@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Paul Harvey</title>
+    <description>Paul Harvey is an environmental science researcher at Australia’s Macquarie University. He is also co-owner of The Wonky Carrot, a small company focused on sustainable and plastic-free products.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/paul-harvey/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/paul-harvey/rss"/>
+    <item>
+      <title>Sometimes We Really Need Single-Use Plastics</title>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Fri, 06 Jul 2018 08:30:00 +0000</pubDate>
+      <author>Paul Harvey</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/07/06/sometimes-we-really-need-single-use-plastics</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/07/06/sometimes-we-really-need-single-use-plastics</guid>
+      <description>As governments around the world rightly consider bans of various kinds of disposable plastics, nuance is needed to protect crucial applications, such as in research, food aid and medicine, argues environmental science researcher Paul Harvey of Macquarie University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180706082958/910_04__JAS02071.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

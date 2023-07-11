@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Erik Hoffner</title>
+    <description>As an editor for the global environmental news source Mongabay, Erik keeps readers informed on the latest developments in conservation news and science. He also freelances for publications like the Guardian, The Sun, World Ark and Earth Island Journal. Find more of his work online at erikhoffner.com and find him on Twitter at @erikhoffner.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/erik-hoffner/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/erik-hoffner/rss"/>
+    <item>
+      <title>Exploring a Great White Shark Nursery in the Shadow of New York City</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Tue, 24 Jul 2018 06:00:00 +0000</pubDate>
+      <author>Erik Hoffner</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/07/24/exploring-a-great-white-shark-nursery-in-the-shadow-of-new-york-city</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/07/24/exploring-a-great-white-shark-nursery-in-the-shadow-of-new-york-city</guid>
+      <description>With one of the ocean’s iconic predators globally threatened, a shark tagging program off the shores of Long Island is an effort to understand behaviors of young in a marine region where their numbers may be increasing.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180724062613/LAT_128055_SP_1003_sharks_5_ALS1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

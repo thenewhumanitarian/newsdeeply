@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lina Sinjab</title>
+    <description>Lina Sinjab is a Syrian journalist and Middle East correspondent at the BBC. In 2013 she covered the Syria peace talks in Geneva as the BBC’s World Affairs reporter and before that, from 2007, she was the BBC’s Damascus-based correspondent. Lina has extensively covered the Syrian uprising since its beginnings in 2011 and continues to follow developments in Syria and the region.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lina-sinjab/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lina-sinjab/rss"/>
+    <item>
+      <title>How Syria’s War Economy Propels the Conflict</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Fri, 28 Jul 2017 11:37:36 +0000</pubDate>
+      <author>Lina Sinjab</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/07/28/how-syrias-war-economy-propels-the-conflict</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/07/28/how-syrias-war-economy-propels-the-conflict</guid>
+      <description>The conflict in Syria has given way to a new class of nouveau riche, dominated by warlords and independent businessmen who benefit from the status quo, and may make it difficult for an international deal to be implemented locally, writes Syrian journalist Lina Sinjab.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170728113654/SYRIA-ECONOMY-CURRENCY.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

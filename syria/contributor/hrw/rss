@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: HRW</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/hrw/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/hrw/rss"/>
+    <item>
+      <title>Fuel-Air Bombs Strike Raqqa School</title>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <author>HRW</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/01/fuel-air-bombs-strike-raqqa-school</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/01/fuel-air-bombs-strike-raqqa-school</guid>
+      <description>A Syrian government airstrike using fuel-air explosive bombs hit outside a secondary school in the opposition-held city of Raqqa on September 29, killing at least 14 civilians. At least 12 of those killed were students attending their first day of classes.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161205172042/placeholder.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

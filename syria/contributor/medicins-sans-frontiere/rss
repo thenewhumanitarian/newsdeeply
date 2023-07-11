@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Medicins Sans Frontiere</title>
+    <description>Doctors Without Borders/Médecins Sans Frontières (MSF) is an international medical humanitarian organization created by doctors and journalists in France in 1971.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/medicins-sans-frontiere/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/medicins-sans-frontiere/rss"/>
+    <item>
+      <title>Médecins Sans Frontières Dispatch:  An Endless Night Getting Darker and Darker</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      <author>Medicins Sans Frontiere</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/03/19/medecins-sans-frontieres-dispatch-an-endless-night-getting-darker-and-darker</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/03/19/medecins-sans-frontieres-dispatch-an-endless-night-getting-darker-and-darker</guid>
+      <description>“Being under siege is like an endless night – a night that we’ve learned can get darker and darker. We have run out of basic food and medicine supplies so many times, we try very hard to keep a little extra.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114718/msf142538-550abb4cc98a5.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>MSF Dispatch: Miscarriage Rising, Pregnant Women Vulnerable</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Sat, 26 Jan 2013 00:00:00 +0000</pubDate>
+      <author>Medicins Sans Frontiere</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/01/26/msf-dispatch-miscarriage-rising-pregnant-women-vulnerable</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/01/26/msf-dispatch-miscarriage-rising-pregnant-women-vulnerable</guid>
+      <description>The group Doctors Without Borders, also known as Medicins Sans Frontiere, delivers emergency medical services in Syria’s crisis. On Saturday they said that growing insecurity in Aleppo is weakening efforts to provide those services. They sent over these notes from the field.</description>
+    </item>
+  </channel>
+</rss>

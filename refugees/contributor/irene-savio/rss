@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Irene Savio</title>
+    <description>Irene Savio was born in Italy and grew up in Argentina. Her work as journalist, both in press and radio, is related to issues of migration, human rights, religion, international politics and conflicts. Irene is coauthor of a book on the European refugee and migrant crisis, “Mi nombre es Refugiado” (My name is Refugee).
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/irene-savio/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/irene-savio/rss"/>
+    <item>
+      <title>Africans Face Dead End After Death-Defying Odyssey to U.S.</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 02 Mar 2017 07:37:12 +0000</pubDate>
+      <author>Irene Savio</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/02/africans-face-dead-end-after-death-defying-odyssey-to-u-s</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/02/africans-face-dead-end-after-death-defying-odyssey-to-u-s</guid>
+      <description>The number of Africans crossing the Americas to seek refuge in the U.S. grew tenfold last year. Now survivors of that long, expensive and dangerous journey face shrinking prospects of reaching the U.S. and more hardships in Mexico amid Trump’s immigration crackdown.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170302073524/5-One-of-the-many-illegal-crossing-points-between-Mexico-and-Guatemala.-December-2016-.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

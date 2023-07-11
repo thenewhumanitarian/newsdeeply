@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Dom Yanchunas</title>
+    <description>Dom Yanchunas is the editor of Professional Mariner magazine. His coverage of Arctic policy has included experiences aboard commercial and U.S. Coast Guard vessels in northwest Alaska. He is an alumnus of the Metcalf Institute’s Science Immersion Workshop for Journalists at the University of Rhode Island Graduate School of Oceanography.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/dom-yanchunas/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/dom-yanchunas/rss"/>
+    <item>
+      <title>Environmental Groups Push For Stronger Polar Code</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Fri, 03 Jun 2016 09:40:07 +0000</pubDate>
+      <author>Dom Yanchunas</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/03/environmental-groups-push-for-stronger-polar-code</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/03/environmental-groups-push-for-stronger-polar-code</guid>
+      <description>When the Polar Code takes effect in January 2017, it will strengthen the rules for many of the vessels sailing through Arctic waters. It will help protect the Arctic environment, but experts say gaps remain.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160603093631/120106-G-6458F-272.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

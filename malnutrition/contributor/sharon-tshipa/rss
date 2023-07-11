@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Sharon Tshipa</title>
+    <description>Sharon Tshipa is an international multimedia practitioner, award-winning fiction writer and a social entrepreneur based in Gaborone, Botswana. She has contributed to Xinhua News Agency, Agence France-Presse, Devex, Juka Africa Agency, SOPA images and Teacher’s Magazine, among others. Tshipa is a 2017 Africa-China Reporting Project Fellow.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/sharon-tshipa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/sharon-tshipa/rss"/>
+    <item>
+      <title>Experts Warn Data Gaps Are Undermining Botswana’s Nutrition Programs</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/wasting/">Wasting</category>
+      <pubDate>Mon, 12 Feb 2018 07:40:00 +0000</pubDate>
+      <author>Sharon Tshipa</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/02/12/experts-warn-data-gaps-are-undermining-botswanas-nutrition-programs</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/02/12/experts-warn-data-gaps-are-undermining-botswanas-nutrition-programs</guid>
+      <description>Botswana has ambitious plans to address high rates of stunting and other forms of undernutrition among children. Those efforts are being hurt by a lack of information on who needs the services, according to nutrition officials.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180212074623/1020_19_ERE-151054.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

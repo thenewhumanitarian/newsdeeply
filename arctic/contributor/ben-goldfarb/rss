@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Ben Goldfarb</title>
+    <description>Ben Goldfarb is a freelance environmental journalist whose work often focuses on fisheries and wildlife management. His writing has appeared in publications including the Guardian, Scientific American, Earth Island Journal, OnEarth Magazine and High Country News.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/ben-goldfarb/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/ben-goldfarb/rss"/>
+    <item>
+      <title>A Lesson From Indigenous Communities</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 10 Jun 2016 03:00:04 +0000</pubDate>
+      <author>Ben Goldfarb</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/10/a-lesson-from-indigenous-communities</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/10/a-lesson-from-indigenous-communities</guid>
+      <description>ENSIA: From Canada’s Far North to Australia, researchers around the world are pursuing a more respectful relationship between science and traditional knowledge. Here’s why that’s a good thing.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160609071533/5390772958_89a89636ca_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

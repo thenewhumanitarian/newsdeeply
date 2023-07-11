@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: David Fonseca</title>
+    <description>David Fonseca is a news producer and freelance journalist living in Los Angeles. He previously worked as a writer and associate producer on HuffPost Live’s #WorldBrief with @ASE.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/david-fonseca/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/david-fonseca/rss"/>
+    <item>
+      <title>Surviving Chronic Illness in Damascus</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
+      <author>David Fonseca</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/21/surviving-chronic-illness-in-damascus</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/21/surviving-chronic-illness-in-damascus</guid>
+      <description>As Syria’s medical infrastructure implodes, sufferers of chronic illness struggle to find regular treatment. Meet Sana, a young Damascene living with a rare skin disease, and her father, who struggles to provide the care she needs.</description>
+    </item>
+  </channel>
+</rss>

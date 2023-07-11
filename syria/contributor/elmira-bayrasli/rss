@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Elmira Bayrasli</title>
+    <description>Elmira Bayrasli is a World Policy Institute project leader and is working on a book about entrepreneurs in the developing world.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/elmira-bayrasli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/elmira-bayrasli/rss"/>
+    <item>
+      <title>Entrepreneurs on Syria’s Frontlines</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Wed, 10 Jul 2013 00:00:00 +0000</pubDate>
+      <author>Elmira Bayrasli</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/07/10/entrepreneurs-on-syrias-frontlines</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/07/10/entrepreneurs-on-syrias-frontlines</guid>
+      <description>Despite the ongoing conflict raging in their country, a handful of intrepid Syrian entrepreneurs continue to operate their tech-based businesses.</description>
+    </item>
+  </channel>
+</rss>

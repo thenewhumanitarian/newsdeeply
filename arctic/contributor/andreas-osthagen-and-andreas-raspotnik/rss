@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Andreas Østhagen and Andreas Raspotnik</title>
+    <description>Andreas Østhagen is a correspondent for High North News and Senior Fellow at The Arctic Institute. Andreas Raspotnik is Senior Fellow at The Arctic Institute.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/andreas-osthagen-and-andreas-raspotnik/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/andreas-osthagen-and-andreas-raspotnik/rss"/>
+    <item>
+      <title>Creating a Database of Northern Operators</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <pubDate>Mon, 04 Jul 2016 03:00:15 +0000</pubDate>
+      <author>Andreas Østhagen and Andreas Raspotnik</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/07/04/creating-a-database-of-northern-operators</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/07/04/creating-a-database-of-northern-operators</guid>
+      <description>HIGH NORTH NEWS: A database of businesses operating in the Arctic could encourage best practices, provide communities with information on what to expect from a company and help define sustainable development in an Arctic context.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160627072152/MS_Albatros_Magdalenenfjord_Spitzbergen.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Children: The Most Important Resource</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 22 Jun 2016 03:00:08 +0000</pubDate>
+      <author>Andreas Østhagen and Andreas Raspotnik</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/06/22/children-the-most-important-resource</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/06/22/children-the-most-important-resource</guid>
+      <description>HIGH NORTH NEWS: Issues related to education and social well-being affect all Arctic nations and must be given more importance in discussions about the future of the Arctic region.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160621150753/15090586850_ee80b7247c_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

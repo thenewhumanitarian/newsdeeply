@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Tim Radford</title>
+    <description>Tim Radford is Arctic Deeply contributor.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/tim-radford-2/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/tim-radford-2/rss"/>
+    <item>
+      <title>Arctic Warming Gives U.S. and Europe the Chills</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Mon, 07 Nov 2016 05:00:09 +0000</pubDate>
+      <author>Tim Radford</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/11/07/arctic-warming-gives-u-s-and-europe-the-chills</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/11/07/arctic-warming-gives-u-s-and-europe-the-chills</guid>
+      <description>The effects of Arctic climate change on the jet stream could mean harsher winters for some of the most highly populated regions of the world – and definitely demand that meteorologists look more carefully north.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161102145927/12163514136_1615371c37_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Warming Arctic Creates GHG Danger Zone</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Tue, 05 Jul 2016 08:00:38 +0000</pubDate>
+      <author>Tim Radford</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/07/05/warming-arctic-creates-ghg-danger-zone</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/07/05/warming-arctic-creates-ghg-danger-zone</guid>
+      <description>CLIMATE NEWS NETWORK: Researchers warn that thawing soils in the Arctic tundra’s permafrost will release increasing quantities of carbon dioxide and methane into the atmosphere.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160704065533/image.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Derek Ritsma</title>
+    <description>Derek Ritsma is a recent graduate of the master’s program in political science at York University. His academic focus has been in security topics and he is a member of the NATO Association of Canada. He currently lives in Toronto, Ontario.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/derek-ritsma/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/derek-ritsma/rss"/>
+    <item>
+      <title>Taking on a Radioactive Issue in the Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <pubDate>Fri, 28 Apr 2017 09:27:46 +0000</pubDate>
+      <author>Derek Ritsma</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/04/28/taking-on-a-radioactive-issue-in-the-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/04/28/taking-on-a-radioactive-issue-in-the-arctic</guid>
+      <description>From collisions between nuclear-powered submarines to worries about Russia’s floating power plants, Arctic nations have many reasons to make a formal agreement to protect against a nuclear disaster, writes Derek Ritsma, a political science graduate from York University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170428092642/2753374.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Yasser Allawi and Jalal Zein al-Deen</title>
+    <description>Yasser Allawi is an independent Syrian journalist and reporter. His work has been featured on Al-Arabiya, Al-Jazeera and BBC.
+
+Jalal Zein al-Deen is an independent Syrian journalist with a focus on the area of al-Raqqa.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/yasser-allawi-and-jalal-zein-al-deen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/yasser-allawi-and-jalal-zein-al-deen/rss"/>
+    <item>
+      <title>One Fighter’s Recruitment – and Escape – from ISIS</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 12 May 2016 10:55:54 +0000</pubDate>
+      <author>Yasser Allawi and Jalal Zein al-Deen</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/12/one-fighters-recruitment-and-escape-from-isis</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/12/one-fighters-recruitment-and-escape-from-isis</guid>
+      <description>As ISIS swept over large swathes of the eastern province, former FSA fighter Abu Khadija pledged his allegiance, believing the extremists were his best bet to topple the Assad government. Now, after escaping, he wishes he could take it all back. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160512104839/Mideast-Islamic-State.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

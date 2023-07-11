@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Shawn Pittard</title>
+    <description>Shawn Pittard is a writer and fly-fisher and works as an environmental planner at the California Energy Commission in Sacramento. He is the author of two volumes of poetry: Standing in the River, which was the winner of Tebot Bach’s 2010 Clockwise Chapbook Competition, and These Rivers from Rattlesnake Press. You can reach him at shawnpittard@yahoo.com
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/shawn-pittard/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/shawn-pittard/rss"/>
+    <item>
+      <title>An Angler’s Lament: The Rivers We Love, Shriveled into Memories</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Shawn Pittard</author>
+      <link>https://www.newsdeeply.com/water/community/2015/09/11/an-anglers-lament-the-rivers-we-love-shriveled-into-memories</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/09/11/an-anglers-lament-the-rivers-we-love-shriveled-into-memories</guid>
+      <description>Fishing, and fly-fishing in particular, creates an intimacy with a stream and its life forms. What happens when the stream disappears?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104711/pittardtruckee-55f2e0bc421d7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Michael Rawlins</title>
+    <description>Michael Rawlins is an Assistant Professor of Geosciences at the University of Massachusetts Amherst.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/michael-rawlins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/michael-rawlins/rss"/>
+    <item>
+      <title>Is the Arctic becoming a carbon source?</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Michael Rawlins</author>
+      <link>https://www.newsdeeply.com/arctic/community/2015/12/15/is-the-arctic-becoming-a-carbon-source</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2015/12/15/is-the-arctic-becoming-a-carbon-source</guid>
+      <description>Vast quantities of carbon are locked up in the Arctic permafrost. But as the soils have warmed, microbes are breaking down this carbon and converting it into carbon dioxide and methane. Arctic soils may switch from being a sink for atmospheric carbon dioxide to a source, which could accelerate climate change.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094500/563fef6d-9bff-4ad1-a3e8-5db5c7-56701ae22a333.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘Death Is Part of Our Daily Lives’: Yarmouk Typhoid Outbreak Spreads</title>
+      <category domain="https://www.newsdeeply.com/arctic/health/">Health</category>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Michael Rawlins</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/09/03/death-is-part-of-our-daily-lives-yarmouk-typhoid-outbreak-spreads</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/09/03/death-is-part-of-our-daily-lives-yarmouk-typhoid-outbreak-spreads</guid>
+      <description>The latest catastrophe to hit the Damascus-area Yarmouk camp is an ongoing outbreak of typhoid. Besieged by the government for years and invaded by ISIS in April, Yarmouk’s Palestinian refugees struggle for a way out.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114450/ap_780513624650-1-55e8348b45371.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

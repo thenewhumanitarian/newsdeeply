@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Elizabeth Shogren</title>
+    <description>High Country News
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/elizabeth-shogren/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/elizabeth-shogren/rss"/>
+    <item>
+      <title>Zinke’s Fire Memo Calls for Aggressive Forest Thinning</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 06 Oct 2017 05:00:12 +0000</pubDate>
+      <author>Elizabeth Shogren</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/10/06/zinkes-fire-memo-calls-for-aggressive-forest-thinning</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/10/06/zinkes-fire-memo-calls-for-aggressive-forest-thinning</guid>
+      <description>Experts say a recent memo from interior secretary Ryan Zinke on how to stop and prevent forest fires perpetuates misconceptions about how fires can be avoided or controlled and ignores major drivers of Western fire: weather and climate change.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171002164844/King-Fire.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

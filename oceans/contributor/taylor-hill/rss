@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Taylor Hill</title>
+    <description>Taylor Hill is a California-based journalist who has covered marine habitat, fisheries, harbors and beaches for TakePart, the Orange County Register, Sea Magazine and other publications.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/taylor-hill/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/taylor-hill/rss"/>
+    <item>
+      <title>See it, Save it: Using Images of Deep-Sea Life to Preserve the Seabed</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/marine-protected-areas/">Marine Protected Areas</category>
+      <pubDate>Wed, 20 Sep 2017 06:40:50 +0000</pubDate>
+      <author>Taylor Hill</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/09/20/see-it-save-it-using-images-of-deep-sea-life-to-preserve-the-seabed</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/09/20/see-it-save-it-using-images-of-deep-sea-life-to-preserve-the-seabed</guid>
+      <description>Conservationists are deploying ROVs to capture photos and videos of unknown deep-ocean animals off Southern California in an effort to build support to put 16,000 square miles of the seafloor off-limits to destructive fishing practices.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170920063205/gold_coral_and_rockfish.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Straw Wars Heat Up As Celebrities Take on Plastic Polluting the Ocean</title>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Wed, 07 Jun 2017 08:00:02 +0000</pubDate>
+      <author>Taylor Hill</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/06/07/straw-wars-heat-up-as-celebrities-take-on-plastic-polluting-the-oceans</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/06/07/straw-wars-heat-up-as-celebrities-take-on-plastic-polluting-the-oceans</guid>
+      <description>A high-profile campaign aims to rid the ocean of plastic straws by persuading people to stop sucking on them. But are activists going after the right target?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170514092322/straws.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

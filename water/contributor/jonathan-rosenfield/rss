@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Jonathan Rosenfield</title>
+    <description>Dr. Jonathan Rosenfield is the Lead Scientist for The Bay Institute, a nonprofit conservation organization whose mission is to protect, restore, and inspire conservation of San Francisco Bay and its watershed from the Sierra to the sea. The organization is a party to multiple legal complaints regarding state and federal Endangered Species Act permits for California WaterFix.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/jonathan-rosenfield/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/jonathan-rosenfield/rss"/>
+    <item>
+      <title>State’s Own Evidence Shows Tunnels Project Will Harm Fish</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Mon, 16 Oct 2017 08:05:54 +0000</pubDate>
+      <author>Jonathan Rosenfield</author>
+      <link>https://www.newsdeeply.com/water/community/2017/10/16/states-own-evidence-shows-tunnels-project-will-harm-fish</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/10/16/states-own-evidence-shows-tunnels-project-will-harm-fish</guid>
+      <description>The Brown administration is denying scientific evidence when it comes to the impact that the proposed delta tunnels project would have on endangered species and fisheries, says scientist Jonathan Rosenfield of The Bay Institute.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171016120144/DBK_Delta_Smelt-2450-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

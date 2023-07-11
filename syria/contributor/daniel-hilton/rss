@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Daniel Hilton</title>
+    <description>Daniel Hilton is a freelance journalist based in Beirut. A former region editor of Lebanon’s The Daily Star newspaper, he has a particular focus on Syria, Lebanon and Palestine.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/daniel-hilton/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/daniel-hilton/rss"/>
+    <item>
+      <title>The Shifting Role of Women in Syria’s Economy</title>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Fri, 22 Dec 2017 13:07:20 +0000</pubDate>
+      <author>Daniel Hilton</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/12/22/the-shifting-role-of-women-in-syrias-economy</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/12/22/the-shifting-role-of-women-in-syrias-economy</guid>
+      <description>The Syrian war has transformed women’s role in the workforce, giving way to opportunities previously reserved for men. As women take on more responsibility and autonomy, for many opportunity does not mean equality.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171222131135/11173964734_beb57e64a8_o1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

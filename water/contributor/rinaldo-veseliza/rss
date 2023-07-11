@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Rinaldo Veseliza</title>
+    <description>Rinaldo Veseliza is an architect and director of sustainability for Alisto Engineering Group in Walnut Creek and L.A. He works on urban redevelopment, with a passion for sustainable communities, renewable energy and cleaning up water pollution. He has been directly involved in preventing water pollution since 1998 when he managed construction for the Water Garden, a self-contained office complex that recycles 80 percent of its wastewater through onsite treatment plants.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/rinaldo-veseliza/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/rinaldo-veseliza/rss"/>
+    <item>
+      <title>Smaller Is Better: The Solution to California’s Ancient Water Pipes</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 16 Mar 2017 05:03:34 +0000</pubDate>
+      <author>Rinaldo Veseliza</author>
+      <link>https://www.newsdeeply.com/water/community/2017/03/16/smaller-is-better-the-solution-to-californias-ancient-water-pipes</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/03/16/smaller-is-better-the-solution-to-californias-ancient-water-pipes</guid>
+      <description>Our aging infrastructure is a ticking time-bomb underground. We can begin to help repair it and stave off future trouble by reaping the benefits of smaller, decentralized microgrid systems.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170303100612/IMG_16631.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How We Can Better Plan Our Cities to Utilize Stormwater</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 02 Feb 2017 05:00:16 +0000</pubDate>
+      <author>Rinaldo Veseliza</author>
+      <link>https://www.newsdeeply.com/water/community/2017/02/02/how-we-can-better-plan-our-cities-to-utilize-stormwater</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/02/02/how-we-can-better-plan-our-cities-to-utilize-stormwater</guid>
+      <description>We are finally learning that stormwater can be an asset to communities but now we need to make some urban planning and engineering changes to take advantage of it, writes architect Rinaldo Veseliza.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170131080035/California-Drought-Conservation.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

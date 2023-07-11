@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ocean Elders</title>
+    <description>Read features, analysis and in-depth coverage from Oceans Deeply correspondents, including stories about coral reefs, climate change, biodiversity, the economy, innovation and policy issues.</description>
+    <link>https://www.newsdeeply.com/oceans/series/ocean-elders/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/series/ocean-elders/rss"/>
+    <item>
+      <title>Obama’s Ocean Diplomat: U.S. Must Engage on Marine Issues</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Mon, 26 Jun 2017 05:00:11 +0000</pubDate>
+      <author>Todd Woody</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/06/26/obamas-ocean-diplomat-u-s-must-engage-on-marine-issues</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/06/26/obamas-ocean-diplomat-u-s-must-engage-on-marine-issues</guid>
+      <description>Former Under Secretary of State Catherine Novelli says the U.S. has much to gain as global momentum grows to protect the seas from overfishing, pollution and climate change.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170623152012/ocean.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Sylvia Earle: Stop Fishing on the High Seas to Save the Ocean</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/deep-sea-mining/">Deep Sea Mining</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/marine-protected-areas/">Marine Protected Areas</category>
+      <pubDate>Wed, 14 Jun 2017 09:47:31 +0000</pubDate>
+      <author>Todd Woody</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/06/14/sylvia-earle-stop-fishing-on-the-high-seas-to-save-the-ocean</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/06/14/sylvia-earle-stop-fishing-on-the-high-seas-to-save-the-ocean</guid>
+      <description>In the first of our new series “Ocean Elders,” celebrated oceanographer Sylvia Earle delivers an urgent message to the world about overfishing, climate change, pollution and other threats to the health of the ocean: Wake up and take action!</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170614094419/The-First-Ocean-Conference.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

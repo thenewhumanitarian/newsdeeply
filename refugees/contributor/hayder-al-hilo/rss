@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Hayder Al-Hilo</title>
+    <description>Hayder Al-Hilo is a refugee from Iraq.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/hayder-al-hilo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/hayder-al-hilo/rss"/>
+    <item>
+      <title>Refugee Love Letters to Inanimate Objects Left Behind</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 14 Feb 2019 07:30:00 +0000</pubDate>
+      <author>Zainulabdeen, Mohammad Kamal, Basel Al Sheakh Ali, Hayder Al-Hilo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2019/02/14/refugee-love-letters-to-inanimate-objects-left-behind</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2019/02/14/refugee-love-letters-to-inanimate-objects-left-behind</guid>
+      <description>We share love letters from four refugees, giving an insight into the pain they felt when they had to leave behind not just their country but their belongings.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20190214071231/BASEL.HOPE-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

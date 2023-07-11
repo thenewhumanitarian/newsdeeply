@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Rhys Dubin</title>
+    <description>Rhys Dubin is a Beirut-based journalist for The Daily Star newspaper. His work focuses on Lebanese politics and regional security. Follow him on twitter @Rhys_Dubin.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/rhys-dubin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/rhys-dubin/rss"/>
+    <item>
+      <title>Unseen Consequences of Sanctions on Syria’s Armed Groups</title>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Fri, 24 Mar 2017 06:27:52 +0000</pubDate>
+      <author>Rhys Dubin</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/03/24/unseen-consequences-of-sanctions-on-syrias-armed-groups</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/03/24/unseen-consequences-of-sanctions-on-syrias-armed-groups</guid>
+      <description>The increasing use of small-money transfer shops in Lebanon to transfer funds to illicit groups in Syria is a little-known consequence of imposing sanctions on armed groups in the war-torn country. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170324062654/Lebanese-security-forces-carry-out-anti-terror-operation-in-Beir.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

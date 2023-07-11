@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Eva Holland</title>
+    <description>Eva Holland is a freelance writer and editor based in the Yukon Territory. She’s a former editor at Up Here, World Hum, and Vela, and her work has also appeared in Outside, Pacific Standard, Smithsonian, the Walrus, Canadian Geographic, AFAR, and many other publications in print and online.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/eva-holland/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/eva-holland/rss"/>
+    <item>
+      <title>Northwest Passage Still Out of Reach Despite Rise in Shipping Traffic</title>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <category domain="https://www.newsdeeply.com/arctic/shipping/">Shipping</category>
+      <pubDate>Fri, 24 Feb 2017 08:03:07 +0000</pubDate>
+      <author>Eva Holland</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/02/24/northwest-passage-still-out-of-reach-despite-rise-in-shipping-traffic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/02/24/northwest-passage-still-out-of-reach-despite-rise-in-shipping-traffic</guid>
+      <description>Researchers have charted an increase in Arctic shipping numbers, but Canada’s Northwest Passage is unlikely to become a regular route any time soon, due to the enduring presence of hard, thick, multi-year sea ice in the more northerly channels.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170224080150/CANADA-ENVIRONMENT-ARCTIC-WARMING.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

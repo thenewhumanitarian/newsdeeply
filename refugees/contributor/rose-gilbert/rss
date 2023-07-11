@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Rose Gilbert</title>
+    <description>Rose Gilbert is a journalism student at Princeton University.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/rose-gilbert/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/rose-gilbert/rss"/>
+    <item>
+      <title>Amid Tensions, Refugees and Indigenous Canadians Seek Common Ground</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 01 Jun 2018 06:50:00 +0000</pubDate>
+      <author>Rose Gilbert</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/06/01/refugees-and-indigenous-canadians-seek-common-ground-amid-tensions</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/06/01/refugees-and-indigenous-canadians-seek-common-ground-amid-tensions</guid>
+      <description>Canada’s support for refugees has created resentment among some Indigenous communities already contending with poverty and racism. Now, Indigenous and refugee leaders are working to bring their communities together.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180601065716/sr-pearsonrefugees-03.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

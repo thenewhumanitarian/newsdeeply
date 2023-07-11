@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Sam Kimball</title>
+    <description>Sam Kimball is a freelance journalist based in Tunis.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/sam-kimball/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/sam-kimball/rss"/>
+    <item>
+      <title>Paltry Resettlement Rates in U.S. Ahead of Polls</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Sam Kimball</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/04/19/paltry-resettlement-rates-in-u-s-ahead-of-polls</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/04/19/paltry-resettlement-rates-in-u-s-ahead-of-polls</guid>
+      <description>As one of the world’s most cosmopolitan cities heads to the polls in the NYC presidential primary, U.S. refugee resettlement programs are falling short. Today’s Middle Eastern refugees are not afforded the same acceptance as other communities that have become assimilated features of New York life.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422062422/new-york-daily-life-5716019296b56.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As Rain Falls, Tensions Rise Over Who Gets Water</title>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Sam Kimball</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/03/15/as-rain-falls-tensions-rise-over-who-gets-water</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/03/15/as-rain-falls-tensions-rise-over-who-gets-water</guid>
+      <description>SACRAMENTO BEE: Much needed rainfall in California isn’t easing tensions over the allocation of water resources. U.S. Sen. Dianne Feinstein last week called for more water pumping through the Delta for agriculture while fisheries advocates are warning that species are still imperiled.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102236/j_rp_rain_confluence-56e7faed96a72.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

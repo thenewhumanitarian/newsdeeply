@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Alisa Reznick</title>
+    <description>Alisa Reznick is a UW graduate originally from Flagstaff, Arizona. She currently lives in Amman, Jordan, where she works as a freelance journalist and photographer. Her work has appeared on NPR-partner station KUOW, the Seattle Times, Al Jazeera English and the Seattle Globalist, among others. She can be reached at alisa.reznick@gmail.com or on Twitter at @AlisaReznick.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/alisa-reznick/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/alisa-reznick/rss"/>
+    <item>
+      <title>Young Syrians Make Easy Prey for Militants</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+      <author>Alisa Reznick</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/01/08/young-syrians-make-easy-prey-for-militants</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/01/08/young-syrians-make-easy-prey-for-militants</guid>
+      <description>By September, Abu Mahmoud said the family faced an ultimatum. They could either accept a new life in Raqqa under the banner of ISIS, he said, or they could flee.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114824/unnamed-54ae893bd23c7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

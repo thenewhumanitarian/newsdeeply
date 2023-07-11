@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Sarah Hayley Barrett</title>
+    <description>Sarah Hayley Barrett is a Canadian freelance journalist based in Mexico City. She covers everything from labor to immigration to feminist reggaeton for outlets like NPR’s Latino USA, MarketPlace and WNYC Radio. Sarah earned her master’s degree at the CUNY Graduate School of Journalism, where she founded the school’s chapter of the National Lesbian and Gay Journalist’s Association. Follow her work at www.sarahhayleybarrett.com and on Twitter @HeySarahBarrett.
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/sarah-hayley-barrett/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/sarah-hayley-barrett/rss"/>
+    <item>
+      <title>LGBT Community the Forgotten Targets of Colombia’s Civil War</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Mon, 27 Nov 2017 03:00:24 +0000</pubDate>
+      <author>Sarah Hayley Barrett</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/11/27/lgbt-community-the-forgotten-targets-of-colombias-civil-war</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/11/27/lgbt-community-the-forgotten-targets-of-colombias-civil-war</guid>
+      <description>During the half century of armed conflict between the government and guerrilla fighters, many members of Colombia’s LGBT community were victims of violence and sexual assault. Now the government is dragging its feet on their demands for reparations.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171121112550/AFP_Q72E8.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

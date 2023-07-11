@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Belal Alshami</title>
+    <description>Belal Alshami is a Syrian journalist and regular contributor for Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/belal-alshami/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/belal-alshami/rss"/>
+    <item>
+      <title>Between Bombs and Beheadings: Palmyra After the ISIS Takeover</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Belal Alshami</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/07/21/between-bombs-and-beheadings-palmyra-after-the-isis-takeover</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/07/21/between-bombs-and-beheadings-palmyra-after-the-isis-takeover</guid>
+      <description>Syria Deeply recently had a rare opportunity to speak with residents of Palmyra, who have been enduring both public executions by ISIS and barrel bombs dropped by Assad’s military.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114533/tadmor-_-by-naser-althaer-55ae847fd0a0c.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Idlib Protests Demand End to Rebels’ Military Rule</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Belal Alshami</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/07/16/idlib-protests-demand-end-to-rebels-military-rule</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/07/16/idlib-protests-demand-end-to-rebels-military-rule</guid>
+      <description>Syria Deeply spoke to residents of rebel-controlled Idlib about their recent protests against opposition forces’ military rule.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114537/kafranbel-july-11-raed-al-far-55a7fec509a2b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

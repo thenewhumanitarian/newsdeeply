@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Tara Maller</title>
+    <description>Tara Maller is a Research Fellow in the National Security Studies Program at the New America Foundation. She previously served as a Military Analyst at the CIA. She holds a Ph.D. in Political Science from the Massachusetts Institute of Technology.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/tara-maller/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/tara-maller/rss"/>
+    <item>
+      <title>Syria Through the Eyes of Intelligence</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Mon, 21 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Tara Maller</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/21/syria-through-the-eyes-of-intelligence</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/21/syria-through-the-eyes-of-intelligence</guid>
+      <description>U.S. policymakers, specifically the president and his senior national security officials, rely on the work of the intelligence community to understand the conflict in Syria and make decisions about whether or not to take action and what type of action to take.</description>
+    </item>
+    <item>
+      <title>Syria’s Diplomatic Barriers</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Tara Maller</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/09/23/syrias-diplomatic-barriers</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/09/23/syrias-diplomatic-barriers</guid>
+      <description>We recently witnessed crisis diplomacy unfold as U.S. Secretary of State John Kerry and Russian Foreign Minister Sergey Lavrov reached an agreement regarding chemical weapons in Syria.</description>
+    </item>
+  </channel>
+</rss>

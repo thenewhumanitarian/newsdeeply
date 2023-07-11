@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Eline Gordts and Hannah Hoag</title>
+    <description>Eline Gordts is News Deeply’s Community Editor. She’s on Twitter at @elinegordts.
+
+Hannah Hoag is the managing editor of Arctic Deeply. She has covered climate change, science policy, energy and health for more than a decade, reporting for a wide range of publications that include Nature, Discover, Wired, New Scientist, Maclean’s and the Globe and Mail. She is a contributor to The Science Writers’ Handbook: Everything You Need to Know to Pitch, Publish, and Prosper in the Digital Age, and served as deputy editor for the book’s website. Before turning to journalism, Hannah studied rare genetic diseases, but she decided reporting on science and its impacts might be a more exciting career. It also offered more adventure: Hannah has reported from an ice floe in the Beaufort Sea, a rainforest in Guyana and a canoe drifting across a northern Ontario lake.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/eline-gordts-and-hannah-hoag/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/eline-gordts-and-hannah-hoag/rss"/>
+    <item>
+      <title>Six Experts to Watch on Arctic Sea Ice</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Tue, 19 Jul 2016 05:00:04 +0000</pubDate>
+      <author>Eline Gordts and Hannah Hoag</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/07/19/six-experts-to-watch-on-arctic-sea-ice</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/07/19/six-experts-to-watch-on-arctic-sea-ice</guid>
+      <description>In the first installment of our “Experts to Watch” series, here are six people who are contributing to our understanding of Arctic sea ice, which is at the root of many ongoing changes in the Arctic.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160715154223/7348953402_8fa352b112_o1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

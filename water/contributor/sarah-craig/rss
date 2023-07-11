@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Sarah Craig</title>
+    <description>Sarah Craig is a documentary producer based in Oakland, California. After attending the Salt Institute of Documentary Studies in Maine, she traveled to California to work on environmental and social documentaries. She is currently working on Dreams of Dust, a collection of print, photo, radio and film stories on the issue of climate migration and drought in the state’s Central Valley.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/sarah-craig/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/sarah-craig/rss"/>
+    <item>
+      <title>How Drought-Hit Okieville, California, Is Coping With Dry Wells</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 01 Nov 2016 08:57:23 +0000</pubDate>
+      <author>Sarah Craig</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/11/01/how-drought-hit-okieville-california-is-coping-with-dry-wells</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/11/01/how-drought-hit-okieville-california-is-coping-with-dry-wells</guid>
+      <description>The small hamlet of Okieville got its name from those who headed to California to escape the 1930s Dust Bowl. Today, Okieville is one of the areas hardest hit by California’s current drought.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161101084014/okie-2-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

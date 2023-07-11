@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Katarina Zimmer</title>
+    <description>Katarina Zimmer is a data journalist based in New York City, focusing on science, the environment and crime. Her work has appeared in The Scientist, The New Food Economy, and Quartz.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/katarina-zimmer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/katarina-zimmer/rss"/>
+    <item>
+      <title>One of the Most Important Jobs at Sea May Get More Difficult and Dangerous</title>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <pubDate>Fri, 15 Dec 2017 03:04:51 +0000</pubDate>
+      <author>Katarina Zimmer</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/12/15/one-of-the-most-important-jobs-at-sea-may-get-more-difficult-and-dangerous</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/12/15/one-of-the-most-important-jobs-at-sea-may-get-more-difficult-and-dangerous</guid>
+      <description>Independent fisheries observers are put onboard commercial fishing boats to collect crucial data for regulators on what is being caught and how. But their role can put them in conflict with captains and crew. Observers are now fighting an effort to undermine protections for their work. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171214133720/CFI_TaiwanFishing91821.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

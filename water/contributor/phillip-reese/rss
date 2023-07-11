@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Phillip Reese</title>
+    <description>Numbers guy at the Sacramento Bee.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/phillip-reese/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/phillip-reese/rss"/>
+    <item>
+      <title>The Barge That Saved Folsom: Emergency Pumps Will Tap Shrinking Reservoir</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Phillip Reese</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/08/20/the-barge-that-saved-folsom-emergency-pumps-will-tap-shrinking-reservoir</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/08/20/the-barge-that-saved-folsom-emergency-pumps-will-tap-shrinking-reservoir</guid>
+      <description>SACRAMENTO BEE: Officials hope they won’t need it, but this $3.5 million project could be a last resort for 60,000 people.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102540/wd-hero-55d3417fef9b3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

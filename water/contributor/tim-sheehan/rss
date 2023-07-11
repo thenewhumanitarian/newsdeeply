@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Tim Sheehan</title>
+    <description>Tim Sheehan is a reporter / journalist at the Fresno Bee.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/tim-sheehan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/tim-sheehan/rss"/>
+    <item>
+      <title>Farmers Come Out Against Rail-Water Initiative</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Tim Sheehan</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/02/22/farmers-come-out-against-rail-water-initiative</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/02/22/farmers-come-out-against-rail-water-initiative</guid>
+      <description>FRESNO BEE: Opposition is mounting against a ballot initiative to move funding from high-speed rail toward water projects. Those opposing the initiative believe it would harm efforts to build new dams through money to be allocated from Proposition 1, passed in 2014</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102251/a8d3411b-d8cb-4cd7-9b5f-7b4bd1-56cadb9db20fc.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fresno County to Host $30 Million Solar-Powered Desalination Project</title>
+      <category domain="https://www.newsdeeply.com/water/energy/">Energy</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Tim Sheehan</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/07/24/fresno-county-to-host-30-million-solar-powered-desalination-project</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/07/24/fresno-county-to-host-30-million-solar-powered-desalination-project</guid>
+      <description>Fresno Bee: Private company seeks investors for project that will purify farm region’s tainted groundwater.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102609/wd-hero-55b1f994a63b7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

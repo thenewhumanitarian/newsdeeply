@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Julia Rosen</title>
+    <description>Julia Rosen is a freelance journalist based in Portland, Oregon. She writes about science and the environment for publications including Science, Nature, Orion, and High Country News, as well as many others. Follow her on Twitter @sciencejulia, and find more of her writing at www.julia-rosen.com.
+ 
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/julia-rosen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/julia-rosen/rss"/>
+    <item>
+      <title>Boom and Busted: Lessons from Alaska’s Mysterious Herring Collapse</title>
+      <category domain="https://www.newsdeeply.com/arctic/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/arctic/fisheries/">Fisheries</category>
+      <pubDate>Fri, 13 Oct 2017 04:00:49 +0000</pubDate>
+      <author>Julia Rosen</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/10/13/boom-and-busted-lessons-from-alaskas-mysterious-herring-collapse</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/10/13/boom-and-busted-lessons-from-alaskas-mysterious-herring-collapse</guid>
+      <description>In trying to untangle a herring crash from the aftermath of the 1989 Exxon Valdez oil spill, scientists in Prince William Sound are revealing just how resilient – and unpredictable – marine ecosystems can be.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171010100901/PWS_Julia_Rosen_Web_Ready-1740.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Scientists Harness Wind to Study Greenland Ice Sheet</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Thu, 13 Jul 2017 08:00:43 +0000</pubDate>
+      <author>Julia Rosen</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/07/13/scientists-harness-wind-to-study-greenland-ice-sheet</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/07/13/scientists-harness-wind-to-study-greenland-ice-sheet</guid>
+      <description>An explorer’s wind-powered sled is turning out to be a cleaner, simpler way for polar researchers to do their work studying pollutants on the Greenland ice sheet.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170713074342/P1010105.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Putting the North into Northern Research</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Julia Rosen</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/02/24/putting-the-north-into-northern-research</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/02/24/putting-the-north-into-northern-research</guid>
+      <description>Everyone agrees that indigenous people should be more involved in Arctic research. However, there are still few indigenous researchers. Erin Freeland Ballantyne, a founder and the dean of the Dechinta Bush University in Yellowknife, N.T., is trying to change that.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092828/473e58ad-fa58-4bba-971e-3b0e86-56cd8c51e13c3.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arctic Research Slow to Focus on Societal Needs</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Julia Rosen</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/01/28/arctic-research-slow-to-focus-on-societal-needs</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/01/28/arctic-research-slow-to-focus-on-societal-needs</guid>
+      <description>The past decade of Arctic research has failed to address some of the scientific goals identified by policy makers and residents. A survey of studies finds Arctic research has yet to reach across fields and find ways to help stakeholders cope with the changing environment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092904/11766766303_6077a1891e_o-1-56aa2716e06b7.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

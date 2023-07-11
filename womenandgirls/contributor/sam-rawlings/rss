@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Sam Rawlings</title>
+    <description>Sam Rawlings is a lecturer in economics at the University of Reading. Her primary research interests lie in the area of applied microeconomics, with a focus on development economics, health and human capital attainment, and gender issues.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/sam-rawlings/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/sam-rawlings/rss"/>
+    <item>
+      <title>How Domestic Violence Against Mothers Endangers Child Health</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Thu, 01 Jun 2017 14:54:36 +0000</pubDate>
+      <author>Zahra Siddique, Sam Rawlings</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/06/01/how-domestic-violence-against-mothers-endangers-child-health</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/06/01/how-domestic-violence-against-mothers-endangers-child-health</guid>
+      <description>Research from 32 developing countries shows that children born into abusive households are more likely to die before they reach the age of five than those who aren’t. But deterrence and incarceration of abusers can make a significant difference.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170601145409/INDIA-SOCIETY-VIOLENCE-WOMAN.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

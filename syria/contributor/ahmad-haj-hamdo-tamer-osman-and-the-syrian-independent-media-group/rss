@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Ahmad Haj Hamdo, Tamer Osman and the Syrian Independent Media Group</title>
+    <description>The Syrian Independent Media Group is comprised of five independent Syrian media organizations working together to highlight untold stories from the war-torn country: Arab Reporters for Investigative Journalism, Rozana Radio, Syria Deeply, Syria Untold and the Violation Documentation Center in Syria. The project is supported by International Media Support.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/ahmad-haj-hamdo-tamer-osman-and-the-syrian-independent-media-group/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/ahmad-haj-hamdo-tamer-osman-and-the-syrian-independent-media-group/rss"/>
+    <item>
+      <title>Underbelly of the War: Trade in Human Organs</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 13 May 2016 09:21:56 +0000</pubDate>
+      <author>Ahmad Haj Hamdo, Tamer Osman and the Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/13/underbelly-of-the-war-trade-in-human-organs</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/13/underbelly-of-the-war-trade-in-human-organs</guid>
+      <description>In Syria and its neighboring countries, an underground network of organ traders has sprung up, preying on the thousands affected by the five-year-long war and offering them desperately needed cash for nonessential organs.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160513091756/Mideast-Syria-Refugee-Winter.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Those Who Remain in Aleppo, the World’s Most Dangerous City</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Mon, 09 May 2016 05:56:32 +0000</pubDate>
+      <author>Ahmad Haj Hamdo, Tamer Osman and the Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/09/those-who-remain-in-aleppo-the-worlds-most-dangerous-city</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/09/those-who-remain-in-aleppo-the-worlds-most-dangerous-city</guid>
+      <description>Five years of near-continuous violence have pushed hundreds of thousands of people to flee Syria’s largest city, but not all of Aleppo’s residents have left. As Syria’s war drags on into its sixth year, we meet some of the residents who have chosen to remain.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160510180007/APTOPIX-Mideast-Syria-Tales-of-Aleppo.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

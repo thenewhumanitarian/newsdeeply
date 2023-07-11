@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: James Hobbs and Peter Moyle</title>
+    <description>James Hobbs is a research scientist and Peter Moyle is a professor of fish biology, both with the UC Davis Department of Wildlife, Fish and Conservation Biology.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/james-hobbs-peter-moyle/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/james-hobbs-peter-moyle/rss"/>
+    <item>
+      <title>Last Days of the Longfin?</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <author>James Hobbs and Peter Moyle</author>
+      <link>https://www.newsdeeply.com/water/community/2015/09/08/last-days-of-the-longfin</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/09/08/last-days-of-the-longfin</guid>
+      <description>Last Days of the Longfin?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104712/longfin_smelt_adult_-75mmfl-55eef88587be0.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

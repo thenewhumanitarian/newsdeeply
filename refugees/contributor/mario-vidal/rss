@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Mario Vidal</title>
+    <description>Mario Vidal is a journalist specializing in data analysis and multimedia and is head of digital content of Vozpópuli.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/mario-vidal/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/mario-vidal/rss"/>
+    <item>
+      <title>No One Is Counting Europe’s Missing Refugee Children</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 20 Jul 2017 12:13:58 +0000</pubDate>
+      <author>Mario Vidal</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/07/20/no-one-is-counting-europes-missing-refugee-children</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/07/20/no-one-is-counting-europes-missing-refugee-children</guid>
+      <description>Where are the 10,000 child migrants who went missing in Europe last year? Europol says it has no idea how many have actually disappeared as a result of Europe’s chaotic migrant calculations, Mario Vidal reports for porCausa and Vózpopuli.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170720115007/Adolescente-extranjero-y-solo-%C2%A9-Ignacio-Marin-Fundacio-n-porCausa-7345.jpg.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

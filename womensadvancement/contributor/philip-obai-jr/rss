@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Philip Obaji Jr.</title>
+    <description>Philip Obaji Jr. is a journalist and human rights educator based in Nigeria. His work on jihadist groups, terrorism, counterinsurgency and human trafficking has appeared in numerous publications including The Daily Beast, The Hill, IRIN News and The Guardian.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/philip-obai-jr/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/philip-obai-jr/rss"/>
+    <item>
+      <title>The Nigerian Schoolgirls Helping Trafficked Women Rebuild Their Lives</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Thu, 05 Jul 2018 14:50:00 +0000</pubDate>
+      <author>Philip Obaji Jr.</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/07/05/the-nigerian-schoolgirls-helping-trafficked-women-rebuild-their-lives</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/07/05/the-nigerian-schoolgirls-helping-trafficked-women-rebuild-their-lives</guid>
+      <description>When a group of schoolgirls from northeast Nigeria met trafficked women who were struggling to survive after returning home, they knew they had to do something. Now they raise funds to help those women launch their own businesses and rebuild their lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180705145458/Nigeria-trafficking-schoolgirls1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Journalism Can Help Beat Human Traffickers in Nigeria</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Wed, 30 May 2018 12:50:00 +0000</pubDate>
+      <author>Philip Obaji Jr.</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/05/30/how-journalism-can-help-beat-human-traffickers-in-nigeria</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/05/30/how-journalism-can-help-beat-human-traffickers-in-nigeria</guid>
+      <description>Nigerian journalist and campaigner Philip Obaji Jr. describes what working with children displaced by Boko Haram has taught him both about the power of storytelling and the importance of education – and access to clean water – to protect children at risk of trafficking.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180530125317/Philip-Obaji-interviewing-children-displaced-by-Boko-Haram-about-exploitation-in-the-places-they-live-and-at-school._.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Zachary Slobig</title>
+    <description>Zachary Slobig’s work has appeared in Outside, NPR, the Los Angeles Times, Surfer and many other places. He lives with his wife and daughter at Ocean Beach in San Francisco.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/zachary-slobig/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/zachary-slobig/rss"/>
+    <item>
+      <title>Will Surfers Still Protect the Sea When They Can Ride Artificial Waves?</title>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Wed, 04 Jul 2018 03:00:00 +0000</pubDate>
+      <author>Zachary Slobig</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/07/04/will-surfers-still-protect-the-sea-when-they-can-ride-artificial-waves</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/07/04/will-surfers-still-protect-the-sea-when-they-can-ride-artificial-waves</guid>
+      <description>Wave pools are opening far away from the coasts. Surfer and environmentalist Steve Hawk discusses his high hopes – and biggest fears – for the future of the technology and whether it will inspire more or less love of the ocean.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180701122444/AFP_14K33I1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

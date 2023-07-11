@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Samantha Neal</title>
+    <description>Samantha Neal is a political polling intern at The Huffington Post.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/samantha-neal/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/samantha-neal/rss"/>
+    <item>
+      <title>‘Europeans Fear Terrorism Threats Due to Refugees’</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 14 Jul 2016 12:41:52 +0000</pubDate>
+      <author>Samantha Neal</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/07/14/europeans-fear-terrorism-threats-due-to-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/07/14/europeans-fear-terrorism-threats-due-to-refugees</guid>
+      <description>A Pew Research Center study found that, in eight out of 10 European countries surveyed, the majority believed refugees increase the likelihood of terrorism, with resistance to cultural diversity adding to their fears.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160714124022/Lebanon-Syrian-Beggars-Photo-Essay1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

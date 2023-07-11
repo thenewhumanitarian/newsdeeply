@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Arne Bardalen</title>
+    <description>Arne Bardalen is the Director of Research, Norwegian Institute of Bioeconomy Research (NIBIO).
+ 
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/arne-bardalen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/arne-bardalen/rss"/>
+    <item>
+      <title>Arctic Agriculture: Producing More Food in the North</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 02 Nov 2016 07:04:57 +0000</pubDate>
+      <author>Arne Bardalen</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/11/02/arctic-agriculture-producing-more-food-in-the-north</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/11/02/arctic-agriculture-producing-more-food-in-the-north</guid>
+      <description>Norway and other Arctic countries can boost land-based food production – and meet the challenges of climate change – with the right support and investment, writes Arne Bardalen of the Norwegian Institute of Bioeconomy Research.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161102065809/rvp2013-4212.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

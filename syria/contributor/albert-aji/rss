@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Albert Aji</title>
+    <description>Albert Aji is a reporter with Associated Press.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/albert-aji/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/albert-aji/rss"/>
+    <item>
+      <title>In Wake of U.S. Airstrike, Approval and Criticism From Allies, Rivals</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Fri, 07 Apr 2017 15:39:01 +0000</pubDate>
+      <author>Vladimir Isachenkov, Jon Gambrell, Albert Aji</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/04/07/in-wake-of-u-s-airstrike-approval-and-criticism-from-allies-rivals</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/04/07/in-wake-of-u-s-airstrike-approval-and-criticism-from-allies-rivals</guid>
+      <description>The United States’ traditional allies, along with supporters of the Syrian opposition, welcomed the surprise airstrike on Syrian military facilities, while Russia and Iran condemned it, reports the Associated Press.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407153739/3067672.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

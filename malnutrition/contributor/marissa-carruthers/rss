@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Marissa Carruthers</title>
+    <description>Marissa Carruthers is a Cambodia-based journalist reporting on a range of issues across Southeast Asia. You can follow her on Twitter and Instagram.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/marissa-carruthers/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/marissa-carruthers/rss"/>
+    <item>
+      <title>Lucky Iron Fish Raise Questions About How Best to Address Anemia</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/micronutrient-deficiency/">Micronutrient Deficiency</category>
+      <pubDate>Wed, 13 Jun 2018 13:20:00 +0000</pubDate>
+      <author>Marissa Carruthers</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/06/13/lucky-iron-fish-raise-questions-about-how-best-to-address-anemia</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/06/13/lucky-iron-fish-raise-questions-about-how-best-to-address-anemia</guid>
+      <description>Lucky Iron Fish were supposed to be the answer to reducing Cambodia’s persistent anemia problem. But there are now questions about whether the intervention actually addresses the problem it was intended to help solve.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180613132601/EN_Lucky-Iron-Fish2091.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

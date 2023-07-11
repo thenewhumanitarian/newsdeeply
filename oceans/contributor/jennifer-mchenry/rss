@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Jennifer McHenry</title>
+    <description>Jennifer McHenry is a PhD student at Florida State University.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/jennifer-mchenry/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/jennifer-mchenry/rss"/>
+    <item>
+      <title>Follow the Fish: Why Marine Protected Areas Should Be Mobile</title>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/marine-protected-areas/">Marine Protected Areas</category>
+      <pubDate>Tue, 26 Jun 2018 07:30:00 +0000</pubDate>
+      <author>Heather Welch, Jennifer McHenry</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/06/26/follow-the-fish-why-marine-protected-areas-should-be-mobile</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/06/26/follow-the-fish-why-marine-protected-areas-should-be-mobile</guid>
+      <description>Marine mammals, sea turtles and other species don’t always stay within the boundaries of ocean reserves. Two scientists say marine preserves should be designed with enough flexibility to extend protections to where animals migrate.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180626073436/SanzBabyDolphinTurns1monthofLifeInMadridZoo060418-131.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Mary Catherine O&amp;#8217;Connor</title>
+    <description>Mary Catherine O’Connor is an award-winning reporter whose beats include environmental issues, technology and recreation. She has written for leading publications including Outside, the Guardian, the Wall Street Journal, Al Jazeera America, Pacific Standard and Wired. She has collected dispatches from climbers ascending Everest and interviewed some of the world’s most accomplished athletes, technologists and entrepreneurs.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/mary-catherine-oconnor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/mary-catherine-oconnor/rss"/>
+    <item>
+      <title>As Synthetic Microfibers Spread in Water, Solutions Are Blossoming</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
+      <author>Mary Catherine O’Connor</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/09/04/as-synthetic-microfibers-spread-in-water-solutions-are-blossoming</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/09/04/as-synthetic-microfibers-spread-in-water-solutions-are-blossoming</guid>
+      <description>Synthetic garments are shedding tiny plastic fibers at an alarming rate, threatening wildlife that ingest the bits. Potential solutions include new textile blends, better washing machines and special filters. So far, a complete fix remains elusive.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180907044040/CoraBall32.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Feds Issue Permit for Large Dam on Colorado River Headwaters</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 31 May 2017 05:00:04 +0000</pubDate>
+      <author>Mary Catherine O’Connor</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/05/31/feds-issue-permit-for-large-dam-on-colorado-river-headwaters</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/05/31/feds-issue-permit-for-large-dam-on-colorado-river-headwaters</guid>
+      <description> The project is designed to help secure water for growing Front Range communities near Denver, but environmental groups are concerned that more diversions and climate change impacts will leave too little water in the river.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170529082408/AP_16350797916131.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

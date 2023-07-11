@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: John Owens</title>
+    <description>John Owens is a freelance multimedia journalist based in Beirut.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/john-owens/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/john-owens/rss"/>
+    <item>
+      <title>Bags and Belongings: Crossing a Border, Clutching a Doctor’s Kit</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 14 Jun 2017 04:00:48 +0000</pubDate>
+      <author>John Owens</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/14/bags-and-belongings-crossing-a-border-clutching-a-doctors-kit</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/14/bags-and-belongings-crossing-a-border-clutching-a-doctors-kit</guid>
+      <description>As part of our “Bags and Belongings” series, Dr. Nur Kabir tells how he grabbed critical medical supplies before fleeing the recent military crackdown in Myanmar’s Rakhine state, enabling him to continue to treat Rohingya refugees in neighboring Bangladesh.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170613063737/2-11.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Rohingya Doctor Tending to Forgotten Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Tue, 09 May 2017 05:00:25 +0000</pubDate>
+      <author>John Owens</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/09/the-rohingya-doctor-tending-to-forgotten-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/09/the-rohingya-doctor-tending-to-forgotten-refugees</guid>
+      <description>Among the estimated 75,000 Rohingya who fled their homes in Myanmar into Bangladesh following a military crackdown, Dr. Nur Kabir has become a savior for refugees at Kutupalong camp in Bangladesh.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170508094500/9-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Communication Breakdown: Refugees Can’t Reach Greek Asylum Service</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 20 May 2016 10:49:58 +0000</pubDate>
+      <author>John Owens</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/05/20/communication-breakdown-refugees-cant-reach-greek-asylum-service</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/05/20/communication-breakdown-refugees-cant-reach-greek-asylum-service</guid>
+      <description>People like Khalil Mohammed, a Syrian refugee in Greece, have resorted to hunger strikes because they are unable to start their asylum claims due to an under-resourced video interview system that has let down thousands.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160520104221/Pictures1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

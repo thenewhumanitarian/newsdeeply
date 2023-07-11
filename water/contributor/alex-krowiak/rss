@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Alex Krowiak</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/water/contributor/alex-krowiak/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/alex-krowiak/rss"/>
+    <item>
+      <title>Photo Essay: California Island and Tourist Hotspot Copes With Drought</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/energy/">Energy</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Mon, 13 Feb 2017 08:10:38 +0000</pubDate>
+      <author>Alex Krowiak</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/02/13/photo-essay-california-island-and-tourist-hotspot-copes-with-drought</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/02/13/photo-essay-california-island-and-tourist-hotspot-copes-with-drought</guid>
+      <description>The California drought isn’t over everywhere: Residents and visitors to Catalina Island have to rely mostly on desalination and bottled water after the island’s main reservoir has become depleted because of severe drought conditions. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170213075357/Middle_Ranch_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

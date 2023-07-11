@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Spine Films</title>
+    <description>Spine Films is a San Francisco Bay Area production company specializing in international science, nature, environment and arts media. They search for stories that provide opportunities to find the magical in the mundane, and that celebrate the beautiful intricacy of our universe. You can find their films and stories on PBS, Discovery Networks, National Geographic and on websites and broadcast stations around the world.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/spine-films/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/spine-films/rss"/>
+    <item>
+      <title>Watch: New Technology Reveals the Secret Life of Corals</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <pubDate>Fri, 22 Jun 2018 03:00:00 +0000</pubDate>
+      <author>Spine Films</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/06/22/watch-new-technology-reveals-the-secret-life-of-corals</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/06/22/watch-new-technology-reveals-the-secret-life-of-corals</guid>
+      <description>Advanced cameras, including a 3D stereoscopic microscope, allow researchers to study how corals reproduce, grow and bleach at a micro-scale. That could aid efforts to save them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180621150155/coral-growth-photo1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

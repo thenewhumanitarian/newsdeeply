@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Human Rights Watch Staff</title>
+    <description>Human Rights Watch is an international non-governmental organization that conducts research and advocacy on human rights
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/human-rights-watch-staff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/human-rights-watch-staff/rss"/>
+    <item>
+      <title>Refugee Sex Trafficking a Thorny Issue for Lebanon</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 01 Jun 2016 12:13:28 +0000</pubDate>
+      <author>Human Rights Watch Staff</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/06/01/refugee-sex-trafficking-a-thorny-issue-for-lebanon</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/06/01/refugee-sex-trafficking-a-thorny-issue-for-lebanon</guid>
+      <description>Following our report on forced prostitution of women on the move, Human Rights Watch relays news of the arrest of a lawyer who accused Lebanese government officials of complicity in a sex trafficking ring involving Syrian refugees.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160601111611/Lebanon-Syria-Sex-Trafficking.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

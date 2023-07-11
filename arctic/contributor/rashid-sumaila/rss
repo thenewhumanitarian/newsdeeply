@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Rashid Sumaila</title>
+    <description>Rashid Sumaila is a Professor and Director of the Fisheries Economics Research Unit, the Institute for the Oceans and Fisheries at the University of British Columbia. He is also the Research Director of the OceanCanada Partnership.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/rashid-sumaila/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/rashid-sumaila/rss"/>
+    <item>
+      <title>Indigenous Fisheries in a Changing Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Rashid Sumaila</author>
+      <link>https://www.newsdeeply.com/arctic/community/2015/12/08/indigenous-fisheries-in-a-changing-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2015/12/08/indigenous-fisheries-in-a-changing-arctic</guid>
+      <description>If Arctic states and big fishing nations agreed to permanently close the Arctic high seas to all commercial fishing, it could have a wide range of benefits. Arctic coastal fisheries, indigenous peoples and the ecosystem as a whole might thrive under such an arrangement, writes Rashid Sumaila.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094510/457c3f48-d944-4230-9f67-8327b1-565c9a4914527.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

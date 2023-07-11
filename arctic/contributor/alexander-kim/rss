@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Alexander Kim</title>
+    <description>Alexander Kim is a journalist based in Vancouver. He is an intern journalist with Arctic Deeply, host and producer of the podcast Theoretically Speaking, and a student at the UBC Graduate School of Journalism. He tweets @alexanderbkim.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/alexander-kim/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/alexander-kim/rss"/>
+    <item>
+      <title>Tackling The Culture Clash Over Country Food in Nunavut</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Fri, 05 Aug 2016 05:00:58 +0000</pubDate>
+      <author>Alexander Kim</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/08/05/tackling-the-culture-clash-over-country-food-in-nunavut</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/08/05/tackling-the-culture-clash-over-country-food-in-nunavut</guid>
+      <description>Buying and selling country food could help support the territory’s hunters and strengthen its very poor food security, but the practice conflicts with the Inuit tradition of sharing.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160804083510/CountryFood-160601-01.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tourism Could Bring Wealth and Pride to Nunavut</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 30 Jun 2016 03:00:35 +0000</pubDate>
+      <author>Alexander Kim</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/06/30/tourism-could-bring-wealth-and-pride-to-nunavut</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/06/30/tourism-could-bring-wealth-and-pride-to-nunavut</guid>
+      <description>Inuit activist Aaju Peter says development of Nunavut’s tourism industry can support preservation of traditional knowledge and skills, in addition to being profitable.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160621064854/6083475244_ec3cf332f4_o1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

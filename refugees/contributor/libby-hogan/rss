@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Libby Hogan</title>
+    <description>Libby Hogan is a multimedia journalist based in Yangon, Myanmar.She is passionate about raising the voice of women, refugees and marginalised ethnic minorities. Her articles and multimedia projects have been published in Democratic Voice of Burma, ABC and The Diplomat. She was also awarded as one of National Geographic Young Explorers for 2017 to continue her work in isolated ethnic communities in northern Myanmar.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/libby-hogan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/libby-hogan/rss"/>
+    <item>
+      <title>The True Cost of Myanmar’s Growing Garment Industry</title>
+      <category domain="https://www.newsdeeply.com/refugees/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Fri, 25 May 2018 12:10:00 +0000</pubDate>
+      <author>Libby Hogan</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/05/25/the-true-cost-of-myanmars-growing-garment-industry</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/05/25/the-true-cost-of-myanmars-growing-garment-industry</guid>
+      <description>Discrimination and sexual harassment in Myanmar’s garment factories can take a massive financial toll on both the workers and the industry. To improve women’s economic wellbeing, employees and authorities need to address their physical safety, say rights advocates.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180525120602/12garm-1-of-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Punk Rockers and Activists Defying Anti-Rohingya Hate in Myanmar</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 04 Dec 2017 09:07:32 +0000</pubDate>
+      <author>Libby Hogan</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/12/04/the-punk-rockers-and-activists-defying-anti-rohingya-hate-in-myanmar</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/12/04/the-punk-rockers-and-activists-defying-anti-rohingya-hate-in-myanmar</guid>
+      <description>How does the Rohingya refugee crisis look at the community level in Myanmar? Libby Hogan profiles anti-racism and interfaith dialogue activists in Myanmar who are confronting an overarching anti-Rohingya narrative.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171204090430/23432343_1953716764846294_1181499535_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Karen Refugees Wary of Return to Myanmar as Despair Rises in Camps</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Fri, 11 Aug 2017 03:00:53 +0000</pubDate>
+      <author>Libby Hogan</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/11/karen-refugees-wary-of-return-to-myanmar-as-despair-rises-in-camps</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/11/karen-refugees-wary-of-return-to-myanmar-as-despair-rises-in-camps</guid>
+      <description>On the Thai-Myanmar border, refugees who fled one of the world’s longest civil wars live in limbo, with alarmingly high suicide rates. As their options for resettlement narrow, some are beginning to return to Myanmar and the challenges of reintegration.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170810080816/A-girl-sits-outside-of-her-room-she-shares-with-two-other-women-who-fled-the-Karen-civil-war.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

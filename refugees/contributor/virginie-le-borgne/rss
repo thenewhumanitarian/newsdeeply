@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Virginie Le Borgne</title>
+    <description>Virginie Le Borgne is a French journalist based in Lebanon. You can follow her on Twitter @vlborgne and on her website www.virginieleborgne.com.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/virginie-le-borgne/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/virginie-le-borgne/rss"/>
+    <item>
+      <title>From the Ruins of a Palestinian Camp, a Long Road to Reconstruction</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 09 Aug 2017 11:36:08 +0000</pubDate>
+      <author>Virginie Le Borgne</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/09/from-the-ruins-of-a-palestinian-camp-a-long-road-to-reconstruction</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/09/from-the-ruins-of-a-palestinian-camp-a-long-road-to-reconstruction</guid>
+      <description>The rebuilding of Palestinian refugee camp Nahr el-Bared in Lebanon is the largest single reconstruction project ever undertaken by the U.N. agency for Palestinian refugees. A decade on and $200 million later, only half of the residents have been able to return.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170809113349/NBC-wires.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

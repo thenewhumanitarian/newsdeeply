@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Phil Moore</title>
+    <description>Phil Moore is a photo-journalist and reporter based in Berlin. He contributes to print publications, radio and television, providing on-the-ground interviews, photos and information on unfolding news stories. His clients include Agence France-Presse (AFP),Vanity Fair (Italy), Der Spiegel, the Guardian, Le Monde, Libération, the Wall Street Journal, and Al-Jazeera, as well as organizations such as ICRC, Oxfam, and MSF. He can be reached at @fil and philmoore.info.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/phil-moore/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/phil-moore/rss"/>
+    <item>
+      <title>‘We Don’t Eat Well’: A Refugee’s Struggle to Survive Breast Cancer</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Wed, 31 Aug 2016 05:23:18 +0000</pubDate>
+      <author>Phil Moore</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/08/31/we-dont-eat-well-a-refugees-struggle-to-survive-breast-cancer</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/08/31/we-dont-eat-well-a-refugees-struggle-to-survive-breast-cancer</guid>
+      <description>The conditions in overcrowded refugee camps pose real risks to women undergoing breast cancer treatment. As part of our series “The Shifting Burden,” we meet a Burundian woman in Tanzania who is fighting the disease in the hope of one day seeing her children again.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160831051917/Europe-And-Africa-Week-In-Pictures.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘We Don’t Eat Well’: A Refugee’s Struggle to Survive Breast Cancer</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Tue, 30 Aug 2016 12:07:03 +0000</pubDate>
+      <author>Phil Moore</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/08/30/we-dont-eat-well-a-refugees-struggle-to-survive-breast-cancer-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/08/30/we-dont-eat-well-a-refugees-struggle-to-survive-breast-cancer-2</guid>
+      <description>The conditions in overcrowded refugee camps pose real risks to women undergoing breast cancer treatment. As part of our series “The Shifting Burden,” we meet a Burundian woman in Tanzania who is fighting the disease in the hope of one day seeing her children again.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073207/Europe-And-Africa-Week-In-Pictures.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Art of Anger: Macedonia’s Colorful Revolution</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 25 Jul 2016 13:57:31 +0000</pubDate>
+      <author>Phil Moore</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/07/25/the-art-of-anger-macedonias-colorful-revolution</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/07/25/the-art-of-anger-macedonias-colorful-revolution</guid>
+      <description>After a wiretapping scandal triggered demonstrations across Macedonia, two women began throwing paint-filled balloons at government buildings and national monuments. Now Macedonians of all ethnicities are embracing their multicolored method of protest.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074143/PEM_MKD_Skopje_8470.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

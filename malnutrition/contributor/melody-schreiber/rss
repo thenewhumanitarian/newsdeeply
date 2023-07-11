@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Melody Schreiber</title>
+    <description>Melody Schreiber is a journalist reporting from the Arctic to the Chesapeake, especially on health, science, and human rights.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/melody-schreiber/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/melody-schreiber/rss"/>
+    <item>
+      <title>Human Milk Banking: The Surprisingly Simple Way to Save Babies’ Lives</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/maternal-and-child-health/">Maternal and Child Health</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <pubDate>Thu, 14 Jun 2018 16:35:28 +0000</pubDate>
+      <author>Melody Schreiber</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/06/14/human-milk-banking-the-surprisingly-simple-way-to-save-babies-lives</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/06/14/human-milk-banking-the-surprisingly-simple-way-to-save-babies-lives</guid>
+      <description>Brazil’s successful milk bank system, which relies on donated milk, is now being adopted across Latin America.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180614141449/Mvd6631495.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

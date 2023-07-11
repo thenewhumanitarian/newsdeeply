@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Danish Mehboob</title>
+    <description>Danish Mehboob is a data journalist and graduate of Columbia Journalism School. His work has appeared in Khaleej Times, The Seattle Globalist, and The International Examiner, among others. He writes about social justice, immigration, politics and religion. Follow him @Danish_Mehboob_.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/danish-mehboob/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/danish-mehboob/rss"/>
+    <item>
+      <title>Michigan Offers Warm Welcome But Few Jobs to Iraqi Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Wed, 02 Aug 2017 03:00:52 +0000</pubDate>
+      <author>Danish Mehboob</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/02/michigan-offers-warm-welcome-but-few-jobs-to-iraqi-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/02/michigan-offers-warm-welcome-but-few-jobs-to-iraqi-refugees</guid>
+      <description>Michigan, with its long Arab-American history, offers refugees fleeing war in Iraq a family away from home. Yet the financial crisis made it even harder to find work there, while the arrival of secondary migrants drawn to Michigan’s sense of community strains resources. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170731111337/US-IRAQ-SADDAM-JUSTICE.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

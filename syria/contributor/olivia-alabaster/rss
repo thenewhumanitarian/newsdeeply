@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Olivia Alabaster</title>
+    <description>Olivia Alabaster is a news editor and journalist at the Middle East Eye, previously based in Beirut, where she worked as Middle East and World Editor at Lebanon’s The Daily Star.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/olivia-alabaster/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/olivia-alabaster/rss"/>
+    <item>
+      <title>Syrians Opposed to Assad React to Strikes</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Fri, 07 Apr 2017 16:35:01 +0000</pubDate>
+      <author>Olivia Alabaster</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/04/07/today-the-sun-is-shining-syrians-react-to-trump-strikes</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/04/07/today-the-sun-is-shining-syrians-react-to-trump-strikes</guid>
+      <description>“If the strikes don’t take down the regime and don’t prevent Assad from ruling in Syria, it means nothing,” said one displaced Syrian who decried years of inaction by the international community. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407163334/3067954.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

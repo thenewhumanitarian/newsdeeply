@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lina Mounzer</title>
+    <description>Lina Mounzer is a writer and translator living and working in Beirut. Her work has appeared in Bidoun, Warscapes, the Berlin Quarterly and Chimurenga, and her first short story was published as part of the anthology “Hikayat: An Anthology of Lebanese Women’s Writing,” published by Telegram Books. She has translated, from Arabic to English, short stories by Chaza Charafeddine and Mazen Maarouf and a novel by Hassan Daoud. Among other things, she is at work on her first novel.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lina-mounzer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lina-mounzer/rss"/>
+    <item>
+      <title>War in Translation: Giving Voice to the Women of Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Tue, 11 Oct 2016 08:21:14 +0000</pubDate>
+      <author>Lina Mounzer</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/10/11/war-in-translation-giving-voice-to-the-women-of-syria</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/10/11/war-in-translation-giving-voice-to-the-women-of-syria</guid>
+      <description>Translating the words and voices of Syrian women is an act of witness that involves smuggling stories out of the embattled country in the hope that they will live on, writes Syrian writer and translator Lina Mounzer. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161011081158/SYRIA-CONFLICT4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

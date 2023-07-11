@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Orwa Ajjoub</title>
+    <description>Orwa Ajjoub
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/orwa-ajjoub/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/orwa-ajjoub/rss"/>
+    <item>
+      <title>Finding Acceptance in Europe: Syrian LGBTQ</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Orwa Ajjoub</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/01/06/finding-acceptance-in-europe-syrian-lgbtq</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/01/06/finding-acceptance-in-europe-syrian-lgbtq</guid>
+      <description>While most Syrian refugees are fleeing the war, others are escaping the persecution they face because of their sexual identities – and the violent punishments often inflicted on those who violate the Islamic State’s ban on homosexuality.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114251/a05bc06d-ca50-480b-96bc-417fdc-568d481a727ce.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fear of Checkpoints Spreads in Damascus</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Orwa Ajjoub</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/12/16/fear-of-checkpoints-spreads-in-damascus</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/12/16/fear-of-checkpoints-spreads-in-damascus</guid>
+      <description>As the war in Syria continues, residents in Damascus say more and more young men are being detained at government checkpoints throughout the capital, in what some fear may be part of a campaign to replenish Bashar al-Assad’s diminished fighting force.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114308/eb3af6d1-2483-49a3-91bd-119301-56713dddae325.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

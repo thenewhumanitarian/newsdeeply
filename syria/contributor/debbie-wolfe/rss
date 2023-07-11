@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Debbie Wolfe</title>
+    <description>Debbie Wolfe worked as a journalist with the CBC for 10 years. She now works for children, through international aid and development agency World Vision.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/debbie-wolfe/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/debbie-wolfe/rss"/>
+    <item>
+      <title>Why Parenting in a Refugee Camp Can Be Tough</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Tue, 28 Jun 2016 13:39:19 +0000</pubDate>
+      <author>Debbie Wolfe</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/06/28/why-parenting-in-a-refugee-camp-can-be-tough</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/06/28/why-parenting-in-a-refugee-camp-can-be-tough</guid>
+      <description>World Vision’s Lindsay Gladding discusses the everyday difficulties faced by parents as they try to raise their children in the refugee camps of Lebanon’s Bekaa Valley.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160628133625/2016-06-22-1466613885-383236-Lindsay9-thumb.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

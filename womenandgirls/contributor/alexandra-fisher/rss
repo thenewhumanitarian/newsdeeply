@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Alexandra Fisher</title>
+    <description>Alexandra Fisher is an Australian multimedia journalist based in East Africa. You can contact her on Twitter: @AlexLFisher.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/alexandra-fisher/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/alexandra-fisher/rss"/>
+    <item>
+      <title>Migrant Domestic Workers Face Abuse in the Gulf Despite New Rules</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 24 Apr 2018 07:24:55 +0000</pubDate>
+      <author>Alexandra Fisher</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/04/24/migrant-domestic-workers-face-abuse-in-the-gulf-despite-new-rules</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/04/24/migrant-domestic-workers-face-abuse-in-the-gulf-despite-new-rules</guid>
+      <description>Uganda has lifted a ban on its citizens going to Saudi Arabia and Jordan as domestic workers. But human rights groups say abuse is still rife.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180424072256/Grace11.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ugandan Maids Face Abuse in the Gulf Despite New Safeguards</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Mon, 23 Apr 2018 11:20:00 +0000</pubDate>
+      <author>Alexandra Fisher</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/23/ugandan-maids-face-abuse-in-the-gulf-despite-new-safeguards</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/23/ugandan-maids-face-abuse-in-the-gulf-despite-new-safeguards</guid>
+      <description>Uganda has lifted a ban on its citizens going to Saudi Arabia and Jordan as domestic workers. But human rights groups say abuse is still rife.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180423112047/Grace1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As Troops Withdraw, Women Fear the Return of Joseph Kony’s LRA</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <pubDate>Fri, 26 May 2017 12:38:04 +0000</pubDate>
+      <author>Alexandra Fisher</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/05/26/as-troops-withdraw-women-fear-the-return-of-joseph-konys-lra</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/05/26/as-troops-withdraw-women-fear-the-return-of-joseph-konys-lra</guid>
+      <description>In the Central African Republic, the women of Obo are considering leaving their homes when Ugandan and U.S. troops abandon the hunt for Joseph Kony. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170526123610/CAFRICA-UNREST-UGANDA-REBEL.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

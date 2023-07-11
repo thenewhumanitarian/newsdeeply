@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Andrew E. Derocher</title>
+    <description>Andrew E. Derocher is a professor of Biological Sciences at the University of Alberta, in Edmonton, Canada. He has studied polar bears across the Arctic for over three decades. Follow him on Twitter @AEDerocher.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/andrew-e-derocher/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/andrew-e-derocher/rss"/>
+    <item>
+      <title>Polar Bears, an Icon on the Ice Edge</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Andrew E. Derocher</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/03/15/polar-bears-an-icon-on-the-ice-edge</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/03/15/polar-bears-an-icon-on-the-ice-edge</guid>
+      <description>The burning of fossil fuels has committed the planet to a certain amount of warming that has sealed the fate of most polar bears. But if we act wisely and boldly, we may be able to retain some wild polar bears in the high latitudes of the Canadian Archipelago and northern Greenland.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094436/oeb_0059-56e85a1b54dae.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: John Bongaarts</title>
+    <description>John Bongaarts is a vice president and distinguished scholar at the Population Council, an organization that conducts research and delivers solutions to improve lives around the world. Bongaarts is a member of the Royal Dutch Academy of Sciences and the U.S. National Academy of Sciences, and a fellow of the American Association for the Advancement of Science. He was named Laureate of the International Union for the Scientific Study of Population (IUSSP) in 2013.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/john-bongaarts/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/john-bongaarts/rss"/>
+    <item>
+      <title>Family Planning Is an Investment in Development</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Thu, 14 Jul 2016 11:43:12 +0000</pubDate>
+      <author>John Bongaarts</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/07/14/family-planning-is-an-investment-in-development</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/07/14/family-planning-is-an-investment-in-development</guid>
+      <description>Putting more money into family planning programs in the developing world makes populations healthier and boosts national stability, writes John Bongaarts, vice president of the Population Council.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074202/BANGLADESH-COLD-SPELL.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

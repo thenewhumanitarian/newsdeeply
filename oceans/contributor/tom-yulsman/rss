@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Tom Yulsman</title>
+    <description>Tom Yulsman directs the University of Colorado’s Center for Environmental Journalism. As a journalist, he runs ImaGeo, a visual blog focusing on the intersection of imagery, imagination and planet Earth. Yulsman’s work has appeared in a wide variety of other publications as well, including The New York Times, Washington Post, Time, Scientific American, Audubon and Climate Central.
+ 
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/tom-yulsman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/tom-yulsman/rss"/>
+    <item>
+      <title>How to Hitch a Ride on an Arctic Ice Floe</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <pubDate>Mon, 12 Jun 2017 12:36:25 +0000</pubDate>
+      <author>Tom Yulsman</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/06/12/how-to-hitch-a-ride-on-an-arctic-ice-floe</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/06/12/how-to-hitch-a-ride-on-an-arctic-ice-floe</guid>
+      <description>Most mariners don’t deliberately freeze their vessels into Arctic sea ice. But that’s what researchers aboard the Lance did, in order to better study climate change’s impact on the region.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170612123036/Polhavet.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

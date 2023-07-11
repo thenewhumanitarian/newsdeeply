@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Philippe Carr</title>
+    <description>Philippe Carr is a regional communications advisor with MSF Spain.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/philippe-carr/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/philippe-carr/rss"/>
+    <item>
+      <title>South Sudanese Turn to Suicide to Escape Camp Constraints</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Thu, 12 Apr 2018 04:20:00 +0000</pubDate>
+      <author>Philippe Carr</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/04/12/south-sudanese-turn-to-suicide-to-escape-camp-constraints</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/04/12/south-sudanese-turn-to-suicide-to-escape-camp-constraints</guid>
+      <description>As the temporary camp in South Sudan’s troubled city of Malakal enters its fourth year, residents are taking their own lives. Philippe Carr from MSF recounts doctors’ efforts to instill some hope.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180412041535/Rainy-Season-accredit-Raul-Ferna%C3%ACndez.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

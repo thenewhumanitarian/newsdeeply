@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Simon Hooper</title>
+    <description>Simon Hooper is an award-winning journalist who has previously worked for CNN and Al Jazeera. He was Freelance Writer of the Year at the 2014 Online Media Awards.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/simon-hooper/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/simon-hooper/rss"/>
+    <item>
+      <title>Torture Complaint Filed Against Syrian Officials in Spanish Court</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 03 Feb 2017 14:29:19 +0000</pubDate>
+      <author>Simon Hooper</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/02/03/torture-complaint-filed-against-syrian-officials-in-spanish-court</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/02/03/torture-complaint-filed-against-syrian-officials-in-spanish-court</guid>
+      <description>Lawyers representing the sister of a Syrian man allegedly tortured to death in 2013 files criminal complaint to Spain’s National Court in first case ever brought against Syrian officials in a Western court. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170203142858/Clashes-between-Assad-regime-forces-and-Damascus-Front-in-Damasc.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

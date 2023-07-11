@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Kalunde Kilonzo</title>
+    <description>Kalunde Kilonzo is a Kenyan journalist who is fascinated with health issues that affect women and children. She enjoys research, analysis and crunching health data. She tweets @Eunicekkilonzo.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/kalunde-kilonzo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/kalunde-kilonzo/rss"/>
+    <item>
+      <title>The Blind Grandmother Giving HIV-Positive Kenyans Support and Dignity</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/minority-rights/">Minority Rights</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Wed, 02 Nov 2016 11:21:52 +0000</pubDate>
+      <author>Kalunde Kilonzo</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/11/02/blind-grandmother-giving-hiv-positive-kenyans-support-dignity</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/11/02/blind-grandmother-giving-hiv-positive-kenyans-support-dignity</guid>
+      <description>Already blind, Catherine Mwayonga was written off by doctors as having six months to live after being diagnosed with HIV. Fifteen years later, she now helps other disabled HIV-positive Kenyans to demand better treatment and adapt to life with the disease.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072308/Catherine2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

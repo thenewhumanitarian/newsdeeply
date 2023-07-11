@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Elizabeth Preston</title>
+    <description>Elizabeth Preston is a freelance science journalist based in Boston. Her writing has appeared in The Atlantic, the Boston Globe, Aeon and others. Her blog, Inkfish, is hosted by Discover.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/elizabeth-preston/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/elizabeth-preston/rss"/>
+    <item>
+      <title>Inside the Frenzy for Japan’s Mysteriously Glowing Firefly Squid</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Fri, 13 Jul 2018 03:00:54 +0000</pubDate>
+      <author>Solvin Zankl, Elizabeth Preston</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/07/13/inside-the-frenzy-for-japans-mysteriously-glowing-firefly-squid</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/07/13/inside-the-frenzy-for-japans-mysteriously-glowing-firefly-squid</guid>
+      <description>Near the coast of Japan, the annual spawning ritual of the normally elusive deep-sea creatures attracts the attention of fishers and scientists. Despite years of study, no one fully understands how or why they bioluminesce.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20180712034359/nd_squid_1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

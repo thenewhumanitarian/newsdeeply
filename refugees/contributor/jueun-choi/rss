@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Jueun Choi</title>
+    <description>Jueun Choi is a senior at Northwestern University in Qatar under the Medill journalism program. Jueun recently interned at USA Today’s breaking news team and covered wide-ranging topics – from Middle Eastern and American politics, climate change and health to race. She’s the editor-in-chief at the Daily Q, and an aspiring documentary filmmaker and writer.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/jueun-choi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/jueun-choi/rss"/>
+    <item>
+      <title>Inside Malaysia’s ‘Living Hell’ for Refugee Children</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Mon, 05 Feb 2018 03:00:00 +0000</pubDate>
+      <author>Ifath Sayed, Jueun Choi</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/02/05/inside-malaysias-living-hell-for-refugee-children</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/02/05/inside-malaysias-living-hell-for-refugee-children</guid>
+      <description>Malaysia shelters thousands of mostly Rohingya refugees, recently joined by Syrians fleeing war. Yet the country offers few protections for refugees, and children bear the brunt of restrictions on education and work and the perpetual fear of arrest.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180202090703/11.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

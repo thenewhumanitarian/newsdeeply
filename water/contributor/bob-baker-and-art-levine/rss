@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Bob Baker and Art Levine</title>
+    <description>Bob Baker is the mayor of San Clemente.
+Art Levine is the president of the Board of Water Commissioners of the Long Beach Water Department.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/bob-baker-and-art-levine/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/bob-baker-and-art-levine/rss"/>
+    <item>
+      <title>Water Conservation Rebates Shouldn’t Be Taxed</title>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Fri, 21 Oct 2016 05:00:43 +0000</pubDate>
+      <author>Bob Baker and Art Levine</author>
+      <link>https://www.newsdeeply.com/water/community/2016/10/21/water-conservation-rebates-shouldnt-be-taxed</link>
+      <guid>https://www.newsdeeply.com/water/community/2016/10/21/water-conservation-rebates-shouldnt-be-taxed</guid>
+      <description>Calls are mounting for the IRS to clarify that rebates, such as those doled out for water conservation measures, should not be taxed as income, writes San Clemente mayor Bob Baker and Long Beach Water Department’s Water Commission board president Art Levine.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161020074115/California-Drought27.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

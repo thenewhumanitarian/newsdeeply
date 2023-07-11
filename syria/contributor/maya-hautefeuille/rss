@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Maya Hautefeuille</title>
+    <description>Maya Hautefeuille is an independent photojournalist based in Gaziantep, Turkey and supporting the media-based advocacy for the cross-border Syrian NGO Independent Doctors Association responding to the Aleppo crisis.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/maya-hautefeuille/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/maya-hautefeuille/rss"/>
+    <item>
+      <title>Meet the Doctors Keeping Aleppo Alive</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Maya Hautefeuille</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/03/11/meet-the-doctors-keeping-aleppo-alive</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/03/11/meet-the-doctors-keeping-aleppo-alive</guid>
+      <description>For the past four years, a small team of dedicated medical professionals has held together a skeletal network of bombed out and underground hospitals across opposition-held Aleppo, providing life-saving treatment to the civilians caught in Syria’s deadly war.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114149/bab-al-salama-hospital-mustaf-56e26b7cc5797.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

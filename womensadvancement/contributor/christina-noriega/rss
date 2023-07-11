@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Christina Noriega</title>
+    <description>Christina Noriega is a freelance journalist covering culture, social movements and women’s rights in Latin America. She is based in Bogotá, Colombia.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/christina-noriega/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/christina-noriega/rss"/>
+    <item>
+      <title>How Colombia’s Women Waste Pickers Fought for the Right to Recycle</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Mon, 16 Oct 2017 06:24:53 +0000</pubDate>
+      <author>Christina Noriega</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/10/16/how-colombias-women-waste-pickers-fought-for-the-right-to-recycle</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/10/16/how-colombias-women-waste-pickers-fought-for-the-right-to-recycle</guid>
+      <description>The “recicladoras” of Bogota are an essential part of the city’s environmental landscape. And for many women, sorting through waste and diverting recyclable material from landfills has provided an economic lifeline. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171016062117/IMG_0617.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

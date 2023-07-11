@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Renee Lewis</title>
+    <description>Renee Lewis is digital reporter currently stationed in the Pacific Northwest, covering environmental stories and climate change.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/renee-lewis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/renee-lewis/rss"/>
+    <item>
+      <title>First U.S. Climate Refugees Fear Rising Seas Will Drown Their Heritage</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 25 Aug 2016 11:56:08 +0000</pubDate>
+      <author>Renee Lewis</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/08/25/first-u-s-climate-refugees-fear-rising-seas-will-drown-their-heritage-2</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/08/25/first-u-s-climate-refugees-fear-rising-seas-will-drown-their-heritage-2</guid>
+      <description>Native American coastal communities around the U.S. have begun planning moves to higher ground, but worry their ancient ways of life will be lost in the relocation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160825114655/Eroding-Village-Dispute.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>First U.S. Climate Refugees Fear Rising Seas Will Drown Their Heritage</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 25 Aug 2016 11:50:01 +0000</pubDate>
+      <author>Renee Lewis</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/08/25/first-u-s-climate-refugees-fear-rising-seas-will-drown-their-heritage</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/08/25/first-u-s-climate-refugees-fear-rising-seas-will-drown-their-heritage</guid>
+      <description>Native American coastal communities around the U.S. have begun planning moves to higher ground, but worry their ancient ways of life will be lost in the relocation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160825114655/Eroding-Village-Dispute.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seas Rising Faster Than Refugee Law Can Adapt</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Fri, 01 Jul 2016 07:37:15 +0000</pubDate>
+      <author>Renee Lewis</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/07/01/seas-rising-faster-than-refugee-law-can-adapt</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/07/01/seas-rising-faster-than-refugee-law-can-adapt</guid>
+      <description>As warming seas climb their shores, Marshall Islanders face becoming climate refugees before the international community can decide what rights, if any, that status confers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160701073041/Marshall-Island-Global-Warming.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

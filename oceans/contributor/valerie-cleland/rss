@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Valerie Cleland</title>
+    <description>Valerie Cleland is a masters student in the School of Marine and Environmental Affairs at the University of Washington. She is interested in short- and long-term emergency response in the Arctic and the resilience of Indigenous communities. For her masters project she is working with the National Oceanic and Atmospheric Administration to look at oil-spill risks with changes in shipping routes
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/valerie-cleland/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/valerie-cleland/rss"/>
+    <item>
+      <title>More Needs to Be Done to Prepare for an Arctic Oil Spill</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <pubDate>Thu, 20 Jul 2017 03:00:14 +0000</pubDate>
+      <author>Valerie Cleland</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/07/20/more-needs-to-be-done-to-prepare-for-an-arctic-oil-spill</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/07/20/more-needs-to-be-done-to-prepare-for-an-arctic-oil-spill</guid>
+      <description>World Policy: Arctic nations should follow through on their commitments to prepare for an oil spill in icy waters, writes Valerie Cleland, a masters student in the School of Marine and Environmental Affairs at the University of Washington.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170719071140/RETRO-EXXON-VALDEZ-USA.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

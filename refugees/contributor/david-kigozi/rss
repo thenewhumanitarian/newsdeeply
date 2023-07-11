@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: David Kigozi</title>
+    <description>David Kigozi is the coordinator of the International Refugee Rights Initiative’s program in the Great Lakes region. He previously worked in senior international positions with Tearfund’s Disaster Management Team in the region for 10 years.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/david-kigozi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/david-kigozi/rss"/>
+    <item>
+      <title>The Reality Behind Uganda’s Refugee Model</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Tue, 30 May 2017 10:24:34 +0000</pubDate>
+      <author>David Kigozi</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/05/30/the-reality-behind-ugandas-glowing-reputation</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/05/30/the-reality-behind-ugandas-glowing-reputation</guid>
+      <description>Uganda has been hailed as a world leader in dealing with refugees. African Great Lakes expert David Kigozi argues that praise for progressive policies must be tempered with the harsher reality that many refugees actually experience in the country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170530102312/Uganda-South-Sudan-Refugees1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

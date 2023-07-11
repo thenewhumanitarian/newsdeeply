@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Manuel Langendorf</title>
+    <description>Manuel Langendorf is the Middle East Editor at Fair Observer. As a former Associate Editor (Middle East), he has been at the organization since July 2012. He holds a Master’s Degree in International Politics from the School of Oriental and African Studies (University of London) and obtained his Bachelor’s from the University of Potsdam in Germany.His main interests include the history of the Arab-Israeli conflict, US foreign policy and the current influence of Islamist movements in Middle Eastern Politics.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/manuel-langendorf/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/manuel-langendorf/rss"/>
+    <item>
+      <title>Syria’s Refugees Brave Another Winter in Exile</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Manuel Langendorf</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/01/05/syrias-refugees-brave-another-winter-in-exile</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/01/05/syrias-refugees-brave-another-winter-in-exile</guid>
+      <description>As winter descends upon the Middle East, neighboring countries bearing the brunt of the Syrian refugee crisis, such as Lebanon, are scrambling to put pre-emptive measures in place to ensure refugees survive freezing temperatures, despite fuel shortages and inadequate housing.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112947/dca9af88-bb67-45ce-b75a-87c4c3-568ba84c83195.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

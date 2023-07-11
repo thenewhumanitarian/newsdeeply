@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Joël Plouffe</title>
+    <description>Joël Plouffe is co-managing editor of the Arctic Yearbook, a fellow at the Canadian Global Affairs Institute (CGAI) and a researcher at the Interuniversity Research Center on the International Relations of Canada and Québec (CIRRICQ) in Montreal.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/joel-plouffe/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/joel-plouffe/rss"/>
+    <item>
+      <title>How the Arctic Council Sets the Tone for International Cooperation</title>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Mon, 01 May 2017 08:39:47 +0000</pubDate>
+      <author>Camille Escudé, Joël Plouffe</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/05/01/how-the-arctic-council-sets-the-tone-for-international-cooperation</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/05/01/how-the-arctic-council-sets-the-tone-for-international-cooperation</guid>
+      <description>WORLD POLICY: The Arctic Council is sometimes viewed as being ineffective because it lacks legal authority. But with flexibility comes strength, says Camille Escudé, a PhD candidate in international relations at Sciences Po-CERI, France.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170501083807/Secretary_Kerry_Sits_with_Members_of_the_Arctic_Council_in_Iqaluit_Canada.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Kassina Ryder</title>
+    <description>Kassina Ryder (Davidson) is an award-winning journalist who has spent the past eight years covering Canadian Arctic communities. Her work can be found in Up Here magazine, Arctic Deeply and Northern News Services newspapers. She has also covered the Perth, Ontario area for the Ottawa Citizen, the Perth Courier and Lake 88 radio. Since 2012, Kassina has received eight Saskatchewan Weekly Newspaper Association (SWNA) awards for stories published in NWT News/North. She currently lives in Ontario.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/kassina-ryder/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/kassina-ryder/rss"/>
+    <item>
+      <title>Nunavut’s Capital Aims to Curb Alcoholism by Liberalizing Access</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Wed, 23 Aug 2017 03:00:53 +0000</pubDate>
+      <author>Kassina Ryder</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/08/23/nunavuts-capital-aims-to-curb-alcoholism-by-liberalizing-access</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/08/23/nunavuts-capital-aims-to-curb-alcoholism-by-liberalizing-access</guid>
+      <description>Opening a beer and wine store isn’t an obvious approach to addressing a community’s devastating relationship with drinking. But Iqaluit is taking that step in the hope of reducing consumption of bootlegged hard liquor.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170815055619/Beerstore2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Small Arctic Community Wins a Big Fight in Canada’s Top Court</title>
+      <category domain="https://www.newsdeeply.com/arctic/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Wed, 02 Aug 2017 07:34:54 +0000</pubDate>
+      <author>Kassina Ryder</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/08/02/a-small-arctic-community-wins-a-big-fight-in-canadas-top-court</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/08/02/a-small-arctic-community-wins-a-big-fight-in-canadas-top-court</guid>
+      <description>The former mayor of Clyde River reflects on lessons learned from his community’s legal battle to stop seismic tests they feared would harm marine life and jeopardize ancient hunting traditions.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170802073432/Q1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Battling Botulism: Care Urged While Preparing Traditional Arctic Foods</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 27 Jul 2017 06:45:08 +0000</pubDate>
+      <author>Kassina Ryder</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/07/27/battling-botulism-care-urged-while-preparing-traditional-arctic-foods</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/07/27/battling-botulism-care-urged-while-preparing-traditional-arctic-foods</guid>
+      <description>Raw meat is a delicacy in many northern communities, but warming temperatures may be contributing to deadly outbreaks of botulism. Residents are learning to adapt while keeping ancient traditions alive.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170727064137/Arctic-Deeply2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

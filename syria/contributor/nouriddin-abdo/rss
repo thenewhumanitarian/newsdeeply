@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Nouriddin Abdo</title>
+    <description>Syrian citizen journalist.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/nouriddin-abdo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/nouriddin-abdo/rss"/>
+    <item>
+      <title>Civil Society in Syria Under Attack From All Sides</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Nouriddin Abdo</author>
+      <link>https://www.newsdeeply.com/syria/community/2015/11/04/civil-society-in-syria-under-attack-from-all-sides</link>
+      <guid>https://www.newsdeeply.com/syria/community/2015/11/04/civil-society-in-syria-under-attack-from-all-sides</guid>
+      <description>Be it from the Assad government, ISIS or other groups set on maintaining absolute authority within their respective areas of influence in Syria, civil society and pro-democracy groups are under constant attack across the war-torn country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422112959/0a4e240a-ee68-45a5-b0d9-e59131-565b13e5b56ca.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Kilis, Refugees Coming to Terms with Leaving Home</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+      <author>Nouriddin Abdo</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/02/26/in-kilis-refugees-coming-to-terms-with-leaving-home</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/02/26/in-kilis-refugees-coming-to-terms-with-leaving-home</guid>
+      <description>KILIS – Abo Esmael, a 43-year-old originally from Mrrata in Idlib province, was once the owner of a land registry office in Tishreen, the Damascus neighborhood where he lived with his pregnant wife and five daughters.</description>
+    </item>
+    <item>
+      <title>Under Pressure, ISIS Releases Its First FSA Prisoner</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Nouriddin Abdo</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/12/31/under-pressure-isis-releases-its-first-fsa-prisoner</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/12/31/under-pressure-isis-releases-its-first-fsa-prisoner</guid>
+      <description>REYHANLI — The Islamic State of Iraq and the Levant (ISIS), al-Qaida’s Syrian arm, has released a Free Syrian Army officer from detention, reportedly the first FSA prisoner to be set free by the extremist group.</description>
+    </item>
+  </channel>
+</rss>

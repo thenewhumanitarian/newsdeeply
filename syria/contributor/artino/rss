@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Artino</title>
+    <description>Artino is a Syrian war photographer and activist. He currently lives in Belgium.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/artino/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/artino/rss"/>
+    <item>
+      <title>Pixels Of War: Photographing the Siege in Eastern Ghouta</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 14 Oct 2016 13:38:43 +0000</pubDate>
+      <author>Artino</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/10/14/pixels-of-war-photographing-the-siege-in-eastern-ghouta</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/10/14/pixels-of-war-photographing-the-siege-in-eastern-ghouta</guid>
+      <description>In the first installment of “Pixels of War,” our diary series on Syrian journalists, Artino describes his time as a war photographer, wanted by the regime, in  besieged Eastern Ghouta. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20161014132628/artino5.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

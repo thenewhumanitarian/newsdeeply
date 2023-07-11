@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Hannah Wauchope and Richard Fuller</title>
+    <description>Hannah Wauchope is a research assistant with the University of Queensland, in Australia, who studies polar and migratory species conservation.
+Richard Fuller is an Associate Professor and ARC Future Fellow at the University of Queensland. He studies how people have affected the natural world around them, and how some of their destructive effects can best be reversed.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/hannah-wauchope-and-richard-fuller/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/hannah-wauchope-and-richard-fuller/rss"/>
+    <item>
+      <title>Arctic Birds Face Disappearing Breeding Grounds as Climate Warms</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Fri, 29 Jul 2016 12:44:59 +0000</pubDate>
+      <author>Hannah Wauchope and Richard Fuller</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/07/29/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/07/29/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms</guid>
+      <description>THE CONVERSATION – Some migratory shorebirds cover tens of thousands of kilometers annually as they move from their Arctic breeding areas to the Southern Hemisphere, but these habitats may vanish with climate change, write biologists Hannah Wauchope and Richard Fuller. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160729124213/red-knots-and-horseshoe-crabs.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

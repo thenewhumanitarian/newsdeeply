@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Line K. Bay</title>
+    <description>Line Bay is a senior research scientist and team leader at the Australian Institute of Marine Science.
+ 
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/line-k-bay/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/line-k-bay/rss"/>
+    <item>
+      <title>Here’s Something to Be Thankful for: Corals</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <pubDate>Thu, 23 Nov 2017 03:00:28 +0000</pubDate>
+      <author>Andrew Negri, Andrew Heyward, Line K. Bay</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/11/23/heres-something-to-be-thankful-for-corals</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/11/23/heres-something-to-be-thankful-for-corals</guid>
+      <description>Coral spawning is a wonder of the natural world, and understanding the phenomenon better could help save corals around the world, say Line Bay, Andrew Heyward and Andrew Negri from the Australian Institute of Marine Science.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171117134715/file-20171114-27595-17nf1pm.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Emily Wright</title>
+    <description>Emily Wright is a filmmaker and journalist currently based in Bogotá, Colombia. Her work focuses on Colombia’s post conflict and gender equality and women’s rights issues across Latin America.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/emily-wright/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/emily-wright/rss"/>
+    <item>
+      <title>Guerilla Baby Boom as FARC Rebels Lift 50-Year Pregnancy Ban</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Wed, 19 Jul 2017 12:08:55 +0000</pubDate>
+      <author>Emily Wright</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/07/19/guerilla-baby-boom-as-farc-rebels-lift-50-year-pregnancy-ban</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/07/19/guerilla-baby-boom-as-farc-rebels-lift-50-year-pregnancy-ban</guid>
+      <description>Pregnancy was outlawed among the rebel armies of Colombia during the 52-year civil war. Now the guerilla camps are demobilizing, female fighters are free to have children for the first time.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170719120705/Moths-before-the-peace-deal-was-signed-Farc-guerrilla-member-Tatiana-was-the-first-rebel-in-her-camp-to-become-pregnant.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Bolivia: Home to Latin America’s Highest Rates of Sexual Violence</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 26 Jun 2017 13:26:43 +0000</pubDate>
+      <author>Emily Wright</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/06/26/bolivia-home-to-latin-americas-highest-rates-of-sexual-violence</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/06/26/bolivia-home-to-latin-americas-highest-rates-of-sexual-violence</guid>
+      <description>Bolivia has the highest rates of sexual violence in Latin America with one in every three women experiencing some kind of sexual abuse before the age of 18.  One activist is trying to change that by challenging stereotypes and overturning laws.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170626131953/BOLIVIA-ROAD-NATIVES-PROTEST.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

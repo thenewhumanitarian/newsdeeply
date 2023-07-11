@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Betsy Joles</title>
+    <description>Betsy Joles reports on migration and religion, focusing on the Syrian diaspora. She is based in Beijing, China.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/betsy-joles/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/betsy-joles/rss"/>
+    <item>
+      <title>How Refugees’ Trauma Became ‘Currency’ in Resettlement</title>
+      <pubDate>Fri, 10 Aug 2018 10:04:11 +0000</pubDate>
+      <author>Betsy Joles</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/08/10/how-refugees-trauma-became-currency-in-resettlement</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/08/10/how-refugees-trauma-became-currency-in-resettlement</guid>
+      <description>For many, seeking asylum requires repeatedly recounting your story, compounding its impact. Refugees feel pressured not only to prove persecution, but also that they’ve also been damaged by it. Betsy Joles reports from Malaysia.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180810100344/Peacebuilding-Deeply-111.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hierarchy of Suffering: Trauma as  Currency in the Resettlement Process</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/truth,-accountability-reconciliation/">Truth, Accountability &amp; Reconciliation</category>
+      <pubDate>Wed, 08 Aug 2018 14:20:00 +0000</pubDate>
+      <author>Betsy Joles</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/08/08/hierarchy-of-suffering-trauma-as-currency-in-the-resettlement-process</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/08/08/hierarchy-of-suffering-trauma-as-currency-in-the-resettlement-process</guid>
+      <description>For many, seeking asylum requires repeatedly recounting your story. Conflating persecution with trauma, will have a lasting impact on the mental health and recovery of entire generations who were forced to leave home and rebuild their lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180808142345/Peacebuilding-Deeply-11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

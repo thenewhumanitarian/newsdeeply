@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Samer Muscati</title>
+    <description>Samer Muscati is the director of the University of Toronto’s International Human Rights Program.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/samer-muscati/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/samer-muscati/rss"/>
+    <item>
+      <title>What if an Algorithm Decided Whether You Could Stay in Canada or Not?</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Thu, 27 Sep 2018 07:10:00 +0000</pubDate>
+      <author>Petra Molnar, Samer Muscati</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/09/27/what-if-an-algorithm-decided-whether-you-could-stay-in-canada-or-not</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/09/27/what-if-an-algorithm-decided-whether-you-could-stay-in-canada-or-not</guid>
+      <description>Canada is rapidly expanding the use of AI in its immigration service. Rights advocates Petra Molnar and Samer Muscati pick apart experiments that will be copied around the world.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180927065939/mug.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

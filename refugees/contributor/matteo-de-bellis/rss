@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Matteo de Bellis</title>
+    <description>Matteo de Bellis is a researcher on asylum and migration at Amnesty International. He recently co-authored the report Libya’s Dark Web of Collusion: Abuses Against Europe-bound Refugees and Migrants. He is on Twitter @matteodebellis.
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/matteo-de-bellis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/matteo-de-bellis/rss"/>
+    <item>
+      <title>How Italy’s NGO Boat Seizure Exposes Europe’s Dangerous Policy at Sea</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 27 Mar 2018 11:30:00 +0000</pubDate>
+      <author>Matteo de Bellis</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/03/27/how-italys-ngo-boat-seizure-exposes-europes-dangerous-policy-at-sea</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/03/27/how-italys-ngo-boat-seizure-exposes-europes-dangerous-policy-at-sea</guid>
+      <description>Italy’s seizure of an NGO rescue ship has refocused attention on how Europe outsourced control of the central Mediterranean to the Libyan Coast Guard. Amnesty International’s Matteo de Bellis examines the legal and humanitarian issues at stake.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180327113603/P_Freire_24032018-_CBB78311.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

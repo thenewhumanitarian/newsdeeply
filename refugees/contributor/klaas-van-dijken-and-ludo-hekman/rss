@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Klaas van Dijken and Ludo Hekman</title>
+    <description>Klaas Van Dijken and Ludo Hekman are partners in Butch and Sundance Media. Klaas is a foreign correspondent, winner of the De Tegel award and nominee for a Prix Bayeux-Calvados Award for War Correspondents in France. Ludo is specialized in translating complex issues into thought-provoking concepts and stories. He has worked in TV, print and online with a focus on tech.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/klaas-van-dijken-and-ludo-hekman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/klaas-van-dijken-and-ludo-hekman/rss"/>
+    <item>
+      <title>Dutch App Lets You Interview Asylum Seekers</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <pubDate>Wed, 13 Jul 2016 12:39:01 +0000</pubDate>
+      <author>Klaas van Dijken and Ludo Hekman</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/13/dutch-app-lets-you-interview-asylum-seekers</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/13/dutch-app-lets-you-interview-asylum-seekers</guid>
+      <description>An innovative interactive film in the Netherlands puts people in the interviewer’s chair at the asylum agency. Its producers discuss the importance of new forms of storytelling in breaking down barriers to understanding.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160714144906/Extra.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

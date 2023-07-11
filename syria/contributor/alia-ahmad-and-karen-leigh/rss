@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Alia Ahmad and Karen Leigh</title>
+    <description>Karen Leigh is the managing editor of News Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/alia-ahmad-and-karen-leigh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/alia-ahmad-and-karen-leigh/rss"/>
+    <item>
+      <title>On the Streets of Damascus, Child Beggars Become a Familiar Sight</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Alia Ahmad and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/06/30/on-the-streets-of-damascus-child-beggars-become-a-familiar-sight</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/06/30/on-the-streets-of-damascus-child-beggars-become-a-familiar-sight</guid>
+      <description>Alaa begs on a downtown bridge, Rania makes $1.50 on an average day from passersby and Mohammed asks for change alongside his handicapped father. In each case, they are responsible for a family’s financial survival.</description>
+    </item>
+    <item>
+      <title>Truant Students Skip School and Face Child Labor, Mistreatment</title>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      <author>Alia Ahmad and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/05/05/truant-students-skip-school-and-face-child-labor-mistreatment</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/05/05/truant-students-skip-school-and-face-child-labor-mistreatment</guid>
+      <description>Syrian children are leaving school for the workforce in greater numbers. The government says there has been a 30 percent drop in attendance countrywide since the start of the war.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115300/picture-5367c67350602.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

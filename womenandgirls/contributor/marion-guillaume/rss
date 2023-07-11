@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Marion Guillaume</title>
+    <description>Marion Guillaume is the Children and Youth Pillar lead at Samuel Hall, where she has managed research on migration, vocational training, education and human trafficking, among other topics, in Central Asia and East Africa since 2013.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/marion-guillaume/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/marion-guillaume/rss"/>
+    <item>
+      <title>Without IDs, Afghan Women Remain Invisible in the Justice System</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 09 Mar 2017 13:57:37 +0000</pubDate>
+      <author>Marion Guillaume</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/03/09/without-ids-afghan-women-remain-invisible-justice-system</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/03/09/without-ids-afghan-women-remain-invisible-justice-system</guid>
+      <description>Afghan women are often unable to obtain basic legal documents such as national IDs and marriage certificates, which makes it difficult to seek help from the courts when they are in trouble, says Marion Guillaume of the Samuel Hall think-tank.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071000/AFGHANISTAN-UNREST-POLITICS-JIRGA.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

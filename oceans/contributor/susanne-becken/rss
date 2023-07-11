@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Susanne Becken</title>
+    <description>Susanne Becken is a professor of sustainable tourism at Griffith University, Australia, and an adjunct professor at Lincoln University, New Zealand. Susanne is a globally recognized expert in the field of sustainable tourism, in particular climate change, resource management, resilience and environmental behavior. Her research, which is published in more than 100 journal papers, reports and books, is widely cited by academics around the world, and has also influenced government policy and industry practice.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/susanne-becken/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/susanne-becken/rss"/>
+    <item>
+      <title>Tweet Streams: How Social Media Can Help Keep Tabs on Ocean Health</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Fri, 18 Aug 2017 03:00:38 +0000</pubDate>
+      <author>Rod Connolly, Bela Stantic, Susanne Becken</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/08/18/tweet-streams-how-social-media-can-help-keep-tabs-on-ocean-health</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/08/18/tweet-streams-how-social-media-can-help-keep-tabs-on-ocean-health</guid>
+      <description>Environmental monitoring is an expensive and time-consuming endeavor. One solution: Tap data stored in tweets and Instagram photos to track the health of coral reefs and other marine ecosystems.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170817131235/22286564996_ebe33495c4_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

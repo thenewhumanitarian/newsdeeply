@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Suparna Gangal</title>
+    <description>Suparna Gangal is a visual storyteller, having dabbled in documentary, corporate content, feature films and video journalism under her proprietary firm, SMS. She creates diverse human interest stories for global audiences. Her interests include politics, sport and old Bollywood music.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/suparna-gangal/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/suparna-gangal/rss"/>
+    <item>
+      <title>At an Indian Cafe, Acid Attack Survivors Find Solace and Pride</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/gender-based-violence/">Gender-Based Violence</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Thu, 07 Sep 2017 07:30:39 +0000</pubDate>
+      <author>Suparna Gangal</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/09/07/at-an-indian-cafe-acid-attack-survivors-find-solace-and-pride</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/09/07/at-an-indian-cafe-acid-attack-survivors-find-solace-and-pride</guid>
+      <description>At Sheroes Cafe in India, the staff are all women who have survived acid attacks. Once confined to their homes, the women now refuse to let their physical scars stop them from living their lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170907073028/Acid-attack-still.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Nujeen Mustafa and Christina Lamb</title>
+    <description>Nujeen Mustafa is a 17-year-old Kurdish Syrian who grew up in Manbij and Aleppo. Born with cerebral palsy, she fled the war in Syria and trekked to Germany in a wheelchair.
+Christina Lamb is an award-winning foreign correspondent for British newspaper the Sunday Times and author of Farewell Kabul and New York Times bestseller I Am Malala.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/nujeen-mustafa-and-christina-lamb/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/nujeen-mustafa-and-christina-lamb/rss"/>
+    <item>
+      <title>My Voyage From Syria to Europe in a Wheelchair</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 11 Oct 2016 14:26:37 +0000</pubDate>
+      <author>Nujeen Mustafa and Christina Lamb</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/10/11/my-voyage-from-syria-to-europe-in-a-wheelchair</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/10/11/my-voyage-from-syria-to-europe-in-a-wheelchair</guid>
+      <description>Nujeen Mustafa, a Syrian teenager born with cerebral palsy, fled to Europe last year in a wheelchair. In an excerpt from “Nujeen,” a new book telling her story, she describes crossing the Aegean Sea on the same day that 3-year-old Alan Kurdi died.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161011142112/SERBIA-CROATIA-EUROPE-MIGRANTS.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

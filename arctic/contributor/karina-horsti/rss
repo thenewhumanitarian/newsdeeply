@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Karina Horsti</title>
+    <description>Karina Horsti, an Academy of Finland fellow at the Department of Social Sciences and Philosophy, University of Jyvaskyla. Karina has completed research projects on cultural diversity policies, nationalist populism and mediated representations of refugees and asylum seekers. Her current research examines public remembering of forced migration and the commemoration of deaths at Europe’s borders.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/karina-horsti/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/karina-horsti/rss"/>
+    <item>
+      <title>On Arctic Border, Refugees Embraced by ‘Northern Hospitality’</title>
+      <category domain="https://www.newsdeeply.com/arctic/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Thu, 29 Jun 2017 04:00:40 +0000</pubDate>
+      <author>Karina Horsti</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/29/on-arctic-border-activists-offer-northern-hospitality-to-refugees-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/29/on-arctic-border-activists-offer-northern-hospitality-to-refugees-2</guid>
+      <description>Thousands of asylum seekers crossed the northernmost border into Europe in 2015, cycling across the boundary between Russia and Norway. Their arrival has stirred memories of earlier waves of refugees and traditions of northern hospitality in the Arctic borderland.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170628091110/2779406.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>On Arctic Border, Refugees Embraced by ‘Northern Hospitality’</title>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <pubDate>Thu, 29 Jun 2017 04:00:04 +0000</pubDate>
+      <author>Karina Horsti</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/06/29/on-arctic-border-activists-offer-northern-hospitality-to-refugees</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/06/29/on-arctic-border-activists-offer-northern-hospitality-to-refugees</guid>
+      <description>Thousands of asylum seekers crossed the northernmost border into Europe in 2015, cycling across the boundary between Russia and Norway. Their arrival has stirred memories of earlier waves of refugees and traditions of northern hospitality in the Arctic borderland.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170628091110/2779406.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

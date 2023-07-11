@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Mina Guli</title>
+    <description>Mina Guli is a corporate lawyer turned activist. After years of work in climate change, Mina founded Thirst. You can follow her #Run4Water quest on Twitter, Instagram and Facebook.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/mina-guli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/mina-guli/rss"/>
+    <item>
+      <title>Why I’m Running a Thousand Miles for Water Awareness</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 12 Apr 2017 05:00:55 +0000</pubDate>
+      <author>Mina Guli</author>
+      <link>https://www.newsdeeply.com/water/community/2017/04/12/why-im-running-a-thousand-miles-for-water-awareness</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/04/12/why-im-running-a-thousand-miles-for-water-awareness</guid>
+      <description>Corporate attorney-turned-activist Mina Guli explains why she is running 40 marathons in 40 days, along six rivers on six different continents to raise awareness about the global water crisis and what people can do about it.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407152828/33628362296_59541ba4d7_k.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

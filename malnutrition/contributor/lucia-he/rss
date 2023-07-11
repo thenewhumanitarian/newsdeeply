@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Lucia He</title>
+    <description>Lucia He is a multimedia journalist based in Buenos Aires, Argentina. She has reported from Latin America, the United States, Asia and West Africa, focusing on human rights, gender, and politics. Her work has been published on Al Jazeera English, BBC and FiveThirtyEight, among others. Follow her on Twitter.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/lucia-he/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/lucia-he/rss"/>
+    <item>
+      <title>Argentina Has a Plan to Curb Childhood Obesity, but It May Not Be Enough</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Fri, 01 Jun 2018 09:30:00 +0000</pubDate>
+      <author>Lucia He</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/06/01/argentina-has-a-plan-to-curb-childhood-obesity-but-it-may-not-be-enough</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/06/01/argentina-has-a-plan-to-curb-childhood-obesity-but-it-may-not-be-enough</guid>
+      <description>The country has developed an ambitious plan to tackle overweight and obesity, but has seen some of its efforts derailed by industry objections. Now advocates are pushing for legislation that would codify the plan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180601095224/AFP_AU3S0-.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

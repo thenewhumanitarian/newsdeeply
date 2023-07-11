@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Daniel Masterson</title>
+    <description>Daniel Masterson is a PhD candidate in political science at Yale University and an affiliated scholar at the American University in Beirut’s Issam Fares Institute for Public Policy and International Affairs.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/daniel-masterson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/daniel-masterson/rss"/>
+    <item>
+      <title>‘Giving More’ Through Direct Cash Aid</title>
+      <category domain="https://www.newsdeeply.com/refugees/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/refugees/displacement/">Displacement</category>
+      <pubDate>Thu, 21 Jul 2016 08:12:28 +0000</pubDate>
+      <author>Daniel Masterson</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/07/21/giving-more-through-direct-cash-aid-2</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/07/21/giving-more-through-direct-cash-aid-2</guid>
+      <description>In the second part of our series with the Issam Fares Institute on sustainable futures for Syrian refugees in Lebanon, researcher Daniel Masterson argues that cash aid frees refugees from dependence and enables them to become active contributors to local economies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160720114325/Mideast-Lebanon-Syrian-Refugees.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>‘Giving More’ Through Direct Cash Aid</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <pubDate>Wed, 20 Jul 2016 11:48:53 +0000</pubDate>
+      <author>Daniel Masterson</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/20/giving-more-through-direct-cash-aid</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/20/giving-more-through-direct-cash-aid</guid>
+      <description>In the second part of our series with the Issam Fares Institute on sustainable futures for Syrian refugees in Lebanon, researcher Daniel Masterson argues that cash aid frees refugees from dependence and enables them to become active contributors to local economies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160720114325/Mideast-Lebanon-Syrian-Refugees.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

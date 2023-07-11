@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Nishan Degnarain</title>
+    <description>Nishan Degnarain is a member of the government of Mauritius’s National Ocean Taskforce.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/nishan-degnarain/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/nishan-degnarain/rss"/>
+    <item>
+      <title>Data Can Help Heal the Ocean – if We Can Collect Enough of It</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Tue, 08 Aug 2017 07:00:25 +0000</pubDate>
+      <author>Steve Adler, Nishan Degnarain</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/08/08/data-can-help-heal-the-ocean-if-we-can-collect-enough-of-it</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/08/08/data-can-help-heal-the-ocean-if-we-can-collect-enough-of-it</guid>
+      <description>Scientists, governments and businesses are amassing unprecedented amounts of ocean data. But if marine ecosystems are to survive, we need to figure out how to get a lot more, say Nishan Degnarain and Steve Adler.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170808065900/3152724.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

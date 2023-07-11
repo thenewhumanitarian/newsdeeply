@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Clara Sandelind</title>
+    <description>Clara Sandelind is a lecturer in politics at Huddersfield University. She covers migration, nationalism, self-determination and the welfare state, produces the podcast @talkingmig and is the secretary of @psa_global.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/clara-sandelind/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/clara-sandelind/rss"/>
+    <item>
+      <title>Time to Get Tough on Integration</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 08 Jul 2016 14:59:04 +0000</pubDate>
+      <author>Clara Sandelind</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/08/time-to-get-tough-on-integration</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/08/time-to-get-tough-on-integration</guid>
+      <description>The framing of identity has been left to the populists for too long, argues Clara Sandelind, a Swedish-born British resident. National belonging and community can be fostered without playing to immigration fears.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160708145224/AP115943372031.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

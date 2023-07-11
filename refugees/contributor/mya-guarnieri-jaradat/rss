@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Mya Guarnieri Jaradat</title>
+    <description>Mya Guarnieri Jaradat is a journalist and writer who spent nearly a decade covering Israel and the occupied Palestinian Territories. Her work has been published in a number of literary and media outlets, including the Nation, Al Jazeera English, Foreign Policy, the Guardian, Narrative, Kenyon Review and Boston Review.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/mya-guarnieri-jaradat/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/mya-guarnieri-jaradat/rss"/>
+    <item>
+      <title>The Only Darfuri Refugee in Israel</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 04 May 2017 13:19:46 +0000</pubDate>
+      <author>Mya Guarnieri Jaradat</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/04/the-only-darfuri-refugee-in-israel</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/04/the-only-darfuri-refugee-in-israel</guid>
+      <description>In an extract from her book ‘The Unchosen,’ Mya Guarnieri Jaradat tells the story of one man’s years-long quest to seek asylum in Israel as thousands of others gave up on ever gaining refugee status and took ‘voluntary repatriation’ deals to third countries.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170504131922/refugees2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

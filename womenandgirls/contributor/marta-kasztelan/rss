@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Marta Kasztelan</title>
+    <description>Marta Kasztelan is a freelance journalist and documentary filmmaker based in Phnom Penh, Cambodia. She writes about gender, human rights and development. Follow her on Twitter or check out her website.
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/marta-kasztelan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/marta-kasztelan/rss"/>
+    <item>
+      <title>Love Child: Behind the Rise in Cambodia’s Teen Pregnancy Rates</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Tue, 16 Jan 2018 11:30:00 +0000</pubDate>
+      <author>Marta Kasztelan</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2018/01/16/love-child-behind-the-rise-in-cambodias-teen-pregnancy-rates</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2018/01/16/love-child-behind-the-rise-in-cambodias-teen-pregnancy-rates</guid>
+      <description>Cambodia has seen a dramatic spike in teen pregnancies since 2010, with rates tripling in some parts of the country, as an increasing number of teenage girls choose to get married ‘for love.’</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180116115732/131B4258.jpg.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

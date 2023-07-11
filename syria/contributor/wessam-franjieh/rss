@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Wessam Franjieh</title>
+    <description>Wessam Franjieh is a contributor from Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/wessam-franjieh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/wessam-franjieh/rss"/>
+    <item>
+      <title>The Syrian Woman Running a School in Atmeh Refugee Camp</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <author>Wessam Franjieh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/02/26/the-syrian-woman-running-a-school-in-atmeh-refugee-camp</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/02/26/the-syrian-woman-running-a-school-in-atmeh-refugee-camp</guid>
+      <description>“We expect that by the end of the month, we’ll see 80 percent improvement of the students’ reading, writing and arithmetic skills.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114736/10867134_528844417253022_14227-54eefd370564c.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Why Syrian Students Are Being Forced to Commit Fraud</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <author>Wessam Franjieh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/01/12/why-syrian-students-are-being-forced-to-commit-fraud</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/01/12/why-syrian-students-are-being-forced-to-commit-fraud</guid>
+      <description>Ahmed, an English literature student, explains why he had to obtain a fake university diploma in order to build a new life.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114823/ap404308130287-54b39b5663b7b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

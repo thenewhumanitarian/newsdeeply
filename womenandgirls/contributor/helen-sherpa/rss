@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Helen Sherpa</title>
+    <description>Helen Sherpa is Country Director for World Education Nepal, serving as the key liaison with donors, partners and Nepal’s Ministry of Education. Her experience spans agriculture, health, prevention of child labor, formal and nonformal education, and financial literacy and livelihood development.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/helen-sherpa/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/helen-sherpa/rss"/>
+    <item>
+      <title>How Microfinance Helped Nepali Women Recover From the 2015 Earthquake</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Tue, 25 Apr 2017 11:29:33 +0000</pubDate>
+      <author>Helen Sherpa</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/04/25/how-microfinance-helped-nepali-women-recover-from-the-2015-earthquake</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/04/25/how-microfinance-helped-nepali-women-recover-from-the-2015-earthquake</guid>
+      <description>Small-scale loans aren’t as photogenic as blankets or food donations in the wake of a disaster, but the recovery from Nepal’s devastating 2015 earthquake shows that a tiny amount of invested money can help women turn their lives around. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170425112733/Aftermath-of-Nepal-earthquake.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

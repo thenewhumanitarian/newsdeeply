@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Peter Varga</title>
+    <description>Peter Varga has plied his trade as a journalist in the Canadian Arctic and Quebec for a variety of print outlets, most recently for the Montreal Gazette and Nunatsiaq News in Iqaluit, Nunavut. He has written and photographed, edited and reported for magazine, newspaper and online publications in Greater Montreal, Nunavut, Northwest Territories, Quebec’s Eastern Townships and Vermont.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/peter-varga/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/peter-varga/rss"/>
+    <item>
+      <title>Canadian Inuit Theater Troupe Breathes New Life Into an Old Legend</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Thu, 22 Jun 2017 08:14:16 +0000</pubDate>
+      <author>Peter Varga</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/06/22/canadian-inuit-theater-troupe-breathes-new-life-into-an-old-legend</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/06/22/canadian-inuit-theater-troupe-breathes-new-life-into-an-old-legend</guid>
+      <description>With “Kiviuq Returns,” Nunavut’s Qaggiavuut Society brings to the stage an ancient story of a wandering hero in an effort to preserve a part of their culture that was nearly lost.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170622080710/12.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Grappling With Low Living Standards in Canada’s North</title>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Tue, 16 May 2017 08:15:47 +0000</pubDate>
+      <author>Peter Varga</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/05/16/grappling-with-low-living-standards-in-canadas-north</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/05/16/grappling-with-low-living-standards-in-canadas-north</guid>
+      <description>From internet speeds to graduation rates, Canada’s northern regions lag behind the rest of the country. In her new report, Mary Simon, the Canadian government’s special adviser on Arctic issues, presents some ideas about how to close those gaps.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170516081535/MSimon_May2017.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Nunavut Seeks Solid Footing to Preserve and Promote Inuit Language</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <category domain="https://www.newsdeeply.com/arctic/solutions/">Solutions</category>
+      <pubDate>Tue, 07 Mar 2017 05:00:45 +0000</pubDate>
+      <author>Peter Varga</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/03/07/nunavut-seeks-solid-footing-to-preserve-and-promote-inuit-language</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/03/07/nunavut-seeks-solid-footing-to-preserve-and-promote-inuit-language</guid>
+      <description>Building the ranks of bilingual teachers is key to improving Nunavut’s school system, says Eva Aariak, a longtime champion of Inuit culture and language.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170306143355/DSC_0058.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Push to Revamp Nunavut’s Education System</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Tue, 28 Feb 2017 15:47:02 +0000</pubDate>
+      <author>Peter Varga</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/02/28/the-push-to-revamp-nunavuts-education-system</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/02/28/the-push-to-revamp-nunavuts-education-system</guid>
+      <description>Leaders of the sprawling territory in Canada’s Eastern Arctic view bilingual instruction as a key way of improving lackluster education outcomes. But a proposal to standardize the Inuit language in the process may be a tough sell to some.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170912091125/POLAR_charscampus.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

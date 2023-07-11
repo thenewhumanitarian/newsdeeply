@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Meredith Rutland Bauer</title>
+    <description>Meredith Rutland Bauer is a freelance environmental, technology and science reporter in the San Francisco Bay Area. Her work has appeared in Newsweek, Vice, Wired and the Atlantic. Follow her at @merebauer.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/meredith-rutland-bauer/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/meredith-rutland-bauer/rss"/>
+    <item>
+      <title>$4 Billion California Bond Will Help With Droughts and Floods</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Wed, 15 Nov 2017 03:00:08 +0000</pubDate>
+      <author>Meredith Rutland Bauer</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/11/15/4-billion-california-bond-will-help-with-droughts-and-floods</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/11/15/4-billion-california-bond-will-help-with-droughts-and-floods</guid>
+      <description>In June, California voters will decide whether to fund a $4 billion bond measure that covers a wide variety of issues, including urban parks, drought resilience and flood protection.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171113123104/FL_Flood_Aerials-89421.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Delta Is Sinking: Scientists Think Planting Rice Will Help</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Wed, 30 Aug 2017 03:00:03 +0000</pubDate>
+      <author>Meredith Rutland Bauer</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/08/30/the-delta-is-sinking-scientists-think-planting-rice-will-help</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/08/30/the-delta-is-sinking-scientists-think-planting-rice-will-help</guid>
+      <description>Researchers hope to stave off subsidence in the Sacramento-San Joaquin Delta with a solution farmers might like: planting rice. But a pilot project has yielded mixed results.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170830015504/20170815_1336231.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Smithsonian Science News</title>
+    <description>Smithsonian Science News
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/smithsonian-science-news/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/smithsonian-science-news/rss"/>
+    <item>
+      <title>Drought Slows Wildlife Reproduction on California’s Channel Islands</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Smithsonian Science News</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/22/drought-slows-wildlife-reproduction-on-californias-channel-islands</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/22/drought-slows-wildlife-reproduction-on-californias-channel-islands</guid>
+      <description>Numerous species on these isolated islands have delayed breeding activity, in some cases for years. It remain to be seen if this will affect their long-term survival.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102508/islandscrubjay-56016b99c35f1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

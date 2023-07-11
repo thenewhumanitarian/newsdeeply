@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Dunya Habash</title>
+    <description>Dunya Habash is a filmmaker and has been undertaking an MSc at the Refugee Studies Centre, Oxford. She gave a TEDx Birmingham talk on her experiences and how we can relate to refugees’ struggles. You can find her on Twitter.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/dunya-habash/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/dunya-habash/rss"/>
+    <item>
+      <title>My Hidden Misconceptions About Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 29 Jun 2017 13:10:23 +0000</pubDate>
+      <author>Dunya Habash</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/06/29/my-hidden-misconceptions-about-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/06/29/my-hidden-misconceptions-about-refugees</guid>
+      <description>As the U.S.-raised daughter of Syrian immigrants, Dunya Habash thought she knew about refugees. But a trip to Jordan’s Zaatari camp challenged the false impressions she had prior to arrival, and reinforced the importance of context in order to tell complete stories.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170629130949/JORDAN-SYRIA-UN-REFUGEES3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

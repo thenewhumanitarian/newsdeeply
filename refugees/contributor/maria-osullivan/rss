@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Maria O’Sullivan</title>
+    <description>Maria O’Sullivan is a senior lecturer in the Faculty of Law and deputy director of the Castan Centre for Human Rights Law at Monash University. Her teaching and research interests are administrative law and international refugee law.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/maria-osullivan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/maria-osullivan/rss"/>
+    <item>
+      <title>Questioning the Australian Refugee Model</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 09 Jan 2018 08:00:00 +0000</pubDate>
+      <author>Maria O’Sullivan</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/01/09/questioning-the-australian-refugee-model</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/01/09/questioning-the-australian-refugee-model</guid>
+      <description>Those looking to emulate Australia’s refugee system often ignore its resettlement program while touting the offshoring of asylum seekers. Maria O’Sullivan from the Castan Centre offers a more realistic assessment.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180109085027/AFP_U56ZT.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

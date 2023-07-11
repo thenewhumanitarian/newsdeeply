@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Bairbre Flood</title>
+    <description>Bairbre Flood is an Irish documentary film maker focused on migration and human rights.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/bairbre-flood/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/bairbre-flood/rss"/>
+    <item>
+      <title>The ‘Hungry Road’ Leading to Calais</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 22 Jul 2016 06:09:41 +0000</pubDate>
+      <author>Bairbre Flood</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/07/22/the-hungry-road-leading-to-calais</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/07/22/the-hungry-road-leading-to-calais</guid>
+      <description>Documentary-maker Bairbre Flood spent over four months in the Calais refugee camps, where more than 6,000 asylum seekers are stranded. If we’re going to come up with humane solutions, she says, why not start by challenging the prevailing language for displaced people?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160722054827/France-Britain-Migrants1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Annabell Van den Berghe</title>
+    <description>Freelance print and broadcast Journalist
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/annabell-van-den-berghe/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/annabell-van-den-berghe/rss"/>
+    <item>
+      <title>‘I Sold my Sister to Save the Family’</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Annabell Van den Berghe</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/10/31/i-sold-my-sister-to-save-the-family</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/10/31/i-sold-my-sister-to-save-the-family</guid>
+      <description>ZAATARI CAMP, JORDAN - Amani turned 22 today. Two months ago she fled from the civil war in Syria and left her house in the capital of Damascus.</description>
+    </item>
+    <item>
+      <title>The Syrian Farmer Turned Amateur Oil Producer</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 25 Jul 2013 00:00:00 +0000</pubDate>
+      <author>Annabell Van den Berghe</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/07/25/the-syrian-farmer-turned-amateur-oil-producer</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/07/25/the-syrian-farmer-turned-amateur-oil-producer</guid>
+      <description>RAS AL AYN, Syria / Like many of his countrymen, Abu Zechariah, a now-penniless farmer, spends his days trying to eke out a living. As war makes crop farming here all but impossible, he’s been forced to harvest another kind of crop — oil.</description>
+    </item>
+  </channel>
+</rss>

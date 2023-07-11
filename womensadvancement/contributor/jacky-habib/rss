@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Jacky Habib</title>
+    <description>Jacky Habib is a freelance journalist reporting on human rights, social issues and impact. Follow her on Twitter and Instagram and read more of her work on her website.
+ 
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/jacky-habib/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/jacky-habib/rss"/>
+    <item>
+      <title>Kenyan App Developers Harness Technology to Take on Gender Gaps</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Mon, 16 Apr 2018 08:40:00 +0000</pubDate>
+      <author>Jacky Habib</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/16/kenyan-app-developers-harness-technology-to-take-on-gender-gaps</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/16/kenyan-app-developers-harness-technology-to-take-on-gender-gaps</guid>
+      <description>From apps that tell women the police’s obligations in rape investigations to classes that teach internet literacy, Kenyan developers offer women tech-based solutions to help them understand and fight for their rights.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180416083928/160-Girls-app1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

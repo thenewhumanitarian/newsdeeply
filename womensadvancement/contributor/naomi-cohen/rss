@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Naomi Cohen</title>
+    <description>Naomi Cohen is a reporter based in Quito, Ecuador, writing on people and their politics. Follow her on Twitter @naomireneecohen.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/naomi-cohen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/naomi-cohen/rss"/>
+    <item>
+      <title>Women of the Cloud Forest Take on Mining Giants in Ecuador</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/asset-and-property-rights/">Asset and Property Rights</category>
+      <pubDate>Mon, 10 Jul 2017 09:16:01 +0000</pubDate>
+      <author>Naomi Cohen</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/07/10/women-of-the-cloud-forest-take-on-mining-giants-in-ecuador</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/07/10/women-of-the-cloud-forest-take-on-mining-giants-in-ecuador</guid>
+      <description>For decades, the Intag cloud forest has been a target for copper-hungry mining corporations. But local women’s groups have dedicated themselves to fighting the mines and finding more Indigenous, sustainable ways to bring money to their towns.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170710091516/DSC07001.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

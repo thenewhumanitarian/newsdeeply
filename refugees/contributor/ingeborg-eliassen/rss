@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Ingeborg Eliassen</title>
+    <description>Ingeborg Eliassen is a member of the cross-border journalism network Investigate Europe. She was a staff reporter for Norwegian daily Stavanger Aftenblad from 1991 to 2015, is the author of three books and is currently based in Berlin.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/ingeborg-eliassen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/ingeborg-eliassen/rss"/>
+    <item>
+      <title>The Uncounted: Invisible Deaths on Europe’s Borders</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Thu, 16 Feb 2017 13:00:55 +0000</pubDate>
+      <author>Ingeborg Eliassen</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/02/16/the-uncounted-invisible-deaths-on-europes-borders</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/02/16/the-uncounted-invisible-deaths-on-europes-borders</guid>
+      <description>There is no official record of the number of refugees who go missing crossing the Mediterranean Sea trying to reach Europe. Ingeborg Eliassen of the Investigate Europe network explores why a European database of migrant deaths does not exist.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170216125307/refugee-graves-sicily.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

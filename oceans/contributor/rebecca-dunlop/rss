@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Rebecca Dunlop</title>
+    <description>Rebecca Dunlop is a lecturer in physiology at the School of Veterinary Science, University of Queensland in Australia. Originally from Ireland, Dunlop obtained her BSc (Honors) degree in Environmental Biology and her PhD in fish neuroethology from The Queen’s University of Belfast. She moved to Australia and completed a postdoc in humpback whale social communication.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/rebecca-dunlop/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/rebecca-dunlop/rss"/>
+    <item>
+      <title>Quiet! Noise From Underwater Air Guns Affects Whales Miles Away</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <pubDate>Tue, 22 Aug 2017 08:23:00 +0000</pubDate>
+      <author>Michael Noad, Rebecca Dunlop</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/08/22/quiet-noise-from-underwater-air-guns-affects-whales-miles-away</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/08/22/quiet-noise-from-underwater-air-guns-affects-whales-miles-away</guid>
+      <description>New research by Australian scientists suggests that underwater air guns used to search for oil and gas deposits are so loud that they could change humpback whales’ migratory behavior. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170822082151/Humpback_stellwagen.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

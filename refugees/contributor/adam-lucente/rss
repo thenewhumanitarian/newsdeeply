@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Adam Lucente</title>
+    <description>Adam Lucente is a freelance journalist.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/adam-lucente/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/adam-lucente/rss"/>
+    <item>
+      <title>Returnees Fight ISIS in Iraq – and on Instagram</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 07 Jun 2016 13:40:24 +0000</pubDate>
+      <author>Adam Lucente</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/06/07/returnees-fight-isis-in-iraq-and-on-instagram</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/06/07/returnees-fight-isis-in-iraq-and-on-instagram</guid>
+      <description>Two Kurdish men whose families fled Iraq for Europe have unique stories as returnee refugees now fighting ISIS in their ancestral homeland. They have also become minor Instagram celebrities, documenting their feats online.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160607133917/APTOPIX-Mideast-Iraq-Peshmerga.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The YPG’s Foreign Fighters: ‘Western Face on a Foreign Problem’</title>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Adam Lucente</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/08/26/the-ypgs-foreign-fighters-western-face-on-a-foreign-problem</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/08/26/the-ypgs-foreign-fighters-western-face-on-a-foreign-problem</guid>
+      <description>Syria Deeply had the rare opportunity to speak to foreign volunteer fighters in the People’s Protection Units, the main Kurdish group fighting ISIS and other Islamist groups in Syria.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114500/ap_ypg-fighter-55de15a031960.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

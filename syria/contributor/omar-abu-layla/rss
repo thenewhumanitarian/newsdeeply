@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Omar Abu Layla</title>
+    <description>Omar Abu Layla is the executive director of Deir Azzour 24, a research and analysis organization that focuses on reporting on events in Deir Azzour province. He is a native of the province a former Free Syrian Army spokesman.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/omar-abu-layla/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/omar-abu-layla/rss"/>
+    <item>
+      <title>The Security Vacuum in Post-ISIS Deir Ezzor</title>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Wed, 15 Nov 2017 13:05:44 +0000</pubDate>
+      <author>Nicholas A. Heras, Omar Abu Layla</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/11/15/the-security-vacuum-in-post-isis-deir-ezzor</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/11/15/the-security-vacuum-in-post-isis-deir-ezzor</guid>
+      <description>As ISIS pulls out of eastern Syria, U.S.-backed forces will have to contend with stabilizing this territory. But without local allies, the security of SDF-held territory will be challenged, write journalist Omar Abu Layla and security expert Nicholas A. Heras.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171115130237/AFP_U06VD.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

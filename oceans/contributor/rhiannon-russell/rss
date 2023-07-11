@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Rhiannon Russell</title>
+    <description>Rhiannon Russell is a Canadian freelance journalist based in Hamilton, Ontario. She has written for The Walrus, TVO.org, and Canadian Running.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/rhiannon-russell/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/rhiannon-russell/rss"/>
+    <item>
+      <title>Tail That Whale: Researchers Track Orcas in Arctic’s Warming Waters</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <pubDate>Wed, 19 Jul 2017 09:00:32 +0000</pubDate>
+      <author>Rhiannon Russell</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/07/19/tail-that-whale-researchers-track-orcas-in-arctics-warming-waters</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/07/19/tail-that-whale-researchers-track-orcas-in-arctics-warming-waters</guid>
+      <description>Scientists are using satellite tags, biopsy samples and a growing photo database to help get a handle on the distribution of killer whales through Canada’s northern waters.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170719081841/20090819-D3-GEF-414.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Inside Arctic Ice Lies a Frozen Rainforest of Microorganisms</title>
+      <category domain="https://www.newsdeeply.com/oceans/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/oceans/research/">Research</category>
+      <pubDate>Wed, 05 Apr 2017 11:59:13 +0000</pubDate>
+      <author>Rhiannon Russell</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/04/05/inside-arctic-ice-lies-a-frozen-rainforest-of-microorganisms</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/04/05/inside-arctic-ice-lies-a-frozen-rainforest-of-microorganisms</guid>
+      <description>Joseph Cook, a scientist at Sheffield University, is studying how the surprising amount of microscopic life found within the top few meters of Arctic ice may have a dramatic impact on climate change.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170405115028/lunar-landscape.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Peter Moyle</title>
+    <description>Peter B. Moyle is a U.C. Davis professor emeritus of fish biology and an associate director of the Center for Watershed Sciences.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/peter-moyle-2/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/peter-moyle-2/rss"/>
+    <item>
+      <title>Reasons for Optimism About California WaterFix From a Fish Perspective</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Mon, 04 Sep 2017 10:54:18 +0000</pubDate>
+      <author>James Hobbs, Peter Moyle</author>
+      <link>https://www.newsdeeply.com/water/community/2017/09/04/reasons-for-optimism-about-california-waterfix-from-a-fish-perspective</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/09/04/reasons-for-optimism-about-california-waterfix-from-a-fish-perspective</guid>
+      <description>Scientists Peter Moyle and James Hobbs give their reasoning for qualified support for the controversial tunnels project that will affect Delta fish and fisheries. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170904105332/DBK_Delta_Smelt-2450-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Facing Extinction: California Fish Close to the Brink</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Wed, 03 May 2017 09:08:06 +0000</pubDate>
+      <author>Jason Baumsteiger, Peter Moyle</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/05/03/facing-extinction-california-fish-close-to-the-brink</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/05/03/facing-extinction-california-fish-close-to-the-brink</guid>
+      <description>Delta smelt and winter-run Chinook salmon are facing extinction in the wild, which raises questions about a lack of policy for declaring species extinct and the role of captive populations, write two U.C. Davis scientists.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170503090424/California-Drought-Endangered-Fish6.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

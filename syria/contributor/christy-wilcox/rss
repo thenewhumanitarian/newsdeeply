@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Christy Wilcox</title>
+    <description>Christy Wilcox is an independent television journalist based between the U.S. and Southern Turkey. Follow her on Twitter @christywilcoxTV.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/christy-wilcox/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/christy-wilcox/rss"/>
+    <item>
+      <title>My Friend Austin Tice</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Sun, 05 May 2013 00:00:00 +0000</pubDate>
+      <author>Christy Wilcox</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/05/05/my-friend-austin-tice</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/05/05/my-friend-austin-tice</guid>
+      <description>There is no way to sum up my friend Austin. When I try, I think of passion, tenacity, humor and, oddly enough, Taylor Swift. Austin is a hard-driving conflict correspondent, a former Marine, a student at Georgetown law school. But Taylor’s country pop is his favorite.</description>
+    </item>
+  </channel>
+</rss>

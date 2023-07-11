@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Dale Kasler</title>
+    <description>Covering the drought, economics, public pensions, business of sports and more. With the Sacramento Bee since 1996.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/dale-kasler/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/dale-kasler/rss"/>
+    <item>
+      <title>Feds Take New Look at Delta, Endangered Fish Species</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 05 Aug 2016 05:33:23 +0000</pubDate>
+      <author>Dale Kasler</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/08/05/feds-take-new-look-at-delta-endangered-fish-species</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/08/05/feds-take-new-look-at-delta-endangered-fish-species</guid>
+      <description>SACRAMENTO BEE: The National Marine Fisheries Service and U.S. Fish and Wildlife Service have begun re-examining regulations governing the Sacramento-San Joaquin Delta, raising questions about the twin tunnels plan.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160805053243/delta-courtland-tunnels-area.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>California Farmers Flood Fields With El Niño Rain</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Dale Kasler</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/01/26/california-farmers-flood-fields-with-el-nino-rain</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/01/26/california-farmers-flood-fields-with-el-nino-rain</guid>
+      <description>SACRAMENTO BEE: A Modesto almond orchard is serving as a testing ground for aquifer recharge as scientists and farmers team up to try and solve some of the area’s long-term groundwater depletion issues.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102310/ap_919325332646-56a79b113257b.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Farms May Shrink as Water Rules Tighten</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      <author>Dale Kasler</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/12/04/farms-may-shrink-as-water-rules-tighten</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/12/04/farms-may-shrink-as-water-rules-tighten</guid>
+      <description>SACRAMENTO BEE: California’s new groundwater legislation is likely to limit water extraction significantly, possibly forcing some areas of farmland in the state out of production; meanwhile, conversion to ‘solar farms’ could be the wave of the future.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102353/013bc7fa-21bb-4930-b41e-2851a1-5661cfc3d68bf.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>California Farm Income Grew in 2014 Despite Drought</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Dale Kasler</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/07/california-farm-income-grew-in-2014-despite-drought</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/07/california-farm-income-grew-in-2014-despite-drought</guid>
+      <description>SACRAMENTO BEE: Gross income climbs as farm economy proves resilient, but net revenue falls due to higher costs for water, production.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102523/img_img_rb_farm_drought__5_1_h-55eda3f62465b.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>California Farms Surprisingly Resilient Despite Drought</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Dale Kasler</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/07/14/california-farms-surprisingly-resilient-despite-drought</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/07/14/california-farms-surprisingly-resilient-despite-drought</guid>
+      <description>Farm employment and crop production are both up, although there have been plenty of challenges.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102621/4c3aaa85-0649-4f81-8765-0ddf83-55a495c7de454.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

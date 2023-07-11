@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Maurice Hall</title>
+    <description>Maurice Hall is the associate vice president of Environmental Defense Fund’s Western Water Program. An engineer by training, Maurice has worked closely with water managers, farmers and policy makers to develop sustainable water management strategies that meet human needs while protecting ecosystems.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/maurice-hall/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/maurice-hall/rss"/>
+    <item>
+      <title>The Hidden Opportunity for Water Storage in California</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Thu, 08 Jun 2017 05:00:56 +0000</pubDate>
+      <author>Maurice Hall</author>
+      <link>https://www.newsdeeply.com/water/community/2017/06/08/the-hidden-opportunity-for-water-storage-in-california</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/06/08/the-hidden-opportunity-for-water-storage-in-california</guid>
+      <description>California’s recent wet year was an important reminder that the state needs to plan for not just drought, but years of abundance as well, says Maurice Hall of the Environmental Defense Fund.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170606092828/Sinking-Palm-Springs1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

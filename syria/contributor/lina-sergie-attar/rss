@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Lina Sergie Attar</title>
+    <description>Lina Sergie Attar is a Syrian-American architect and writer.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/lina-sergie-attar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/lina-sergie-attar/rss"/>
+    <item>
+      <title>The Zeitouna Diaries, Part 3: Orientation</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Lina Sergie Attar</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/08/13/the-zeitouna-diaries-part-3-orientation</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/08/13/the-zeitouna-diaries-part-3-orientation</guid>
+      <description>At a camp for Syrian children, the Syrian-American author finds resilience – and home.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422113025/1-53eb5c527e613.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>The Zeitouna Diaries, Part 2: The Streets of Reyhanli</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      <author>Lina Sergie Attar</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/07/04/the-zeitouna-diaries-part-2-the-streets-of-reyhanli</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/07/04/the-zeitouna-diaries-part-2-the-streets-of-reyhanli</guid>
+      <description>At a camp for Syrian children, the Syrian-American author finds resilience – and home.</description>
+    </item>
+    <item>
+      <title>The Zeitouna Diaries, Part 1:  Homebound</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Lina Sergie Attar</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/06/16/the-zeitouna-diaries-part-1-homebound</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/06/16/the-zeitouna-diaries-part-1-homebound</guid>
+      <description>At a camp for Syrian children, the Syrian-American author finds resilience – and home.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422113030/image-539ec545039d5.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Grandmother, My Country</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate>
+      <author>Lina Sergie Attar</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/12/30/my-grandmother-my-country</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/12/30/my-grandmother-my-country</guid>
+      <description>“Where am I going to die?” That was the first question my grandmother asked me last August in New York City after fleeing her home in Aleppo.</description>
+    </item>
+  </channel>
+</rss>

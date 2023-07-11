@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kim-Jenna Jurriaans</title>
+    <description>Kim-Jenna Jurriaans is a freelance writer and producer based in Lisbon, Portugal.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kim-jenna-jurriaans/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kim-jenna-jurriaans/rss"/>
+    <item>
+      <title>Portugal Offers Refugees a Warm Welcome, but Can’t Get Them to Stay</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 01 Sep 2017 08:53:50 +0000</pubDate>
+      <author>Kim-Jenna Jurriaans</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/09/01/portugal-offers-refugees-a-warm-welcome-but-cant-get-them-to-stay</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/09/01/portugal-offers-refugees-a-warm-welcome-but-cant-get-them-to-stay</guid>
+      <description>In contrast to the many E.U. countries that are reluctant to admit displaced people, Portugal has taken an open approach and attempted to encourage more refugees to come. Yet the country struggles to fill its quotas and many new arrivals end up leaving. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170901083253/GREECE-EUROPE-MIGRANTS-RELOCATION.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

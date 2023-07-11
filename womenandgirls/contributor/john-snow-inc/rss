@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: John Snow Inc.</title>
+    <description>John Snow, Inc., and its nonprofit JSI Research &amp;amp; Training Institute, Inc., are public health management consulting and research organizations.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/john-snow-inc/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/john-snow-inc/rss"/>
+    <item>
+      <title>The Rickshaw Ambulance That Saves Lives</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/culture/">Culture</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Fri, 27 May 2016 09:00:58 +0000</pubDate>
+      <author>John Snow Inc.</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/05/27/the-rickshaw-ambulance-that-saves-lives</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/05/27/the-rickshaw-ambulance-that-saves-lives</guid>
+      <description>In Madagascar, maternal mortality rates are high as 80 percent of the population lives in rural areas with poor access to health services. Robin Erinesy’s unique transport brings his community the care it needs – as shown in this photo essay by JSI. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074459/3rdMadagascar-2.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

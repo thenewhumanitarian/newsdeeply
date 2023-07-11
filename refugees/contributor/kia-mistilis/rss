@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kia Mistilis</title>
+    <description>Kia Mistilis is a freelance journalist and photographer based in Athens, Greece.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kia-mistilis/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kia-mistilis/rss"/>
+    <item>
+      <title>Australia’s ‘Atrocity’: The Mandatory Detention of Minors Continues</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 01 Aug 2016 14:08:46 +0000</pubDate>
+      <author>Kia Mistilis</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/08/01/australias-atrocity-the-mandatory-detention-of-minors-continues</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/08/01/australias-atrocity-the-mandatory-detention-of-minors-continues</guid>
+      <description>The far-right One Nation party’s re-entry to the Australian parliament after 20 years is likely to entrench already harsh asylum policies that enjoy bipartisan support. These include the mandatory detention of children, writes Greek-Australian journalist Kia Mistilis.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160801140523/AFGHANISTAN-ASYLUM-SEEKERS.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

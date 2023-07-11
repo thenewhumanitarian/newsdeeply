@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Keith Johnson</title>
+    <description>Keith Johnson covers the geopolitics of energy at Foreign Policy.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/keith-johnson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/keith-johnson/rss"/>
+    <item>
+      <title>Foreign Policy: The Islamic State Is the Newest Petrostate</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Keith Johnson</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/08/04/foreign-policy-the-islamic-state-is-the-newest-petrostate</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/08/04/foreign-policy-the-islamic-state-is-the-newest-petrostate</guid>
+      <description>The Islamic State, the world’s richest terror group, is reaping millions of dollars a day from selling stolen oil to shady businessmen across the Middle East.</description>
+    </item>
+  </channel>
+</rss>

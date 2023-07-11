@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Bradley Turner</title>
+    <description>Bradley Turner is a world traveler, freelance journalist and former economics writer for Moody’s Analytics Economy.com.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/bradley-turner/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/bradley-turner/rss"/>
+    <item>
+      <title>Iceland Offers a Model for Arctic Fisheries Management</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Fri, 09 Dec 2016 05:00:25 +0000</pubDate>
+      <author>Bradley Turner</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/12/09/iceland-offers-a-model-for-arctic-fisheries-management</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/12/09/iceland-offers-a-model-for-arctic-fisheries-management</guid>
+      <description>Overfishing is depleting the world’s marine wealth and could spill over into Arctic waters. Can the system that saved Iceland from a cod crisis benefit Arctic fisheries?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161208114507/Siglufj%C3%B6r%C3%B0ur.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

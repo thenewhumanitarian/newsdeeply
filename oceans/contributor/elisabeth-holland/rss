@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Elisabeth Holland</title>
+    <description>Elisabeth Holland directs The Pacific Center for Environment and Sustainable Development at The University of the South Pacific in Fiji. She works with Pacific Island communities to build resilience as sea levels rise. Holland was a co-recipient of the 2007 Nobel Peace Prize for her contributions to the Intergovernmental Panel on Climate Change (IPCC) reports.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/elisabeth-holland/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/elisabeth-holland/rss"/>
+    <item>
+      <title>How a Carbon Tax Can Build Blue Economies in Pacific Island Nations</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <pubDate>Wed, 19 Jul 2017 05:00:50 +0000</pubDate>
+      <author>Elisabeth Holland</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/07/19/how-a-carbon-tax-can-build-blue-economies-in-pacific-island-nations</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/07/19/how-a-carbon-tax-can-build-blue-economies-in-pacific-island-nations</guid>
+      <description>Fiji climate scientist Elisabeth Holland says the proceeds of tax on fossil fuel emissions could be used to help vulnerable island states adapt to climate change and restore coastal ecosystems.  </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170711014710/1184-539.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

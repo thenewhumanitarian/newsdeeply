@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Sarah Linn, The Tribune</title>
+    <description>By Sarah Linn, The Tribune
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/sarah-linn-the-tribune/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/sarah-linn-the-tribune/rss"/>
+    <item>
+      <title>Photographer’s Film to Bring Drought into Focus</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
+      <author>Sarah Linn, The Tribune</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/03/07/photographers-film-to-bring-drought-into-focus</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/03/07/photographers-film-to-bring-drought-into-focus</guid>
+      <description>THE TRIBUNE: San Luis Obispo photographer Brittany Anzel App is raising money to turn a photographic documentary project on California’s water crisis into a film, “Where There Once Was Water: A California Story.” App hopes the film will inspire people to take action.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102240/4ff026aa-730c-4d84-94df-40078c-56dda981b5003.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

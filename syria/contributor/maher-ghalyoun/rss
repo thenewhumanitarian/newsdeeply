@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Maher Ghalyoun</title>
+    <description>Maher Ghalyoun is a Syrian refugee living in Jordan
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/maher-ghalyoun/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/maher-ghalyoun/rss"/>
+    <item>
+      <title>Conversations: A Syrian Refugee’s Life in Jordan</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      <author>Maher Ghalyoun</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/04/21/conversations-a-syrian-refugees-life-in-jordan</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/04/21/conversations-a-syrian-refugees-life-in-jordan</guid>
+      <description>“We face many common hardships. We have almost the same stories. We’re not entitled to work legally. It’s difficult for refugees to get work permits in Jordan. We all struggle to continue our studies. We feel like outsiders, confined by all these rules.”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114659/maher3-5536298c652ca.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

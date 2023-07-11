@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Larry Pynn</title>
+    <description>Larry Pynn covers environment for The Vancouver Sun. He’s received more than 25 awards for his newspaper and magazine writing, has written two non-fiction books (“Last Stands” and “The Forgotten Trail”), and is a member of The Explorers Club. He lives in Tsawwassen, British Columbia, and loves all things ocean – be it the seafood or kayaking, scuba diving, walking a remote beach or trying his hand (feet?) at impromptu log rolling.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/larry-pynn/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/larry-pynn/rss"/>
+    <item>
+      <title>New CCGS Sir John Franklin Gets Frosty Reception</title>
+      <category domain="https://www.newsdeeply.com/arctic/infrastructure/">Infrastructure</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 19 Dec 2016 06:55:18 +0000</pubDate>
+      <author>Larry Pynn</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/12/19/new-ccgs-sir-john-franklin-gets-frosty-reception</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/12/19/new-ccgs-sir-john-franklin-gets-frosty-reception</guid>
+      <description>A new Canadian Coast Guard research ship will be named after 19th-century British naval officer and Arctic explorer John Franklin – but is that really a good idea?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161219065341/aalt_header.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

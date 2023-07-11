@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Jessica Meeuwig</title>
+    <description>A marine scientist by training, Jessica Meeuwig has conducted research in the Caribbean, North Atlantic, Baltic Sea, Philippines, Vietnam, Western Pacific, British Indian Ocean and Australia over nearly 25 years.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/jessica-meeuwig/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/jessica-meeuwig/rss"/>
+    <item>
+      <title>Scientists Speak Out on Plan to Slash Protections for Marine Parks</title>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <category domain="https://www.newsdeeply.com/oceans/governance/">Governance</category>
+      <category domain="https://www.newsdeeply.com/oceans/marine-protected-areas/">Marine Protected Areas</category>
+      <pubDate>Fri, 06 Oct 2017 00:00:21 +0000</pubDate>
+      <author>Jessica Meeuwig</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/10/06/scientists-speak-out-on-plan-to-slash-protections-for-marine-parks</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/10/06/scientists-speak-out-on-plan-to-slash-protections-for-marine-parks</guid>
+      <description>More than 1,200 scientists from 45 countries have signed a petition calling on the Australian government to reverse a proposal to allow commercial fishing in marine protected areas, calling the action scientifically flawed.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171003084046/11082491435_e80b742820_k.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

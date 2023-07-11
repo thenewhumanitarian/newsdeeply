@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Ann Bucklin</title>
+    <description>Ann Bucklin is a professor of marine sciences at the University of Connecticut.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/ann-bucklin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/ann-bucklin/rss"/>
+    <item>
+      <title>How DNA Sequencing Is Revealing New Insights About Ocean Health</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Fri, 10 Aug 2018 07:50:00 +0000</pubDate>
+      <author>Ann Bucklin</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/08/10/how-dna-sequencing-is-revealing-new-insights-about-ocean-health</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/08/10/how-dna-sequencing-is-revealing-new-insights-about-ocean-health</guid>
+      <description>Despite the critical role marine zooplankton play in ocean ecosystems, scientists know little about the tiny species. Ann Bucklin, a professor of marine sciences at the University of Connecticut, describes how her laboratory is changing that.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180810074619/GettyImages-4943251021.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

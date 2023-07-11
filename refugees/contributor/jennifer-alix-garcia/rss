@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Jennifer Alix-Garcia</title>
+    <description>Jennifer Alix-Garcia is a professor of applied economics at the Oregon State University. Her research focuses is on environment and development, economic geography and the impacts of forced migration.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/jennifer-alix-garcia/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/jennifer-alix-garcia/rss"/>
+    <item>
+      <title>Nighttime Lights Illuminate Positive Impacts of Refugee Camps</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 08 Dec 2017 12:04:58 +0000</pubDate>
+      <author>Anne Bartlett, Sarah Walker, Jennifer Alix-Garcia</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/12/08/nighttime-lights-illuminate-positive-impacts-of-refugee-camps</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/12/08/nighttime-lights-illuminate-positive-impacts-of-refugee-camps</guid>
+      <description>Satellite data from Kenya’s remote northeast shows increased economic activity around Kakuma camp. New research suggests a connection between refugees and growing agricultural production.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171208120044/2327786.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

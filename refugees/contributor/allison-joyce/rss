@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Allison Joyce</title>
+    <description>Allison Joyce is a Boston-born photojournalist based between Mumbai, India, and Dhaka, Bangladesh.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/allison-joyce/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/allison-joyce/rss"/>
+    <item>
+      <title>Rohingya Refugee: ‘They Cut the Bodies Into Four Pieces’</title>
+      <category domain="https://www.newsdeeply.com/refugees/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Thu, 09 Feb 2017 09:27:25 +0000</pubDate>
+      <author>Allison Joyce</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/02/09/rohingya-refugee-cut-bodies-four-pieces</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/02/09/rohingya-refugee-cut-bodies-four-pieces</guid>
+      <description>In light of a new U.N. report documenting atrocities against Rohingya in Myanmar, photojournalist Allison Joyce profiles Rohingya refugees who recently fled to Bangladesh, relaying their harrowing stories to Refugees Deeply.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071128/NEWSDEEPLY_JPGS_ASJ_2017_07.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rohingya Refugee: ‘They Cut the Bodies Into Four Pieces’</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 07 Feb 2017 14:27:18 +0000</pubDate>
+      <author>Allison Joyce</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/02/07/rohingya-refugee-they-cut-the-bodies-into-four-pieces</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/02/07/rohingya-refugee-they-cut-the-bodies-into-four-pieces</guid>
+      <description>In light of a new U.N. report documenting atrocities against Rohingya in Myanmar, photojournalist Allison Joyce profiles Rohingya refugees who recently fled to Bangladesh and have harrowing stories to tell.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170207142412/NEWSDEEPLY_JPGS_ASJ_2017_07.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

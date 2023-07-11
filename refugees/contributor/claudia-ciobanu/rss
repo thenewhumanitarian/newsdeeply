@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Claudia Ciobanu</title>
+    <description>Claudia Ciobanu is a Warsaw-based freelance journalist covering Central and Eastern Europe. Her articles have appeared on Reuters, The Guardian and al-Jazeera.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/claudia-ciobanu/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/claudia-ciobanu/rss"/>
+    <item>
+      <title>Poland Seals Europe’s Eastern Frontier as E.U. Turns a Blind Eye</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 26 Apr 2017 11:39:17 +0000</pubDate>
+      <author>Claudia Ciobanu</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/04/26/poland-seals-europes-eastern-frontier-as-e-u-turns-a-blind-eye</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/04/26/poland-seals-europes-eastern-frontier-as-e-u-turns-a-blind-eye</guid>
+      <description>For almost a year, the Polish Border Guard has been turning away most Chechens and other asylum seekers arriving on the border with Belarus. The E.U. has kept largely silent – and has its own interest in keeping the bloc’s eastern border shut.	</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170426113733/BELARUS-RUSSIA-POLAND-CHECHNYA-RIGHTS-MIGRATION-ASYLUM.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

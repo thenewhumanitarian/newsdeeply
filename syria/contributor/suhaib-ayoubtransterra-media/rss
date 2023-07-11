@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Suhaib Ayoub/Transterra Media</title>
+    <description>Suhaib Ayoub is a contributor for Transterra Media
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/suhaib-ayoubtransterra-media/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/suhaib-ayoubtransterra-media/rss"/>
+    <item>
+      <title>Syrians Struggle to Survive in the Storm-Battered Bekaa Valley</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+      <author>Suhaib Ayoub/Transterra Media</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/01/13/syrians-struggle-to-survive-in-the-storm-battered-bekaa-valley</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/01/13/syrians-struggle-to-survive-in-the-storm-battered-bekaa-valley</guid>
+      <description>Syrian Refugees tell Syria Deeply of the conditions they endure after a blizzard hits their camp in Lebanon.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114820/bekaa-54b515d82f7c5.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

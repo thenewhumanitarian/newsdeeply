@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Akil Hussain</title>
+    <description>Akil Hussain is a Syrian journalist. He studied Media at the University of Damascus. He writes for several e-newspapers, and he worked as military correspondent in Syria for some TV channels until 2015.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/akil-hussain/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/akil-hussain/rss"/>
+    <item>
+      <title>Analysis: Division Defines Syria’s Tribes and Clans</title>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Tue, 16 Jan 2018 13:00:00 +0000</pubDate>
+      <author>Akil Hussain</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/01/16/analysis-division-defines-syrias-tribes-and-clans</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/01/16/analysis-division-defines-syrias-tribes-and-clans</guid>
+      <description>Though all parties to the Syrian conflict have tried to take advantage of tribal identities, shifting loyalties and social changes often mean tribal kin are in conflict with each other, writes Syrian journalist Akil Hussain.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180116130959/AFP_RU2G01.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

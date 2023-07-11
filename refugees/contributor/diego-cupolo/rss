@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Diego Cupolo</title>
+    <description>Diego Cupolo is a reporter, photojournalist and author of Seven Syrians: War Accounts From Syrian Refugees. His work has appeared in Deutsche Welle, NurPhoto Agency, The Atlantic Magazine, Foreign Policy and Quartz. He is based in Ankara, Turkey.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/diego-cupolo/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/diego-cupolo/rss"/>
+    <item>
+      <title>Why Bangladeshis Are Taking Boats to Italy</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 05 Jun 2017 12:11:52 +0000</pubDate>
+      <author>Diego Cupolo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/05/why-bangladeshis-are-taking-boats-to-italy</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/05/why-bangladeshis-are-taking-boats-to-italy</guid>
+      <description>The number of Bangladeshis arriving in Italy by boat from Libya has sharply increased in the past year. Diego Cupolo reports for IRIN News on what’s behind the rising trend. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170605114828/20170527-Diego_Cupolo_DSC_9847HR.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Train to Nowhere: Refugees in Serbia Stranded on E.U. Border</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 21 Dec 2016 14:44:59 +0000</pubDate>
+      <author>Diego Cupolo</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/12/21/train-to-nowhere-refugees-in-serbia-stranded-on-e-u-border</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/12/21/train-to-nowhere-refugees-in-serbia-stranded-on-e-u-border</guid>
+      <description>As winter sets in, more than a thousand migrants are taking shelter in an abandoned train depot in the Serbian capital. Photojournalist Diego Cupolo meets the people trapped between closed E.U. borders.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161221142627/20161204-Diego_Cupolo_DSC_0123HR.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

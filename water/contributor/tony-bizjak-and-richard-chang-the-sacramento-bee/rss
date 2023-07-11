@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Tony Bizjak and Richard Chang, The Sacramento Bee</title>
+    <description>Tony Bizjak and Richard Chang, The Sacramento Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/tony-bizjak-and-richard-chang-the-sacramento-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/tony-bizjak-and-richard-chang-the-sacramento-bee/rss"/>
+    <item>
+      <title>Race to Clean up in Fire-Ravaged Forests</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Tony Bizjak and Richard Chang, The Sacramento Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/11/12/race-to-clean-up-in-fire-ravaged-forests</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/11/12/race-to-clean-up-in-fire-ravaged-forests</guid>
+      <description>SACRAMENTO BEE: Crews clearing up fire damage have to outpace the rain, with mudslides and floods a major concern in rural areas. In Lake and Calaveras counties, workers are cleaning debris from nearly 2,000 burned homes in addition to erosion-control work.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102410/f82baad3-1095-44d1-92f7-9a78a1-5644d9c27c0f0.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

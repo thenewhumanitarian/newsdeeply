@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Lucy Mayblin</title>
+    <description>Lucy Mayblin is an Assistant Professor at Warwick University and ESRC Future Research Leaders Fellow.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/lucy-mayblin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/lucy-mayblin/rss"/>
+    <item>
+      <title>Myth of Pull Factor Mires U.K. Asylum Seekers in Poverty</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <pubDate>Mon, 05 Dec 2016 05:00:30 +0000</pubDate>
+      <author>Lucy Mayblin</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/12/05/myth-of-pull-factor-mires-u-k-asylum-seekers-in-poverty</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/12/05/myth-of-pull-factor-mires-u-k-asylum-seekers-in-poverty</guid>
+      <description>Welfare support for asylum seekers is being held below poverty levels on purpose. Researcher Lucy Mayblin calculated the cost of changing this and found that giving people the right to work could lower the bill.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161203133419/18748915.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mohammed al-Khatieb and Karen Leigh</title>
+    <description>Mohammed al-Khatieb is a regular contributor Syria Deeply, based in Aleppo.Karen Leigh is the managing editor of Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mohammed-al-khatieb-and-karen-leigh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mohammed-al-khatieb-and-karen-leigh/rss"/>
+    <item>
+      <title>In Aleppo, Rebels Cut Off Power as a Bargaining Chip</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Mohammed al-Khatieb and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/29/in-aleppo-rebels-cut-off-power-as-a-bargaining-chip</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/29/in-aleppo-rebels-cut-off-power-as-a-bargaining-chip</guid>
+      <description>The government has been accused of cutting Aleppo’s power supply as a way to get the opposition to bend. Now, local residents say the opposition is doing the same.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115309/img_91633-535fb5f0daf3a.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Facing Electricity Cuts, Aleppo Creates a Generator Economy</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Mohammed al-Khatieb and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/04/03/facing-electricity-cuts-aleppo-creates-a-generator-economy</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/04/03/facing-electricity-cuts-aleppo-creates-a-generator-economy</guid>
+      <description>As power shuts off for days at a time, residents of Aleppo have created their own unofficial energy economy, importing large generators and selling their services.</description>
+    </item>
+    <item>
+      <title>Raw Sewage, Flooded Tents as Rain Hits Bab al-Salamah Refugee Camp</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Mohammed al-Khatieb and Karen Leigh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/03/14/raw-sewage-flooded-tents-as-rain-hits-bab-al-salamah-refugee-camp</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/03/14/raw-sewage-flooded-tents-as-rain-hits-bab-al-salamah-refugee-camp</guid>
+      <description>After heavy rains hit this camp in Aleppo province, residents scramble to salvage their belongings and shovel away waste from makeshift sewage canals, saying they have been displaced from their homes once again - this time by Mother Nature,</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115407/img_8631-532342be4f67d.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Chloe Olewitz</title>
+    <description>Chloe Olewitz is a freelance writer. 
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/chloe-olewitz/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/chloe-olewitz/rss"/>
+    <item>
+      <title>BuildPalestine: Social Innovation Through an Alternative Aid Paradigm</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <pubDate>Tue, 04 Sep 2018 06:39:51 +0000</pubDate>
+      <author>Chloe Olewitz</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/09/04/buildpalestine-social-innovation-through-an-alternative-aid-paradigm</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/09/04/buildpalestine-social-innovation-through-an-alternative-aid-paradigm</guid>
+      <description>BuildPalestine’s CEO and cofounder, Besan Abu-Joudeh, talks about the Ramallah-based platform’s newest goal – building a ‘TripAdvisor for nonprofits’ – and discusses the problems and the impact of the projects already implemented.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180904063718/AlBustan-Center-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

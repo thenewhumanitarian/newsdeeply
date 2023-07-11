@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Guy Aitchison</title>
+    <description>Guy Aitchison is a postdoctoral researcher at University College Dublin’s School of Politics and International Relations.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/guy-aitchison/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/guy-aitchison/rss"/>
+    <item>
+      <title>We All Have a Fundamental Right to Cross Borders</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 04 Jan 2017 07:14:55 +0000</pubDate>
+      <author>Guy Aitchison</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/01/04/we-all-have-a-fundamental-right-to-cross-borders</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/01/04/we-all-have-a-fundamental-right-to-cross-borders</guid>
+      <description>In the face of fortifying borders, University College Dublin researcher Guy Aitchison examines the legal and philosophical case for an institutionalized right to freedom of movement between states.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170104070843/APTOPIX-Macedonia-Migrants1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

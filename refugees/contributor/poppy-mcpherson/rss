@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Poppy McPherson</title>
+    <description>Poppy McPherson is a journalist based in Myanmar. She has spent the past five years mainly covering Southeast Asia, most recently focusing on Myanmar and Bangladesh, for the Guardian, Guardian Cities, Buzzfeed, Foreign Policy, Time and others. Follow her on Twitter: @poppymcp
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/poppy-mcpherson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/poppy-mcpherson/rss"/>
+    <item>
+      <title>The Difficulty of Escaping Myanmar Alive: Rohingya Refugees’ Stories</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 02 Oct 2017 07:19:07 +0000</pubDate>
+      <author>Poppy McPherson</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/10/02/the-difficulty-of-escaping-myanmar-alive-rohingya-refugees-stories</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/10/02/the-difficulty-of-escaping-myanmar-alive-rohingya-refugees-stories</guid>
+      <description>The rapid mass exodus of Rohingya from Myanmar belies the extreme dangers – land mines, violence, drowning – on the routes out of violence-torn Rakhine state. Refugees describe their weeks-long flight to Bangladesh and fears for those still trapped.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171002065614/37aebe43-90b8-4278-a5c5-f404bf8ae2a4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Nigel Timmins</title>
+    <description>Nigel Timmins is Oxfam’s deputy humanitarian director. He heads the organization’s response to the Syria crisis. Here, he reflects on his personal experiences working with Syrians.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/nigel-timmins/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/nigel-timmins/rss"/>
+    <item>
+      <title>Oxfam Reflects on Three Years of Conflict</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 11 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Nigel Timmins</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/03/11/oxfam-reflects-on-three-years-of-conflict</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/03/11/oxfam-reflects-on-three-years-of-conflict</guid>
+      <description>Nigel Timmins, who heads Oxfam’s Syria crisis response team, reflects on his encounters with Syrians during the course of the war, and how he would cope if he was in the same situation as the refugees.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Joseph Erbentraut</title>
+    <description>Joseph Erbentraut is a senior reporter at the Huffington Post covering promising innovations and challenges in the areas of food and water. In addition, Erbentraut explores the evolving ways Americans are identifying and defining themselves. Follow Erbentraut on Twitter at @robojojo.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/joseph-erbentraut/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/joseph-erbentraut/rss"/>
+    <item>
+      <title>Drought Truthers the New Climate Change Deniers?</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Mon, 13 Jun 2016 06:58:33 +0000</pubDate>
+      <author>Joseph Erbentraut</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/06/13/drought-truthers-the-new-climate-change-deniers</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/06/13/drought-truthers-the-new-climate-change-deniers</guid>
+      <description>Donald Trump’s remarks last month that there was no drought in California are part of a larger antiscience trend among politicians that can sway public opinion.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160613064547/GOP-2016-Trump.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

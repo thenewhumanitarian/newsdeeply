@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Michelle Matus</title>
+    <description>Managing Editor of Water Deeply.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/michelle-matus/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/michelle-matus/rss"/>
+    <item>
+      <title>10 Questions: Chris Austin, Water Maven</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Michelle Matus</author>
+      <link>https://www.newsdeeply.com/water/community/2015/08/18/10-questions-chris-austin-water-maven</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/08/18/10-questions-chris-austin-water-maven</guid>
+      <description>Chris Austin is infatuated with California’s water infrastructure. And she thinks you should be, too.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102541/me-with-mike-prather-at-owens-55ce221193831.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>10 Questions: David Malcolm, Showerhead Innovator</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Michelle Matus</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/07/29/10-questions-david-malcolm-showerhead-innovator</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/07/29/10-questions-david-malcolm-showerhead-innovator</guid>
+      <description>As creator of High Sierra Showerheads, David Malcolm offers a shower that might make you forget about the drought – but which still uses only 1.5 gallons of water per minute.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102559/malc-55b7aacf08d12.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>10 Questions: Joshua Haggmark, Santa Barbara Water Boss</title>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Wed, 22 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Michelle Matus</author>
+      <link>https://www.newsdeeply.com/water/community/2015/07/22/10-questions-joshua-haggmark-santa-barbara-water-boss</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/07/22/10-questions-joshua-haggmark-santa-barbara-water-boss</guid>
+      <description>Santa Barbara leaders decide Tuesday whether to spend $55 million to fire up a seawater desalination project that’s been idle for 23 years. Here’s why.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102612/haggmark-55ad14666fd41.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>10 Questions: Ralph Petroff, gray-water recycling pioneer</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Michelle Matus</author>
+      <link>https://www.newsdeeply.com/water/community/2015/07/15/10-questions-ralph-petroff-gray-water-recycling-pioneer</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/07/15/10-questions-ralph-petroff-gray-water-recycling-pioneer</guid>
+      <description>Water Deeply sits down with Ralph Petroff, who aims to make household gray-water recycling as common as your refrigerator.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102620/california-drought-55a661c43e353.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

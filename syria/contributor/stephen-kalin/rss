@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Stephen Kalin</title>
+    <description></description>
+    <link>https://www.newsdeeply.com/syria/contributor/stephen-kalin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/stephen-kalin/rss"/>
+    <item>
+      <title>In Egypt, Damascus on the Nile</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      <author>Stephen Kalin</author>
+      <link>https://www.newsdeeply.com/syria/articles/2013/02/26/in-egypt-damascus-on-the-nile</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2013/02/26/in-egypt-damascus-on-the-nile</guid>
+      <description>CAIRO – Last year, Omar Haidar arrived in Egypt. As bombs rattled entire neighborhoods, the 26-year old hotel manager fled his family’s village in the hard-hit suburbs of Damascus.</description>
+    </item>
+  </channel>
+</rss>

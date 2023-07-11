@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Yiannis Baboulias</title>
+    <description>Yiannis Baboulias is a writer based in  Athens. His work has been published in the London Review of Books, Newsweek, Foreign Policy, The Guardian/Observer, Vice, the New Statesman and more.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/yiannis-baboulias/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/yiannis-baboulias/rss"/>
+    <item>
+      <title>In Greece, Refugee Children Are Still Waiting for School to Start</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Mon, 10 Apr 2017 06:04:46 +0000</pubDate>
+      <author>Yiannis Baboulias</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/04/10/in-greece-refugee-children-are-still-waiting-for-school-to-start-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/04/10/in-greece-refugee-children-are-still-waiting-for-school-to-start-2</guid>
+      <description>Greece pledged to help all refugee and migrant children in the country attend schools, but the E.U.-funded program has been mired in delays. Yiannis Baboulias reports from Athens on the efforts of a migrant women’s network to give refugee girls access to education.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170410055910/Helliniko-Refugee-Camp-Greece1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Greece, Refugee Children Are Still Waiting for School to Start</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Fri, 07 Apr 2017 12:39:17 +0000</pubDate>
+      <author>Yiannis Baboulias</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/04/07/in-greece-refugee-children-are-still-waiting-for-school-to-start</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/04/07/in-greece-refugee-children-are-still-waiting-for-school-to-start</guid>
+      <description>Greece pledged to help all refugee and migrant children in the country attend schools, but the E.U.-funded program has been mired in delays. Yiannis Baboulias reports from Athens on the efforts of a migrant women’s network to give refugee girls access to education.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407123735/Helliniko-Refugee-Camp-Greece.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

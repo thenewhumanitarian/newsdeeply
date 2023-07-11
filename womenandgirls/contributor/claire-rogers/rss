@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Claire Rogers</title>
+    <description>Claire Rogers is a PhD candidate in International Health at Curtin University, Western Australia and a Research Advisor to the Nepal Program of Marie Stopes International, based in Kathmandu, Nepal. Follow her at @ClaireRogersttN / www.clairerogers.com.au 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/claire-rogers/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/claire-rogers/rss"/>
+    <item>
+      <title>Nepal Quakes Leave Women’s Healthcare in Crisis</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Wed, 20 Jul 2016 14:28:47 +0000</pubDate>
+      <author>Shilpa Lohani, Jaya Dantas, Claire Rogers</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/07/20/nepal-quakes-leave-womens-healthcare-in-crisis</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/07/20/nepal-quakes-leave-womens-healthcare-in-crisis</guid>
+      <description>After Nepal’s devastating earthquakes last year, the nation was embroiled in a border conflict with India. Health experts Claire Rogers, Jaya Dantas and Shilpa Lohani explain how these events continue to impact the sexual and reproductive health of Nepali women.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074150/Nepal-Earthquake-Then-and-Now.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Thin Lei Win</title>
+    <description>Thin Lei Win is the South East Asia Correspondent for the Thomson Reuters Foundation. She took a nine-month sabbatical from her job to set up Kite Tales with fellow journalist Kelly Macnamara.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/thin-lei-win/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/thin-lei-win/rss"/>
+    <item>
+      <title>Sharing the Untold Stories of Women in Myanmar</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Tue, 03 Jan 2017 14:22:05 +0000</pubDate>
+      <author>Thin Lei Win</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2017/01/03/sharing-untold-stories-women-myanmar</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2017/01/03/sharing-untold-stories-women-myanmar</guid>
+      <description>Last year, journalists Thin Lei Win and Kelly Macnamara gathered oral histories from people all over Myanmar. In our series “Untold Stories,” they spotlight some of the women they spoke to, many whose experiences living under military rule have been largely ignored.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072118/Kite-Tales-Shan-State.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

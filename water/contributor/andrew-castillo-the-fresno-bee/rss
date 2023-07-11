@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Andrew Castillo, The Fresno Bee</title>
+    <description>Andrew Castillo, The Fresno Bee
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/andrew-castillo-the-fresno-bee/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/andrew-castillo-the-fresno-bee/rss"/>
+    <item>
+      <title>In East Porterville, Drought Escalates Mental Health Issues</title>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Andrew Castillo, The Fresno Bee</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/09/29/in-east-porterville-drought-escalates-mental-health-issues</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/09/29/in-east-porterville-drought-escalates-mental-health-issues</guid>
+      <description>FRESNO BEE: “I don’t go outside. I don’t want to see what I’ve lost,” says East Porterville resident Aida Beltrán.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102503/sf-east-porterville-06-560a786211f03.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

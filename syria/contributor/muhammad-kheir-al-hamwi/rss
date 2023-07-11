@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Muhammad Kheir al-Hamwi</title>
+    <description>Muhammad Kheir al-Hamwi is a Syrian journalist based in Damascus.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/muhammad-kheir-al-hamwi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/muhammad-kheir-al-hamwi/rss"/>
+    <item>
+      <title>Damascus Book Fair Returns With an Agenda</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Mon, 26 Sep 2016 12:49:21 +0000</pubDate>
+      <author>Muhammad Kheir al-Hamwi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/09/26/damascus-book-fair-returns-with-an-agenda</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/09/26/damascus-book-fair-returns-with-an-agenda</guid>
+      <description>The Damascus International Book Fair is back in the Syrian capital. But the war has taken a severe toll on the cultural event, with pro-government political books, Iranian religious literature and self-care manuals now taking center stage. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160926124319/bookfair-4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

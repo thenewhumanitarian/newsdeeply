@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Berit Enge</title>
+    <description>Berit Enge is a writer for High North News.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/berit-enge/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/berit-enge/rss"/>
+    <item>
+      <title>New U.N. Environment Head Has Eye for Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Thu, 12 May 2016 07:00:18 +0000</pubDate>
+      <author>Berit Enge</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/05/12/new-u-n-environment-head-has-eye-for-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/05/12/new-u-n-environment-head-has-eye-for-arctic</guid>
+      <description>HIGH NORTH NEWS: Norway’s former environment and development minister Erik Solheim is to run the United Nations environment agency. Issues concerning the Arctic, its ocean and marine resources will be among his top priorities.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160512075747/8594929349_db2d163b8f_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Invisible Contest: The Submarine Cat-And-Mouse Game</title>
+      <category domain="https://www.newsdeeply.com/arctic/geopolitics-security/">Geopolitics &amp; Security</category>
+      <pubDate>Fri, 06 May 2016 03:39:10 +0000</pubDate>
+      <author>Berit Enge</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/05/06/invisible-contest-the-submarine-cat-and-mouse-game</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/05/06/invisible-contest-the-submarine-cat-and-mouse-game</guid>
+      <description>HIGH NORTH NEWS: Russia’s growing military activity in the ocean gap between Greenland, Iceland, the U.K. and Norway has the U.S. and Norway concerned.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160510174030/-%C3%BD%C3%BD%C3%BD%C3%BD%C3%BD%C3%BD%C3%BD%C3%BD%C3%BD-%C3%BD%C3%BD%C3%BD%C3%BD%C3%BD-%C3%BD-114-.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reports: Arctic Council Due for a Change</title>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Berit Enge</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2016/04/18/reports-arctic-council-due-for-a-change</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2016/04/18/reports-arctic-council-due-for-a-change</guid>
+      <description>HIGH NORTH NEWS: Now in its 20th year, the Arctic Council is due for revitalization. This is the conclusion of two new reports from the think-tanks CSIS in Washington and FNI in Oslo. However, a general consensus about how the organization should look at its next milestone is a long way off.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422092721/25818115986_9ba5bb3d57_o-5714bb7411e97.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

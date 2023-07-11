@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Alpha Daffae Senkpeni</title>
+    <description>Alpha Daffae Senkpeni is a Liberian journalist based in Grand Bassa, Liberia, and a founding member of the community reporters’ network, Local Voices Liberia.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/alpha-daffae-senkpeni/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/alpha-daffae-senkpeni/rss"/>
+    <item>
+      <title>Michelle Obama Inspires Schoolgirls in Liberia</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/heroes/">Heroes</category>
+      <pubDate>Wed, 29 Jun 2016 09:29:04 +0000</pubDate>
+      <author>Katherina Thomas, Alpha Daffae Senkpeni</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/06/29/michelle-obama-inspires-schoolgirls-in-liberia</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/06/29/michelle-obama-inspires-schoolgirls-in-liberia</guid>
+      <description>On Monday, Michelle Obama visited Liberia to push for girls’ education in one of the world’s most underdeveloped countries. Some of the girls she met say the visit has convinced them to stay in school.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406074247/IMG_9800.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Plantation Blues: Female Rubber Tappers in Liberia</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <pubDate>Fri, 27 May 2016 03:00:00 +0000</pubDate>
+      <author>Alpha Daffae Senkpeni</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2016/05/27/plantation-blues-female-rubber-tappers-in-liberia</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2016/05/27/plantation-blues-female-rubber-tappers-in-liberia</guid>
+      <description>Hundreds of women work as tappers on Liberia’s vast rubber plantations, extracting latex from hundreds of trees each day, most of them single mothers or war widows trying to create better lives for their children.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406075107/The-home-of-Mercy-work-mate-Yonkor.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Oliver Knowles</title>
+    <description>Oliver Knowles is a senior oceans campaigner with Greenpeace International.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/oliver-knowles/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/oliver-knowles/rss"/>
+    <item>
+      <title>How Greenpeace and Thai Union Turned up the Heat on the Tuna Industry</title>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Tue, 29 May 2018 03:00:00 +0000</pubDate>
+      <author>Oliver Knowles</author>
+      <link>https://www.newsdeeply.com/oceans/community/2018/05/29/how-greenpeace-and-thai-union-turned-up-the-heat-on-the-tuna-industry</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2018/05/29/how-greenpeace-and-thai-union-turned-up-the-heat-on-the-tuna-industry</guid>
+      <description>The environmental group and the world’s biggest tuna producer are collaborating to improve working conditions and environmental practices. Now other seafood companies need to join a global effort to make tuna fishing sustainable.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180524090518/117.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

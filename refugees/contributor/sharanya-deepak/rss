@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Sharanya Deepak</title>
+    <description>Sharanya Deepak is a freelance writer and journalist based in New Delhi.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/sharanya-deepak/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/sharanya-deepak/rss"/>
+    <item>
+      <title>Refugees in Delhi Serve Up Memories on a Plate</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 13 Jan 2017 09:42:46 +0000</pubDate>
+      <author>Sharanya Deepak</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/01/13/refugees-in-delhi-serve-up-memories-on-a-plate</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/01/13/refugees-in-delhi-serve-up-memories-on-a-plate</guid>
+      <description>Many of Delhi’s refugee communities center on an urban village called Khirkee Extension. There, refugees from Afghanistan, Somalia and Iraq try to recreate the tastes of home while adjusting to the flavors of their new life.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170113094147/44195-lkdcpuokrl-1484185841.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Maya Wang</title>
+    <description>Maya Wang is a researcher for the Asia Division of Human Rights Watch. Follow her at @wang_maya.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/maya-wang/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/maya-wang/rss"/>
+    <item>
+      <title>China’s Human Rights Crackdown Punishes Families, Too</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 15 Aug 2016 08:09:43 +0000</pubDate>
+      <author>Maya Wang</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/08/15/chinas-human-rights-crackdown-punishes-families-too</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/08/15/chinas-human-rights-crackdown-punishes-families-too</guid>
+      <description>Since the sweeping arrest of human rights lawyers and activists in July 2015, Chinese authorities have also targeted their wives and children, sending mothers to prison and kicking families out of their homes, writes Maya Wang of Human Rights Watch.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073240/CORRECTION-China-Lawyers-Crackdown.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

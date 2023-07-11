@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition in-depth: Noncommunicable Diseases</title>
+    <description>Exploring the noncommunicable diseases that are fueled by malnutrition and how they can be addressed</description>
+    <link>https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/rss"/>
+    <item>
+      <title>A New Test for Kenya’s Students: Learning to Eat Healthier</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/">Noncommunicable Diseases</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Tue, 29 May 2018 14:10:00 +0000</pubDate>
+      <author>Prisca Aroko</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/29/a-new-test-for-kenyas-students-learning-to-eat-healthier</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/29/a-new-test-for-kenyas-students-learning-to-eat-healthier</guid>
+      <description>Faced with rising rates of non-communicable diseases, Kenyan activists have turned to educating young people on how to eat healthier. Now the government is taking a lesson from those efforts.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180529140920/corbis078.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Adolescent Malnutrition Finally Receives Some Attention</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/">Noncommunicable Diseases</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/stunting/">Stunting</category>
+      <pubDate>Wed, 23 May 2018 12:50:00 +0000</pubDate>
+      <author>Andrew Green</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/23/adolescent-malnutrition-finally-receives-some-attention</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/23/adolescent-malnutrition-finally-receives-some-attention</guid>
+      <description>There is a growing recognition among policymakers that ignoring adolescent malnutrition undermines child nutrition efforts and sets young people up for less success or more complications later in life.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180523125100/rashid-notitle171219_npNlp.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Mauritania, Force Feeding Leaves Young Girls With Long-Term Problems</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/">Noncommunicable Diseases</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Thu, 12 Apr 2018 10:30:00 +0000</pubDate>
+      <author>Zoe Tabary</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/04/12/in-mauritania-force-feeding-leaves-young-girls-with-long-term-problems</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/04/12/in-mauritania-force-feeding-leaves-young-girls-with-long-term-problems</guid>
+      <description>Heavier girls are deemed more beautiful and likelier to find a good husband in the West African country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180412103454/7417798888.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Taxing the World Out of Obesity</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/noncommunicable-diseases/">Noncommunicable Diseases</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Fri, 26 Jan 2018 13:10:00 +0000</pubDate>
+      <author>Andrew Green, Sophie Cousins</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/01/26/taxing-the-world-out-of-obesity</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/01/26/taxing-the-world-out-of-obesity</guid>
+      <description>Taxes on sugary beverages have become a popular approach for countries looking to reduce overweight and obesity. But it is a problem that will require more than one solution.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180126131613/stla160296.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Chuck Winn</title>
+    <description>Chuck Winn is a member of the San Joaquin County Board of Supervisors and a member of the Delta Counties Coalition.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/chuck-winn/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/chuck-winn/rss"/>
+    <item>
+      <title>Costly Infrastructure Project That Won’t Be on the California Ballot</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/economics/">Economics</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 01 Jun 2018 03:00:00 +0000</pubDate>
+      <author>Don Nottoli, Chuck Winn</author>
+      <link>https://www.newsdeeply.com/water/community/2018/06/01/costly-infrastructure-project-that-wont-be-on-the-california-ballot</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/06/01/costly-infrastructure-project-that-wont-be-on-the-california-ballot</guid>
+      <description>California voters don’t get a say about the governor’s Delta tunnels plan, but that hasn’t stopped organizations such as the Delta Counties Coalition from continuing to work to halt the project.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180531104704/55779538DM013_California_Le1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>State’s Plan for River Flows Spells Disaster for San Joaquin Region</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 04 Apr 2017 08:43:17 +0000</pubDate>
+      <author>Katherine Miller, Chuck Winn</author>
+      <link>https://www.newsdeeply.com/water/community/2017/04/04/states-plan-for-river-flows-spells-disaster-for-san-joaquin-region</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/04/04/states-plan-for-river-flows-spells-disaster-for-san-joaquin-region</guid>
+      <description>Modesto Bee: Concern is growing over the economic impact of the state’s plan for flows in the Stanislaus, Merced and Tuolumne rivers, write two members of the San Joaquin County Board of Supervisors.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170404084112/Yosemite.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

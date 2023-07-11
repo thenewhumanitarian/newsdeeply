@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Misty Buswell</title>
+    <description>Misty Buswell is the director of media, communications and advocacy in the Middle East for Save the Children.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/misty-buswell/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/misty-buswell/rss"/>
+    <item>
+      <title>Syria’s Children Risk Being Damaged Forever by Toxic Stress</title>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Thu, 09 Mar 2017 14:14:56 +0000</pubDate>
+      <author>Misty Buswell</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/03/09/syrias-children-risk-being-damaged-forever-by-toxic-stress</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/03/09/syrias-children-risk-being-damaged-forever-by-toxic-stress</guid>
+      <description>The Syrian war will permanently damage a generation if the mental health needs of children are not immediately addressed, writes Save the Children’s regional advocacy, media and communications director Misty Buswell.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170309141434/SYRIA-CONFLICT-REFUGEES.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

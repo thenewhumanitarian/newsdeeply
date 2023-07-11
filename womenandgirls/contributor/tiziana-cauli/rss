@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Tiziana Cauli</title>
+    <description>Tiziana Cauli is a field communication manager for Medecins Sans Frontieres on board the M.V. Aquarius. She previously covered the same role with MSF in Chad and has worked as a journalist in Lebanon, the U.K., Italy, Spain, France and South Africa.
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/tiziana-cauli/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/tiziana-cauli/rss"/>
+    <item>
+      <title>Aboard the Aquarius: The Women Rescued at Sea</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Mon, 20 Mar 2017 10:20:41 +0000</pubDate>
+      <author>Tiziana Cauli</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/20/aboard-aquarius-women-rescued-sea</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/20/aboard-aquarius-women-rescued-sea</guid>
+      <description>So far this year, 333 women have been rescued from the Mediterranean Sea by the team on the search-and-rescue vessel M.V. Aquarius. Tiziana Cauli, an MSF communication manager on the vessel, tells us about two women she met on board.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070934/woman.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

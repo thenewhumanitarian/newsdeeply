@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Gregory Beals</title>
+    <description>Gregory Beals is a journalist, humanitarian and political analyst who has followed the lives of survivors of conflict for the past 16 years.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/gregory-beals/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/gregory-beals/rss"/>
+    <item>
+      <title>Photo Essay: Preparing Refugee Children for a Digital Future</title>
+      <category domain="https://www.newsdeeply.com/refugees/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/refugees/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Thu, 15 Sep 2016 10:19:54 +0000</pubDate>
+      <author>Gregory Beals</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/09/15/photo-essay-preparing-refugee-children-for-a-digital-future-2</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/09/15/photo-essay-preparing-refugee-children-for-a-digital-future-2</guid>
+      <description>Asem Hasna, from Syria, learned about do-it-yourself technologies after losing a leg in the conflict. Now living in Germany, where he has sought asylum, he wants to pass on the “science of the future” to refugee children.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160914100013/UNICEFASEM6-1-of-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Photo Essay: Preparing Refugee Children for a Digital Future</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Wed, 14 Sep 2016 10:05:09 +0000</pubDate>
+      <author>Gregory Beals</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/09/14/photo-essay-preparing-refugee-children-for-a-digital-future</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/09/14/photo-essay-preparing-refugee-children-for-a-digital-future</guid>
+      <description>Asem Hasna, from Syria, learned about do-it-yourself technologies after losing a leg in the conflict. Now living in Germany, where he has sought asylum, he wants to pass on the “science of the future” to refugee children.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160914100013/UNICEFASEM6-1-of-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Europe’s Mayors Band Together to Assist Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Fri, 24 Jun 2016 03:00:38 +0000</pubDate>
+      <author>Gregory Beals</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/06/24/europes-mayors-band-together-to-assist-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/06/24/europes-mayors-band-together-to-assist-refugees</guid>
+      <description>With cities across Europe continuing to attract the majority of the continent’s refugees, mayors struggling with insufficient budgets are helping each other and calling for increased E.U. funds to integrate new arrivals.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160624023551/12495067_10154148534347009_6887567505832655173_n.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

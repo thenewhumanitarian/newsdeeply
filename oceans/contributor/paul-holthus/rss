@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Paul Holthus</title>
+    <description>Paul Holthus is the founding president and chief executive of the World Ocean Council, an international business alliance for corporate ocean responsibility.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/paul-holthus/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/paul-holthus/rss"/>
+    <item>
+      <title>An Untapped Resource in the Fight Against Climate Change: The Ocean</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/oceans/technology/">Technology</category>
+      <pubDate>Thu, 30 Nov 2017 03:00:50 +0000</pubDate>
+      <author>Paul Holthus</author>
+      <link>https://www.newsdeeply.com/oceans/community/2017/11/30/an-untapped-resource-in-the-fight-against-climate-change-the-ocean</link>
+      <guid>https://www.newsdeeply.com/oceans/community/2017/11/30/an-untapped-resource-in-the-fight-against-climate-change-the-ocean</guid>
+      <description>Paul Holthus, chief executive of the World Ocean Council, says not enough attention is being paid to the ocean’s potential to generate renewable energy and sequester planet-warming carbon dioxide. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20171127135614/DV91649.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

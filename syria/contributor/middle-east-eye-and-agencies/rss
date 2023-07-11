@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Middle East Eye and Agencies</title>
+    <description>MEE is an independently funded online news organisation that aims to be the primary portal of Middle East news. MEE looks at issues from a Middle Eastern perspective and does not tailor our coverage for a specific audience.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/middle-east-eye-and-agencies/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/middle-east-eye-and-agencies/rss"/>
+    <item>
+      <title>Thousands Return To Manbij After Islamic State Militants Flee City</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Mon, 15 Aug 2016 06:39:52 +0000</pubDate>
+      <author>Middle East Eye and Agencies</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/08/15/thousands-return-to-manbij-after-islamic-state-militants-flee-city</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/08/15/thousands-return-to-manbij-after-islamic-state-militants-flee-city</guid>
+      <description>After a months-long offensive by the U.S.-backed Syrian Democratic Forces, ISIS militants have been pushed out of their northern stronghold on the Turkish border, allowing thousands of residents to return to their homes. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160815063646/Mideast-Syria10.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

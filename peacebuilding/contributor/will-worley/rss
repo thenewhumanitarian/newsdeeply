@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding contributor: Will Worley</title>
+    <description>Will is a freelance journalist currently based in Bogota, Columbia.
+</description>
+    <link>https://www.newsdeeply.com/peacebuilding/contributor/will-worley/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/contributor/will-worley/rss"/>
+    <item>
+      <title>For FARC Fighters, Lack of Health Services Undermines Peace Deal</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/truth,-accountability-reconciliation/">Truth, Accountability &amp; Reconciliation</category>
+      <pubDate>Fri, 29 Jun 2018 17:10:00 +0000</pubDate>
+      <author>Will Worley</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/06/29/for-farc-fighters-lack-of-health-services-undermines-peace-deal</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/06/29/for-farc-fighters-lack-of-health-services-undermines-peace-deal</guid>
+      <description>The 2016 peace deal between the Colombian government and FARC fighters guaranteed the group access to public healthcare. Thousands of wounded fighters, however, are losing faith in the agreement as they struggle to access Colombia’s strained public health system.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180629171411/Jiraldomain1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Venezuelans Flee to Colombia to Escape Hunger, but Find Little Relief</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 11 Apr 2018 15:11:54 +0000</pubDate>
+      <author>Will Worley</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/04/11/venezuelans-flee-to-colombia-to-escape-hunger-but-find-little-relief-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/04/11/venezuelans-flee-to-colombia-to-escape-hunger-but-find-little-relief-2</guid>
+      <description>A comprehensive nutrition response has been stalled by a lack of data on the scale of the problem and ongoing political crises in Colombia that are dominating that government’s agenda.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180411150947/AFP_ZD2C01.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Venezuelans Flee to Colombia to Escape Hunger, but Find Little Relief</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/international-relief-and-food-crises/">International Relief and Food Crises</category>
+      <category domain="https://www.newsdeeply.com/peacebuilding/wasting/">Wasting</category>
+      <pubDate>Wed, 11 Apr 2018 12:50:00 +0000</pubDate>
+      <author>Will Worley</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/04/11/venezuelans-flee-to-colombia-to-escape-hunger-but-find-little-relief</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/04/11/venezuelans-flee-to-colombia-to-escape-hunger-but-find-little-relief</guid>
+      <description>A comprehensive nutrition response has been stalled by a lack of data on the scale of the problem and ongoing political crises in Colombia that are dominating that government’s agenda.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180411124955/AFP_ZD2C0.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

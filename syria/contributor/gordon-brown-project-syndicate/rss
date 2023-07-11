@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Gordon Brown / Project Syndicate</title>
+    <description>Gordon Brown, former Prime Minister and Chancellor of the Exchequer of the United Kingdom, is United Nations Special Envoy for Global Education.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/gordon-brown-project-syndicate/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/gordon-brown-project-syndicate/rss"/>
+    <item>
+      <title>Syria Education Without Borders</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Gordon Brown / Project Syndicate</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/03/24/syria-education-without-borders</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/03/24/syria-education-without-borders</guid>
+      <description>Former UK prime minister Gordon Brown writes about education initiatives for a “lost generation” of Syrians, including the more than 3 million displaced children who have lost access to full-time school programs.</description>
+    </item>
+  </channel>
+</rss>

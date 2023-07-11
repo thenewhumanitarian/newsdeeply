@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Sarah Ruiz-Grossman</title>
+    <description>Sarah Ruiz-Grossman is an Associate Reporter for Impact at the Huffington Post.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/sarah-ruiz-grossman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/sarah-ruiz-grossman/rss"/>
+    <item>
+      <title>Animations Illustrate Trauma of Syrian Children</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Thu, 16 Mar 2017 12:34:19 +0000</pubDate>
+      <author>Sarah Ruiz-Grossman</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/16/terrors-and-tears-animations-illustrate-trauma-of-syrian-children</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/16/terrors-and-tears-animations-illustrate-trauma-of-syrian-children</guid>
+      <description>Following Save the Children’s report on psychological scarring caused by the Syrian war, the charity has created a series of animated photos of refugee children explaining the devastating impact of trauma on their lives.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170316123248/Ballon-Haser-Project_Photo_Adira-and-Abbas2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

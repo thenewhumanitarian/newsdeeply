@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Joel Berger</title>
+    <description>Joel Berger is the Barbara Cox Anthony Chair in Wildlife Conservation at Colorado State University.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/joel-berger/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/joel-berger/rss"/>
+    <item>
+      <title>Scientist at Work: Tracking Muskoxen in a Warming Arctic</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <category domain="https://www.newsdeeply.com/arctic/research/">Research</category>
+      <pubDate>Mon, 20 Feb 2017 07:10:12 +0000</pubDate>
+      <author>Joel Berger</author>
+      <link>https://www.newsdeeply.com/arctic/community/2017/02/20/scientist-at-work-tracking-muskoxen-in-a-warming-arctic</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2017/02/20/scientist-at-work-tracking-muskoxen-in-a-warming-arctic</guid>
+      <description>While cold-adapted species have figured out how to survive across thousands of generations, we humans must modify our behavior in a far shorter period to dampen climatic challenges, writes Joel Berger of Colorado State University.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170220070400/muskoxen-circle.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

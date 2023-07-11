@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Aymenn al-Tamimi</title>
+    <description>Aymenn al-Tamimi is a research fellow at the Middle East Forum, a U.S.-based think-tank. His work focuses primarily on Syria, where he has carried out reporting on the ground. He has also collected, archived and analyzed hundreds of internal documents by the so-called Islamic State.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/aymenn-al-tamimi/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/aymenn-al-tamimi/rss"/>
+    <item>
+      <title>Analysis: Why the War in Syria May Not Be About Demographic Change</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Wed, 15 Mar 2017 10:31:00 +0000</pubDate>
+      <author>Aymenn al-Tamimi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/03/15/analysis-why-the-war-in-syria-may-not-be-about-demographic-change</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/03/15/analysis-why-the-war-in-syria-may-not-be-about-demographic-change</guid>
+      <description>As the war in Syria enters its seventh year, the widespread displacement of Syria’s majority Sunni population is fueling fears of sectarian cleansing. Syria researcher Aymenn al-Tamimi explains why that may not be the full picture. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170315103031/SYRIA-CONFLCIT-ALEPPO.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Has Assad’s New Offensive Changed Syria’s Front Lines?</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      <author>Aymenn al-Tamimi</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/11/11/has-assads-new-offensive-changed-syrias-front-lines</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/11/11/has-assads-new-offensive-changed-syrias-front-lines</guid>
+      <description>While both Syrian and Russian state media may have us believe their recent push to recapture government territory lost to rebels over the past year is succeeding, analyst Aymenn al-Tamimi says the situation on the ground in Syria might not be as promising as Assad and his backers hoped.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114343/abbd2912-004d-4112-a261-88581a-56433b10b66b4.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Talking to the Yarmouk Martyrs Brigade</title>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      <author>Aymenn al-Tamimi</author>
+      <link>https://www.newsdeeply.com/syria/community/2015/10/13/talking-to-the-yarmouk-martyrs-brigade</link>
+      <guid>https://www.newsdeeply.com/syria/community/2015/10/13/talking-to-the-yarmouk-martyrs-brigade</guid>
+      <description>An exclusive look at the evolution of the Yarmouk Martyrs Brigade through talking to members and locals in the Yarmouk Valley in southwestern Deraa.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114411/ap_969579472341-561d31899a2a7.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Condemning Russian Intervention: Rebel Unity?</title>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      <author>Aymenn al-Tamimi</author>
+      <link>https://www.newsdeeply.com/syria/community/2015/10/12/condemning-russian-intervention-rebel-unity</link>
+      <guid>https://www.newsdeeply.com/syria/community/2015/10/12/condemning-russian-intervention-rebel-unity</guid>
+      <description>Though many rebel groups are united in sentiment in their condemnation of the Russian intervention in Syria, actual unity remains a remote prospect – even if closer military cooperation can be expected.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422113001/ap_887508563384-561be2932361b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

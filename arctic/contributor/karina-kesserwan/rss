@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Karina Kesserwan</title>
+    <description>Karina Kesserwan was born in St. Petersburg, Russia, and has worked with Indigenous peoples for the past 10 years. She is a partner at Kesserwan Arteau, a Canadian legal and consulting firm that works with Indigenous communities.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/karina-kesserwan/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/karina-kesserwan/rss"/>
+    <item>
+      <title>Where North Meets South Along Russia’s Bikin River</title>
+      <category domain="https://www.newsdeeply.com/arctic/northern-people-health/">Northern People &amp; Health</category>
+      <pubDate>Mon, 26 Jun 2017 05:00:52 +0000</pubDate>
+      <author>Karina Kesserwan</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/06/26/where-north-meets-south-along-russias-bikin-river</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/06/26/where-north-meets-south-along-russias-bikin-river</guid>
+      <description>WORLD POLICY: Pavel Sulyandziga, an Indigenous rights activist who hails from Russia’s Far East, speaks about the cultural and conservation challenges faced by the Udege people.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170622100633/PAvel1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Pascale Müller</title>
+    <description>Pascale Müller is a freelance journalist on MENA politics and women’s rights.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/pascale-muller/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/pascale-muller/rss"/>
+    <item>
+      <title>Women at War: The Local Women Who Hold Up the Sky in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Pascale Müller</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/08/22/women-at-war-the-local-women-who-hold-up-the-sky-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/08/22/women-at-war-the-local-women-who-hold-up-the-sky-in-syria</guid>
+      <description>In between the headlines on deaths and the fighting between Assad and the rebels, readers forget about the lives of those caught in the Syrian conflict, women’s lives in particular. The Syrian Female Journalist Network aims to bring stories to media attention by training male and female journalists in the region.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422113024/image2-53f713da45ebd.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

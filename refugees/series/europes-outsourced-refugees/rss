@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europe's Outsourced Refugees</title>
+    <description>Reporting on refugee issues around the world, including the political, economic  and environmental causes of displacement and the people and ideas addressing forced migration.</description>
+    <link>https://www.newsdeeply.com/refugees/series/europes-outsourced-refugees/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/series/europes-outsourced-refugees/rss"/>
+    <item>
+      <title>Belgrade’s Young Refugees Once Hidden in Plain Sight, Now Disappear</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 26 Jun 2017 13:02:22 +0000</pubDate>
+      <author>Preethi Nallu</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/06/26/belgrades-young-refugees-once-hidden-in-plain-sight-now-disappear</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/06/26/belgrades-young-refugees-once-hidden-in-plain-sight-now-disappear</guid>
+      <description>More than 1,000 men and boys were living around Belgrade’s train station until their eviction in May. Now many of them, including hundreds of children traveling alone, are missing or vulnerable to trafficking in their desperation to reach northern Europe.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170626124125/IMG-24.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tightening of Borders Makes Women Invisible Along Balkan Refugee Route</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Mon, 10 Apr 2017 04:39:00 +0000</pubDate>
+      <author>Preethi Nallu</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/04/10/tightening-of-borders-makes-women-invisible-along-balkan-refugee-route</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/04/10/tightening-of-borders-makes-women-invisible-along-balkan-refugee-route</guid>
+      <description>As borders have tightened along the western Balkan route to Europe, more lone female refugees are arriving in Serbia having experienced violence and trafficking. Many who want to continue their journeys are using even riskier routes and never appear in official data.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170407090540/woman-pink-hijab-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Europe’s Refugee Frontier: Pushbacks and Border Closures in Serbia</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 24 Mar 2017 12:40:54 +0000</pubDate>
+      <author>Preethi Nallu</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/24/europes-refugee-frontier-pushbacks-and-border-closures-in-serbia-2</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/24/europes-refugee-frontier-pushbacks-and-border-closures-in-serbia-2</guid>
+      <description>In the first part of our series ‘Europe’s Outsourced Refugees,’ we report from Belgrade on how illegal pushbacks of asylum seekers along the Balkan route are leaving refugees invisible and unprotected.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170324081200/IMG-23.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

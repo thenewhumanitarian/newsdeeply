@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malnutrition contributor: Wana Udobang</title>
+    <description>Wana Udobang is a Nigeria-based freelance journalist, poet and filmmaker who works at the intersection of women’s rights, social justice, personal narratives, culture and the arts.
+</description>
+    <link>https://www.newsdeeply.com/malnutrition/contributor/wana-udobang/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/malnutrition/contributor/wana-udobang/rss"/>
+    <item>
+      <title>Concerns Over Nigerian Private Sector’s Role in Ending Malnutrition</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/overweight-and-obesity/">Overweight and Obesity</category>
+      <pubDate>Tue, 03 Jul 2018 14:50:00 +0000</pubDate>
+      <author>Wana Udobang</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/07/03/concerns-over-nigerian-private-sectors-role-in-ending-malnutrition</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/07/03/concerns-over-nigerian-private-sectors-role-in-ending-malnutrition</guid>
+      <description>Cadbury makes money off of selling sweets, but now its corporate parent wants to help teach Nigerian children how to eat healthier. That effort, which involves partnering with a key nutrition advocacy group, has raised questions about the role of the private sector in fighting malnutrition</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180703145113/GettyImages-645009482.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Women Selling Beauty Secrets From a Region Best Known for Boko Haram</title>
+      <category domain="https://www.newsdeeply.com/malnutrition/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/malnutrition/solutions/">Solutions</category>
+      <pubDate>Tue, 17 Apr 2018 08:30:00 +0000</pubDate>
+      <author>Wana Udobang</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/04/17/the-women-selling-beauty-secrets-from-a-region-best-known-for-boko-haram</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/04/17/the-women-selling-beauty-secrets-from-a-region-best-known-for-boko-haram</guid>
+      <description>The beauty practices of Nigeria’s north are finding a new home in the country’s big cities, and providing an economic alternative for women from the conflict-torn region.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180417083126/DSC_04761.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

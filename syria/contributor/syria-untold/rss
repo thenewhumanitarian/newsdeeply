@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Syria Untold</title>
+    <description>Syria Untold is an independent digital media project exploring the storytelling of the Syrian struggle and the diverse forms of resistance.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/syria-untold/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/syria-untold/rss"/>
+    <item>
+      <title>Syria Untold: The Festival of Spring: Between Colors and Cultures</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/religious-ethnic-groups/">Religious &amp; Ethnic Groups</category>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/06/10/syria-untold-the-festival-of-spring-between-colors-and-cultures</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/06/10/syria-untold-the-festival-of-spring-between-colors-and-cultures</guid>
+      <description>Qamishli festival aims to bring the arts back to Syria.</description>
+    </item>
+    <item>
+      <title>In Homs, Residents Make ‘Siege Food’ with Turtle Meat, Weeds</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <author>Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/articles/2014/05/01/in-homs-residents-make-siege-food-with-turtle-meat-weeds</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2014/05/01/in-homs-residents-make-siege-food-with-turtle-meat-weeds</guid>
+      <description>In besieged areas of the city, residents have created wartime recipes including a dough made of seeds and dishes that use birds instead of meat.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422115305/1-53626745a8c80.gif" type="image/gif" length="0"/>
+    </item>
+    <item>
+      <title>Atheists in Syria’s So-Called Islamic Uprising</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+      <author>Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/11/14/atheists-in-syrias-so-called-islamic-uprising</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/11/14/atheists-in-syrias-so-called-islamic-uprising</guid>
+      <description>While the Syrian revolution may have been gradually co-opted by Islamic rhetoric on media outlets, Syrian activist Ayman Ghojal still manages to find a place for his niche atheism.</description>
+    </item>
+    <item>
+      <title>The Grapes of My Country</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Thu, 07 Nov 2013 00:00:00 +0000</pubDate>
+      <author>Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/11/07/the-grapes-of-my-country</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/11/07/the-grapes-of-my-country</guid>
+      <description>Every Syrian city is unique, and such uniqueness has contributed to the richness and diversity of the Syrian uprising. From Daraa, which is dubbed “the cradle of the revolution”, to Homs, “the capital of the revolution,” each city has made its own contribution to the uprising that started in March 2011, filling it with different colors and nuances, after decades of silence and stagnation.</description>
+    </item>
+    <item>
+      <title>A Revolution Within the Revolution</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
+      <author>Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/01/11/a-revolution-within-the-revolution</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/01/11/a-revolution-within-the-revolution</guid>
+      <description>With the help of  Qordoba, Syria Deeply has translated this submission from Syria Untold*, a forthcoming Arabic language news website focused on peaceful and creative resistance in Syria. Its writers, based in Syria and abroad, collect, filter and curate stories about civil disobedience and the nonviolent aspect of the Syrian revolution.* .</description>
+    </item>
+    <item>
+      <title>Protesters Rename, Reclaim the Streets in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Tue, 11 Dec 2012 00:00:00 +0000</pubDate>
+      <author>Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/articles/2012/12/11/protesters-rename-reclaim-the-streets-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2012/12/11/protesters-rename-reclaim-the-streets-in-syria</guid>
+      <description>Syria Deeply has partnered with Syria Untold, a news aggrigator focused on the peaceful and creative resistance in Syria. Its staff, based in Syria and abroad, collect, filter and curate stories about civil disobedience and the nonviolent aspect of the Syrian revolution.</description>
+    </item>
+  </channel>
+</rss>

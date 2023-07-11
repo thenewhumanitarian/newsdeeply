@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Samantha Chapman</title>
+    <description>Samantha Chapman is an associate professor of biology at Villanova University in Pennsylvania.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/samantha-chapman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/samantha-chapman/rss"/>
+    <item>
+      <title>How One Vital Coastal Ecosystem Is Expanding With Climate Change</title>
+      <category domain="https://www.newsdeeply.com/oceans/biodiversity/">Biodiversity</category>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <pubDate>Tue, 13 Feb 2018 10:30:00 +0000</pubDate>
+      <author>Samantha Chapman</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/02/13/how-one-vital-coastal-ecosystem-is-expanding-with-climate-change</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/02/13/how-one-vital-coastal-ecosystem-is-expanding-with-climate-change</guid>
+      <description>Tropical coastal mangroves are increasingly found in the world’s temperate zones. Samantha Chapman, a biologist at Villanova University, explains how her research has documented their dramatic growth into Florida’s salt marsh turf and why that raises questions about the future of coastlines.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180213102548/file-20180208-180836-1rly0ot1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

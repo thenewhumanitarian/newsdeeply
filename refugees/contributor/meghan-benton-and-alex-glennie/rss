@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Meghan Benton and Alex Glennie</title>
+    <description>Meghan Benton is a senior policy analyst at the Migration Policy Institute.
+Alex Glennie is a principal researcher on Nesta’s International Innovation Team.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/meghan-benton-and-alex-glennie/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/meghan-benton-and-alex-glennie/rss"/>
+    <item>
+      <title>There’s Not Always an App for That: How Tech Could Help Refugees More</title>
+      <category domain="https://www.newsdeeply.com/refugees/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <pubDate>Thu, 20 Oct 2016 07:00:00 +0000</pubDate>
+      <author>Meghan Benton and Alex Glennie</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/10/20/theres-not-always-an-app-for-that-how-tech-could-help-refugees-more</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/10/20/theres-not-always-an-app-for-that-how-tech-could-help-refugees-more</guid>
+      <description>The refugee crisis prompted an explosion of apps and digital tools to help displaced people on their journey. Meghan Benton and Alex Glennie, authors of a new Migration Policy Institute report on tech sector assistance to refugees, explain why results have been mixed.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20161020065149/Greece-Migrants16.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

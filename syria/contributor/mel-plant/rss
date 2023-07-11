@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mel Plant</title>
+    <description>Mel Plant is a freelance journalist currently based in London, where she is completing her degree in Arabic and Turkish at SOAS University of London. She has reported from Turkey and Jordan for Middle East Eye, Al-Monitor, News Deeply and the National, reporting on culture, migrants’ experiences and civil society movements. She is a fall 2017 community fellow with Syria Deeply.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mel-plant/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mel-plant/rss"/>
+    <item>
+      <title>Making Soap Gives Refugee Women a Fresh Start in Jordan</title>
+      <category domain="https://www.newsdeeply.com/syria/entrepreneurship/">Entrepreneurship</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Tue, 30 May 2017 11:27:36 +0000</pubDate>
+      <author>Mel Plant</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2017/05/30/making-soap-gives-refugee-women-a-fresh-start-in-jordan</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2017/05/30/making-soap-gives-refugee-women-a-fresh-start-in-jordan</guid>
+      <description>Syrian and Palestinian refugee women in Jordan are finding economic independence and the comfort of community as they keep alive the traditional craft of soap making.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170530112526/Soap-making-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

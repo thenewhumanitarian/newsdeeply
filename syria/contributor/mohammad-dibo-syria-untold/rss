@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mohammad Dibo / Syria Untold</title>
+    <description>Mohammad Dibo is a contributor for Syria Untold
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mohammad-dibo-syria-untold/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mohammad-dibo-syria-untold/rss"/>
+    <item>
+      <title>Why Saraqeb Activists Paint Victims Portraits on City Walls</title>
+      <category domain="https://www.newsdeeply.com/syria/arts-culture/">Arts &amp; Culture</category>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      <author>Mohammad Dibo / Syria Untold</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/10/15/why-saraqeb-activists-paint-victims-portraits-on-city-walls</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/10/15/why-saraqeb-activists-paint-victims-portraits-on-city-walls</guid>
+      <description>At a time when the Syrian regime’s air force conducts daily raids on the city of Saraqeb and uses barrel bombs to bring death and destruction, activists in the city eagerly wait for nightfall to continue their four-month-old mission of painting portraits on the city walls.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422113020/saraqeb-walls-543eb89e2e870.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

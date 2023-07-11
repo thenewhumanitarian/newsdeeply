@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Yan Matusevich</title>
+    <description>Yan Matusevich is a migration researcher and analyst focused on migrant rights in Eastern Europe, Russia and Central Asia. He holds an MSc in Migration Studies from the University of Oxford and can be found on Twitter @ymatusik.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/yan-matusevich/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/yan-matusevich/rss"/>
+    <item>
+      <title>Russia’s Catch-22 Asylum System</title>
+      <category domain="https://www.newsdeeply.com/refugees/integration/">Integration</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 29 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Yan Matusevich</author>
+      <link>https://www.newsdeeply.com/refugees/community/2018/01/29/russias-catch-22-asylum-system</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2018/01/29/russias-catch-22-asylum-system</guid>
+      <description>Asylum seekers confront a system where those who qualify need not apply, says researcher Yan Matusevich. Fines, arrest and deportation await those who should be given refuge.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180126125754/TS05A80A.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Russia, Xenophobia and Profiting From Migration Controls</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Thu, 03 Aug 2017 11:02:43 +0000</pubDate>
+      <author>Yan Matusevich</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/08/03/russia-xenophobia-and-profiting-from-migration-controls</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/08/03/russia-xenophobia-and-profiting-from-migration-controls</guid>
+      <description>Behind the thicket of Russian laws that treat migrant workers as a threat to health and security lie major revenues. Migration researcher Yan Matusevich unravels the confusion to find profitable exploitation working alongside populism.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170803110141/Protest-rally-on-Revolution-Square-in-Moscow.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

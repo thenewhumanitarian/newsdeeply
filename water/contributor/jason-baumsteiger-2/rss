@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Jason Baumsteiger</title>
+    <description>Jason Baumsteiger is a post-doctoral research fellow, Center for Watershed Sciences.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/jason-baumsteiger-2/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/jason-baumsteiger-2/rss"/>
+    <item>
+      <title>When Is a Species Extinct? It’s More Complicated Than It Seems</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 12 May 2017 05:00:21 +0000</pubDate>
+      <author>Peter Moyle, Jason Baumsteiger</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/05/12/when-is-a-species-extinct-its-more-complicated-than-it-seems</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/05/12/when-is-a-species-extinct-its-more-complicated-than-it-seems</guid>
+      <description>Two UC Davis scientists say that there are at least five “gray areas” when looking at species extinction, which form a crucial distinction when assessing how to help protect endangered species and their habitats.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170511072003/DBK_Delta_Smelt-2332.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

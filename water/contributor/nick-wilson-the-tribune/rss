@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Nick Wilson, The Tribune</title>
+    <description>Nick Wilson is a reporter for The Tribune.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/nick-wilson-the-tribune/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/nick-wilson-the-tribune/rss"/>
+    <item>
+      <title>To Save Water, Farmers Go Back to School</title>
+      <category domain="https://www.newsdeeply.com/water/agriculture/">Agriculture</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Nick Wilson, The Tribune</author>
+      <link>https://www.newsdeeply.com/water/articles/2015/08/11/to-save-water-farmers-go-back-to-school</link>
+      <guid>https://www.newsdeeply.com/water/articles/2015/08/11/to-save-water-farmers-go-back-to-school</guid>
+      <description>THE TRIBUNE: Cal Poly irrigation center helps teach agriculture industry to combat drought.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102545/calpolyschool2-55ca52155741b.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

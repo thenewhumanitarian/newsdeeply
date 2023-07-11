@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Valerie Plesch</title>
+    <description>Valerie Plesch is an independent writer, photographer and videographer focusing on international affairs in post-conflict and transitional countries. She is currently based in Pristina, Kosovo. Valerie has produced multiple feature stories and reported breaking news from Kosovo, Afghanistan, Greece and Nepal, including coverage of the 2014 presidential election in Kabul for USA Today. Her other multimedia work has appeared in Al Jazeera America, Al Jazeera English, Open Society Foundations, the Washington Post, Washington Times, GlobalPost, Religion News Service, VICE, Christian Science Monitor and others.
+ 
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/valerie-plesch/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/valerie-plesch/rss"/>
+    <item>
+      <title>Afghans Returned from Pakistan Struggle on Kabul Career Ladder</title>
+      <category domain="https://www.newsdeeply.com/refugees/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Mon, 11 Dec 2017 03:06:00 +0000</pubDate>
+      <author>Valerie Plesch</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/12/11/afghans-returned-from-pakistan-struggle-on-kabul-career-ladder</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/12/11/afghans-returned-from-pakistan-struggle-on-kabul-career-ladder</guid>
+      <description>As hundreds of thousands of Afghans return from neighboring countries, young graduates face discrimination, language barriers and a dearth of connections in a country many had never been to before, Valerie Plesch reports for Al-Fanar Media.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171208123812/AA_31082016_338844.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

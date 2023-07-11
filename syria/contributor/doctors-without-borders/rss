@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Doctors Without Borders</title>
+    <description>Médecins Sans Frontières (MSF) is an international, independent, medical humanitarian organisation that delivers emergency aid to people affected by armed conflict, epidemics, natural disasters and exclusion from healthcare.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/doctors-without-borders/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/doctors-without-borders/rss"/>
+    <item>
+      <title>Multimedia Story: Trapped in Transit</title>
+      <category domain="https://www.newsdeeply.com/syria/crises-conflicts/">Crises &amp; Conflicts</category>
+      <pubDate>Tue, 26 Jul 2016 08:51:40 +0000</pubDate>
+      <author>Doctors Without Borders</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/07/26/multimedia-story-trapped-in-transit</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/07/26/multimedia-story-trapped-in-transit</guid>
+      <description>Doctors Without Borders, which has been operating a search and rescue mission in the central Mediterranean since April 2015, exposes the shocking levels of violence and exploitation reported by asylum seekers who have passed through Libya.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160726070943/Libya-Migrants.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Turmoil, Danger Test Syrian MSF Staff in Azaz</title>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Fri, 24 Jun 2016 13:39:56 +0000</pubDate>
+      <author>Doctors Without Borders</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/06/24/turmoil-danger-test-syrian-msf-staff-in-azaz</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/06/24/turmoil-danger-test-syrian-msf-staff-in-azaz</guid>
+      <description>Syrian medical staff with Doctors Without Borders (MSF) discuss what it’s like working at Al Salamah hospital in the Syrian town of Azaz on the Turkish border.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160624133658/MSF169643.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

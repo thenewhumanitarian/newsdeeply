@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Monica Pelliccia</title>
+    <description>Monica Pelliccia is an Italian freelance multimedia journalist. She writes on environmental and social topics, such as biodiversity conservation, women’s issues, climate change, indigenous rights, food security and agroecology. She has produced reports from India, Ecuador, Honduras, Guatemala, Nicaragua, Brazil and Cambodia.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/monica-pelliccia/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/monica-pelliccia/rss"/>
+    <item>
+      <title>The Island Paradise Where the Roads Are Made of Plastic</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <category domain="https://www.newsdeeply.com/oceans/solutions/">Solutions</category>
+      <pubDate>Tue, 05 Jun 2018 03:00:00 +0000</pubDate>
+      <author>Monica Pelliccia</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/06/05/the-island-paradise-where-the-roads-are-made-of-plastic</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/06/05/the-island-paradise-where-the-roads-are-made-of-plastic</guid>
+      <description>Utila, a Honduran island in the Caribbean Sea, is transforming the plastic trash that washes up on its beaches into material used to build roads, an increasingly popular use for marine pollution.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180601004322/600547551.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

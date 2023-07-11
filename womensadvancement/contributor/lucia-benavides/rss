@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Lucia Benavides</title>
+    <description>Lucia Benavides is a freelance journalist based in Barcelona, Spain. Originally from Argentina, her interests revolve mostly around women’s issues. She’s been published on NPR, Teen Vogue, Al Jazeera English, Marketplace and others.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/lucia-benavides/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/lucia-benavides/rss"/>
+    <item>
+      <title>As Senegal’s Fish Stocks Collapse, Women Are More Vulnerable Than Ever</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/wasting/">Wasting</category>
+      <pubDate>Thu, 24 May 2018 08:22:19 +0000</pubDate>
+      <author>Lucia Benavides</author>
+      <link>https://www.newsdeeply.com/malnutrition/articles/2018/05/24/as-senegals-fish-stocks-collapse-women-are-more-vulnerable-than-ever-2</link>
+      <guid>https://www.newsdeeply.com/malnutrition/articles/2018/05/24/as-senegals-fish-stocks-collapse-women-are-more-vulnerable-than-ever-2</guid>
+      <description>On the coast of Senegal, fish stocks have fallen by 80 percent in the past year alone. The women fish processors of the region have been hit hardest, with worrying consequences for food security and nutrition.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180524081812/IMG_718611.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As Senegal’s Fish Stocks Collapse, Women Are More Vulnerable Than Ever</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/equal-pay-and-opportunity/">Equal Pay and Opportunity</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/informal-economy/">Informal Economy</category>
+      <pubDate>Wed, 23 May 2018 13:00:00 +0000</pubDate>
+      <author>Lucia Benavides</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/05/23/as-senegals-fish-stocks-collapse-women-are-more-vulnerable-than-ever</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/05/23/as-senegals-fish-stocks-collapse-women-are-more-vulnerable-than-ever</guid>
+      <description>On the coast of Senegal, fish stocks have fallen by 80 percent in the past year alone. The women fish processors of the region have been hit hardest, with worrying consequences for food security and nutrition.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180523134457/IMG_71861.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Taylor Graham</title>
+    <description>Taylor Graham is the water and environmental journalist at the Utah Rivers Council. He is a National Geographic Explorer and a recent Fulbright Scholar in India.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/taylor-graham/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/taylor-graham/rss"/>
+    <item>
+      <title>As Colorado River Water Users Conserve, Utah Wastes More</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Thu, 12 Jul 2018 10:17:00 +0000</pubDate>
+      <author>Taylor Graham</author>
+      <link>https://www.newsdeeply.com/water/community/2018/07/12/as-colorado-river-water-users-conserve-utah-wastes-more</link>
+      <guid>https://www.newsdeeply.com/water/community/2018/07/12/as-colorado-river-water-users-conserve-utah-wastes-more</guid>
+      <description>Utah is proposing two large water developments to augment supplies, while the state has some of the highest consumption in the country, writes Taylor Graham of the Utah Rivers Council.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180712101438/765936691.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

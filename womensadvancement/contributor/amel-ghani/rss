@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Amel Ghani</title>
+    <description>Amel Ghani is a freelance journalist based in Lahore, Pakistan. She writes about labor and environmental, heritage and cultural issues. A large part of her work has also focused on the impact of infrastructure development in cities on the people that live in them.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/amel-ghani/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/amel-ghani/rss"/>
+    <item>
+      <title>Exploited and Unprotected: The Life of Pakistan’s Home-Based Workers</title>
+      <pubDate>Thu, 15 Mar 2018 12:28:18 +0000</pubDate>
+      <author>Amel Ghani</author>
+      <link>https://www.newsdeeply.com/womensadvancement/articles/2018/03/15/exploited-and-unprotected-the-life-of-pakistans-home-based-workers</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/articles/2018/03/15/exploited-and-unprotected-the-life-of-pakistans-home-based-workers</guid>
+      <description>The home-based workers of Pakistan are unprotected by law, leaving them open to economic abuse from their families and exploitation by middlemen. But experts disagree on how best to help them.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180315122613/8692420991_c4cd6769dc_o1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

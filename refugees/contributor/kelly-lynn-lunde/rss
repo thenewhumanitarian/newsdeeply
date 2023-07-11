@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kelly Lynn Lunde</title>
+    <description>Kelly Lynn Lunde is an independent journalist and photographer covering human rights, migration and conflict with a focus on refugee communities in the Middle East and Europe.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kelly-lynn-lunde/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kelly-lynn-lunde/rss"/>
+    <item>
+      <title>Photo Essay: EKO Camp Before Evacuation</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Tue, 14 Jun 2016 06:31:50 +0000</pubDate>
+      <author>Kelly Lynn Lunde</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/06/14/photo-essay-eko-camp-before-evacuation</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/06/14/photo-essay-eko-camp-before-evacuation</guid>
+      <description>In light of the police-led evacuation of an informal camp at Polykastro in Greece on June 13, we revisit the 1,800-strong settlement made up of people who sought refuge at a gas station for several months, through the images and words of photographer Kelly Lynn Lunde. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20160614061256/MG_0121.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

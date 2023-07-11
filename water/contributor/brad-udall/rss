@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Brad Udall</title>
+    <description>Brad Udall is senior research scientist at the Colorado Water Institute at Colorado State University.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/brad-udall/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/brad-udall/rss"/>
+    <item>
+      <title>Climate Change Is Shrinking the Colorado River</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <pubDate>Thu, 22 Jun 2017 05:00:28 +0000</pubDate>
+      <author>Jonathan Overpeck, Brad Udall</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/06/22/climate-change-is-shrinking-the-colorado-river</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/06/22/climate-change-is-shrinking-the-colorado-river</guid>
+      <description>Declines in Colorado River reservoirs can only partly be blamed by a lack of precipitation. Research shows that higher temperatures also played a role, write scientists Brad Udall and Jonathan Overpeck.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170621150403/Western-Water-Drought2.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

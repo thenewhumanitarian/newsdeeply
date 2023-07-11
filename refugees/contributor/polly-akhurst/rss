@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Polly Akhurst</title>
+    <description>Polly Akhurst is the founders of Sky School, a new educational initiative providing high-quality secondary education to displaced youth. You can find more information on the Sky School website and you can get in touch with Polly via hello@skyschool.world.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/polly-akhurst/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/polly-akhurst/rss"/>
+    <item>
+      <title>Why We Need A Global High School for Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/education/">Education</category>
+      <pubDate>Wed, 29 Mar 2017 09:00:50 +0000</pubDate>
+      <author>Mia Eskelund, Polly Akhurst</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/03/29/why-we-need-a-global-high-school-for-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/03/29/why-we-need-a-global-high-school-for-refugees</guid>
+      <description>The founders of Sky School, a new education initiative for refugee youth, explain why secondary students have been neglected among efforts to support refugee education.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170328084615/2446a724-83d2-4c31-b12c-393443906697.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

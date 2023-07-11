@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Matthew Savoca</title>
+    <description>Matt Savoca holds a PhD in ecology from the University of California, Davis. He is currently a Sea Grant science-policy fellow working with the National Oceanic and Atmospheric Administration. His research interests include foraging ecology, sensory ecology, community ecology and conservation biology.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/matthew-savoca/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/matthew-savoca/rss"/>
+    <item>
+      <title>Bait and Switch: Anchovies Eat Plastic Because It Smells Like Prey</title>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Fri, 01 Sep 2017 03:00:44 +0000</pubDate>
+      <author>Matthew Savoca</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/09/01/bait-and-switch-anchovies-eat-plastic-because-it-smells-like-prey</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/09/01/bait-and-switch-anchovies-eat-plastic-because-it-smells-like-prey</guid>
+      <description>Plastic debris can be harmful to marine fish, and to the people who eat them. But why do fish eat so much plastic? New research suggests that our plastic may smell a lot like their food.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170831145806/anchovys.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

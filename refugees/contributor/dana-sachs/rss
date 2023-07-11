@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Dana Sachs</title>
+    <description>Dana Sachs is a journalist and author of four books, both fiction and nonfiction. She is a cofounder of the U.S.-based aid group Humanity Now, which raises funds for grassroots relief efforts.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/dana-sachs/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/dana-sachs/rss"/>
+    <item>
+      <title>How Refugees Power a Grassroots Aid Movement</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Thu, 10 May 2018 11:10:00 +0000</pubDate>
+      <author>Dana Sachs</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/05/10/how-refugees-power-a-grassroots-aid-movement</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/05/10/how-refugees-power-a-grassroots-aid-movement</guid>
+      <description>At the height of refugee arrivals to Europe, Greek and foreign volunteers plugged vital gaps in the aid response. Two years later, relief groups are increasingly dependent on the volunteerism of refugees and migrants themselves, writes author and volunteer Dana Sachs.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180510111504/AFP_MO9C8.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

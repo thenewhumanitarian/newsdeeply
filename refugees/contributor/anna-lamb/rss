@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Anna Lamb</title>
+    <description>Anna Lamb is an American journalist based in Beirut, Lebanon covering refugee issues. She is currently an intern for the consulting firm Beyond Reform and Development. She received her B.A. in 2015 from Duke University.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/anna-lamb/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/anna-lamb/rss"/>
+    <item>
+      <title>A ‘Capitalist Approach’ to Refugee Healthcare in the U.S.</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Fri, 18 Aug 2017 03:00:51 +0000</pubDate>
+      <author>Anna Lamb</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/08/18/a-capitalist-approach-to-refugee-healthcare-in-the-u-s</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/08/18/a-capitalist-approach-to-refugee-healthcare-in-the-u-s</guid>
+      <description>A clinic for refugees in Colorado aims to provide an alternative model for refugee health services in the U.S. Its founder, P.J. Parmar, discusses his for-profit approach, Medicaid and the inefficiencies of the U.S. healthcare system. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170817140050/US-POLITICS-TRUMP-RIGHTS.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

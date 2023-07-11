@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Willa Frej</title>
+    <description>Willa Frej is a general assignment reporter at The Huffington Post based in New York. Fluent in French and proficient in Spanish and Arabic, she focuses on international news coverage. She can be reached at willa.frej@huffingtonpost.com and @willafrej.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/willa-frej/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/willa-frej/rss"/>
+    <item>
+      <title>‘I’ll Take Any Job’: Syrian Refugees Struggle to Find Work in America</title>
+      <category domain="https://www.newsdeeply.com/syria/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/syria/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 17 Apr 2017 09:45:13 +0000</pubDate>
+      <author>Rowaida Abdelaziz, Willa Frej</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/04/17/ill-take-any-job-syrian-refugees-struggle-to-find-work-in-america</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/04/17/ill-take-any-job-syrian-refugees-struggle-to-find-work-in-america</guid>
+      <description>Even highly skilled refugees can’t just pick up where they left off in their new countries. These are the stories of several Syrian refugees trying to forge a new career and life in the U.S.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170417093918/585d4e061600002903bdf60a.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hospitals Under Constant Attack in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Willa Frej</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/02/11/hospitals-under-constant-attack-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/02/11/hospitals-under-constant-attack-in-syria</guid>
+      <description>Hospitals across the country are becoming increasingly common targets. Air strikes hit 112 Syrian medical facilities in 2015 and have already hit at least 13 so far this year, adding up to what some experts have deemed to be a “systematic destruction” of Syria’s healthcare system.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114220/264a97ca-afca-414b-bb69-51079e-56bcbf7d05e61.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peacebuilding in-depth: Faith Peace</title>
+    <description>Exploring the role of faith-based organizations in peacebuilding efforts and in the pursuit of global peace and security.</description>
+    <link>https://www.newsdeeply.com/peacebuilding/faith-peace/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/peacebuilding/faith-peace/rss"/>
+    <item>
+      <title>The Unseen Drivers of Violence in Congo’s Ituri Province</title>
+      <category domain="https://www.newsdeeply.com/peacebuilding/faith-peace/">Faith &amp; Peace</category>
+      <pubDate>Tue, 01 May 2018 15:30:00 +0000</pubDate>
+      <author>Fiston Mahamba, Claude Sengenya</author>
+      <link>https://www.newsdeeply.com/peacebuilding/articles/2018/05/01/the-unseen-drivers-of-violence-in-congos-ituri-province</link>
+      <guid>https://www.newsdeeply.com/peacebuilding/articles/2018/05/01/the-unseen-drivers-of-violence-in-congos-ituri-province</guid>
+      <description>The roots of violence in Congo’s Ituri province are often framed as ethnic. But powerful political and commercial interests are the actual drivers of inter-communal tensions, write Fiston Mahamba and Claude Sengenya in IRIN News.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180503140624/AFP_13F7QN.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

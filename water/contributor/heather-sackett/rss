@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Heather Sackett, Aspen Journalism</title>
+    <description>Heather Sackett is a Colorado-based freelance writer.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/heather-sackett/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/heather-sackett/rss"/>
+    <item>
+      <title>Colorado Bill Aims to Protect Water Near Mining Operations</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <pubDate>Fri, 13 Apr 2018 03:00:00 +0000</pubDate>
+      <author>Heather Sackett, Aspen Journalism</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/04/13/colorado-bill-aims-to-protect-water-near-mining-operations</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/04/13/colorado-bill-aims-to-protect-water-near-mining-operations</guid>
+      <description>In the wake of the 2015 Gold Mine King spill, the Colorado legislature is considering a bill that aims to ensure better water quality at mines and more financial accountability from companies.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180412105558/CD14SPILL_BL27080x1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Study Shows How Dams Affect Ecology of Colorado Rivers</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <pubDate>Fri, 12 Jan 2018 03:00:00 +0000</pubDate>
+      <author>Heather Sackett, Aspen Journalism</author>
+      <link>https://www.newsdeeply.com/water/articles/2018/01/12/study-shows-how-dams-affect-ecology-of-colorado-rivers</link>
+      <guid>https://www.newsdeeply.com/water/articles/2018/01/12/study-shows-how-dams-affect-ecology-of-colorado-rivers</guid>
+      <description>A study of two different rivers – one dammed and one free flowing – may help provide insight into how riparian ecosystems across the west respond to climate change.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180109112736/west-end-colorado-economy_AC26040x1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

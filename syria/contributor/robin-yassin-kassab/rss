@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Robin Yassin-Kassab</title>
+    <description>Robin Yassin-Kassab is an author and commentator living in London.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/robin-yassin-kassab/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/robin-yassin-kassab/rss"/>
+    <item>
+      <title>A Syrian Woman’s Remarkable Story is Not Exceptional</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      <author>Robin Yassin-Kassab</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/01/14/a-syrian-womans-remarkable-story-is-not-exceptional</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/01/14/a-syrian-womans-remarkable-story-is-not-exceptional</guid>
+      <description>Our car turns through the crowded alleyways of single-storey breezeblock houses; it is foggy with coal smoke on this icy morning. This is the poorest quarter of Reyhanli, a Turkish town just across the Syrian border, and it’s crammed with Syrian refugees.</description>
+    </item>
+    <item>
+      <title>Syria: Life In the Rebel Strongholds</title>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
+      <author>Robin Yassin-Kassab</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/08/15/syria-life-in-the-rebel-strongholds</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/08/15/syria-life-in-the-rebel-strongholds</guid>
+      <description>To cross the border I had to climb a wall three times my height. It was the most frightening part of my trip into liberated Syria.</description>
+    </item>
+  </channel>
+</rss>

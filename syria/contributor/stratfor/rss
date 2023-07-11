@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Stratfor</title>
+    <description>Stratfor is a geopolitical intelligence firm that provides strategic analysis and forecasting to individuals and organizations around the world.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/stratfor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/stratfor/rss"/>
+    <item>
+      <title>Iran: Managing U.S. Military Action in Syria</title>
+      <category domain="https://www.newsdeeply.com/syria/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Stratfor</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/09/05/iran-managing-u-s-military-action-in-syria</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/09/05/iran-managing-u-s-military-action-in-syria</guid>
+      <description>Conventional wisdom says that a weakened Syria would undermine Iran’s regional influence, but a [U.S. military intervention][1] in the country could actually benefit Tehran. The government there has devised a sophisticated strategy for responding to a U.S. attack. Of course, Tehran would activate its militant proxies in the region, including Hezbollah, in the event that the United States launches an attack, but it would also exploit Washington’s visceral opposition to Sunni jihadist and Islamist groups to gain concessions elsewhere.</description>
+    </item>
+  </channel>
+</rss>

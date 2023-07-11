@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: David Kirby</title>
+    <description>David Kirby has been a professional journalist for 25 years. His third book, Death at Seaworld, was published in 2012.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/david-kirby/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/david-kirby/rss"/>
+    <item>
+      <title>Tropical Communities Embrace Conservation to ‘Fish Forever’</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Mon, 19 Jun 2017 05:17:38 +0000</pubDate>
+      <author>David Kirby</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/06/19/tropical-communities-embrace-conservation-to-fish-forever</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/06/19/tropical-communities-embrace-conservation-to-fish-forever</guid>
+      <description>Fish stocks are bouncing back thanks to an innovative program that establishes coastal marine reserves, managed by local residents, in the Philippines, Belize and elsewhere.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170514091711/Artisanal-Fisherman-Casting-Net.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

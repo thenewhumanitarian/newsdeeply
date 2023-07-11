@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Loubna Mrie</title>
+    <description>Loubna Mrie is a Syrian activist and photojournalist. She is currently based in New York City, where she is a researcher on Syrian and Middle Eastern affairs and is completing a degree at NYU.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/loubna-mrie/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/loubna-mrie/rss"/>
+    <item>
+      <title>‘Almost as Bad as the Regime’: Inside Syria’s Rebel-Run Prisons</title>
+      <pubDate>Tue, 25 Jul 2017 09:02:04 +0000</pubDate>
+      <author>Ahmad Zaazaa, Loubna Mrie</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/07/25/almost-as-bad-as-the-regime-inside-syrias-rebel-run-prisons</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/07/25/almost-as-bad-as-the-regime-inside-syrias-rebel-run-prisons</guid>
+      <description>Civilians and activists once detained by the Syrian government for joining 2011 protests against President Bashar al-Assad are again facing arbitrary detention and torture in secret jails. But this time, their captors are Syria’s hard-line militant groups.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170725085637/SYRIA-CONFLICT35.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

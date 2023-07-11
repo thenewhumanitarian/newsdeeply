@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Jon Letman</title>
+    <description>Jon Letman is a freelance journalist on Kauai. He writes about politics, people and the environment in the Asia-Pacific region. Follow him on Twitter: @jonletman.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/jon-letman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/jon-letman/rss"/>
+    <item>
+      <title>What a New Yorker Learned on Frontline of Turkey’s Refugee Crisis</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 26 May 2017 11:21:24 +0000</pubDate>
+      <author>Jon Letman</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/05/26/what-a-new-york-lawyer-learned-on-frontline-of-turkeys-refugee-crisis</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/05/26/what-a-new-york-lawyer-learned-on-frontline-of-turkeys-refugee-crisis</guid>
+      <description>There are over 3 million asylum seekers in Turkey. Amel Ahmed moved to the country to volunteer her legal and Arabic skills to help those whose claims are denied. Here, she explains her day-to-day work – and why it’s not for the faint-hearted.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170526112045/3068244.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

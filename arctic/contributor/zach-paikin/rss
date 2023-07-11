@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Zach Paikin</title>
+    <description>Zach Paikin (@zpaikin) is pursuing a PhD in international relations at the University of Kent in Canterbury, United Kingdom.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/zach-paikin/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/zach-paikin/rss"/>
+    <item>
+      <title>Canada Should Propose Creation of an Arctic Union</title>
+      <category domain="https://www.newsdeeply.com/arctic/governance/">Governance</category>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      <author>Zach Paikin</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/02/04/canada-should-propose-creation-of-an-arctic-union</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/02/04/canada-should-propose-creation-of-an-arctic-union</guid>
+      <description>All over the world, countries with shared interests are establishing deeper levels of cooperation, integrated economies and cultural exchanges through the creation of region-specific institutions. Why not do the same for the Arctic?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094453/0fa15930-b334-4f35-bbc9-8d5b8c-56b3347a376ac.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Genesee Keevil</title>
+    <description>Genesee Keevil is a Whitehorse-based writer whose work has taken her to Iraq, Tajikistan and Attawapiskat. Her writing has appeared in the Globe and Mail, the Walrus, Outside and Canadian Geographic, among other publications.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/genesee-keevil/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/genesee-keevil/rss"/>
+    <item>
+      <title>Abandoned Northern Mines Leave Taxpayers on the Hook</title>
+      <category domain="https://www.newsdeeply.com/arctic/economy/">Economy</category>
+      <category domain="https://www.newsdeeply.com/arctic/energy-natural-resources/">Energy &amp; Natural Resources</category>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Wed, 15 Feb 2017 09:00:52 +0000</pubDate>
+      <author>Genesee Keevil</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/02/15/abandoned-northern-mines-leave-taxpayers-on-the-hook</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/02/15/abandoned-northern-mines-leave-taxpayers-on-the-hook</guid>
+      <description>Modern mine plans are supposed to ensure the industry pays for the cleanup costs after operations have shuttered. But Canada’s experience with northern mines shows that often doesn’t happen.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170215085352/Clinton-Creek.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

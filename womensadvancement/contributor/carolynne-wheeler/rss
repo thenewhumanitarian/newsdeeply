@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women's Advancement contributor: Carolynne Wheeler</title>
+    <description>Carolynne Wheeler is News Manager at WaterAid, an international development organization working to make sure that everyone, everywhere has clean water, a decent toilet and is able to live hygienically.
+</description>
+    <link>https://www.newsdeeply.com/womensadvancement/contributor/carolynne-wheeler/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womensadvancement/contributor/carolynne-wheeler/rss"/>
+    <item>
+      <title>To Achieve Gender Equality, We First Have to Tackle Water Inequality</title>
+      <category domain="https://www.newsdeeply.com/womensadvancement/solutions/">Solutions</category>
+      <category domain="https://www.newsdeeply.com/womensadvancement/unpaid-domestic-and-care-work/">Unpaid Domestic and Care Work</category>
+      <pubDate>Thu, 22 Mar 2018 11:40:00 +0000</pubDate>
+      <author>Carolynne Wheeler</author>
+      <link>https://www.newsdeeply.com/womensadvancement/community/2018/03/22/to-achieve-gender-equality-we-first-have-to-tackle-water-inequality</link>
+      <guid>https://www.newsdeeply.com/womensadvancement/community/2018/03/22/to-achieve-gender-equality-we-first-have-to-tackle-water-inequality</guid>
+      <description>In many families, the burden of collecting water falls to women and girls. Without access to clean water, they cannot achieve their potential to learn, work and care for their families, says Carolynne Wheeler of WaterAid on World Water Day.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180322114156/WaterAid-pump1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

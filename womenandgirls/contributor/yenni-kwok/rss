@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Yenni Kwok</title>
+    <description>Yenni Kwok is a journalist based in Hong Kong. She has been writing for Time magazine, the New York Times, CNN and more. She covers political and social issues in Asia, with a special interest in women’s rights.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/yenni-kwok/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/yenni-kwok/rss"/>
+    <item>
+      <title>Hong Kong Imprisons More Women Per Capita Than Any Other Country</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Mon, 14 Aug 2017 12:34:29 +0000</pubDate>
+      <author>Yenni Kwok</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/14/hong-kong-imprisons-more-women-per-capita-than-any-other-country</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/14/hong-kong-imprisons-more-women-per-capita-than-any-other-country</guid>
+      <description>One-fifth of Hong Kong’s prison population is female, the highest proportion of any major country in the world. Activists say local laws are stacked against women, in particular foreign women.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170814123303/HONG-KONG-PRISON-WORKSHOP.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

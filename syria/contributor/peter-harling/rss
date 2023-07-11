@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Peter Harling</title>
+    <description>Peter Harling is the founder &amp;amp; director of Synaps.
+ 
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/peter-harling/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/peter-harling/rss"/>
+    <item>
+      <title>The Complex Syrian Aid Infrastructure That Needed Help</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Mon, 09 Jan 2017 12:04:51 +0000</pubDate>
+      <author>Rosalie Berthier, Alex Simon, Peter Harling</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/01/09/the-complex-syrian-aid-infrastructure-that-needed-help</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/01/09/the-complex-syrian-aid-infrastructure-that-needed-help</guid>
+      <description>Synaps experts Peter Harlin, Alex Simon and Rosalie Berthier explain the complex field of Syria’s humanitarian sector and the major issues that led to its failure for the Syrian people.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170109115818/SYRIA-CONFLICT8.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

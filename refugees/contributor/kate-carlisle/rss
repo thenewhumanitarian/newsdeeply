@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kate Carlisle</title>
+    <description>Kate Carlisle is a Texan native who has lived in Italy for over 20 years, based mostly in Rome and now Veneto. While with Business Week magazine, she was the recipient of the Sidney Hillman award for the investigative cover story on human trafficking and slave labour in Europe, and also nominated for the Livingston Award for the article From Bad to Worse in a Gypsy Ghetto.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kate-carlisle/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kate-carlisle/rss"/>
+    <item>
+      <title>Refugees Give Amsterdam Canal Tours in Salvaged Migrant Boats</title>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Wed, 01 Mar 2017 12:30:26 +0000</pubDate>
+      <author>Kate Carlisle</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/03/01/refugees-give-amsterdam-canal-tours-in-salvaged-migrant-boats</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/03/01/refugees-give-amsterdam-canal-tours-in-salvaged-migrant-boats</guid>
+      <description>Boats that were once crammed with migrants making a death-defying voyage across the Mediterranean are now being used used for daily cruises through the world-famous waterways of the Dutch capital.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170301134410/12002405_938742066198835_6864191515290453576_o.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

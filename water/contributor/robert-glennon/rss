@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Robert Glennon</title>
+    <description>Robert Glennon is a Regents’ Professor at the University of Arizona and author of “Unquenchable: America’s Water Crisis and What to Do About It.”
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/robert-glennon/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/robert-glennon/rss"/>
+    <item>
+      <title>How Craft Brewers Are Embracing New Water Technologies</title>
+      <category domain="https://www.newsdeeply.com/water/american-west/">American West</category>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/solutions/">Solutions</category>
+      <pubDate>Mon, 18 Dec 2017 03:00:00 +0000</pubDate>
+      <author>Robert Glennon</author>
+      <link>https://www.newsdeeply.com/water/articles/2017/12/18/how-craft-brewers-are-embracing-new-water-technologies</link>
+      <guid>https://www.newsdeeply.com/water/articles/2017/12/18/how-craft-brewers-are-embracing-new-water-technologies</guid>
+      <description>The exploding craft beer movement is taking on the challenges of a water-constrained world and improving conservation and efficiency in production. Some are even experimenting with using recycled water in their brews.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171213084449/786604471.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Kristen McTighe</title>
+    <description>Kristen McTighe is an independent journalist based between Tunis and Istanbul covering North Africa and the Middle East. Her work has appeared in the International New York Times, the Financial Times, NBC News and the Globe and Mail among others.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/kristen-mctighe/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/kristen-mctighe/rss"/>
+    <item>
+      <title>The Other Humanitarians in the Mediterranean: Tunisia’s Fishermen</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Wed, 30 Aug 2017 08:38:59 +0000</pubDate>
+      <author>Kristen McTighe</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/08/30/the-other-humanitarians-in-the-mediterranean-tunisias-fishermen</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/08/30/the-other-humanitarians-in-the-mediterranean-tunisias-fishermen</guid>
+      <description>Tunisian fishermen living near the Libyan border have been rescuing migrants and recovering the dead for years. With the recent curbs on NGO boats, and an emboldened Libyan coast guard, they may bear the burden of Mediterranean rescues once again.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170830082941/Photo-3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

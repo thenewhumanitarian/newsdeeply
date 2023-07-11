@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Nick Taranto</title>
+    <description>Nick Taranto is the co-founder of Plated.com.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/nick-taranto/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/nick-taranto/rss"/>
+    <item>
+      <title>I Met Bashar Al Assad. He Was Pretty Cool.</title>
+      <category domain="https://www.newsdeeply.com/syria/government-pro-government-forces/">Government &amp; Pro-Government Forces</category>
+      <pubDate>Sat, 07 Sep 2013 00:00:00 +0000</pubDate>
+      <author>Nick Taranto</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/09/07/i-met-bashar-al-assad-he-was-pretty-cool</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/09/07/i-met-bashar-al-assad-he-was-pretty-cool</guid>
+      <description>In May of 2008, as a 24-year-old student at Harvard’s Kennedy School of Government, I went on a two-week, student-led trip to Lebanon and Syria. As part of that trip, we had unprecedented access to Bashar Al Assad and his wife Asma.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: K. Martin Perales</title>
+    <description>K. Martin Perales worked with Dr. Peter Moyle as an undergraduate investigating relationships among water quality, slough morphology and hydrodynamics and their effect on fish communities of the North Delta. He is currently earning his PhD at the University of Wisconsin–Madison studying human impacts on lake fish communities.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/k-martin-perales/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/k-martin-perales/rss"/>
+    <item>
+      <title>What Happens to Salmon Trapped Behind Dams</title>
+      <category domain="https://www.newsdeeply.com/water/environment-wildlife/">Environment &amp; Wildlife</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <author>K. Martin Perales</author>
+      <link>https://www.newsdeeply.com/water/articles/2016/02/15/what-happens-to-salmon-trapped-behind-dams</link>
+      <guid>https://www.newsdeeply.com/water/articles/2016/02/15/what-happens-to-salmon-trapped-behind-dams</guid>
+      <description>Scientists believe that some Chinook salmon “landlocked” behind California’s dams are completing their life cycles without reaching the ocean. Will these fish, stocked by hatcheries, interfere with efforts to return native salmon to the waters above the dams?</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422102254/007b6e1e-44ce-46cc-8f26-606e32-56c20919b45b4.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

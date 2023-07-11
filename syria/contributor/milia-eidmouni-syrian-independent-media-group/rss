@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Milia Eidmouni, Syrian Independent Media Group</title>
+    <description>Milia Eidmouni is a regional director for the Syrian Female Journalist Network.
+The Syrian Independent Media Group is comprised of five independent Syrian media organizations working together to highlight untold stories from the war-torn country: Arab Reporters for Investigative Journalism, Rozana Radio, Syria Deeply, Syria Untold and the Violation Documentation Center in Syria. The project is supported by International Media Support.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/milia-eidmouni-syrian-independent-media-group/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/milia-eidmouni-syrian-independent-media-group/rss"/>
+    <item>
+      <title>Political Empowerment Not a Priority for Syrian Refugee Women</title>
+      <pubDate>Wed, 26 Jul 2017 09:13:39 +0000</pubDate>
+      <author>Milia Eidmouni, Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/07/26/political-empowerment-not-a-priority-for-syrian-refugee-women</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/07/26/political-empowerment-not-a-priority-for-syrian-refugee-women</guid>
+      <description>Though international nonprofits hope their empowerment and decision-making workshops will prove useful to Syrian refugee women, many women express a desire for more pragmatic and economic-oriented training courses.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170726091041/11173833666_406df55519_b.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In War-Torn Syria, Women Emerge as Changemakers</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Tue, 17 May 2016 05:30:59 +0000</pubDate>
+      <author>Milia Eidmouni, Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/17/in-war-torn-syria-women-emerge-as-changemakers</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/17/in-war-torn-syria-women-emerge-as-changemakers</guid>
+      <description>More and more Syrian women are at the forefront of new efforts to solve local conflicts and counter the death and destruction that has engulfed the country.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160517052630/Mideast-Syria-Turkey.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

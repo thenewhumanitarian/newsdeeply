@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Joshua Viers and Graham Fogg</title>
+    <description>Joshua Viers and Graham Fogg are scientists with the University of California’s Water Security and Sustainability Research Initiative.
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/joshua-viers-graham-fogg/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/joshua-viers-graham-fogg/rss"/>
+    <item>
+      <title>Drought and Flood: Two Extremes, Yet Closely Linked</title>
+      <category domain="https://www.newsdeeply.com/water/climate-weather/">Climate &amp; Weather</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Joshua Viers and Graham Fogg</author>
+      <link>https://www.newsdeeply.com/water/community/2015/07/14/drought-and-flood-two-extremes-yet-closely-linked</link>
+      <guid>https://www.newsdeeply.com/water/community/2015/07/14/drought-and-flood-two-extremes-yet-closely-linked</guid>
+      <description>Designing flood defenses properly can pay huge dividends in the next drought.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422104716/001cfeee-f3d4-4558-a11c-ae91a1-55a41f0807c13.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

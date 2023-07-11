@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Daniel Garrote Sanchez</title>
+    <description>Daniel Garrote Sanchez is a senior researcher at Bayanat Box and the Lebanese Center for Policy Studies. He previously worked at the World Bank and the Central Bank of Spain. He holds a Master in International Development (MPAID) from Harvard University.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/daniel-garrote-sanchez/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/daniel-garrote-sanchez/rss"/>
+    <item>
+      <title>Why the Arab World Needs Better Data Literacy on Syrian Refugees</title>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Tue, 24 Oct 2017 10:04:00 +0000</pubDate>
+      <author>Leila Kabalan, Daniel Garrote Sanchez</author>
+      <link>https://www.newsdeeply.com/syria/community/2017/10/24/why-the-arab-world-needs-better-data-literacy-on-syrian-refugees-2</link>
+      <guid>https://www.newsdeeply.com/syria/community/2017/10/24/why-the-arab-world-needs-better-data-literacy-on-syrian-refugees-2</guid>
+      <description>While more data is available than ever before, there is little evidence-driven debate on refugees in countries like Lebanon that host the majority of Syrians. Arab digital platform Bayanat Box explains how it works to improve public comprehension of refugee data.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171024100343/DN_HalfRefugees_Eng_NoFcbk1.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Why the Arab World Needs Better Data Literacy on Syrian Refugees</title>
+      <category domain="https://www.newsdeeply.com/syria/innovation-technology/">Innovation &amp; Technology</category>
+      <category domain="https://www.newsdeeply.com/syria/solutions/">Solutions</category>
+      <pubDate>Mon, 23 Oct 2017 13:06:02 +0000</pubDate>
+      <author>Leila Kabalan, Daniel Garrote Sanchez</author>
+      <link>https://www.newsdeeply.com/refugees/community/2017/10/23/why-the-arab-world-needs-better-data-literacy-on-syrian-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2017/10/23/why-the-arab-world-needs-better-data-literacy-on-syrian-refugees</guid>
+      <description>While more data is available than ever before, there is little evidence-driven debate on refugees in countries like Lebanon that host the majority of Syrians. Arab digital platform Bayanat Box explains how it works to improve public comprehension of refugee data.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171023130104/DN_HalfRefugees_Eng_NoFcbk.png" type="image/png" length="0"/>
+    </item>
+  </channel>
+</rss>

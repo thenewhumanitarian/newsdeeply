@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Zahra Asghar</title>
+    <description>Zahra Asghar is a student at Brown University where she studies the intersection of Middle Eastern
+refugee crises and Cognitive Neuroscience. She was a community fellow with Refugees Deeply in the summer of 2017 and is on LinkedIn here.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/zahra-asghar/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/zahra-asghar/rss"/>
+    <item>
+      <title>9 Experts to Watch on Mental Health and Refugees</title>
+      <category domain="https://www.newsdeeply.com/refugees/health/">Health</category>
+      <pubDate>Wed, 20 Dec 2017 12:00:00 +0000</pubDate>
+      <author>Charlotte Alfred, Kim Bode, Zahra Asghar</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/12/20/9-experts-to-watch-on-mental-health-and-refugees</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/12/20/9-experts-to-watch-on-mental-health-and-refugees</guid>
+      <description>Most refugees live in countries with scant mental health resources, despite a growing body of research on how displacement impacts mental health. In this edition of our ‘Experts to Watch’ series, we look at some of the leading thinkers and practitioners in this field.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20171220121613/Uganda-531.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

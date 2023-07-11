@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Yara Tlass</title>
+    <description>Yara Tlass is the founder of Watanili, a grassroots initiative, founded in May 2014, dedicated for social and political change in Syria.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/yara-tlass/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/yara-tlass/rss"/>
+    <item>
+      <title>A trip to Rehanly, Turkey: Refugees and a glimpse of the Syrian tragedy</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <author>Yara Tlass</author>
+      <link>https://www.newsdeeply.com/syria/community/2014/12/08/a-trip-to-rehanly-turkey-refugees-and-a-glimpse-of-the-syrian-tragedy</link>
+      <guid>https://www.newsdeeply.com/syria/community/2014/12/08/a-trip-to-rehanly-turkey-refugees-and-a-glimpse-of-the-syrian-tragedy</guid>
+      <description>‘I believe that justice will prevail, not in my lifetime, but I hope that my children will see better days’.</description>
+    </item>
+  </channel>
+</rss>

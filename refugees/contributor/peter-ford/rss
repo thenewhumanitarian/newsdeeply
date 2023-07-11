@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Peter Ford</title>
+    <description>Peter Ford is The Christian Science Monitor’s global affairs correspondent, based in Paris.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/peter-ford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/peter-ford/rss"/>
+    <item>
+      <title>Analysis: What Ghouta Tells Us About the World’s Ability to Protect Civilians</title>
+      <category domain="https://www.newsdeeply.com/refugees/diplomacy-foreign-affairs/">Diplomacy &amp; Foreign Affairs</category>
+      <category domain="https://www.newsdeeply.com/refugees/human-rights/">Human Rights</category>
+      <category domain="https://www.newsdeeply.com/refugees/solutions/">Solutions</category>
+      <pubDate>Fri, 16 Mar 2018 09:10:00 +0000</pubDate>
+      <author>Peter Ford</author>
+      <link>https://www.newsdeeply.com/syria/community/2018/03/16/analysis-what-ghouta-tells-us-about-the-worlds-ability-to-protect-civilians</link>
+      <guid>https://www.newsdeeply.com/syria/community/2018/03/16/analysis-what-ghouta-tells-us-about-the-worlds-ability-to-protect-civilians</guid>
+      <description>Not long ago the humanitarian concept of ‘Responsibility to Protect’ had currency. But this is no longer the case in Syria, where a new harsh reality is playing out in eastern Ghouta, writes journalist Peter Ford.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180316091146/84345832_SEA1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Priest Named ‘Guardian Angel of Refugees’ Under Investigation in Italy</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 04 Sep 2017 12:31:52 +0000</pubDate>
+      <author>Peter Ford</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2017/09/04/priest-named-guardian-angel-of-refugees-under-investigation-in-italy</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2017/09/04/priest-named-guardian-angel-of-refugees-under-investigation-in-italy</guid>
+      <description>Rev. Mussie Zerai has received hundreds of nighttime distress calls from refugee boats over the years. Now, the Eritrean Roman Catholic priest finds himself under investigation by Sicilian prosecutors for collusion with smugglers.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170904123049/SWITZERLAND-RELIGION-REFUGEES.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Charlie Ensor</title>
+    <description>Charlie Ensor is a freelance journalist, focusing on humanitarian and development issues.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/charlie-ensor/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/charlie-ensor/rss"/>
+    <item>
+      <title>Refugees in Tanzania on Edge Amid Changing Politics</title>
+      <category domain="https://www.newsdeeply.com/refugees/crises-conflicts/">Crises &amp; Conflicts</category>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Fri, 11 May 2018 09:10:00 +0000</pubDate>
+      <author>Charlie Ensor</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2018/05/11/refugees-in-tanzania-on-edge-amid-changing-politics</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2018/05/11/refugees-in-tanzania-on-edge-amid-changing-politics</guid>
+      <description>Tanzania has a long history of welcoming refugees, but the government’s attitude is hardening at a time when worsening tensions in Burundi threaten a fresh exodus, Charlie Ensor reports for IRIN News.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180511091620/Par8177811.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

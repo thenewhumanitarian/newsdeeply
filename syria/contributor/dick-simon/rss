@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Dick Simon</title>
+    <description>Dick Simon shares the untold human stories behind the headlines in regions of conflict around the world, bridging the gap between “us” and “them.” Dick is an active social enterprise philanthropist and committed changemaker.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/dick-simon/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/dick-simon/rss"/>
+    <item>
+      <title>Challenging Stereotypes with Syrian Refugee Children in Turkey</title>
+      <category domain="https://www.newsdeeply.com/syria/displacement/">Displacement</category>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <author>Dick Simon</author>
+      <link>https://www.newsdeeply.com/syria/articles/2015/07/06/challenging-stereotypes-with-syrian-refugee-children-in-turkey</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2015/07/06/challenging-stereotypes-with-syrian-refugee-children-in-turkey</guid>
+      <description>Dick Simon responds to the question he was asked by Syrian refugee children in Turkey – “Why does everyone hate Syrians?”.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114549/ds4_4511-559aaba235aeb.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

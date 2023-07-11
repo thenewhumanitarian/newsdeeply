@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugees contributor: Angie Smith and Hanne Steen</title>
+    <description>Stronger Shines the Light Inside is a project on resettled refugees in the US – founded and photographed by Angie Smith and written by Hanne Steen.
+</description>
+    <link>https://www.newsdeeply.com/refugees/contributor/stronger-shines-the-light-inside/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/refugees/contributor/stronger-shines-the-light-inside/rss"/>
+    <item>
+      <title>Resettled in the Heart of America: Part 1</title>
+      <category domain="https://www.newsdeeply.com/refugees/laws-policy/">Laws &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/refugees/refugee-voices/">Refugee Voices</category>
+      <pubDate>Mon, 13 Jun 2016 11:40:21 +0000</pubDate>
+      <author>Angie Smith and Hanne Steen</author>
+      <link>https://www.newsdeeply.com/refugees/articles/2016/06/13/resettled-in-the-heart-of-america-part-1</link>
+      <guid>https://www.newsdeeply.com/refugees/articles/2016/06/13/resettled-in-the-heart-of-america-part-1</guid>
+      <description>In the lead up to World Refugee Day on June 20, we are featuring the stories of five men and women from around the world who are rebuilding their lives and identities in a quintessentially American setting.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160613113157/Idaho-Refugee-Center.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

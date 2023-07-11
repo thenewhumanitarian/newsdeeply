@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Holly Robertson</title>
+    <description>Holly Robertson is a freelance journalist based in Cambodia who focuses on human rights, gender and the environment. Follow her on Twitter or check out more of her work here.
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/holly-robertson/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/holly-robertson/rss"/>
+    <item>
+      <title>Under Threat of Jail, Women Activists Fight Cambodian Lake Land Grab</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/politics-and-policy/">Politics and Policy</category>
+      <pubDate>Fri, 25 Aug 2017 09:47:00 +0000</pubDate>
+      <author>Holly Robertson</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/08/25/under-threat-of-jail-women-activists-fight-cambodian-lake-land-grab</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/08/25/under-threat-of-jail-women-activists-fight-cambodian-lake-land-grab</guid>
+      <description>Women activists in Cambodia are demanding justice after residents were displaced by the development of Boeung Kak lake – and are persevering despite the imprisonment of their movement’s leader.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170825094201/CAMBODIA-POLITICS-LAND-RIGHTS.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

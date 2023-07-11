@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Yereth Rosen</title>
+    <description>Yereth Rosen is a longtime reporter based in Anchorage, Alaska. She is a 2018 Alicia Patterson Foundation fellow.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/yereth-rosen/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/yereth-rosen/rss"/>
+    <item>
+      <title>Graying of Alaska’s Fishing Fleet Puts Key Industry in Peril</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Tue, 06 Mar 2018 07:50:00 +0000</pubDate>
+      <author>Yereth Rosen</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/03/06/graying-of-alaskas-fishing-fleet-puts-key-industry-in-peril</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/03/06/graying-of-alaskas-fishing-fleet-puts-key-industry-in-peril</guid>
+      <description>With the average age of commercial fishers now over 50, the state is trying to figure out ways to break down barriers that are increasingly keeping young people from working the sea.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180306075119/RH0314451.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Microplastics Are Contaminating Seabirds in Remote Regions of Alaska</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/plastic-pollution/">Plastic Pollution</category>
+      <pubDate>Mon, 12 Feb 2018 03:00:00 +0000</pubDate>
+      <author>Yereth Rosen</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/02/12/how-microplastics-are-contaminating-seabirds-in-remote-regions-of-alaska</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/02/12/how-microplastics-are-contaminating-seabirds-in-remote-regions-of-alaska</guid>
+      <description>A decade of research has found that the muscles and eggs of birds in the far-flung Aleutian Islands contain endocrine-disrupting phthalates from plastics the animals have ingested, prompting Alaskan tribes to begin testing native foods for contamination.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180209133957/103770601.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Alaska Turns to the Sea for its Newest Cash Crop</title>
+      <category domain="https://www.newsdeeply.com/oceans/blue-economy/">Blue Economy</category>
+      <pubDate>Wed, 17 Jan 2018 07:00:00 +0000</pubDate>
+      <author>Yereth Rosen</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/01/17/alaska-turns-to-the-sea-for-its-newest-cash-crop</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/01/17/alaska-turns-to-the-sea-for-its-newest-cash-crop</guid>
+      <description>The state’s nascent seaweed industry is commercializing an ancient tradition, but concerns have been raised about the impact on indigenous kelp harvests.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180117074224/001542371.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

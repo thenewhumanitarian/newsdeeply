@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refugee Mothers - Pregnancy in Exile</title>
+    <description>Features, analysis and in-depth reporting on women and girls’ issues – including health, education and conflict – as well as the people and groups working toward solutions.</description>
+    <link>https://www.newsdeeply.com/womenandgirls/series/refugee-mothers-pregnancy-in-exile/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/series/refugee-mothers-pregnancy-in-exile/rss"/>
+    <item>
+      <title>Pregnant Afghans Grapple with Iran’s ‘Exemplary’ Refugee Healthcare</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/minority-rights/">Minority Rights</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Thu, 27 Jul 2017 12:51:05 +0000</pubDate>
+      <author>Fariba Nawa</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/07/27/pregnant-afghans-grapple-with-irans-exemplary-refugee-healthcare-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/07/27/pregnant-afghans-grapple-with-irans-exemplary-refugee-healthcare-2</guid>
+      <description>Iran has been lauded for providing free healthcare or subsidized insurance to many Afghan refugees. Yet some 2 million undocumented Afghans have no such benefits and live in fear of debt and deportation.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170727124317/IRAN-HEALTH-CHILDREN-RELIGION.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bidi Bidi’s Babies: Giving Birth in the World’s Largest Refugee Camp</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/minority-rights/">Minority Rights</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/reproductive-rights/">Reproductive Rights</category>
+      <pubDate>Fri, 14 Jul 2017 11:53:19 +0000</pubDate>
+      <author>Amy Fallon</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/07/14/bidi-bidis-babies-giving-birth-in-the-worlds-largest-refugee-camp</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/07/14/bidi-bidis-babies-giving-birth-in-the-worlds-largest-refugee-camp</guid>
+      <description>In the world’s largest refugee camp, giving birth can be a real challenge. But maternal mortality at Bidi Bidi in Uganda is low, and women often report better delivery conditions than they received at home. Amy Fallon reports for our series ‘Refugee Mothers: Pregnancy in Exile.’</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170714115010/IMG_8138.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>For Refugees in Lebanon, Giving Birth Comes at a High Price</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/minority-rights/">Minority Rights</category>
+      <pubDate>Fri, 07 Jul 2017 12:33:03 +0000</pubDate>
+      <author>Tania Karas</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/07/07/for-refugees-in-lebanon-giving-birth-comes-at-a-high-price-2</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/07/07/for-refugees-in-lebanon-giving-birth-comes-at-a-high-price-2</guid>
+      <description>Despite Lebanon’s relatively advanced healthcare system, pregnancy and childbirth are fraught with danger and unaffordable costs for Syrians, reports Tania Karas for our series “Refugee Mothers: Pregnancy in Exile.”</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170707121836/Aftermath-of-fire-at-Qob-Elias-refugee-camp-in-Lebanon.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

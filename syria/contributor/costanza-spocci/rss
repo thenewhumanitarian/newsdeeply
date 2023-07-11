@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Costanza Spocci</title>
+    <description>Costanza Spocci
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/costanza-spocci/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/costanza-spocci/rss"/>
+    <item>
+      <title>Underground Clinics Help War Wounded to Fight On</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/syria/opposition-groups-rebel-forces/">Opposition Groups &amp; Rebel Forces</category>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      <author>Costanza Spocci</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/04/15/underground-clinics-help-war-wounded-to-fight-on</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/04/15/underground-clinics-help-war-wounded-to-fight-on</guid>
+      <description>Backstreet doctors in the border town of Reyhanli and elsewhere in southern Turkey are caring for injured rebel fighters. Funded by armed opposition groups, the network of underground hospitals is patching up militants and sending them back to fight.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422114107/ap_304207116690-5710f9e23121e.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

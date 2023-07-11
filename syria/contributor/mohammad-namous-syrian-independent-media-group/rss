@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Mohammad Namous, Syrian Independent Media Group</title>
+    <description>The Syrian Independent Media Group is comprised of five independent Syrian media organizations working together to highlight untold stories from the war-torn country: Arab Reporters for Investigative Journalism, Rozana Radio, Syria Deeply, Syria Untold and the Violation Documentation Center in Syria. The project is supported by International Media Support.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/mohammad-namous-syrian-independent-media-group/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/mohammad-namous-syrian-independent-media-group/rss"/>
+    <item>
+      <title>Against the Odds: Stories of Survival and Ingenuity</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/human-rights/">Human Rights</category>
+      <pubDate>Thu, 19 May 2016 07:19:53 +0000</pubDate>
+      <author>Mohammad Namous, Syrian Independent Media Group</author>
+      <link>https://www.newsdeeply.com/syria/articles/2016/05/19/against-the-odds-stories-of-survival-and-ingenuity</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2016/05/19/against-the-odds-stories-of-survival-and-ingenuity</guid>
+      <description>From underground hospitals to improvised compost to natural power sources, people in Syria’s war-torn neighborhoods have shown a willful and often imaginative resolve to survive against the odds.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160519071342/APTOPIX-Mideast-Syria3.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

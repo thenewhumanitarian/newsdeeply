@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Christina Goldbaum</title>
+    <description>Christina Goldbaum is an independent journalist and producer based between Nairobi, Kenya, and Mogadishu, Somalia. She has reported across East Africa and the Horn of Africa since 2014, covering issues from regional politics to terrorism and women’s rights. Follow her work at www.christinagoldbaum.com and @cegoldbaum.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/christina-goldbaum/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/christina-goldbaum/rss"/>
+    <item>
+      <title>Female Peacekeepers Fight Militants and Prejudice in Somalia</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Tue, 28 Mar 2017 13:48:32 +0000</pubDate>
+      <author>Christina Goldbaum</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/28/female-peacekeepers-fight-militants-prejudice-somalia</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/28/female-peacekeepers-fight-militants-prejudice-somalia</guid>
+      <description>The number of women joining military and police ranks across Africa is rising. As part of our “Women and Jihad” series, we meet the female peacekeepers in Somalia who are taking on al-Shabab, both on the front lines and in the battle against extremist ideology.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070858/PC4A5432-2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>With a Game of Basketball, Girls Dribble Round Extremism in Somalia</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/crisis-and-conflict/">Crisis and Conflict</category>
+      <pubDate>Wed, 22 Mar 2017 10:18:07 +0000</pubDate>
+      <author>Christina Goldbaum</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/03/22/game-basketball-girls-dribble-round-extremism-somalia</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/03/22/game-basketball-girls-dribble-round-extremism-somalia</guid>
+      <description>When al-Shabab controlled Mogadishu, women could be punished for playing sports. As part of our “Women and Jihad” series, we meet the young female ballplayers who are challenging lingering Islamist ideology in the city.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406070925/PC4A8702.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

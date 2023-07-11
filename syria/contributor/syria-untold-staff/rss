@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Syria Untold Staff</title>
+    <description>Syria Untold is an independent digital media project exploring the storytelling of the Syrian struggle and the diverse forms of resistance.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/syria-untold-staff/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/syria-untold-staff/rss"/>
+    <item>
+      <title>Syria Untold: The Girls of Al-Tall Weave Ribbons and Freedom</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/education/">Education</category>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Syria Untold Staff</author>
+      <link>https://www.newsdeeply.com/syria/community/2013/10/09/syria-untold-the-girls-of-al-tall-weave-ribbons-and-freedom</link>
+      <guid>https://www.newsdeeply.com/syria/community/2013/10/09/syria-untold-the-girls-of-al-tall-weave-ribbons-and-freedom</guid>
+      <description>The town of Al-Tall, in the countryside of Damascus, the Syrian capital, is famous for its highly educated inhabitants and its active women groups, despite the traditional nature of the community.</description>
+    </item>
+  </channel>
+</rss>

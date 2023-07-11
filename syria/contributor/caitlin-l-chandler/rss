@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Caitlin L Chandler</title>
+    <description>Caitlin L Chandler is a writer based in Amman, Jordan where she serves as a humanitarian affairs officer for Doctors Without Borders/Médecins Sans Frontières (MSF). Her writing and journalism have previously appeared in the Nation, Vice News, Al-Jazeera and Africa is a Country, where she is also an editor. Follow her on Twitter @CaitLChandler
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/caitlin-l-chandler/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/caitlin-l-chandler/rss"/>
+    <item>
+      <title>The Importance of Bearing Witness to Syria’s War</title>
+      <category domain="https://www.newsdeeply.com/syria/laws-policy/">Laws &amp; Policy</category>
+      <pubDate>Mon, 16 May 2016 09:32:55 +0000</pubDate>
+      <author>Caitlin L Chandler</author>
+      <link>https://www.newsdeeply.com/refugees/community/2016/05/16/the-importance-of-bearing-witness-to-syrias-war-2</link>
+      <guid>https://www.newsdeeply.com/refugees/community/2016/05/16/the-importance-of-bearing-witness-to-syrias-war-2</guid>
+      <description>Stationed at a field hospital in Jordan run by Médecins Sans Frontières (MSF), Caitlin Chandler is bearing witness to the seemingly endless war across the border, one patient at a time, and refusing to look away.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160516092113/APTOPIX-Mideast-Jordan-Syria-Refugees.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Importance of Bearing Witness to Syria’s War</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <pubDate>Mon, 16 May 2016 09:29:29 +0000</pubDate>
+      <author>Caitlin L Chandler</author>
+      <link>https://www.newsdeeply.com/syria/community/2016/05/16/the-importance-of-bearing-witness-to-syrias-war</link>
+      <guid>https://www.newsdeeply.com/syria/community/2016/05/16/the-importance-of-bearing-witness-to-syrias-war</guid>
+      <description>Stationed at a field hospital in Jordan run by Médecins Sans Frontières (MSF), Caitlin Chandler is bearing witness to the seemingly endless war across the border, one patient at a time, and refusing to look away.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160516092113/APTOPIX-Mideast-Jordan-Syria-Refugees.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

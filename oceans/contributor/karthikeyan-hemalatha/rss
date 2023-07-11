@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Karthikeyan Hemalatha</title>
+    <description>Karthikeyan Hemalatha is a freelance journalist based in Bangalore. He covers issues relating to politics, the environment, climate change, agriculture and marine ecology. He was selected as a fellow with the Dag Hammarskjold Fund for Journalists in 2015 to cover the United Nations General Assembly and international politics. He’s on Twitter at @kkeya1988.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/karthikeyan-hemalatha/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/karthikeyan-hemalatha/rss"/>
+    <item>
+      <title>Beyond the Great Barrier Reef: Bleaching Undoes India Coral Restoration</title>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <category domain="https://www.newsdeeply.com/oceans/coral-reefs/">Coral Reefs</category>
+      <category domain="https://www.newsdeeply.com/oceans/fisheries/">Fisheries</category>
+      <pubDate>Mon, 18 Jun 2018 09:30:00 +0000</pubDate>
+      <author>Karthikeyan Hemalatha</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2018/06/18/beyond-the-great-barrier-reef-bleaching-undoes-india-coral-restoration</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2018/06/18/beyond-the-great-barrier-reef-bleaching-undoes-india-coral-restoration</guid>
+      <description>In India’s Gulf of Mannar, more than a decade of efforts have spurred a slow recovery of coral reefs that protect the coast and feed communities. But climate change has reversed that success.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180618092309/India-bleaching11.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

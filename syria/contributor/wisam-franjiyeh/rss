@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Wisam Franjiyeh</title>
+    <description>Wisam Franjiyeh is an independant Syrian journalist.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/wisam-franjiyeh/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/wisam-franjiyeh/rss"/>
+    <item>
+      <title>The Life and Death of One of Syria’s Most Beloved Minesweepers</title>
+      <category domain="https://www.newsdeeply.com/syria/civil-society/">Civil Society</category>
+      <category domain="https://www.newsdeeply.com/syria/isis/">ISIS</category>
+      <pubDate>Tue, 06 Jun 2017 12:38:14 +0000</pubDate>
+      <author>Wisam Franjiyeh</author>
+      <link>https://www.newsdeeply.com/syria/articles/2017/06/06/the-life-and-death-of-one-of-syrias-most-beloved-minesweepers</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2017/06/06/the-life-and-death-of-one-of-syrias-most-beloved-minesweepers</guid>
+      <description>Abu al Fadl devoted the final months of his life to clearing al-Bab of improvised explosives left behind by ISIS in everything from washing machines to cooking pots. The 60-year-old destroyed roughly 3,500 mines before one took his life. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170606123609/Abou-El-Fadl-4.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

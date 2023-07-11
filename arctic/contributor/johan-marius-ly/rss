@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic contributor: Johan Marius Ly</title>
+    <description>Johan Marius Ly is the director of emergency preparedness at the Norwegian Coastal Administration.
+</description>
+    <link>https://www.newsdeeply.com/arctic/contributor/johan-marius-ly/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/arctic/contributor/johan-marius-ly/rss"/>
+    <item>
+      <title>Nobody Can Cope Alone: We Need To Collaborate</title>
+      <category domain="https://www.newsdeeply.com/arctic/environment/">Environment</category>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      <author>Johan Marius Ly</author>
+      <link>https://www.newsdeeply.com/arctic/community/2016/01/29/nobody-can-cope-alone-we-need-to-collaborate</link>
+      <guid>https://www.newsdeeply.com/arctic/community/2016/01/29/nobody-can-cope-alone-we-need-to-collaborate</guid>
+      <description>The Norwegian Coastal Administration maintains the government’s oil-spill response and coordinates the emergency preparedness of many groups to protect the environment from pollution. To be effective this requires cooperation between Arctic nations, environmental organizations and businesses.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20160422094455/f054b5ad-03ee-4785-911b-0c2a8e-56ab4a521050e.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

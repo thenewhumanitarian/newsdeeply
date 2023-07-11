@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oceans contributor: Anna Nowogrodzki</title>
+    <description>Anna Nowogrodzki is a freelance science journalist and former plant biologist. Her writing can be found in National Geographic, New Scientist and Nature, among others, and she can be found in the Boston area on her bicycle.
+</description>
+    <link>https://www.newsdeeply.com/oceans/contributor/anna-nowogrodzki/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/oceans/contributor/anna-nowogrodzki/rss"/>
+    <item>
+      <title>Global Warming Is Changing How the Ocean Carries Sound</title>
+      <category domain="https://www.newsdeeply.com/oceans/arctic/">Arctic</category>
+      <category domain="https://www.newsdeeply.com/oceans/climate-change/">Climate Change</category>
+      <pubDate>Fri, 12 May 2017 11:16:15 +0000</pubDate>
+      <author>Anna Nowogrodzki</author>
+      <link>https://www.newsdeeply.com/oceans/articles/2017/05/12/global-warming-is-changing-how-the-ocean-carries-sound-2</link>
+      <guid>https://www.newsdeeply.com/oceans/articles/2017/05/12/global-warming-is-changing-how-the-ocean-carries-sound-2</guid>
+      <description>HAKAI MAGAZINE: Scientists are using an underwater drone to study a mysterious new sound channel in the Beaufort Sea, where sounds now travel four times farther than they did 10 years ago.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170512111531/7163743013_91070463f9_o-11.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Global Warming Is Changing How the Ocean Carries Sound</title>
+      <pubDate>Fri, 20 Jan 2017 05:00:13 +0000</pubDate>
+      <author>Anna Nowogrodzki</author>
+      <link>https://www.newsdeeply.com/arctic/articles/2017/01/20/global-warming-is-changing-how-the-ocean-carries-sound</link>
+      <guid>https://www.newsdeeply.com/arctic/articles/2017/01/20/global-warming-is-changing-how-the-ocean-carries-sound</guid>
+      <description>HAKAI MAGAZINE: Scientists are using an underwater drone to study a mysterious new sound channel in the Beaufort Sea, where sounds now travel four times farther than they did 10 years ago.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170119120848/7163743013_91070463f9_o-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

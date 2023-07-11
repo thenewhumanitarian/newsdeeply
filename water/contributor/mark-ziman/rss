@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water contributor: Mark Ziman</title>
+    <description>Mark Ziman is a native Californian and works as a water resource analyst at Ponderosa Advisors, where he leverages his data analysis skills with subject expertise to design Water Sage, a web-based mapping and research platform that helps users understand and evaluate water rights/wells and their relationship to land. Ziman holds a bachelor of science in biological sciences with a concentration in ecology and evolution from the University of California, Santa Barbara, as well as a master’s degree in water resource management from Duke University.
+ 
+ 
+ 
+</description>
+    <link>https://www.newsdeeply.com/water/contributor/mark-ziman/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/water/contributor/mark-ziman/rss"/>
+    <item>
+      <title>Three Ways California Can Transform Its Water Data</title>
+      <category domain="https://www.newsdeeply.com/water/innovation/">Innovation</category>
+      <category domain="https://www.newsdeeply.com/water/law-policy/">Law &amp; Policy</category>
+      <category domain="https://www.newsdeeply.com/water/management-supply/">Management &amp; Supply</category>
+      <pubDate>Fri, 28 Jul 2017 03:00:01 +0000</pubDate>
+      <author>Mark Ziman</author>
+      <link>https://www.newsdeeply.com/water/community/2017/07/28/three-ways-california-can-transform-its-water-data</link>
+      <guid>https://www.newsdeeply.com/water/community/2017/07/28/three-ways-california-can-transform-its-water-data</guid>
+      <description>California faces challenges produced by inaccuracies and nonstandardization of water data. Recent legislation will help fix some of the problems, but more can be done, writes Mark Ziman of Ponderosa Advisors. </description>
+      <enclosure url="https://newsdeeply.imgix.net/20170726085149/FL_Anaheim-Lake-2736.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

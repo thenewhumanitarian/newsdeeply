@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syria contributor: Jett Goldsmith</title>
+    <description>Jett Goldsmith is a journalist from Denver, Colorado, with a background in analysis of the Syrian conflict and Ba’athist state structures. He has bylines in various publications, including Middle East Eye. You can follow him on Twitter @JettGoldsmith.
+</description>
+    <link>https://www.newsdeeply.com/syria/contributor/jett-goldsmith/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/syria/contributor/jett-goldsmith/rss"/>
+    <item>
+      <title>After Decree 66, Some Residents Fear Reconstruction Means Eviction</title>
+      <category domain="https://www.newsdeeply.com/syria/war-economy/">War Economy</category>
+      <pubDate>Fri, 06 Apr 2018 13:50:00 +0000</pubDate>
+      <author>Jett Goldsmith</author>
+      <link>https://www.newsdeeply.com/syria/articles/2018/04/06/after-decree-66-some-residents-fear-reconstruction-means-eviction</link>
+      <guid>https://www.newsdeeply.com/syria/articles/2018/04/06/after-decree-66-some-residents-fear-reconstruction-means-eviction</guid>
+      <description>Construction has begun in the Basateen el-Razi district in southwestern Damascus, under a government development plan. Experts warn though that construction efforts are not geared towards repair and recovery.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20180406134847/Nic63912951.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

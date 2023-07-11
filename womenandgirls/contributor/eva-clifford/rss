@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Eva Clifford</title>
+    <description>Eva Clifford is a writer and photographer based in the U.K. In her documentary work, she is drawn to meaningful stories that are not often spotlighted in the news and which see normal people making a difference in the world. You can follow her work at evaclifford.com and on Instagram @evamarcelle.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/eva-clifford/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/eva-clifford/rss"/>
+    <item>
+      <title>Dancing in the Dark: A Ballet for the Blind in Mexico</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/education/">Education</category>
+      <pubDate>Thu, 25 Aug 2016 10:59:51 +0000</pubDate>
+      <author>Eva Clifford</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2016/08/25/dancing-in-the-dark-a-ballet-for-the-blind-in-mexico</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2016/08/25/dancing-in-the-dark-a-ballet-for-the-blind-in-mexico</guid>
+      <description>Using a form of dance that merges psychotherapy and ballet, teacher Lorena Nieva helps blind girls gain confidence, combat depression and rethink their limitations. Photographer Eva Clifford captured the girls as they rehearsed in the studio and enchanted on stage.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406073218/07.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

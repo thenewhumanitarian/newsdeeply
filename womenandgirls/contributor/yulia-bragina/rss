@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Yulia Bragina</title>
+    <description>Yulia Bragina is a Russian journalist in Moscow. She has worked for various outlets, including Sky News, covering a range of events such as anti-government protests, presidential elections, the military conflict in Eastern Ukraine, the migration crisis in Europe, and the conflict in Syria.
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/yulia-bragina/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/yulia-bragina/rss"/>
+    <item>
+      <title>Anger and Betrayal as Russia Reduces Penalty for Domestic Violence</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <pubDate>Thu, 09 Feb 2017 15:06:52 +0000</pubDate>
+      <author>Yulia Bragina</author>
+      <link>https://www.newsdeeply.com/womenandgirls/articles/2017/02/09/anger-betrayal-russia-reduces-penalty-domestic-violence</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/articles/2017/02/09/anger-betrayal-russia-reduces-penalty-domestic-violence</guid>
+      <description>Russian President Vladimir Putin has signed a new law that cuts the penalty for some forms of domestic abuse from jail time to a fine. The bill has provoked outrage since it was first proposed, with activists calling it a step backwards in the fight for women’s rights.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406071126/RUSSIA-FAMILY-POLITICS-CRIME-SOCIAL.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women and Girls contributor: Marian Amissah-Ocran</title>
+    <description>Marian Amissah-Ocran is a gender and land consultant for Landesa, based in Accra, Ghana. She is a member of the 2016 cohort of the Landesa Center for Women’s Land Rights’ Visiting Professionals Program, which aims to strengthen women’s land rights through the development of global networks of professionals and organizations collaborating on women’s land rights.
+ 
+</description>
+    <link>https://www.newsdeeply.com/womenandgirls/contributor/marian-amissah-ocran/rss</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.newsdeeply.com/womenandgirls/contributor/marian-amissah-ocran/rss"/>
+    <item>
+      <title>Land Rights Provide Stability and Security for Women Living with HIV</title>
+      <category domain="https://www.newsdeeply.com/womenandgirls/health/">Health</category>
+      <category domain="https://www.newsdeeply.com/womenandgirls/solutions/">Solutions</category>
+      <pubDate>Thu, 01 Dec 2016 13:52:25 +0000</pubDate>
+      <author>Marian Amissah-Ocran</author>
+      <link>https://www.newsdeeply.com/womenandgirls/community/2016/12/01/land-rights-provide-stability-security-women-living-hiv</link>
+      <guid>https://www.newsdeeply.com/womenandgirls/community/2016/12/01/land-rights-provide-stability-security-women-living-hiv</guid>
+      <description>Secure land rights can bolster HIV prevention and provide stability for the estimated 14 million women in sub-Saharan Africa who are living with the disease, writes Marian Amissah-Ocran of Landesa on World AIDS Day.</description>
+      <enclosure url="https://newsdeeply.imgix.net/20170406072222/SAFRICA-LIFESTYLE-WINE-VINICULTURE.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
