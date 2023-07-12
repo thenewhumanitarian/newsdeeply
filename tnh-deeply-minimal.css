@@ -160,7 +160,7 @@ html {
 	font-size: 2.1rem;
 	padding: 1rem;
 	color: #fff;
-	border: .2rem solid #fff;
+	border: 0.2rem solid #fff;
 	font-weight: 600;
 	text-align: center;
 }
@@ -177,7 +177,7 @@ html {
 	background-color: #8d3749;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.button--inline {
 		border: none;
 	}
@@ -187,28 +187,40 @@ html {
 	padding: 1.5rem 4rem;
 	font-size: 1.6rem;
 	line-height: 2rem;
-	font-family: "Roboto", sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 .button {
-	font-family: "Roboto", sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 @font-face {
-	font-family: "gt sectra regular";
-	src: url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.woff2) format("woff2"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.woff) format("woff"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.eot) format("eot"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.otf) format("otf"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.ttf) format("ttf");
+	font-family: 'gt sectra regular';
+	src: url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.woff2) format('woff2'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.woff) format('woff'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.eot) format('eot'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.otf) format('otf'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Regular.ttf) format('ttf');
 }
 
 @font-face {
-	font-family: "gt sectra medium";
-	src: url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.woff2) format("woff2"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.woff) format("woff"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.eot) format("eot"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.otf) format("otf"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.ttf) format("ttf");
+	font-family: 'gt sectra medium';
+	src: url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.woff2) format('woff2'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.woff) format('woff'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.eot) format('eot'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.otf) format('otf'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Medium.ttf) format('ttf');
 }
 
 @font-face {
-	font-family: "gt sectra bold";
-	src: url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/fonts/GT-Sectra-Fine-Bold.woff2) format("woff2"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.woff) format("woff"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.eot) format("eot"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.otf) format("otf"), url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.ttf) format("ttf");
+	font-family: 'gt sectra bold';
+	src: url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/fonts/GT-Sectra-Fine-Bold.woff2) format('woff2'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.woff) format('woff'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.eot) format('eot'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.otf) format('otf'),
+		url(https://www.thenewhumanitarian.org/sites/all/themes/thenewhumanitarian/fonts/GT-Sectra-Fine-Bold.ttf) format('ttf');
 }
 
 em {
@@ -227,7 +239,7 @@ picture {
 	left: 0;
 	right: 0;
 	width: 100vw;
-	background-color: rgba(0, 0, 0, .7);
+	background-color: rgba(0, 0, 0, 0.7);
 	z-index: 1000;
 }
 
@@ -250,7 +262,7 @@ picture {
 	padding: 3rem 2rem;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.consent-banner__inner {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
@@ -265,7 +277,7 @@ picture {
 	margin-right: 1rem;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.consent-banner__inner p {
 		margin-bottom: 2rem;
 		margin-right: 0;
@@ -282,7 +294,7 @@ picture {
 	padding: 2rem 3rem;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.consent-banner__inner .button {
 		width: 100%;
 	}
@@ -302,7 +314,7 @@ picture {
 	justify-content: center;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.feedback-banner {
 		padding: 1rem 2rem;
 	}
@@ -352,7 +364,7 @@ picture {
 
 .feedback-banner__button:hover,
 .feedback-banner__button:focus {
-	background-color: rgba(255, 255, 255, .8);
+	background-color: rgba(255, 255, 255, 0.8);
 	color: #9f3e52;
 }
 
@@ -363,7 +375,7 @@ picture {
 	background-color: #fff;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.site-footer {
 		padding: 4rem 2rem 10rem;
 	}
@@ -383,7 +395,7 @@ picture {
 	margin: 0 auto 4rem;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.site-footer__logo {
 		margin: 0 auto 2rem;
 	}
@@ -401,7 +413,7 @@ picture {
 	justify-content: center;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.site-footer__menu {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
@@ -427,7 +439,7 @@ picture {
 	display: flex;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.site-footer__menu .menu {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
@@ -441,7 +453,7 @@ picture {
 	margin: 0 2rem;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.site-footer__menu .menu li {
 		margin: 1rem 0;
 	}
@@ -449,13 +461,13 @@ picture {
 
 .site-footer__copy {
 	font-size: 1.4rem;
-	color: rgba(0, 0, 0, .5);
+	color: rgba(0, 0, 0, 0.5);
 	position: absolute;
 	bottom: 4rem;
 	left: 3.5rem;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.site-footer__copy {
 		bottom: 2rem;
 		left: 2rem;
@@ -481,7 +493,7 @@ picture {
 	overflow: hidden;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.site-footer__return-button {
 		bottom: 2rem;
 	}
@@ -570,13 +582,13 @@ picture {
 	color: #fff;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.header__title {
 		padding: 5rem;
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.header__title {
 		padding: 2rem;
 	}
@@ -586,7 +598,7 @@ picture {
 	font-size: 3.6rem;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.header__title h1 {
 		font-size: 2.3rem;
 	}
@@ -608,14 +620,14 @@ picture {
 
 .article__header {
 	position: relative;
-	background-color: rgba(230, 230, 230, .5);
+	background-color: rgba(230, 230, 230, 0.5);
 	padding: 5rem 0 6rem;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.article__header {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
@@ -625,14 +637,14 @@ picture {
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.article__header {
 		padding: 1rem 1rem 2rem;
 	}
 }
 
 .article__header:before {
-	content: "";
+	content: '';
 	display: block;
 	position: absolute;
 	top: 0;
@@ -643,7 +655,7 @@ picture {
 	z-index: 2;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.article__header:before {
 		width: 100%;
 		height: 1rem;
@@ -668,7 +680,7 @@ picture {
 	justify-content: space-between;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.article__overview {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
@@ -680,7 +692,7 @@ picture {
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.article__overview {
 		padding: 2rem;
 	}
@@ -694,21 +706,21 @@ picture {
 	background: radial-gradient(circle, #ba3c56 50%, #8c3143 100%);
 }
 
-@media only screen and (max-width:87.5em) {
+@media only screen and (max-width: 87.5em) {
 	.signup-cta {
 		padding-left: 4rem;
 		padding-right: 4rem;
 	}
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.signup-cta {
 		padding-top: 9rem;
 		padding-bottom: 9rem;
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.signup-cta {
 		margin-top: 4rem;
 		padding-top: 5rem;
@@ -720,7 +732,7 @@ picture {
 	margin-top: 0;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.not-front .signup-cta {
 		margin-top: 0;
 	}
@@ -739,26 +751,26 @@ picture {
 	margin-bottom: 3rem;
 	position: relative;
 	text-align: left !important;
-	font-family: "gt sectra bold", serif;
+	font-family: 'gt sectra bold', serif;
 	font-weight: 700;
-    text-align: left;
+	text-align: left;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.signup-cta__title {
 		padding-top: 3.5rem;
 		font-size: 2.3rem;
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.signup-cta__title {
 		margin-bottom: 2rem;
 	}
 }
 
 .signup-cta__title::before {
-	content: "";
+	content: '';
 	display: block;
 	position: absolute;
 	width: 4.5rem;
@@ -769,7 +781,7 @@ picture {
 	left: -6.5rem;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.signup-cta__title::before {
 		top: 0;
 		left: 0;
@@ -778,14 +790,14 @@ picture {
 
 .signup-cta__description {
 	max-width: 55rem;
-	font-family: "gt sectra medium", serif;
+	font-family: 'gt sectra medium', serif;
 	font-size: 2.1rem;
 	line-height: 1.25;
 	color: #fff;
 	margin-bottom: 3rem;
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.signup-cta__description {
 		font-size: 1.6rem;
 	}
@@ -798,14 +810,14 @@ picture {
 	background-color: #282828;
 }
 
-@media only screen and (max-width:87.5em) {
+@media only screen and (max-width: 87.5em) {
 	.support-cta {
 		padding-left: 4rem;
 		padding-right: 4rem;
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.support-cta {
 		padding-top: 5rem;
 		padding-bottom: 5rem;
@@ -820,7 +832,7 @@ picture {
 	display: flex;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.support-cta__content {
 		display: block;
 	}
@@ -832,29 +844,31 @@ picture {
 	padding-right: 5rem;
 }
 
-@media only screen and (max-width:61.25em) {
+@media only screen and (max-width: 61.25em) {
 	.support-cta__content--text {
 		padding-right: 2rem;
 	}
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.support-cta__content--text {
 		padding-right: 0;
 	}
 }
 
-.team-social-links-container { display: none !important; }
+.team-social-links-container {
+	display: none !important;
+}
 
 .support-cta__title {
-	font-size: 2.3rem ;
+	font-size: 2.3rem;
 	line-height: 1.2;
 	color: #fff;
 	margin-bottom: 2rem;
 	text-align: left !important;
-	font-family: "gt sectra bold", serif;
+	font-family: 'gt sectra bold', serif;
 	font-weight: 700;
-    text-align: left;
+	text-align: left;
 }
 
 .support-cta__description {
@@ -865,13 +879,13 @@ picture {
 	text-align: left;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.support-cta__description {
 		margin-bottom: 3rem;
 	}
 }
 
-@media only screen and (max-width:37.5em) {
+@media only screen and (max-width: 37.5em) {
 	.support-cta__description {
 		font-size: 1.4rem;
 	}
@@ -883,7 +897,7 @@ picture {
 	align-self: center;
 }
 
-@media only screen and (max-width:46.875em) {
+@media only screen and (max-width: 46.875em) {
 	.support-cta__button .button {
 		width: auto;
 	}
@@ -892,8 +906,17 @@ picture {
 h1,
 h2,
 h3 {
-	font-family: "DINNext", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'DINNext', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: 700;
 }
-	
-p { font-family: "PT Serif", Georgia; }
+
+p {
+	font-family: 'PT Serif', Georgia;
+}
+
+/* Additional styles */
+
+.republish-popup-container,
+.suggest-story-dialog {
+	display: none;
+}
