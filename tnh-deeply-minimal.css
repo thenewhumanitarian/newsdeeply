@@ -920,3 +920,8 @@ p {
 .suggest-story-dialog {
 	display: none;
 }
+
+/* Hide popup initially */
+.sunset-popup-container {
+	display: none !important;
+}
