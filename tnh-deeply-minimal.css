@@ -925,3 +925,18 @@ p {
 .sunset-popup-container {
 	display: none !important;
 }
+
+/* Button */
+.platform-txt .btn {
+	border-radius: 0;
+	padding: 1rem 2rem;
+	font-size: 1.4rem;
+	background: #9f3e52;
+	font-weight: bold;
+	text-transform: none;
+	font-family: Roboto, sans-serif;
+}
+
+.platform-txt .btn:hover {
+	background: #8d3749;
+}
