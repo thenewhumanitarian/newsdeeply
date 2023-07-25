@@ -36,6 +36,8 @@ if (document.querySelector('.banner') === null) {
 		align-items: center;
 		justify-content: space-between;
 	}
+
+	.bottom-banner-container.open-banner { display: none ! important; }
 	
 	@media only screen and (max-width: 61.25em) {
 		.banner {
