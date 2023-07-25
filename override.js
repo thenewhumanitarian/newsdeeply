@@ -554,6 +554,8 @@ if (document.querySelector('.banner') === null) {
 		window.scrollTo(0, 0)
 	}
 
+	document.querySelector('body').style.display = 'block'
+
 	if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) {
 		callback()
 	} else {
