@@ -524,13 +524,6 @@ var callback = function () {
 	}
 	/* End path: https://deeply.thenewhumanitarian.org/refugees/contributor/mat-nashed */
 
-	/* Path: https://deeply.thenewhumanitarian.org/refugees/articles/2018/08/27/refugees-in-cairo-live-in-fear-of-sudans-wanted-list */
-	if (window.location.pathname == '/refugees/articles/2018/08/27/refugees-in-cairo-live-in-fear-of-sudans-wanted-list') {
-		document.querySelector('.authorbio').style.display = 'none'
-		document.querySelector('table.meta > tbody > tr > td:first-child').style.display = 'none'
-	}
-	/* End path: https://deeply.thenewhumanitarian.org/refugees/articles/2018/08/27/refugees-in-cairo-live-in-fear-of-sudans-wanted-list */
-
 	/* End replace based on location.pathnames */
 
 	document.querySelector('body').style.display = 'block'
