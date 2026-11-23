@@ -1,0 +1,10 @@
+{
+  "name": "newsdeeply-archive",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-archive.mjs"
+  },
+  "dependencies": {
+    "parse5": "8.0.0"
+  }
+}

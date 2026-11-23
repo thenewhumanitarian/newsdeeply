@@ -1,0 +1,251 @@
+body {
+	min-height: 100vh;
+}
+
+header.sitenav.full .learn-more-container p {
+	color: black;
+}
+
+header.sitenav.full .learn-more-container p a {
+	display: none;
+}
+
+header.sitenav.mini { position: relative !important; }
+
+body.page h1 { margin: 2rem auto; }
+
+.banner {
+	position: relative;
+	width: 100%;
+	background-color: #9f3e52;
+	height: 80px;
+	padding: 23px 28px;
+	text-align: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.bottom-banner-container.open-banner { display: none !important; }
+
+@media only screen and (max-width: 61.25em) {
+	.banner {
+		height: 60px;
+		padding: 23px 15px;
+	}
+}
+
+.footer-nav {
+	padding: 0 !important;
+	margin: 0;
+}
+
+.banner-logo {
+	position: absolute;
+	top: 8px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	display: inline-block;
+	width: 160px;
+	height: 43.3px;
+	text-indent: -999rem;
+	text-decoration: none;
+	overflow: hidden;
+	margin: auto;
+}
+
+@media only screen and (max-width: 61.25em) {
+	.banner-logo {
+		width: 135px;
+		height: 40px;
+		padding-top: 3px;
+	}
+}
+
+svg {
+	display: block;
+}
+
+.banner-logo img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.banner-tagline {
+	font-family: gt sectra bold, serif;
+	font-weight: 800;
+	font-size: 16px;
+	color: #FFF;
+}
+
+.banner-button {
+	display: inline-block;
+	padding: 10px 15px;
+	color: #fff;
+	background-color: #9f3e52;
+	font-weight: 600;
+	font-size: 16px;
+	text-align: center;
+	line-height: 1.2;
+	text-decoration: none;
+	outline: 0;
+	border: 0;
+	cursor: pointer;
+}
+
+.banner-button__subscribe {
+	padding: .6rem 1rem;
+	background-color: #b66c7b;
+	font-size: 14px;
+	color: #FFF !important;
+	font-family: roboto,sans-serif;
+}
+
+.banner-button__readmore {
+	display: none;
+}
+
+.content-wrap {
+	border-left: 6px solid #9f3e52;
+}
+
+.banner-notice {
+	display: none;
+	color: #FFF;
+	font-size: 1.5rem;
+	background-color: #282828;
+	border-left: 6px solid #9f3e52;
+	padding: 5px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.banner-notice a {
+	color: #FFF;
+	font-weight: 800;
+}
+
+h1.headline {
+	clear: both;
+}
+
+.our-platforms {
+	background: rgba(230,230,230,.5);
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+@media only screen and (max-width: 61.25em) {
+	.our-platforms {
+		padding-top: 30px !important;
+		padding-bottom: 20px;
+	}
+}
+
+.intro-text {
+	font-family: 'Roboto', sans-serif;
+}
+
+.intro-text h1 {
+	font-size: 3.6rem;
+	font-family: 'gt sectra bold', serif;
+	font-weight: bold;
+}
+.intro-text p {
+	font-size: 1.6rem;
+}
+
+@media screen and (max-width: 1065px) {
+	ul.primary {
+		width: 100%;
+		background: white;
+	}
+	header.sitenav ul {
+		margin: 0 1rem;
+	}
+}
+
+.articles-outer-container { margin-bottom: 0; }
+
+.article-detail main .fin:after, .fin:after { content: ""; display: none; }
+
+header.sitenav ul li a { color: #282828; }
+
+.landing-header,
+.previous-platforms,
+.clients-and-partners,
+.partners,
+.wng-sunset-panel,
+.soc,
+ul.secondary,
+ul.user-data-section,
+.contribute,
+.sunset-popup-container.opened-modal,
+.intents,
+.categories,
+.widget newsletter,
+.next-article,
+.widget.newsletter,
+.sunset-popup-container,
+.sunset-popup-container.opened-modal,
+.opened-modal,
+.upcoming-events-list,
+a[href*="search"],
+.widget.popular,
+.interstice,
+a[href*="sign-up"],
+.subscribe mobile-mode-link,
+.soc-links,
+.subscribe,
+.republish-button,
+header.sitenav.mini .primary-menu-container .mobile-mode-link,
+.sunset-popup-container.opened-modal,
+.create-account-adv-banner,
+.about-contribute,
+.rss-link,
+section.stream header .rss-link,
+header.sitenav.mini .mobile-link,
+.mobile-link,
+.rd-quarterly.banner
+.team-social-links-container {
+	display: none !important;
+}
+
+.platform-block.p-ebola { display: none; pointer-events: none; }
+@media only screen and (min-width: 768px) {
+	.platform-block.p-syria, .platform-block.p-arctic {
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.article-detail main {
+		margin: 0;
+	}
+}
+
+@media only screen and (max-width: 61.25em) {
+	.banner-tagline {
+		display: none;
+	}
+
+	.banner-button__readmore {
+		display: block;
+	}
+
+	.banner-notice {
+		font-size: 13px;
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	.banner-button {
+		display: none;
+	}
+}
