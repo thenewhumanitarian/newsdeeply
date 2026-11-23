@@ -14,7 +14,7 @@ header.sitenav.mini { position: relative !important; }
 
 body.page h1 { margin: 2rem auto; }
 
-.banner {
+body > .banner {
 	position: relative;
 	width: 100%;
 	background-color: #9f3e52;
@@ -33,7 +33,7 @@ body.page h1 { margin: 2rem auto; }
 .bottom-banner-container.open-banner { display: none !important; }
 
 @media only screen and (max-width: 61.25em) {
-	.banner {
+	body > .banner {
 		height: 60px;
 		padding: 23px 15px;
 	}
